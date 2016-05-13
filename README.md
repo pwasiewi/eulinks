@@ -1,4 +1,4 @@
-#lxc conteners control groups
+#lxc conteners namespace control groups
 http://www.megiteam.pl/blog/baza-wiedzy/lxc-kontener-pingwinow/
 
 https://en.wikipedia.org/wiki/Cgroups
