@@ -1,5 +1,11 @@
-#lxc conteners control grups
+#lxc conteners control groups
+http://www.megiteam.pl/blog/baza-wiedzy/lxc-kontener-pingwinow/
+
 https://en.wikipedia.org/wiki/Cgroups
+
+https://linuxcontainers.org/
+
+https://en.wikipedia.org/wiki/LXC
 
 #dlaczego docker
 http://blog.pierreroudier.net/2015/08/docker-vs-kvm-vs-native-performance-comparison/
