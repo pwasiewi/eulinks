@@ -21,6 +21,12 @@ https://docs.docker.com/engine/installation/linux/gentoolinux/
 ####źródła dla linku powyżej
 http://www.tutorialspoint.com/unix_commands/numactl.htm
 
+##docker swarm 
+https://docs.docker.com/swarm/install-w-machine/
+##docker swarm ha (containers restart)
+https://github.com/docker/swarm/issues/1488
+##zastosowania swarm - apache storm
+http://highscalability.com/blog/2016/4/25/the-joy-of-deploying-apache-storm-on-docker-swarm.html
 
 #dlaczego nie docker
 http://www.boycottdocker.org/
