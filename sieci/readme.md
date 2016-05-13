@@ -23,6 +23,7 @@ http://www.tutorialspoint.com/unix_commands/numactl.htm
 
 ##docker swarm 
 https://docs.docker.com/swarm/install-w-machine/
+##docker swarm ha containers restart
 ##zastosowania swarm - apache storm
 http://highscalability.com/blog/2016/4/25/the-joy-of-deploying-apache-storm-on-docker-swarm.html
 
