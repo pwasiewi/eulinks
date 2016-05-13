@@ -1,14 +1,9 @@
 #lxc conteners namespace control groups
  * http://www.megiteam.pl/blog/baza-wiedzy/lxc-kontener-pingwinow/
-
  * https://en.wikipedia.org/wiki/Cgroups
-
  * https://linuxcontainers.org/
-
  * https://en.wikipedia.org/wiki/LXC
-
  * https://wiki.gentoo.org/wiki/LXC
-
  * https://l3net.wordpress.com/2013/08/25/debian-virtualization-lxc-network-isolation/
 
 #dlaczego docker
@@ -30,3 +25,249 @@
  * http://phusion.github.io/baseimage-docker/#solution 
  * https://github.com/phusion/baseimage-docker#readme
  * https://blog.phusion.nl/2015/01/20/docker-and-the-pid-1-zombie-reaping-problem/
+##Właśnie przeglądam zasoby sieciowe w języku angielskim i najlepsza wolnodostępna  książka o sieci:
+ * http://www.saylor.org/site/wp-content/uploads/2012/02/Computer-Networking-Principles-Bonaventure-1-30-31-OTC1.pdf
+
+##Sieciowe systemy plików:
+###ZFS:
+ * http://louwrentius.com/why-i-do-use-zfs-as-a-file-system-for-my-nas.html
+ * http://arstechnica.com/information-technology/2014/02/ars-walkthrough-using-the-zfs-next-gen-filesystem-on-linux/
+ * http://zfsonlinux.org/faq.html
+###BTRFS:
+ * https://btrfs.wiki.kernel.org/index.php/Main_Page
+ * http://www.oracle.com/technetwork/articles/servers-storage-admin/advanced-btrfs-1734952.html
+###LUSTRE:
+ * https://pl.wikipedia.org/wiki/Lustre_%28system_plik%C3%B3w%29
+ * https://github.com/marcindulak/vagrant-lustre-tutorial
+###Glusterfs:
+ * http://discussions.citrix.com/topic/366729-about-xenserver-glusterfs/page-2#entry1917700
+ * http://arstechnica.com/information-technology/2014/01/bitrot-and-atomic-cows-inside-next-gen-filesystems/
+ * http://www.gluster.org/community/documentation/index.php/GlusterOnZFS
+
+
+##Inne pomocne linki:
+ * http://www.networkingwithfish.com/
+ * http://web.dit.upm.es/vnxwiki/index.php/Vnx-tutorial-lxc
+ * http://www.linuxjournal.com/article/10821
+ * http://big-elephants.com/2013-07/creating-virtual-networks-with-kvm-on-gentoo/
+ * http://blog.scottlowe.org/2013/11/26/lxc-open-vswitch-and-gre-tunnels/
+ * http://sandilands.info/sgordon/address-spoofing-with-iptables-in-linux/
+ * http://www.opensecuritytraining.info/Rootkits.html
+
+##GSN3
+ * https://gns3.com/support/docs/creating-the-simplest-topology-2
+ * https://github.com/GNS3/gns3-gui/releases
+ * http://asomewhatintegratedlife.blogspot.com/2012/01/gns3-virtualbox-edition-installation.html
+ * http://www.gns3-labs.com/
+ * http://www.routergods.com/2012/so-long-iou-welcome-back-gns3/
+ * http://www.gns3.net/documentation/
+ * http://www.gns3.net/appliances/
+ * http://www.gns3.net/gns3-hosts-topologies/
+ * http://subnettingmadeeasy.blogspot.com/2007/12/gns-configuration-guide.html
+ * http://www.9tut.com/configure-nat-gns3-lab
+ * http://www.iptut.com/ccip-knowledge/practice-ccip-gns3-lab/simple-mpls-gns3-lab
+ * http://saifulaziz.com/2008/08/08/gns-3-and-cisco-170026007200-ios-in-one-pack/
+
+
+##OSPF
+ * http://www.cisco.com/en/US/tech/tk365/technologies_white_paper09186a0080094e9e.shtml
+ * http://network-101.blogspot.com/2011/05/ospfasbr-summary-address.html
+ * http://network-101.blogspot.com/search/label/OSPF
+ * http://www.networkers-online.com/blog/2008/10/ospf-virtual-links-vs-gre-tunnels/
+ * http://www.firstdigest.com/2010/03/ospf-area-range-vs-summary-address/
+ * http://www.youtube.com/watch?v=1ScQYR7Gltw
+
+##DHCP
+ * http://www.networkers-online.com/blog/2008/07/how-to-configure-dhcpon-a-cisco-router/
+
+
+##video tutorial obsługi GNS3 konfiguracji sieci
+ * http://www.youtube.com/playlist?list=PLC97B643945983558
+##video kurs Cisco
+ * http://www.youtube.com/playlist?list=PL2F3C14C55409B224
+
+##blog o Cisco
+ * http://blog.ciscoinferno.net/
+ * http://www.oreillynet.com/pub/a/network/2002/01/02/ciscotips.html
+ * http://bromirski.net/projekty/cisco_faq_pl/cisco_faq_pl.html
+
+##tutorial GNS3 Cisco  dla początkujących - dosyć niewyraźny
+ * http://www.youtube.com/watch?v=ZHZbMmLmYo8
+
+##cheetsheet konfiguracji IOS
+ * http://packetlife.net/library/cheat-sheets/
+ * http://www.skullbox.net/ioscheat.php
+
+##Blogi z instrukcjami konfiguracji CISCO
+ * http://www.cisco.com/en/US/docs/routers/access/3700/hardware/notes/comflash.html
+ * https://www.corelan.be/index.php/2008/06/22/cisco-switch-ios-cheat-sheet/
+ * http://aproductivelife.blogspot.com/search/label/Cisco
+ * http://mostlygeek.com/tech-reference/cisco-switch-cheat-sheet/
+ * http://www.petri.co.il/how-to-configure-cisco-router-as-terminal-server.htm
+ * http://www.petri.co.il/how-to-configure-eigrp-on-your-cisco-router.htm
+ * http://www.slideshare.net/kdebrouw/IP-Routing-kdebrouw
+
+
+##Blogi z instrukcjami konfiguracji
+ * http://blog.michaelfmcnamara.com/2011/01/vlans-ip-routing-ethernet-routing-switch/
+ * http://beej.us/guide/bgnet/
+
+
+##Oficjalne dokumenty CISCO
+ * http://www.cisco.com/en/US/prod/collateral/vpndevc/ps5708/ps5710/ps1018/product_implementation_design_guide09186a00800fd670.html
+
+##GNS3 JUNIPER JUNOS
+ * http://inetpro.org/wiki/Using_QEMU_with_Olive_to_emulate_Juniper_Routers
+ * http://forum.gns3.net/topic3015.html
+ * http://muralirajanm.blogspot.com/
+ * http://brezular.wordpress.com/2012/07/03/installing-olive-12-1r1-9-under-qemu/
+ * http://blog.gns3.net/2009/10/olive-juniper/
+ * http://www.packetmischief.ca/2011/03/24/installing-olive-10-4r1-under-vmware/
+ * http://juniper.cluepon.net/index.php/Olive
+
+##OGÓLNIE o GNS3
+ * http://www.trainsignal.com/blog/using-gns3-network-simulator
+ * http://www.dslreports.com/faq/13956
+ * http://www.ubuntubuzz.com/2010/07/gns3-running-graphical-cisco-network.html
+ * http://www.techrepublic.com/blog/networking/practice-cisco-router-configuration-using-a-free-emulator/419
+
+##GNS3 MICROCORE uLINUX
+ * http://networkingtips-tricks.blogspot.com/2010/09/add-qemu-host-in-gns3.html
+ * http://www.brainbump.net/gns3-add-qemu-host-microcore/
+ * http://forum.gns3.net/topic5328.html
+
+##GNS3 VPCS
+svn checkout svn://svn.code.sf.net/p/vpcs/code/trunk vpcs-code
+
+##Vyatta
+ * http://www.carbonwind.net/VyattaOFR/AdvVPN/AdvVPN14.htm
+ * http://www.carbonwind.net/VyattaOFR/VyattaOFR.htm
+
+##TCP/IP - subnetting
+ * https://beausanders.org/main/index.php?option=com_content&view=article&id=72&Itemid=83 
+ * http://www.youtube.com/watch?v=QvNQ96MOcMA&feature=plcp
+
+##TCP/IP - przykładowe strony
+ * http://pl.wikipedia.org/wiki/TCP_%28protok%C3%B3%C5%82%29
+ * http://pl.wikipedia.org/wiki/Tablica_trasowania
+ * http://pl.wikipedia.org/wiki/Kategoria:Trasowanie_%28telekomunikacja%29
+ * http://pl.wikipedia.org/wiki/Classless_Inter-Domain_Routing
+ * http://docs.online.bg/NETWORKING/tcpip/
+ * http://www.pcvr.nl/tcpip/
+ * http://www.ibm.com/developerworks/linux/tutorials/l-sock/section2.html
+ * http://www.ibm.com/developerworks/linux/library/l-hisock/index.html
+ * http://pl.wikipedia.org/wiki/Maximum_Transmission_Unit
+ * http://www.slac.stanford.edu/grp/scs/net/talk/insc-01/ 
+ * http://highered.mcgraw-hill.com/sites/0072967722/student_view0/powerpoint_presentations.html
+ * http://highered.mcgraw-hill.com/sites/0072967722/student_view0/animations.html#
+ * http://vimeo.com/40945669
+ * http://www.youtube.com/user/professormesser?feature=watch
+ * http://openlearn.open.ac.uk/mod/oucontent/view.php?id=397585&section=3.4
+
+##IPV6 - przykładowe strony
+ * http://www.networkworld.com/news/2010/050610-ipv6-tunnel-basics.html?page=2
+ * https://www.zagbot.com/openvpn_ipv6_tunnel.html
+ * http://www.pl.ipv6tf.org/wiki/index.php/Strona_g%C5%82%C3%B3wna
+ * http://www.pl.ipv6tf.org/wiki/index.php/6to4
+ * http://www.gentoo.org/doc/en/ipv6.xml
+ * http://www.networkstraining.com/how-to-configure-ipv6-address-on-cisco-routers/
+
+##HACKING
+ * http://lcamtuf.coredump.cx/
+ * http://williamstallings.com/ComputerSecurity/
+ * http://www.slideshare.net/NeelKamalThEYuVrAaJ/seminar-on-hacking
+ * http://www.slideshare.net/amiable_indian/hacking-fundamentals-jen-johnson-miria-grunick
+
+##INNE KURSY
+ * http://www.saylor.org/majors/computer-science/
+ * http://docs.online.bg/NETWORKING/
+ * http://dynagen.org/tutorial.htm
+ * https://projects.nesl.ucla.edu/public/sos-2x/doc/tutorial/index.html
+
+##INNE BLOGI
+ * http://arian-it.blogspot.com/
+
+##INNE WIRTUALIZACJE
+ * http://code.google.com/p/visual-netkit/
+ * http://tuxthink.blogspot.com/2011/12/kvm-introduction.html
+ * http://wiki.netkit.org/index.php/Papers
+ * http://wiki.netkit.org/index.php/Main_Page
+ * http://wiki.netkit.org/index.php/Labs_Links
+ * http://code.google.com/p/visual-netkit/
+ * http://user-mode-linux.sourceforge.net/
+ * http://www.zoobab.com/openwrt-and-user-mode-linux
+ * http://wiki.virtualsquare.org/wiki/index.php/Main_Page
+ * http://clownix.net/
+ * http://web.dit.upm.es/vnxwiki/index.php/Main_Page
+ * http://en.gentoo-wiki.com/wiki/LXC
+ * http://www.funtoo.org/wiki/Metro_Recipes
+
+##CONTAINERS, VLANS
+ * http://containerops.org/2013/11/19/lxc-networking/
+ * http://blog.scottlowe.org/2013/11/26/lxc-open-vswitch-and-gre-tunnels/
+ * http://wiki.gentoo.org/wiki/LXC#Ubuntu
+ * http://www.linuxjournal.com/article/10821
+ * http://big-elephants.com/2013-07/creating-virtual-networks-with-kvm-on-gentoo/
+ * http://web.dit.upm.es/vnxwiki/index.php/Vnx-tutorial-lxc
+ * http://www.linuxjournal.com/content/lvm-demystified
+
+
+##3g modem
+ * http://www.thinkwiki.org/wiki/Ericsson_F3507g_Mobile_Broadband_Module
+ * http://www.natisbad.org/E4300/Dell_Wireless_5530_AT_cmd_ref.html
+ * http://dug.net.pl/tekst/197/aero2_z_modemem_huawei_e3131/
+ * http://www.sakis3g.org/#downloading
+ * http://forum.jdtech.pl/Watek-ubuntu-12-04-lts-aero2-nowa-karta-error
+ * http://blog.bjw.me.uk/2008/12/howto-ubuntu-810-dell-5530-3gwwan-and.html
+ * http://en.gentoo-wiki.com/wiki/Huawei_E220
+ * http://crunchbang.org/forums/viewtopic.php?pid=220469%23p220469#p220469
+
+##INNE WYKŁADY
+ * http://faculty.csuci.edu/minder.chen/MIS310/
+ * http://www.csc.gatech.edu/~copeland/6612/
+ * http://www.coins-lab.org/pnu/akoubaa/net331/lectures.php
+ * http://www.professormesser.com/n10-005/free-network-plus/
+ * http://haifux.org/network.html
+
+
+ * http://wiki.gentoo.org/wiki/Intel
+ * http://wiki.gentoo.org/wiki/Hprofile
+
+install -d /var/tmp/git
+cd /var/tmp/git
+git clone https://github.com/funtoo/metro.git
+ln -sf /var/tmp/git/metro /usr/lib/metro
+ln -sf /var/tmp/git/metro/metro /usr/bin/metro
+vim /var/tmp/git/metro/etc/metro.conf
+mkdir linux tmp
+ls /var/tmp/git/metro/etc/builds
+#funtoo-current  funtoo-experimental  funtoo-stable  gentoo-stable
+#gentoo-unstable
+vim /var/tmp/git/metro/etc/builds/gentoo-unstable/build.conf 
+install -d /var/tmp/metro/cache/cloned-repositories
+grep name /var/tmp/git/metro/etc/builds/gentoo-unstable/build.conf 
+#name: portage
+install -d /var/tmp/git/linux/funtoo-current/x86-32bit/core2_64
+cd /var/tmp/git/linux/gentoo-stable/x86-64bit/generic_64
+install -d 2011-08-22
+cd  2011-08-22
+wget
+ * http://ftp.osuosl.org/pub/funtoo/gentoo-stable/x86-64bit/generic_64/2011-08-22/stage3-generic_64-gentoo-stable-2011-08-22.tar.xz
+cd ..
+install -d .control/version
+echo "2011-08-22" > .control/version/stage3
+install -d .control/strategy
+echo "local" > .control/strategy/build
+echo "stage3" > .control/strategy/seed
+cd ..
+mkdir core2_64
+gen2db x86-64bit # cd core2_64/
+install -d .control/strategy
+echo "remote" > .control/strategy/build
+echo "stage3" > .control/strategy/seed
+install -d .control/remote
+echo "gentoo-stable" > .control/remote/build
+echo "generic_64" > .control/remote/subarch
+
+cd /var/tmp/git/metro
+scripts/ezbuild.sh gentoo-stable core2_64

@@ -1,0 +1,267 @@
+ * http://bigdatauniversity.com/
+
+#NOSQL
+ * http://stackoverflow.com/questions/2285045/what-scalability-problems-have-you-solved-using-a-nosql-data-store?rq=1
+ * http://nosql-database.org/
+ * http://nosqltapes.com/
+ * http://nosql.mypopescu.com
+ * http://en.wikipedia.org/wiki/NoSQL
+ * https://github.com/milespomeroy/9dbs-45mins
+ * http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-redis
+ * http://www.christof-strauch.de/nosqldbs.pdf
+ * http://thinkvitamin.com/code/should-you-go-beyond-relational-databases/
+ * http://www.julianbrowne.com/article/viewer/brewers-cap-theorem
+ * http://blog.nahurst.com/visual-guide-to-nosql-systems
+ * http://www.allthingsdistributed.com/2008/12/eventually_consistent.html
+ * http://lpd.epfl.ch/sgilbert/pubs/BrewersConjecture-SigAct.pdf
+ * http://www.julianbrowne.com/article/viewer/gangsta-scale
+ * http://www.enterpriseintegrationpatterns.com/docs/IEEE_Software_Design_2PC.pdf
+ * http://devpytania.pl/questions/3229/nierelacyjne-bazy-danych-nosql
+ * http://www.dailymotion.com/video/xnbl7i_jarosyaw-payka-architektura-i-model-programistyczny-nosql_tech
+ * http://www.data.proidea.org.pl/jdd/5edycja/materialy/prezentacje/Jaroslaw_Palka.pdf
+ * https://bitbucket.org/kcrimson
+ * http://seldo.com/weblog/2010/07/12/in_defence_of_sql
+ * http://dba.stackexchange.com/questions/607/what-is-a-key-value-store-database
+
+
+#HYPERGRAPH
+ * http://www.hypergraphdb.org/index
+
+#NOSQL tutors
+ * http://porcelli.com.br/2010/08/nosql-for-beginners/
+
+#COUCHDB
+ * http://guide.couchdb.org/editions/1/en/index.html
+ * http://www.ibm.com/developerworks/opensource/library/os-couchdb/index.html
+ * http://nosql.mypopescu.com/post/296530101/mongodb-vs-couchdb
+ * http://packages.python.org/CouchDB/
+ * http://blog.mattwoodward.com/massive-couchdb-brain-dump
+ * https://github.com/janl/jscouch
+
+#TouchDB
+ * https://github.com/couchbaselabs/TouchDB-Android
+
+#REDIS
+ * http://redis.io/commands
+ * https://github.com/andymccurdy/redis-py
+ * http://code.google.com/p/credis/
+ * http://openmymind.net/redis.pdf
+
+#RIAK
+ * http://basho.com/
+
+#MIDGARD
+ * http://www.midgard-project.org/
+
+#BIGDATA
+ * https://bigdata.svn.sourceforge.net/svnroot/bigdata/tags/BIGDATA_RELEASE_1_2_0/
+
+#CASANDRA
+ * http://www.divconq.com/2010/migrate-a-relational-database-structure-into-a-nosql-cassandra-structure-part-i/
+ * http://www.datastax.com/search?q=cql3
+ * http://www.divconq.com/category/cassandra/
+ * http://www.datastax.com/dev/blog/cql3-evolutions
+ * http://www.datastax.com/dev/blog/schema-in-cassandra-1-1
+ * http://www.datastax.com/docs/1.1/references/cql/index
+ * http://www.rackspace.com/blog/cassandra-by-example/
+ * http://cassandra-cql.blogspot.com/2011/09/cql-java-examples.html
+ * http://web-o-rhythm.com/xwiki/bin/view/Blog/Cassandra+in+90+seconds
+ * http://web-o-rhythm.com/xwiki/bin/view/Blog/Cassandra+in+90+seconds
+ * http://wiki.apache.org/cassandra/GettingStarted
+ * http://www.fuzzy.cz/en/articles/first-steps-with-cassandra/
+ * https://github.com/castiel/Cassandra-Cluster-Admin
+ * http://www.slideshare.net/jericevans/cassandra-explained-4438340
+ * http://www.javageneration.com/?p=70
+ * http://www.datastax.com/docs/0.8/brisk/install_brisk_packages#install-brisk-pkg
+ * http://www.dbms2.com/2012/03/27/datastax-enterprise-and-cassandra-revisited/
+ * http://www.quora.com/How-does-HBase-write-performance-differ-from-write-performance-in-Cassandra-with-consistency-level-ALL
+git clone http://git-wip-us.apache.org/repos/asf/cassandra.git
+cd cassandra/
+ant
+ * http://github.com/apache/cassandra/blob/trunk/doc/cql/CQL.textile
+ * http://code.google.com/a/apache-extras.org/p/cassandra-dbapi2/
+ * https://github.com/pcmanus/cassandra/blob/3779/doc/cql3/CQL.textile
+ * http://crlog.info/2011/09/17/cassandra-query-language-cql-v2-0-reference/
+ * https://github.com/hector-client/hector
+ * http://prettyprint.me/2010/02/23/hector-a-java-cassandra-client/
+ * https://github.com/zcourts/cassandra-hector-wrapper
+ * https://github.com/zznate/cassandra-tutorial
+ * https://github.com/zznate/cassandra-stress
+ * http://www.datastax.com/dev/blog/schema-in-cassandra-1-1
+ * https://github.com/spring-projects/spring-data-cassandra
+
+#MONGODB
+ * http://www.mongodb.com/presentations
+ * https://www.mongodb.com/presentations/mongodb-and-hadoop-driving-business-insights
+ * https://www.mongodb.com/presentations/webinar-diagnostics-and-debugging-mongodb
+ * http://www.codemonkeez.com/2014/05/how-i-got-nodejs-and-mongodb-running-on.html
+ * https://blog.serverdensity.com/mongodb/
+ * https://blog.serverdensity.com/automating-partitioning-sharding-and-failover-with-mongodb/
+ * http://yakiloo.com/mongodb-sharding/
+ * http://zenobius.zeno.pl/archives/511/tutorial/mongodb-baza-zorientowana-w-okol-dokumentow-nosql-schema-free
+ * http://highscalability.com/blog/2010/10/15/troubles-with-sharding-what-can-we-learn-from-the-foursquare.html
+ * http://ethangunderson.com/blog/two-reasons-to-not-use-mongodb/
+ * http://try.mongodb.org/
+ * http://www.querymongo.com/
+ * http://openmymind.net/mongodb.pdf
+ * http://www.paperplanes.de/2010/2/25/notes_on_mongodb.html
+ * http://nosql.mypopescu.com/post/428492029/offline-and-production-notes-on-mongodb
+ * http://www.mongodb.org/display/DOCS/MapReduce
+ * http://nosql.mypopescu.com/post/394779847/mongodb-tutorial-mapreduce
+ * http://kylebanker.com/blog/2009/12/mongodb-map-reduce-basics/
+ * http://zenobius.zeno.pl/archives/511/opinie/mongodb-baza-zorientowana-w-okol-dokumentow-nosql-schema-free
+ * http://datasyndrome.com/post/14631249157/mongodb-is-web-scale-hadoop-mongodb
+ * https://github.com/mongodb/mongo-hadoop
+Problemy tuningu:
+ * http://highscalability.com/blog/2011/9/13/must-see-5-steps-to-scaling-mongodb-or-any-db-in-8-minutes.html
+Try .explain():
+ * http://stackoverflow.com/questions/7658228/mongodb-count-is-very-slow-how-do-we-refine-work-around-with-it
+Add explicit hints for index:
+ * http://stackoverflow.com/questions/9734962/simple-mongodb-query-very-slow-although-index-is-set
+A full heap?:
+ * http://stackoverflow.com/questions/11111281/insert-performance-of-node-mongodb-native
+The end of memory space for collection:
+ * http://stackoverflow.com/questions/6423988/how-to-improve-performance-of-update-and-save-in-mongodb
+Special read clustering:
+ * http://www.colinhowe.co.uk/2011/02/23/mongodb-performance-for-data-bigger-than-memor/
+Global write lock?:
+ * http://stackoverflow.com/questions/9062758/mongodb-bad-performance
+Slow logs performance track:
+ * http://stackoverflow.com/questions/4400104/track-mongodb-performance
+Rotate your logs:
+ * http://stackoverflow.com/questions/5699152/does-logging-output-to-an-output-file-affect-mongodb-performance
+Use profiler:
+ * http://www.mongodb.org/display/DOCS/Database+Profiler
+Move some collection caches to RAM:
+ * http://stackoverflow.com/questions/13374342/mongodb-preload-documents-into-ram-for-better-performance
+ * http://blog.serverdensity.com/mongodb-monitoring-keep-in-it-ram/
+ * http://stackoverflow.com/questions/6453584/what-does-it-mean-to-fit-working-set-into-ram-for-mongodb
+Some ideas about collection allocation size:
+ * http://stackoverflow.com/questions/12236794/mongodb-data-schema-performance
+Use separate collections:
+ * http://stackoverflow.com/questions/9306815/mongodb-performance-with-growing-data-structure
+A single query can only use one index (better is a compound one):
+ * http://stackoverflow.com/questions/12502642/why-is-this-mongodb-query-so-slow
+A missing key?:
+ * http://stackoverflow.com/questions/8720535/slow-mongodb-query-can-you-explain-why
+Maybe shards:
+ * http://stackoverflow.com/questions/2599943/mongodbs-performance-on-aggregation-queries
+ * http://highscalability.com/blog/2010/10/15/troubles-with-sharding-what-can-we-learn-from-the-foursquare.html
+Improving performance stackoverflow links:
+ * http://stackoverflow.com/a/7635093/602018
+A good point for further sharding replica education is:
+ * https://education.10gen.com/courses
+
+
+#HADOOP HBASE
+ * http://hbase.apache.org/book/book.html
+ * http://hbase.apache.org/book/quickstart.html
+ * http://ole-martin.net/hbase-tutorial-for-beginners/
+ * http://stackoverflow.com/questions/1750556/looking-for-a-good-hbase-tutorial
+ * http://blog.rapleaf.com/dev/2008/03/11/matching-impedance-when-to-use-hbase/
+ * https://cwiki.apache.org/confluence/display/Hive/HBaseIntegration
+ * http://www.delicious.com/olemartin/hbase
+ * http://ole-martin.net/hbase-tutorial-for-beginners/
+ * http://www.delicious.com/olemartin/hbase
+ * http://akbarahmed.com/2012/08/13/hbase-command-line-tutorial/
+ * https://github.com/sleberknight/basic-hbase-examples
+ * http://www.slideshare.net/cloudera/hadoop-world-2011-advanced-hbase-schema-design
+ * http://www.slideshare.net/cloudera/chicago-data-summit-apache-hbase-an-introduction
+ * http://www.slideshare.net/gschmutz/nosql-for-data-services-data-virtualization-big-data
+
+#HADOOP HIVE
+ * https://cwiki.apache.org/confluence/display/Hive/GettingStarted
+ * http://stackoverflow.com/questions/9626789/how-can-i-partition-a-table-with-hive
+ * http://horicky.blogspot.com/2008/11/hadoop-mapreduce-implementation.html
+ * http://blog.lars-francke.de/2010/07/22/processing-openstreetmap-data-with-hive/
+ * http://dev.bizo.com/2009/07/custom-map-scripts-and-hive.html
+ * http://dev.bizo.com/2009/10/hive-map-reduce-in-java.html
+ * https://github.com/yc-huang/Hive-mongo
+ * https://issues.apache.org/jira/browse/HIVE-3384
+
+#HADOOP HADOOP
+ * http://www.michael-noll.com/blog/2013/07/04/using-avro-in-mapreduce-jobs-with-hadoop-pig-hive/
+ * http://www.crobak.org/2011/12/getting-started-with-apache-hadoop-0-23-0/
+ * http://www.ibm.com/developerworks/linux/library/l-hadoop-1/
+ * http://posulliv.github.com/2010/05/10/hadoopdb-mysql.html
+ * http://www.michael-noll.com/tutorials/writing-an-hadoop-mapreduce-program-in-python/
+ * http://programmer-land.blogspot.com/2010/07/scalahadoop.html
+ * http://blog.jonhnnyweslley.net/2008/05/shadoop.html
+ * http://hadoop.apache.org/common/docs/r0.15.3/mapred_tutorial.html
+ * https://twiki.grid.iu.edu/bin/view/Storage/HadoopRecovery
+ * http://stackoverflow.com/questions/735791/hadoop-examples
+ * http://www.michael-noll.com/tutorials/running-hadoop-on-ubuntu-linux-multi-node-cluster/
+ * http://videolectures.net/kdd2010_papadimitriou_sun_yan_lsdm/
+
+#HADOOP PIG
+ * http://hortonworks.com/blog/new-features-in-apache-pig-0-10/
+ * http://allthingshadoop.com/2010/05/31/hadoop-pig-yahoo-alan-gates/
+ * http://www.ibm.com/developerworks/library/l-apachepigdataquery/index.html
+ * http://ofps.oreilly.com/titles/9781449302641/index.html
+ * http://ofps.oreilly.com/titles/9781449302641/intro.html
+ * http://hortonworks.com/blog/pig-performance-and-optimization-analysis/
+ * https://github.com/alanfgates/programmingpig
+
+
+#HADOOP SQOOP
+ * https://www.facebook.com/note.php?note_id=86376592002
+
+#NODE.JS
+ * http://ofps.oreilly.com/titles/9781449398583/
+ * http://visionmedia.github.com/masteringnode/
+ * http://www.readwriteweb.com/hack/2011/04/6-free-e-books-on-nodejs.php
+ * http://stackoverflow.com/questions/5236547/node-js-examples
+ * http://stackoverflow.com/questions/3823403/node-js-web-application-examples-tutorials
+ * http://programmers.stackexchange.com/questions/37110/understanding-node-js-some-real-life-examples
+ * http://www.stoimen.com/blog/2010/12/02/diving-into-node-js-a-long-polling-example/
+ * http://www.readwriteweb.com/hack/2010/12/6-free-javascript-e-books.php
+
+#ORIENTDB
+ * http://www.orientdb.org/index.htm
+svn checkout http://orient.googlecode.com/svn/ orient-read-only
+cd orient-read-only/trunk
+ant release
+ * http://bpdp.blogspot.com/2012/02/using-orientdb-tinkerpop-blueprints.html
+ * http://code.google.com/p/orient/downloads/detail?name=orientdb-graphed-1.0.1.zip&can=2&q=
+ * http://www.assembla.com/spaces/orientdb/wiki/The_Java_API_
+ * http://www.youtube.com/watch?v=EDiIS0PH2uY #poniżej slajdy
+ * http://www.slideshare.net/graphdevroom/works-with-persistent-graphs-using-orientdb
+ * https://github.com/tinkerpop/blueprints/wiki
+ * http://stackoverflow.com/questions/5572878/does-orientdb-allow-multiple-edges-for-one-or-more-vertex
+ * http://stackoverflow.com/questions/10272900/is-possible-to-create-subgraphs-into-orientdb-graph-database
+ * https://github.com/tinkerpop/gremlin/wiki
+ * http://code.google.com/p/orient/wiki/JavaAPI
+ * http://code.google.com/p/orient/wiki/GraphDatabaseRaw
+ * http://code.google.com/p/orient/wiki/ObjectDatabase
+ * http://code.google.com/p/orient/wiki/GraphEdTutorial
+ * http://code.google.com/p/orient/w/list
+ * http://code.google.com/p/orient/wiki/Main
+ * http://code.google.com/p/orient/wiki/Tutorials
+ * http://stackoverflow.com/questions/tagged/orient-db
+ * https://github.com/jbellmann/orientdb-examples
+ * http://blog.adriaandejonge.eu/2011/07/orientdb-connecting-writing-and-reading.html
+ * http://zion-city.blogspot.com/search/label/orientdb
+ * http://nosql.mypopescu.com/post/1254869909/correction-orientdb-is-a-document-and-graph-store
+ * http://webofdata.wordpress.com/2012/03/18/hosted-nosql/
+ * http://code.google.com/p/orient/wiki/Production_deployments
+
+
+#NEO4J
+ * http://docs.neo4j.org/chunked/snapshot/tutorials.html
+ * http://www.infoq.com/articles/graph-nosql-neo4j
+ * http://neo4j.org/
+ * https://github.com/kiyoya/kiyoya-overlay
+
+#NUVOLABASE.COM
+ * http://www.nuvolabase.com/site/
+
+#Zepto/jQuery
+ * http://ofps.oreilly.com/titles/9781449316419
+ * http://www.jqtouch.com/
+ * https://build.phonegap.com/
+
+#FREEEBOOKS
+ * http://www.readwriteweb.com/hack/tag/ebooks/
+
+#SORT ALGORITHMS
+ * http://www.stoimen.com/blog/

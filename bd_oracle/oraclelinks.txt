@@ -1,0 +1,253 @@
+﻿ * http://www.orafaq.com/wiki/Freeware
+ * http://stackoverflow.com/questions/3308238/what-are-the-open-source-tools-and-techniques-to-build-a-complete-data-warehouse
+ * https://forums.oracle.com/thread/2403810
+ * http://st-curriculum.oracle.com/obe/jdev/obe11jdev/11/common/files/sample_schema_scripts.zip
+
+#Książki:
+ * http://helion.pl/kategorie/bazy-danych/oracle
+ * http://docstore.mik.ua/orelly/ Reilly CD bookshelf
+ * http://docstore.mik.ua/orelly/oracle/prog2/ - Oracle PL/SQL Programming, 2nd Edition
+
+--wyświetla plan zapytania (można też graficznie w sqldeveloperze)
+explain plan for
+select /*+ Use_hash (test1 test2) */ *
+from test1 join test2 on test1.id= test2.id;
+select *
+from table (dbms_xplan.display);
+
+--włącza statystyki dla tabel test1 i test2
+EXECUTE DBMS_STATS.GATHER_TABLE_STATS ('login_name','test1');
+EXECUTE DBMS_STATS.GATHER_TABLE_STATS ('login_name','test2');
+
+#O optymalizatorze zapytań:
+ * http://www.oracle-base.com/articles/misc/cost-based-optimizer-and-database-statistics.php
+ * http://www.oradev.com/create_statistics.jsp
+ * http://dba.stackexchange.com/questions/21916/oracle-11g-index-rebuild-vs-gather-table-stats
+ * http://richardfoote.wordpress.com/2007/12/11/index-internals-rebuilding-the-truth/
+##Hinty:
+##Aktualny spis hintów
+ * http://www.databasejournal.com/features/oracle/article.php/3774831/Optimizer-Hints-in-Oracle-11g-and-hint-overkill.htm
+ * http://www.databasejournal.com/features/oracle/article.php/1447251/Listen-Softwares-How-To-SQL-Tuning--Optimizer-Hints.htm
+##Mniej aktualny ich krótki opis
+ * http://www.adp-gmbh.ch/ora/sql/hints/index.html
+##Wycinek dokumentacji
+ * http://docs.oracle.com/cd/B28359_01/text.111/b28303/aoptim.htm
+##Ogólnie o indeksach
+ * http://www.techonthenet.com/oracle/indexes.php
+##Ciekawy mechanizm wyłączania indeksów w Oraclu
+ * http://oracletoday.blogspot.com/2007/08/invisible-indexes-in-11g.html
+##Dokumentacja oficjalnie o hintach
+ * http://docs.oracle.com/cd/E11882_01/server.112/e16638/hintsref.htm
+##Wspomnienie o planie optymalizacji
+ * http://cs.slu.edu/~goldwasser/class/slu/csa341/2003_Fall/lectures/oracle_optimizer/
+##krótkie wspomnienie o optymalizacji
+ * http://blog.hardeep.name/wp-content/uploads/2009/07/performance_tuning_guide.pdf
+##Blog o execute plan
+ * http://www.orafaq.com/node/1420
+ * http://arjudba.blogspot.de/2008/06/nested-loop-joins.html
+ * http://oracle-base.com/articles/misc/cost-based-optimizer-and-database-statistics.php
+
+##Optymalizator:
+ * http://www.dba-oracle.com/art_sql_tune.htm
+ * http://www.orafaq.com/node/1446
+ * http://arjudba.blogspot.com/2008/06/how-query-optimizer-chooses-execution.html
+ * http://www.orafaq.com/tuningguide/
+ * http://docs.oracle.com/cd/B28359_01/server.111/b28274/optimops.htm#PFGRF001
+ * http://arjudba.blogspot.com/2008/06/what-and-when-oracle-uses-rowid-scans.html
+ * http://www.dba-oracle.com/art_otn_cbo_p7.htm
+
+
+##Instalacja na linuxie:
+ * http://www.oracle-base.com/articles/11g/OracleDB11gR2InstallationOnFedora15.php
+ * http://forums.gentoo.org/viewtopic-t-581228.html
+ * http://www.fuzzy.cz/en/articles/installing-oracle-11g-r2-on-gentoo/
+ * http://www.thegeekstuff.com/2008/10/oracle-11g-step-by-step-installation-guide-with-screenshots/
+ * https://wiki.archlinux.org/index.php/Oracle_%28Nederlands%29
+ * http://howifixed.it/info-gcc-error-lib64libgcc_s-so-1-no-such-file-or-directory/
+ * http://forums.gentoo.org/viewtopic-t-581228-highlight-libpthreadnonshared.html
+ * https://localhost:1158/em
+ * http://ariklalo.com/2012/05/26/repository-creation-utility-rcu-11-1-1-6-0-installation/
+ * http://wiki.sabayon.org/index.php?title=HOWTO:_Install_Oracle_11g_XE_%28Express_Edition%29
+ * http://www.davidghedini.com/pg/entry/install_oracle_11g_xe_on
+ * http://edstevensdba.wordpress.com/category/tns/
+ * http://mekk.waw.pl/mk/porady/oracle/1100000000
+ * http://www.dba-oracle.com/art_orafaq_tune_parms.htm
+ * http://www.databasejournal.com/features/oracle/article.php/3867646/Oracle-Database-Archive-Logging----Where-are-my-archive-logs.htm
+ * http://tips.kaali.co.uk/2012/03/16/expand-or-increase-the-size-of-virtual-box-vdi-dis/
+ * http://www.webdesignblog.asia/software/linux-software/resize-virtualbox-disk-image-manipulate-vdi/#sthash.yae4Fuay.dpbs
+ * http://psoug.org/reference/init_dot_ora.html
+ * http://www.praetoriate.com/oracle_tips_dm_using_orapwd.htm
+ * http://www.dba-oracle.com/oracle11g/oracle_11g_diagnostic_dest_tips.htm
+ * http://rampant-books.com/art_schneider_how_to_create_adr_package.htm
+ * http://taliphakanozturken.wordpress.com/tag/emca/
+ * http://shivenracdba.blogspot.com/2013/01/installing-dbmsjava-package-in-oracle.html
+ * http://www.orafaq.com/wiki/DBMS_SHARED_POOL
+ * http://databaseguide.blogspot.com/2008/06/resizing-temporary-tablespace.html
+ * http://support.douglas-associates.com/KB/a194/configure-oracle-xe-with-archivelog-and-daily-backup.aspx
+ * http://www.oracle.com/webfolder/technetwork/tutorials/obe/db/sqldev/r30/SQLdev3.0_Import_Export/sqldev3.0_import_export.htm
+
+##Pliki do pobrania potrzebne darmowe konto oracle.com:
+ * http://www.oracle.com/technetwork/developer-tools/sql-developer/sqldev-ea-download-486950.html
+ * http://www.oracle.com/technetwork/database/enterprise-edition/downloads/index.html
+
+##Zbiory artykułów i ich przykłady:
+ * http://www.oracle.com/pls/db112/
+ * http://download.oracle.com/docs/cd/E14072_01/server.112/e10595.pdf
+ * http://download.oracle.com/docs/cd/E14072_01/server.112/e10595/memory005.htm
+ * http://www.oracle-base.com/articles/Articles.php
+ * http://www.oracle-base.com/articles/misc/SchemaOwnersAndApplicationUsers.php
+ * http://www.techonthenet.com/oracle/
+ * http://www.databasedesign-resource.com/oracle-dba.html
+ * http://www.orafaq.com/
+ * http://www.orafaq.com/wiki/Oracle_database_Backup_and_Recovery_FAQ
+ * http://www.orafaq.com/wiki/Oracle_database_Security_FAQ
+ * http://www.orafaq.com/wiki/Enterprise_Manager
+ * http://www.shutdownabort.com/
+ * http://www.shutdownabort.com/dbaqueries/Administration_Status.php
+ * http://www.ploug.org.pl/plougtki.php
+ * http://www.ploug.org.pl/plougtki.php?action=read&p=9&a=1
+ * http://www.ploug.org.pl/plougtki.php?action=read&p=53&a=3
+ * http://www.ploug.org.pl/plougtki.php?action=read&p=42&a=1
+ * http://www.ploug.org.pl/plougtki.php?action=read&p=32&a=9
+ * http://www.ploug.org.pl/plougtki.php?action=read&p=27&a=10
+ * http://ss64.com/links/oralinks.html
+ * http://dbaforums.org/oracle/index.php?showforum=2
+ * http://www.jlcomp.demon.co.uk/faq/ind_faq.html
+ * http://www.devshed.com/c/a/Oracle/The-Database-Administrator
+ * http://askdba.org/weblog/2008/11/how-to-changerestore-user-password-in-11g/
+ * http://www.databasejournal.com
+ * http://www.akadia.com/services/ora_flush_pools.html
+ * http://asktom.oracle.com
+ * http://asktom.oracle.com/pls/asktom/f?p=100:11:0::::P11_QUESTION_ID:9434169398289
+ * http://decipherinfosys.wordpress.com/2007/09/05/moving-tables-to-a-different-tablespace-in-oracle/
+ * http://psoug.org/reference/init_dot_ora.html
+ * http://www.dba-oracle.com/
+ * http://askdba.org/weblog/2008/11/how-to-changerestore-user-password-in-11g/
+ * http://www.docstoc.com/docs/89159292/Sample-Resume-Databse
+ * http://www.pelikant.imsi.pl/Strojenie,administracja.pdf
+
+##Polskie blogi:
+ * http://andrzejklusiewicz.blogspot.com/2010/12/kurs-administracji-bazami-danych-oracle.html
+ * http://www.goszczu.pl
+ * http://www.bd.pjwstk.edu.pl/BazaWiedzy/wyklad9/Partycjonowanie.htm
+ * http://lukaszantoniak.wordpress.com/category/oracle/
+ * http://www.tidnab.nowaruda.net/oracle
+
+##Zagraniczne blogi i przykładowe zagadnienia:
+ * http://www.colestock.com/blogs/2008/01/new-in-11g-active-database-duplication.html
+ * http://www.adp-gmbh.ch/ora/
+ * http://www.adp-gmbh.ch/ora/misc/read_sql_from_shell_script.html
+ * http://www.adp-gmbh.ch/ora/explainplan.html
+ * http://laurentschneider.com/
+ * http://laurentschneider.com/wordpress/2008/03/alter-user-identified-by-values-in-11g.html
+ * http://www.petefinnigan.com/ramblings/issues_with_roles_and_passwords.htm
+ * http://www.johnsmiley.com/holyfamily/oracle/BasicsOfSecurity.html
+ * http://thinkoracle.blogspot.com/
+ * http://knol.google.com/k/mayur-v/oracle-11g-architecture-with-diagram/232y3pcqwxodx/108#SQL_Tuning_Improvements_in_Oracle_11G
+ * http://knol.google.com/k/mayur-v/oracle-11g-architecture-with-diagram/232y3pcqwxodx/108#
+ * http://thinkoracle.blogspot.com/2005/10/dbmsoutputputline.html OracleBlog: DBMS_OUTPUT.PUT_LINE
+ * http://psoug.org/reference/dbms_random.html Oracle DBMS_RANDOM
+ * http://download.oracle.com/docs/cd/E11882_01/appdev.112/e25519/toc.htm
+ * http://asktom.oracle.com/pls/asktom/f?p=100:11:0::::P11_QUESTION_ID:821242100346022602 Ask Tom Migrating from POstgres to Oracle no set
+ * http://www.devshed.com/c/a/Oracle/Working-with-REF-CURSOR-in-PL-SQL/ Working with REF CURSOR in PL/SQL - Oracle
+ * http://stackoverflow.com/questions/3262164/oracle-stored-procedure-select-update-and-return-a-random-set-of-rows :ref cursor - oracle stored procedure - select, update and return a random set of rows - Stack Overflow
+ * http://stackoverflow.com/questions/643475/oracle-how-to-run-a-stored-procedure-later plsql - Oracle: how to run a stored procedure later - Stack Overflow
+ * http://www.williamrobertson.net/feed/2007/10/parallel-plsql-launcher.html William Robertson code: Parallel PL/SQL launcher
+ * http://www.sap-img.com/oracle-database/how-to-backup-the-oracle-control-file.htm
+ * http://www.puschitz.com/TuningLinuxForOracle.shtml#KernelBootParameters
+ * http://asktom.oracle.com/pls/asktom/f?p=100:11:0::::P11_QUESTION_ID:3310002340673
+
+
+##Java:
+ * http://www.exampledepot.com/egs/java.sql/pkg.html
+ * http://www.orafaq.com/wiki/JDBC
+ * http://www.oracle.com/technetwork/database/enterprise-edition/jdbc-111060-084321.html
+ * http://docs.oracle.com/javase/tutorial/jdbc/basics/transactions.html
+
+##Deadlocks sqlinjection:
+ * http://www.oratechinfo.co.uk/deadlocks.html
+ * http://broadh2o.net/docs/database/oracle/oracleLocks.html
+ * http://www.oratechinfo.co.uk/sql_injection.html
+ * http://www.akadia.com/services/ora_bind_variables.html
+ * http://psoug.org/reference/bindvars.html
+ * http://www.adp-gmbh.ch/ora/concepts/bind_variables.html
+
+##Triggers:
+ * http://www.club-oracle.com/articles/database-triggers-in-pl-sql-499/
+ * http://psoug.org/reference/procedures.html
+ * http://psoug.org/reference/functions.html
+ * http://psoug.org/reference/table_trigger.html
+ * http://psoug.org/snippet/Trigger_sample_510.htm 
+ * http://psoug.org/snippet/TRIGGER_Example_703.htm
+ * http://www.oracle-base.com/articles/misc/DatabaseTriggersOverview.php
+ * http://www.oracle-base.com/articles/11g/TriggerEnhancements_11gR1.php
+ * http://www.dba-oracle.com/m_trigger.htm
+ * http://psoug.org/reference/system_trigger.html
+ * http://psoug.org/snippet/Create_trigger_in_Oracle_167.htm
+ * http://www.datadisk.co.uk/html_docs/oracle/triggers.htm
+ * http://docs.oracle.com/cd/E11882_01/appdev.112/e25519/triggers.htm#g1043102
+
+
+##Install ODI
+ * http://dwteam.in/odi-11-1-1-6-installation-on-windows-server-2008-64-bit/
+ * http://dwteam.in/creating-repositories-in-odi-11-1-1-5/
+ * http://dwteam.in/invoke-odi-scenario-using-web-service/ 
+ * http://www.business-intelligence-quotient.com/?tag=odi-owb-differences
+ * http://www.oracle.com/technology/products/oracle-data-integrator/pdf/odi-bestpractices-datawarehouse-whitepaper.pdf
+ * http://odiexperts.com/
+ * http://www.oracle.com/technetwork/middleware/data-integrator/learnmore/index.html
+
+##Install OWB
+ * http://www.oracle.com/webfolder/technetwork/tutorials/obe/db/11g/r2/prod/bidw/owb/setup/setting_owb_environment.htm
+ * https://blogs.oracle.com/warehousebuilder/entry/how_to_start_oracle_warehouse_builder_repository_browser
+ * http://everythingoracle.com/owbtutorials.htm
+
+##HURTOWNIE DANYCH
+ * http://pl.wikipedia.org/wiki/Hurtownia_danych
+ * http://www.b-eye-network.com/channels/1134/
+ * http://www.kimballgroup.com/category/business-intelligence-and-data-warehouse-articles/
+
+ * http://stackoverflow.com/questions/11340872/what-is-oracle-data-integrator
+ * http://bi.pl/publications/art/61-lektury-obowiazkowe-konsultanta-business-intelligence
+ * http://www.odi.ch/weblog/posting.php?posting=565
+ * http://www.infosysblogs.com/oracle/2009/03/to_etl_or_to_elt_that_is_the_q.html
+ * http://my.safaribooksonline.com/book/databases/oracle/01320110072si/section-3-creating-materialized-views/about_materialized_views#X2ludGVybmFsX0J2ZGVwRmxhc2hSZWFkZXI/eG1saWQ9MDEzMjAxMTAwNzJTSS9paQ==
+ * http://etl-tools.info/pl/oracle/oracle_plsql-etl.htm
+ * http://www.nbrightside.com/blog/2006/02/20/introduction-to-etl-for-oracle/
+ * http://www.nbrightside.com/blog/2006/02/20/introduction-to-etl-for-oracle/
+ * http://stackoverflow.com/questions/6017863/create-an-excel-spreadsheet-from-a-oracle-database
+ * http://www.choudhari.net/downloads/Books/
+ * http://www.bgoug.org/upload/events_files/169_ETL_presentation.ppt
+
+##BLOGI OLAP:
+ * http://www.orafaq.com/node/55
+ * http://www.orafaq.com/node/56
+ * http://psoug.org/reference/analytic_functions.html
+ * http://www.dbaglobe.com/2011/09/manually-install-sample-schema-in-11gr2.html
+ * http://wuhai.wordpress.com/2008/01/09/manually-create-database-again/
+ * http://oracletuts.net/tutorials/how-to-rank-records-in-oracle-sql/
+ * http://docs.oracle.com/cd/B28359_01/appdev.111/b28400/sdo_objrelschema.htm
+ * http://oraclebizint.wordpress.com/2007/08/30/oracle-10g11g-olap-cube-and-rollup/
+ * https://blogs.oracle.com/optimizer/entry/star_transformation
+ * http://gerardnico.com/wiki/data_modeling/aggregate_table
+ * http://docs.oracle.com/cd/E11882_01/server.112/e16508/logical.htm - struktura plików
+ * http://oracleolap.blogspot.com/2007/12/olap-workshop-2-understanding-olap.html
+ * http://oracleolap.blogspot.com/2008/01/olap-workshop-5-building-cubes.html
+ * http://oraclebizint.wordpress.com/2007/08/17/oracle-olap-11g-first-impressions/
+ * http://en.wikipedia.org/wiki/Comparison_of_OLAP_Servers
+ * http://docs.oracle.com/cd/B28359_01/server.111/b28286/statements_6002.htm -mviews
+ * http://www.oracle.com/technetwork/articles/sql/11g-partitioning-084209.html
+ * http://docs.oracle.com/cd/E15276_01/doc.20/e13677/tut_data_modeling.htm
+
+##INNE WYKLADY
+ * http://www.oracle.com/technetwork/middleware/data-integrator/overview/index.html
+ * http://edu.pjwstk.edu.pl/wyklady/hur/scb/rW1.htm
+ * http://www.cs.put.poznan.pl/rwrembel/dydaktykaPDF/dws.html
+ * http://www.slideshare.net/mrm0/how-real-time-data-changes-the-data-warehouse
+ * http://www.slideshare.net/mrm0/third-nature-open-source-data-warehousing
+ * http://www.inf.unibz.it/dis/teaching/DWDM/
+
+##Inne hurtownie
+ * http://www.dbms2.com/
+ * http://stackoverflow.com/questions/354231/20-billion-rows-month-hbase-hive-greenplum-what
+ * http://www.duncansutcliffe.com/?paged=3

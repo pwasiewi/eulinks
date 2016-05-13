@@ -1,0 +1,85 @@
+ * http://hgpu.org/?tag=java
+ * http://www.gputechconf.com/page/home.html
+
+ * https://github.com/parallel-forall/code-samples
+
+#Cuda C
+ * https://developer.nvidia.com/blog/tags/4501
+ * http://www.nvidia.com/object/cuda-newsletter.html
+ * http://docs.nvidia.com/cuda/index.html
+ * http://saahpc.ncsa.illinois.edu/09/sessions/day2/session2/Garland_presentation.pdf
+ * https://itunes.apple.com/us/itunes-u/programming-massively-parallel/id384233322
+ * http://www.whatsacreel.net76.net/cuda.html
+ * https://www.youtube.com/playlist?list=PLKK11Ligqititws0ZOoGk3SW-TZCar4dK
+ * http://www.drdobbs.com/parallel/cuda-supercomputing-for-the-masses-part/207200659
+
+#przykłady ,biblioteki
+ * http://mathema.tician.de/software/pycuda
+ * http://choorucode.com/2011/03/14/cuda-template-kernels/
+ * http://gpumlib.sourceforge.net/
+ * http://code.google.com/p/cufflink-library/
+ * http://code.google.com/p/back40computing/
+ * https://github.com/IlyaGrebnov/libbsc
+ * http://research.nvidia.com/publication/relational-algorithms-multi-bulk-synchronous-processors
+ * https://github.com/ddemidov/vexcl
+ * http://ddemidov.github.com/vexcl/
+ * http://devblogs.nvidia.com/parallelforall/
+ * http://devblogs.nvidia.com/parallelforall/unified-memory-in-cuda-6/
+ * http://devblogs.nvidia.com/parallelforall/developing-portable-cuda-cc-code-hemi/
+
+#AES
+ * http://code.google.com/p/engine-cuda/wiki/benchmarkVersion011
+ * http://http.developer.nvidia.com/GPUGems3/gpugems3_ch36.html
+
+#HASH PASS
+ * http://whitepixel.zorinaq.com/
+ * http://blog.zorinaq.com/?e=43
+ * http://hashcat.net/oclhashcat-plus/
+ * http://www.krystianpiwowarczyk.pl/showarticle.php?article=28
+#cudaminer
+ * https://bitcointalk.org/index.php?topic=167229.0
+ * http://code.google.com/p/cuda-thrust-extensions/
+ * http://www.gat3way.eu/hashkill/index.php
+
+#KOMERCYJNE
+ * http://speedit.vratis.com 
+
+#PARALLEL
+ * http://news.dice.com/2013/11/04/speed-test-comparing-intel-c-gnu-c-and-llvm-clang-compilers/
+
+#OPENCL
+ * https://streamcomputing.eu/blog/2015-02-10/overview-of-opencl-2-0-support-samples-blogs-and-drivers/
+ * https://streamcomputing.eu/knowledge/for-developers/tutorials/
+ * http://streamcomputing.eu/knowledge/for-developers/opencl-wrappers/
+ * http://www.openclblog.com/
+ * http://www.fixstars.com/en/opencl/book/OpenCLProgrammingBook/first-opencl-program/
+ * http://arrayfire.com/quest-for-the-smallest-opencl-program/
+ * http://boost.2283326.n4.nabble.com/compute-GPGPU-Library-Request-For-Feedback-td4643691.html
+ * http://stackoverflow.com/questions/21318112/how-to-prepare-eclipse-for-opencl-programming-intel-opencl-sdk-installed-in-li
+ * http://www.fixstars.com/en/opencl/book/OpenCLProgrammingBook/contents/A
+ * http://streamcomputing.eu/knowledge/for-developers/books/
+ * https://github.com/smistad
+ * http://enja.org/2010/07/20/adventures-in-opencl-part-1-5-cpp-bindings/
+ * http://simpleopencl.blogspot.com/2013/06/tutorial-simple-start-with-opencl-and-c.html
+ * http://stackoverflow.com/questions/2362186/debugger-for-opencl
+ * http://streamcomputing.eu/blog/2013-12-27/opencl-spir-by-example/
+ * https://developer.apple.com/library/mac/documentation/Performance/Conceptual/OpenCL_MacProgGuide/TuningPerformanceOntheGPU/TuningPerformanceOntheGPU.html
+ * https://github.com/bgaster/opencl-book-samples
+ * https://github.com/dmed256/OCL-Library
+ * http://code.google.com/p/openclam/
+ * http://developer.amd.com/gpu_assets/ATI_Stream_SDK_OpenCL_Programming_Guide.pdf
+ * http://www.fixstars.com/en/opencl/book/OpenCLProgrammingBook/contents/
+ * http://streamcomputing.eu/knowledge/for-developers/books/
+ * https://code.google.com/p/opencl-book-samples/
+ * https://developer.apple.com/library/mac/documentation/Performance/Conceptual/OpenCL_MacProgGuide/TuningPerformanceOntheGPU/TuningPerformanceOntheGPU.html
+ * http://streamcomputing.eu/blog/2013-12-27/opencl-spir-by-example/
+ * http://stackoverflow.com/questions/2362186/debugger-for-opencl
+ * https://www.khronos.org/conformance/adopters/conformant-products#opencl
+
+ * http://simpleopencl.blogspot.com/2013/06/tutorial-simple-start-with-opencl-and-c.html
+ * http://enja.org/2010/07/20/adventures-in-opencl-part-1-5-cpp-bindings/
+ * http://www.thebigblob.com/using-the-cpp-bindings-for-opencl/
+ * http://dhruba.name/2012/10/06/opencl-cookbook-hello-world-using-cpp-host-binding/
+
+ * https://github.com/smistad/OpenCLUtilities
+

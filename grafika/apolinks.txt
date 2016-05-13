@@ -1,0 +1,147 @@
+##Tutoriale scilaba:
+ * http://wiki.scilab.org/Tutorials
+ * http://sivp.sourceforge.net/sivp-doc-2006.en.pdf
+ * http://leppakaklifoth.blogspot.com/2012/06/sip-projekt-suzacy-do-przetwarzania.html
+ * http://scilab-imageprocessing.blogspot.com/
+ * https://atoms.scilab.org/toolboxes/IPD/8.1/files/Tutorial.pdf
+ * http://scilabimge.blogspot.com/2012/03/reading-image-in-scilab.html
+ * http://www.equalis.com/blogpost/731635/154356/Advanced-Image-Processing-Using-Scilab--Counting-Number-of-Round-Objects
+ * http://usingscilab.blogspot.com/
+ * http://wiki.nosdigitais.teia.org.br/Scilab
+ * http://www.docstoc.com/docs/148258056/Image-and-Video-Processing-using-Scilab
+
+##CIEKAWE PROGRAMY FILTRY
+ * http://www.jhlabs.com/ip/filters/index.html
+ * http://www.fmwconcepts.com/imagemagick/index.php
+ * http://www.jhlabs.com/ip/blurring.html
+ * http://www.fmwconcepts.com/imagemagick/glow/index.php
+ * http://tysonrobichaudphotography.wordpress.com/category/photographic-study-masters-series/
+
+
+##SCILAB OCTAVE
+ * http://atoms.scilab.org/toolboxes/IPD/8.3.1/files/Tutorial.pdf
+ * http://www.scilab.org/resources/documentation/community
+ * http://sivp.sourceforge.net/
+ * http://siptoolbox.sourceforge.net/
+ * https://github.com/rfabbri/siptoolbox
+ * https://github.com/rfabbri/animal
+./autogen.sh; ./configure; make; make install
+git clone git://github.com/rfabbri/siptoolbox.git
+./autogen.sh
+./configure --prefix=/usr/share/scilab/contrib/
+make; make install
+exec '/usr/share/scilab/contrib/sip-0.8.0-git/loader.sce'
+ * http://opencv.willowgarage.com/wiki/
+ * http://opencv.willowgarage.com/documentation/python/cookbook.html
+ * http://stackoverflow.com/questions/7950744/opencv-color-identification
+ * http://www.csse.uwa.edu.au/~pk/Research/MatlabFns/index.html
+ * https://sites.google.com/site/elsamuko/gimp/gimp-octave
+
+[im2,map2] = mogrify(im,map, '-equalize');
+im = gray_imread('onca.png');
+im2 = mogrify(im, ['-rotate', '40']);
+imshow(im2);
+im2 = mogrify(im, ['-blur', '11']);
+im2 = mogrify(im, ['-resize', 'x400', '-sharpen', '5']);
+im2 = imnoise(im,'salt & pepper');
+im2 = mogrify(im, ['-median', '1']);
+[im,map]   = imread('ararauna.png');
+imshow(im,map);
+[im2,map2] = mogrify(im,map, ['-segment', '10000x7.8']);
+im2 = mogrify(im,map, ['-draw'; 'circle 35,40 50,60']);
+-->argv = ['-stroke'     ; 'red' 
+-->        '-fill'       ; 'none' 
+-->        '-draw'       ; 'ellipse 35,40 30,35 0,360' 
+-->        '-stroke'     ; 'green'
+-->        '-strokewidth'; '3'
+-->        '-fill'       ; 'dark gray'
+-->        '-draw'       ; 'polygon 70,90 80,140 170,60 119,80'];
+im2 = mogrify(im,map, argv);
+im2 = mogrify(im,map, ['-emboss', '2']);
+im2 = mogrify(im,map, ['-swirl', '200']);
+b = edge(a,’sobel’,0.15);
+b = gsm2d(a,2);
+c=im2bw(b,0.8);
+imshow(suma_obr,strf='041')
+
+
+
+#PYTHON PIL
+ * http://www.pythonware.com/library/pil/handbook/image.htm
+ * http://effbot.org/imagingbook/image.htm
+ * http://nadiana.com/pil-tutorial-how-create-button-generator
+ * http://www.cazabon.com/pyCMS/
+ * http://www.cazabon.com/pyCMS/PIL_usm.html
+ * http://stackoverflow.com/questions/2034037/image-embossing-in-python-with-pil-adding-depth-azimuth-etc
+
+#GIMP
+ * http://pl.wikibooks.org/wiki/GIMP/Programowanie
+ * http://gimpbook.com/scripting/
+ * http://gimpbook.com/scripting/notes.html
+ * http://registry.gimp.org/
+ * http://www.gimp.org/tutorials/Basic_Batch/
+ * http://www.exp-media.com/content/extending-gimp-python-python-fu-plugins-part-1
+ * http://www.gimp.org/docs/python/index.html
+ * http://wiki.elvanor.net/index.php/GIMP_Scripting
+ * http://www.ibm.com/developerworks/opensource/library/os-autogimp/index.html
+ * http://gimpscripts.com/
+ * http://www.gimp.org/tutorials/Basic_Scheme/
+ * http://python-fu.sourceforge.net/docs.html
+ * http://developer.gimp.org/writing-a-plug-in/1/index.html
+ * http://docs.gimp.org/en/gimp-scripting.html
+ * http://www.jamesh.id.au/software/pygimp/
+ * http://gegl.org/pygegl/
+ * http://www.gegl.org/operations.html
+ * https://build.opensuse.org/package/show?package=gimp-plugin-smartsharp&project=home%3Agarloff%3APhotography
+ * http://www.gimptalk.com/index.php?/topic/29552-python-fu-dragan-effect/
+ * http://ubuntuforums.org/showthread.php?t=555437 
+ * http://69b.org/cms/software/gimp
+ * http://blog.andreabianco.eu/character-speed-painting-and-workflow
+ * http://www.academictutorials.com/gimp/gimp-the-gimp-pdb.asp
+ * http://www.graphics-muse.org/artistsguide/
+ * http://tuxradar.com/gimp
+ * http://www.seul.org/~grumbel/gimp/script-fu/script-fu-tut.html
+ * https://sites.google.com/site/gimpwiki/development/creating-new-pdb-procedures
+ * http://git.gnome.org/browse/gimp/tree/tools/pdbgen/pdb
+ * http://www.blogjava.net/solotim/archive/2007/04/30/114853.html
+ * http://www.gimpusers.com/forums/gimp-user/2404-howto-create-images-with-gimp-python-non-interactive
+ * http://www.gimpdome.com
+
+#DARMOWE POMOCE
+ * http://www.1a-photoshop.de/news/10-kostenlose-rost-texturen-gratis-downloaden/
+ * http://www.1a-photoshop.de/news/rost-textur-pack-ii-10-rostige-texturen-gratis-downloaden/
+ * http://www.1a-photoshop.de/news/10-kostenlose-rost-texturen-gratis-downloaden/
+
+
+ * http://en.wikipedia.org/wiki/Digital_image_processing
+#DIP in R
+ * http://www.jstatsoft.org/v19/i01/paper
+
+#TYPING
+ * http://www.typingweb.com
+
+#Programy do zainstalowania (jak się uda, to dobrze):
+python
+easy_python
+ * http://stackoverflow.com/questions/4930216/how-to-install-easy-install-in-python-2-7-1-on-windows-7
+pyopencv
+pygegl
+gimp-perl-2.2_pre1
+gimp-2.6.12
+gimp-arrow-brushes-20120122
+gimp-texturize-plugin-2.1
+gimp-gmic-1.5.0.9
+gimp-lqr-0.7.1
+gimp-resynthesizer-0.16
+gimp-greycstoration-2.9
+g-octave-0.4.1-r2
+octave-3.6.0
+octave-epstk-2.3
+qtoctave-0.10.1
+Toolboxy do octave: http://www.csse.uwa.edu.au/~pk/research/matlabfns/
+opencv-2.3.1a-r1
+scilab-4.1.2-r3
+Toolboxy do scilaba: http://siptoolbox.sourceforge.net/, http://sivp.sourceforge.net/
+ufraw
+rawtherapee
+
