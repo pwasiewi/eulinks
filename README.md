@@ -1,3 +1,6 @@
+#lxc conteners control grups
+https://en.wikipedia.org/wiki/Cgroups
+
 #dlaczego docker
 http://blog.pierreroudier.net/2015/08/docker-vs-kvm-vs-native-performance-comparison/
 
