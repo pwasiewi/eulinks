@@ -283,6 +283,52 @@ git clone git://github.com/nicolasgramlich/AndEngineScriptingExtension.git
  * http://www.andengine.org/forums/tutorials/mimminito-s-tutorial-list-t417.html)
 
 ###GDX
+ * [Polski
+   Tutor](https://www.youtube.com/playlist?list=PLFq6ri1W22hyyGVo7pmTMstd-pZWZBmRg)
+ * [C4Cheats
+   Youtube](https://www.youtube.com/playlist?list=PLvnEciYMRSk-l5oKsIsbrBbP2ZJFSZLns)
+ * [Najlepsze tutoriale po
+   angielsku](http://www.appance.com/best-libgdx-gamedev-tutorials/)
+ * https://github.com/pwasiewi/overlap2d
+ * http://www.gamefromscratch.com/
+ * http://libgdx.badlogicgames.com/
+ * http://www.aurelienribon.com/blog/
+ * http://www.gamefromscratch.com/page/LibGDX-Tutorial-series.aspx
+####Wspomnieć można jeśli są problemy z uruchomieniem o kursach po polsku: libgdx kurs po polsku - kółko i krzyżyk -
+ * http://www.gamedev.pl/txt/wstep-do-libgdx
+####libgdx kurs po polsku - bijatyka -
+ * http://www.gamedev.pl/txt/gdxcombat--bijatyka-na-libgdx
+####Repozytoria polskich developerów:
+ * https://github.com/kotcrab?tab=repositories
+
+####A po angielsku:
+ * http://www.norakomi.com/tutorial_admob_introduction.php
+ * http://www.mets-blog.com/category/libgdx/
+ * http://www.codeproject.com/Articles/702957/Create-your-first-Android-Game-with-libgdx
+ * [Tutor lista video na youtube](https://www.youtube.com/playlist?list=PLXY8okVWvwZ0JOwHiH1TntAdq-UDPnC2L)
+ * [1.5h tutor](https://www.youtube.com/watch?v=_rVS1zHThZ0)
+ * http://www.kilobolt.com/unit-1-building-the-game.html
+####czyli w rozwinięciu:
+ * http://www.kilobolt.com/day-1-flappy-bird---an-in-depth-analysis.html
+ * http://www.kilobolt.com/day-2-setting-up-libgdx.html
+ * http://www.kilobolt.com/day-3-understanding-the-libgdx-framework.html
+ * http://www.kilobolt.com/day-4-gameworld-and-gamerenderer-and-the-orthographic-camera.html
+ * http://www.kilobolt.com/day-5-the-flight-of-the-dead---adding-the-bird.html
+ * http://www.kilobolt.com/day-6-adding-graphics---welcome-to-the-necropolis.html
+ * http://www.kilobolt.com/day-7-the-grass-the-bird-and-the-skull-pipe.html
+ * http://www.kilobolt.com/day-8-collision-detection-and-sound-effects.html
+ * http://www.kilobolt.com/day-9-finishing-gameplay-and-basic-ui.html
+ * http://www.kilobolt.com/day-10-gamestates-and-high-score.html
+ * http://www.kilobolt.com/day-11-supporting-iosandroid--splashscreen-menus-and-tweening.html
+ * http://www.kilobolt.com/day-12-completed-ui--source-code.html
+
+ * http://williammora.com/a-running-game-with-libgdx-part-1/
+ * http://williammora.com/a-running-game-with-libgdx-part-2/
+ * http://williammora.com/a-running-game-with-libgdx-part-3/
+ * http://williammora.com/a-running-game-with-libgdx-part-4/
+ * http://williammora.com/a-running-game-with-libgdx-part-5/
+####I inne tutoriale:
+ * https://github.com/libgdx/libgdx/wiki/External-tutorials
  * [libgdx gra po polsku - kółko i krzyżyk](http://www.gamedev.pl/txt/wstep-do-libgdx)
  * [libgdx gra po polsku - bijatyka](http://www.gamedev.pl/txt/gdxcombat--bijatyka-na-libgdx)
  * [libgdx gra po angielsku](http://www.kilobolt.com/unit-1-building-the-game.html)
