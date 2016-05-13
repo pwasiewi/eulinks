@@ -1,0 +1,69 @@
+#do projektu serwer zadań do rozwiązania z podpowiedziami
+https://www.kaggle.com/competitions
+
+#kurs maszynowego uczenia w Octave 
+https://www.coursera.org/learn/machine-learning/home/welcome
+http://www.holehouse.org/mlclass/index.html
+https://github.com/emersonmoretto/mlclass-ex1
+https://github.com/schneems/Octave
+#kurs maszynowego uczenia - python
+https://www.udacity.com/course/intro-to-machine-learning--ud120
+https://github.com/antran89/ud120-projects
+https://github.com/zfz/ud120
+#kurs maszynowego uczenia w R
+https://www.datacamp.com/courses?utm_source=machine_learning_post
+#DataMining in R
+http://www.rdatamining.com/
+http://www.rdatamining.com/examples
+#kursy statystycznego uczenia się
+http://www.r-bloggers.com/online-class-on-statistical-learning/
+
+#Tutoriale języka R
+http://www.skilledup.com/articles/18-free-tutorials-learning-r-programming 
+http://www.statslectures.com/index.php/r-stats-videos-tutorials
+#Jeden z wielu tutoriali QuickR
+http://www.statmethods.net/
+#W skrócie cały R
+http://personality-project.org/r/r.guide.html
+#szybki wstęp
+http://www.datasciencecentral.com/m/blogpost?id=6448529:BlogPost:415828
+#np. jedna z metod
+http://www.statmethods.net/management/reshape.html
+
+#porównanie R z pythonem
+https://www.dataquest.io/blog/python-vs-r/
+
+http://www.inside-r.org/packages/cran/rockchalk/docs/mvrnorm
+http://www.sthda.com/english/wiki/visualize-correlation-matrix-using-correlogram
+http://www.r-bloggers.com/visualizing-neural-networks-in-r-update/
+
+http://graphlab.org/
+
+https://gist.github.com/mick001/49fad7f4c6112d954aff
+
+https://beckmw.wordpress.com/2013/02/05/collinearity-and-stepwise-vif-selection/
+http://www.r-bloggers.com/visualizing-neural-networks-from-the-nnet-package/ 
+
+http://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/
+
+#książka http://www-bcf.usc.edu/~gareth/ISL/code.html
+#rozwiązania
+
+https://github.com/asadoughi/stat-learning
+
+#2-dim maps http://www.r-bloggers.com/self-organising-maps-for-customer-segmentation-using-r-2/
+#tutorials http://www.r-bloggers.com/how-to-learn-r-2/
+
+
+http://www.stevebronder.com/news/2014/8/3/8el0szzsaxhfiljvkf8f4uty2yiinh
+
+http://hunch.net/~jl/projects/RL/RLTheoryTutorial.pdf
+
+#podstawy R
+https://github.com/jincheng9/R-in-Action
+http://www.ioz.pwr.wroc.pl/Pracownicy/kaplon/R/R_pods_jezyka_obiekty.htm
+
+Opencl2.0 https://anteru.net/2013/07/23/2164/
+
+Android Opencl i inne https://github.com/Itseez/opencv/tree/master/samples/android 
+
