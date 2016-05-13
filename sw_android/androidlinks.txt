@@ -32,7 +32,8 @@ adb install -r  /opt/android-ndk-r7b/samples/bitmap-plasma/bin/Plasma-debug.apk
 ###wykłady, GIGANTYCZNE TUTORY i pytania o sensory
  * [Programy OpenSource](http://www.aopensource.com)
  * [Programy OpenSource w aplikacji](https://f-droid.org/)
- * [Biblioteki Androida](http://forum.xda-developers.com/showthread.php?t=2226547
+ * [Biblioteki
+   Androida](http://forum.xda-developers.com/showthread.php?t=2226547)
  * [Zestaw wykładów z programowania Java Android](https://www.udacity.com)
  * [Android Wear](http://www.androprogrammer.com/2015/05/android-wear-how-to-send-data-from.html)
  * [Najlepsze tutoriale po angielsku](http://www.diygenius.com/how-to-learn-android-app-development-online/)
@@ -66,7 +67,8 @@ adb install -r  /opt/android-ndk-r7b/samples/bitmap-plasma/bin/Plasma-debug.apk
  * [Tutorial video 2012](http://freevideolectures.com/Course/2981/Android-Application-Development-Spring-2012#)
  * [Tutorial 2009](http://webhosting.pl/Programowanie.w.srodowisku.Android.wprowadzenie.do.projektowania.aplikacji.dla.urzadzen.mobilnych)
  * [Polskie tutoriale 2011](http://www.android4devs.pl/)
- * [Tutorial - małe zręczne przykłady - 2012](http://www.mkyong.com/tutorials/android-tutorial/
+ * [Tutorial - małe zręczne przykłady -
+   2012](http://www.mkyong.com/tutorials/android-tutorial/)
  * [Starsze polskie kursy na portalu rozryfka - 2011](http://www.rozryfka.pl/kurs-kZ6Ah7looa5!r5M.html)
  * [Kurs video po polsku 2009](http://www.youtube.com/watch?v=x6SCfIvjjWY&feature=related)
  * [Słynny kurs Marakany po angielsku](http://www.binboy.org/android/tutorials/618/Kurs_programowania_na_Androida.html)
