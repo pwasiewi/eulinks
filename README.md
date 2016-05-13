@@ -9,6 +9,8 @@ https://en.wikipedia.org/wiki/LXC
 
 https://wiki.gentoo.org/wiki/LXC
 
+https://l3net.wordpress.com/2013/08/25/debian-virtualization-lxc-network-isolation/
+
 #dlaczego docker
 http://blog.pierreroudier.net/2015/08/docker-vs-kvm-vs-native-performance-comparison/
 
