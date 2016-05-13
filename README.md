@@ -16,6 +16,8 @@ http://blog.pierreroudier.net/2015/08/docker-vs-kvm-vs-native-performance-compar
 
 https://github.com/thewmf/kvm-docker-comparison 
 
+https://docs.docker.com/engine/installation/linux/gentoolinux/
+
 ####źródła dla linku powyżej
 http://www.tutorialspoint.com/unix_commands/numactl.htm
 
