@@ -1,243 +1,243 @@
-https://github.com/vhf/free-programming-books
-http://thenextweb.com/dd/2012/10/21/so-you-want-to-be-a-programmer-huh-heres-25-ways-to-learn-online/
-http://www.tutorialspoint.com/codingground.htm
-http://www.commandlinefu.com/commands/browse
+ * https://github.com/vhf/free-programming-books
+ * http://thenextweb.com/dd/2012/10/21/so-you-want-to-be-a-programmer-huh-heres-25-ways-to-learn-online/
+ * http://www.tutorialspoint.com/codingground.htm
+ * http://www.commandlinefu.com/commands/browse
 
 
 Bash:
-http://dief.republika.pl/main.html
-http://leksykot.top.hell.pl/tech/bash_string
-http://pl.wikipedia.org/wiki/Bash
-http://andyk.pg.gda.pl/skrypty/
-http://www.ii.pw.edu.pl/~gjb/unix/
-http://freeos.com/guides/lsst/
-http://en.kioskea.net/faq/shell-371
+ * http://dief.republika.pl/main.html
+ * http://leksykot.top.hell.pl/tech/bash_string
+ * http://pl.wikipedia.org/wiki/Bash
+ * http://andyk.pg.gda.pl/skrypty/
+ * http://www.ii.pw.edu.pl/~gjb/unix/
+ * http://freeos.com/guides/lsst/
+ * http://en.kioskea.net/faq/shell-371
 
 Wirtualizacja - instalacja VirtualBoxa
-http://www.altcontroldelete.pl/artykuly/virtualbox-tutorial-tworzenie-konfiguracja-i-uzytkowanie-maszyn-wirtualnych/
+ * http://www.altcontroldelete.pl/artykuly/virtualbox-tutorial-tworzenie-konfiguracja-i-uzytkowanie-maszyn-wirtualnych/
 Wirtualizacja - instalacja linuxa na Virtualboxie:
-http://darkend.pl/blog/?p=81
-http://it-world.pl/2012/07/instalacja-linuxa-na-virtualbox/
-http://bethesignal.org/blog/2011/01/05/how-to-mount-virtualbox-vdi-image/
+ * http://darkend.pl/blog/?p=81
+ * http://it-world.pl/2012/07/instalacja-linuxa-na-virtualbox/
+ * http://bethesignal.org/blog/2011/01/05/how-to-mount-virtualbox-vdi-image/
 
 Docker
-http://siphon9.net/loune/2014/12/docker-in-an-lxc-container-on-gentoo/
-http://wiki.gentoo.org/wiki/LXC
-https://wiki.archlinux.org/index.php/KVM
-http://developer.ubuntu.com/en/snappy/
+ * http://siphon9.net/loune/2014/12/docker-in-an-lxc-container-on-gentoo/
+ * http://wiki.gentoo.org/wiki/LXC
+ * https://wiki.archlinux.org/index.php/KVM
+ * http://developer.ubuntu.com/en/snappy/
 
 Instalacja linuxa:
-http://www.dobreprogramy.pl/Linux-Instalacja-systemu,Demonstracja,11279.html
-http://www.abclinux.com.pl/instalacja-linuxa-ubuntu-windows-obok-linuxa-grub/
-http://www.itwroc.pl/porady-informatyczne/item/9-instalacja-ubuntu-linux-z-usb-/-unetbootin
-https://wiki.archlinux.org/index.php/Maximizing_Performance
-http://www.tuxradar.com/content/make-linux-faster-and-lighter
-http://askubuntu.com/questions/2194/how-can-i-improve-overall-system-performance
-http://www.overclock.net/a/how-to-configure-and-compile-a-custom-linux-kernel-for-ubuntu
+ * http://www.dobreprogramy.pl/Linux-Instalacja-systemu,Demonstracja,11279.html
+ * http://www.abclinux.com.pl/instalacja-linuxa-ubuntu-windows-obok-linuxa-grub/
+ * http://www.itwroc.pl/porady-informatyczne/item/9-instalacja-ubuntu-linux-z-usb-/-unetbootin
+ * https://wiki.archlinux.org/index.php/Maximizing_Performance
+ * http://www.tuxradar.com/content/make-linux-faster-and-lighter
+ * http://askubuntu.com/questions/2194/how-can-i-improve-overall-system-performance
+ * http://www.overclock.net/a/how-to-configure-and-compile-a-custom-linux-kernel-for-ubuntu
 
 
 Vim:
-http://pinkaccordions.homelinux.org/staff/tp/prog/vi/index-VI.html
+ * http://pinkaccordions.homelinux.org/staff/tp/prog/vi/index-VI.html
 
 Emacs:
-http://pinkaccordions.homelinux.org/staff/tp/prog/emacs/refcard/emacsrefcard-pl.pdf
+ * http://pinkaccordions.homelinux.org/staff/tp/prog/emacs/refcard/emacsrefcard-pl.pdf
 
 Online:
-https://codenvy.com/ide/pwasiewi
+ * https://codenvy.com/ide/pwasiewi
 
 AWK:
-http://free.of.pl/a/awk/index.php?sp=linki
-http://www.gentoo.org/doc/pl/articles/
+ * http://free.of.pl/a/awk/index.php?sp=linki
+ * http://www.gentoo.org/doc/pl/articles/
 
 SED:
-http://www.grymoire.com/Unix/Sed.html
+ * http://www.grymoire.com/Unix/Sed.html
 
 Dla zaawansowanych po angielsku:
-http://www.digilife.be/quickreferences/indexe.html
-http://www.linuxforu.com/2011/09/recover-deleted-files-in-linux/
-http://www.opcode.eu.org/abc_of_computing/programing/bash/
-http://www.gnu.org/software/bash/manual/bashref.html
-http://www.tldp.org/LDP/abs/html/
-http://tldp.org/guides.html
-http://www.techbooksforfree.com/
-http://www.cs.berkeley.edu/~brewer/cs262/unix.pdf
-http://www.klauser.com/lxug/
+ * http://www.digilife.be/quickreferences/indexe.html
+ * http://www.linuxforu.com/2011/09/recover-deleted-files-in-linux/
+ * http://www.opcode.eu.org/abc_of_computing/programing/bash/
+ * http://www.gnu.org/software/bash/manual/bashref.html
+ * http://www.tldp.org/LDP/abs/html/
+ * http://tldp.org/guides.html
+ * http://www.techbooksforfree.com/
+ * http://www.cs.berkeley.edu/~brewer/cs262/unix.pdf
+ * http://www.klauser.com/lxug/
 
 Kursy C po polsku:
-http://qvazar.pl/kurs-c/kurs-c.html
-http://pl.wikibooks.org/wiki/C
-http://www.ansic.yoyo.pl/kurs1.html
-http://cpp0x.pl/
-http://pl.wikibooks.org/wiki/C/Wska%C5%BAniki_-_wi%C4%99cej
+ * http://qvazar.pl/kurs-c/kurs-c.html
+ * http://pl.wikibooks.org/wiki/C
+ * http://www.ansic.yoyo.pl/kurs1.html
+ * http://cpp0x.pl/
+ * http://pl.wikibooks.org/wiki/C/Wska%C5%BAniki_-_wi%C4%99cej
 
 Kursy C po angielsku:
-http://courses.skilledup.com/C?price=0
-http://c.learncodethehardway.org/book/
-http://www.beej.us/guide/bgc/output/html/singlepage/bgc.html
-http://www.beej.us/guide/bggdb/
-http://home.netcom.com/~tjensen/ptr/pointers.htm
-http://www.gnu.org/software/libc/manual/html_node/index.html
-http://publications.gbdirect.co.uk/c_book/
-http://www1.cs.columbia.edu/~aya/W3101-01/lectures
-http://www.acm.uiuc.edu/webmonkeys/book/c_guide/
-http://cslibrary.stanford.edu/107/UnixProgrammingTools.pdf
+ * http://courses.skilledup.com/C?price=0
+ * http://c.learncodethehardway.org/book/
+ * http://www.beej.us/guide/bgc/output/html/singlepage/bgc.html
+ * http://www.beej.us/guide/bggdb/
+ * http://home.netcom.com/~tjensen/ptr/pointers.htm
+ * http://www.gnu.org/software/libc/manual/html_node/index.html
+ * http://publications.gbdirect.co.uk/c_book/
+ * http://www1.cs.columbia.edu/~aya/W3101-01/lectures
+ * http://www.acm.uiuc.edu/webmonkeys/book/c_guide/
+ * http://cslibrary.stanford.edu/107/UnixProgrammingTools.pdf
 
 Przykłady programów:
-http://rosettacode.org/wiki/Main_Page
-http://en.wikipedia.org/wiki/Category:Articles_with_example_C_code
+ * http://rosettacode.org/wiki/Main_Page
+ * http://en.wikipedia.org/wiki/Category:Articles_with_example_C_code
 Testy dla początkujących:
-http://pl.spoj.pl/
+ * http://pl.spoj.pl/
 
 Przykładowy program w Allegro:
-http://www.allegro.cc/depot/QuixoGame/
+ * http://www.allegro.cc/depot/QuixoGame/
 
 Przykładowe drzewa binarne w C:
-http://blog.0x1fff.com/2009/09/drzewo-poszukiwan-binarnych-bst.html
-http://4programmers.net/C/Artyku%C5%82y/Drzewa_BST,_wyszukiwanie_liniowe_i_binarne._Por%C3%B3wnanie_szybko%C5%9Bci.
-http://programmuj.blogspot.com/2009/09/implementacja-drzewa-binarnego-bst-c.html
+ * http://blog.0x1fff.com/2009/09/drzewo-poszukiwan-binarnych-bst.html
+ * http://4programmers.net/C/Artyku%C5%82y/Drzewa_BST,_wyszukiwanie_liniowe_i_binarne._Por%C3%B3wnanie_szybko%C5%9Bci.
+ * http://programmuj.blogspot.com/2009/09/implementacja-drzewa-binarnego-bst-c.html
 
 Algorytmy:
-http://www.youtube.com/user/AlgoRythmics/videos
-http://www.algorytm.org/
-http://wazniak.mimuw.edu.pl/index.php?title=Algorytmy_i_struktury_danych
-http://xlinux.nist.gov/dads//
+ * http://www.youtube.com/user/AlgoRythmics/videos
+ * http://www.algorytm.org/
+ * http://wazniak.mimuw.edu.pl/index.php?title=Algorytmy_i_struktury_danych
+ * http://xlinux.nist.gov/dads//
 
 Make i inne:
-http://pl.wikipedia.org/wiki/Make
+ * http://pl.wikipedia.org/wiki/Make
 ftp://ztchs.p.lodz.pl/WDInf/Materialy/Linux/make_opis.pdf
-http://www.eng.hawaii.edu/Tutor/Make/index.html
-http://jakilinux.org/category/aplikacje/konsola/
+ * http://www.eng.hawaii.edu/Tutor/Make/index.html
+ * http://jakilinux.org/category/aplikacje/konsola/
 
 Book about linux (gentoo):
-http://swift.siphos.be/linux_sea/
-http://swift.siphos.be/aglara/
+ * http://swift.siphos.be/linux_sea/
+ * http://swift.siphos.be/aglara/
 
 Filmy o linuxie:
-http://freevideolectures.com/blog/2012/04/5-websites-learning-linux/
+ * http://freevideolectures.com/blog/2012/04/5-websites-learning-linux/
 
 RASPBERRY i INNE
-https://github.com/23ars/linux_gpio_driver
-http://sysprogs.com/VisualKernel/tutorials/raspberry/leddriver/
-http://www.slideshare.net/tusharkute/part-03-file-system-implementation-in-linux?next_slideshow=1
-http://derekmolloy.ie/writing-a-linux-kernel-module-part-1-introduction/
-http://www.cnx-software.com/2014/10/20/add-gpios-to-windows-linux-android-computers-and-devices-with-ftdi-usb-adapters-breakout-boards/
-https://github.com/BLavery/virtual-GPIO
-http://ubuntuforums.org/showthread.php?t=2257681
+ * https://github.com/23ars/linux_gpio_driver
+ * http://sysprogs.com/VisualKernel/tutorials/raspberry/leddriver/
+ * http://www.slideshare.net/tusharkute/part-03-file-system-implementation-in-linux?next_slideshow=1
+ * http://derekmolloy.ie/writing-a-linux-kernel-module-part-1-introduction/
+ * http://www.cnx-software.com/2014/10/20/add-gpios-to-windows-linux-android-computers-and-devices-with-ftdi-usb-adapters-breakout-boards/
+ * https://github.com/BLavery/virtual-GPIO
+ * http://ubuntuforums.org/showthread.php?t=2257681
 
 SYSTEMY OPERACYJNE I STEROWNIKI JADRA LINUXA:
-http://elinux.org/Device_drivers
-http://www.makelinux.net/reference
-http://lwn.net/Kernel/LDD3/
-https://github.com/martinezjavier/ldd3/
-http://lxr.free-electrons.com/
-http://www.libusb.org/
-http://www.beej.us/guide/bgnet/
-http://www.beej.us/guide/bgipc/
+ * http://elinux.org/Device_drivers
+ * http://www.makelinux.net/reference
+ * http://lwn.net/Kernel/LDD3/
+ * https://github.com/martinezjavier/ldd3/
+ * http://lxr.free-electrons.com/
+ * http://www.libusb.org/
+ * http://www.beej.us/guide/bgnet/
+ * http://www.beej.us/guide/bgipc/
 #usb driver kernel
-http://www.linuxjournal.com/article/7353
-http://training.linuxfoundation.org/free-linux-training/linux-training-videos/how-to-build-character-drivers-for-the-linux-kernel
-http://go.linuxfoundation.org/l/6342/charcter-drivers-tutorial-code/y46d9
-http://training.linuxfoundation.org/free-linux-training/linux-training-videos/write-a-real-linux-driver
-http://learnlinuxconcepts.blogspot.in/2014/02/kernel-space-and-user-space.html
-http://tldp.org/LDP/lkmpg/2.6/html/
-http://www.linuxvoice.com/be-a-kernel-hacker/
-http://sysplay.in/blog/
-http://sysplay.in/index.php?pagefile=linux_drivers
-http://sysplay.in/index.php?pagefile=lfy_articles
-http://man7.org/tlpi/
+ * http://www.linuxjournal.com/article/7353
+ * http://training.linuxfoundation.org/free-linux-training/linux-training-videos/how-to-build-character-drivers-for-the-linux-kernel
+ * http://go.linuxfoundation.org/l/6342/charcter-drivers-tutorial-code/y46d9
+ * http://training.linuxfoundation.org/free-linux-training/linux-training-videos/write-a-real-linux-driver
+ * http://learnlinuxconcepts.blogspot.in/2014/02/kernel-space-and-user-space.html
+ * http://tldp.org/LDP/lkmpg/2.6/html/
+ * http://www.linuxvoice.com/be-a-kernel-hacker/
+ * http://sysplay.in/blog/
+ * http://sysplay.in/index.php?pagefile=linux_drivers
+ * http://sysplay.in/index.php?pagefile=lfy_articles
+ * http://man7.org/tlpi/
 Po polsku tutorial:
-http://anadoxin.org/blog/linux-kernel-development-1
-http://www.linuxforu.com/tag/linux-device-drivers-series/
-http://soliduscode.blogspot.com/
-https://www.youtube.com/playlist?list=PL16941B715F5507C5  
-http://www.youtube.com/watch?v=_8ZV-lSVs38
-http://courses.skilledup.com/kernel%20linux?price=0
-http://www.freesoftwaremagazine.com/articles/drivers_linux
-http://kernelnewbies.org/Drivers
-http://pete.akeo.ie/2011/08/writing-linux-device-driver-for-kernels.html
-http://akeo.googlecode.com/files/parrot_sample_linux_driver-0.3.tgz
-http://www.staerk.de/thorsten/index.php/My_Tutorials/Writing_Linux_kernel_modules
-http://linuxforu.com/article_source_code/nov12/rfs_code.tar.bz2
-http://linuxforu.com/article_source_code/aug12/rfs_code.tar.bz2
-http://linuxforu.com/article_source_code/july12/sfs_code.tar.bz2
-http://www.linuxforu.com/2012/06/some-nifty-udev-rules-and-examples/
-http://www.reactivated.net/writing_udev_rules.html
-http://avilar.jogger.pl/2009/01/31/chwila-zabawy-z-udev-em/
-http://www.gentoo.org/doc/pl/udev-guide.xml
-http://www.linuxforu.com/2010/11/kernel-tracing-with-ftrace-part-1/
-http://www.linuxforu.com/2010/12/kernel-tracing-with-ftrace-part-2/
-http://www.linuxforu.com/2010/10/debugging-linux-kernel-with-debugfs/
-http://free-electrons.com/doc/books/ldd3.pdf
-https://github.com/gregkh/usb_tutorial
-http://kernelnewbies.org/KernelHacking
-http://free­electrons.com/redir/lkd3­book.html
-http://pl.wikibooks.org/wiki/Aktualizacja_i_kompilacja_j%C4%85dra_w_Debianie/Konfiguracja_j%C4%85dra
-http://wazniak.mimuw.edu.pl/index.php?title=Systemy_operacyjne
-http://techblog.aasisvinayak.com/kernel-module-programming-tutorial/
-http://www.linuxforu.com/2009/05/a-voyage-to-the-kernel-day-11/
-http://tldp.org/LDP/lkmpg/2.6/lkmpg.pdf
-http://www.kroah.com/lkn/
-http://www.coopj.com/
-http://www.coopj.com/LPD/
-http://www.linuxtopia.org/online_books/linux_kernel/kernel_configuration
-http://www.makelinux.net/kernel_map/
-http://linuxgazette.net/111/ramankutty.html #własny shell
-http://www.yolinux.com/TUTORIALS/ForkExecProcesses.html
-http://www.gnu.org/software/libc/manual/html_node/Implementing-a-Shell.html#Implementing-a-Shell
-https://www.kernel.org/doc/htmldocs/gadget.html
-http://www.kroah.com/log/
-http://stackoverflow.com/questions/11220720/linux-kernel-device-driver-programming
-http://www.tldp.org/LDP/khg/HyperNews/get/devices/devices.html
-http://stackoverflow.com/questions/8516021/proc-create-example-for-kernel-module
-http://pointer-overloading.blogspot.in/2013/09/linux-creating-entry-in-proc-file.html
-https://www.linux.com/learn/linux-training/37985-the-kernel-newbie-corner-kernel-debugging-using-proc-qsequenceq-files-part-1
-http://www.linux.com/learn/linux-career-center/33991-the-kernel-newbie-corner-kernel-and-module-debugging-with-gdb
-http://pointer-overloading.blogspot.in/2013/09/linux-creating-entry-in-proc-file.html
-http://www.ibm.com/developerworks/linux/tutorials/l-harden-server/
-http://students.mimuw.edu.pl/SO/LabLinux/PLIKI/index.html
+ * http://anadoxin.org/blog/linux-kernel-development-1
+ * http://www.linuxforu.com/tag/linux-device-drivers-series/
+ * http://soliduscode.blogspot.com/
+ * https://www.youtube.com/playlist?list=PL16941B715F5507C5  
+ * http://www.youtube.com/watch?v=_8ZV-lSVs38
+ * http://courses.skilledup.com/kernel%20linux?price=0
+ * http://www.freesoftwaremagazine.com/articles/drivers_linux
+ * http://kernelnewbies.org/Drivers
+ * http://pete.akeo.ie/2011/08/writing-linux-device-driver-for-kernels.html
+ * http://akeo.googlecode.com/files/parrot_sample_linux_driver-0.3.tgz
+ * http://www.staerk.de/thorsten/index.php/My_Tutorials/Writing_Linux_kernel_modules
+ * http://linuxforu.com/article_source_code/nov12/rfs_code.tar.bz2
+ * http://linuxforu.com/article_source_code/aug12/rfs_code.tar.bz2
+ * http://linuxforu.com/article_source_code/july12/sfs_code.tar.bz2
+ * http://www.linuxforu.com/2012/06/some-nifty-udev-rules-and-examples/
+ * http://www.reactivated.net/writing_udev_rules.html
+ * http://avilar.jogger.pl/2009/01/31/chwila-zabawy-z-udev-em/
+ * http://www.gentoo.org/doc/pl/udev-guide.xml
+ * http://www.linuxforu.com/2010/11/kernel-tracing-with-ftrace-part-1/
+ * http://www.linuxforu.com/2010/12/kernel-tracing-with-ftrace-part-2/
+ * http://www.linuxforu.com/2010/10/debugging-linux-kernel-with-debugfs/
+ * http://free-electrons.com/doc/books/ldd3.pdf
+ * https://github.com/gregkh/usb_tutorial
+ * http://kernelnewbies.org/KernelHacking
+ * http://free­electrons.com/redir/lkd3­book.html
+ * http://pl.wikibooks.org/wiki/Aktualizacja_i_kompilacja_j%C4%85dra_w_Debianie/Konfiguracja_j%C4%85dra
+ * http://wazniak.mimuw.edu.pl/index.php?title=Systemy_operacyjne
+ * http://techblog.aasisvinayak.com/kernel-module-programming-tutorial/
+ * http://www.linuxforu.com/2009/05/a-voyage-to-the-kernel-day-11/
+ * http://tldp.org/LDP/lkmpg/2.6/lkmpg.pdf
+ * http://www.kroah.com/lkn/
+ * http://www.coopj.com/
+ * http://www.coopj.com/LPD/
+ * http://www.linuxtopia.org/online_books/linux_kernel/kernel_configuration
+ * http://www.makelinux.net/kernel_map/
+ * http://linuxgazette.net/111/ramankutty.html #własny shell
+ * http://www.yolinux.com/TUTORIALS/ForkExecProcesses.html
+ * http://www.gnu.org/software/libc/manual/html_node/Implementing-a-Shell.html#Implementing-a-Shell
+ * https://www.kernel.org/doc/htmldocs/gadget.html
+ * http://www.kroah.com/log/
+ * http://stackoverflow.com/questions/11220720/linux-kernel-device-driver-programming
+ * http://www.tldp.org/LDP/khg/HyperNews/get/devices/devices.html
+ * http://stackoverflow.com/questions/8516021/proc-create-example-for-kernel-module
+ * http://pointer-overloading.blogspot.in/2013/09/linux-creating-entry-in-proc-file.html
+ * https://www.linux.com/learn/linux-training/37985-the-kernel-newbie-corner-kernel-debugging-using-proc-qsequenceq-files-part-1
+ * http://www.linux.com/learn/linux-career-center/33991-the-kernel-newbie-corner-kernel-and-module-debugging-with-gdb
+ * http://pointer-overloading.blogspot.in/2013/09/linux-creating-entry-in-proc-file.html
+ * http://www.ibm.com/developerworks/linux/tutorials/l-harden-server/
+ * http://students.mimuw.edu.pl/SO/LabLinux/PLIKI/index.html
 
 LVM:
-https://wiki.gentoo.org/wiki/LVM
+ * https://wiki.gentoo.org/wiki/LVM
 
 Fsync:
-http://www.spinics.net/lists/kernel/msg1977366.html
+ * http://www.spinics.net/lists/kernel/msg1977366.html
 
 GUID
-http://www.linux.com/learn/tutorials/730440-using-the-new-guid-partition-table-in-linux-good-bye-ancient-mbr-
+ * http://www.linux.com/learn/tutorials/730440-using-the-new-guid-partition-table-in-linux-good-bye-ancient-mbr-
 
 
 Mmap:
-http://www.linuxquestions.org/questions/programming-9/mmap-tutorial-c-c-511265/
-http://en.wikipedia.org/wiki/Mmap
-http://beej.us/guide/bgipc/output/html/multipage/mmap.html
-http://www.lemoda.net/c/mmap-example/
-http://stackoverflow.com/questions/258091/when-should-i-use-mmap-for-file-access
+ * http://www.linuxquestions.org/questions/programming-9/mmap-tutorial-c-c-511265/
+ * http://en.wikipedia.org/wiki/Mmap
+ * http://beej.us/guide/bgipc/output/html/multipage/mmap.html
+ * http://www.lemoda.net/c/mmap-example/
+ * http://stackoverflow.com/questions/258091/when-should-i-use-mmap-for-file-access
 
 
 Patch kernel online:
-http://rhelblog.redhat.com/2014/02/26/kpatch/
-https://github.com/dynup/kpatch
+ * http://rhelblog.redhat.com/2014/02/26/kpatch/
+ * https://github.com/dynup/kpatch
 
 Security:
-http://www.cromwell-intl.com/security/
-http://leakforums.org/forum-24
-http://www.win.tue.nl/~aeb/linux/hh/
-http://www.2600.com
-http://lwn.net/Articles/
+ * http://www.cromwell-intl.com/security/
+ * http://leakforums.org/forum-24
+ * http://www.win.tue.nl/~aeb/linux/hh/
+ * http://www.2600.com
+ * http://lwn.net/Articles/
 
 Parallel in C:
-http://monismith.info/cs599/examples.html
-http://gribblelab.org/CBootcamp/A2_Parallel_Programming_in_C.html
-http://www.codeproject.com/Articles/19065/Begin-Parallel-Programming-With-OpenMP
-https://msdn.microsoft.com/en-us/magazine/cc163717.aspx
-http://people.sc.fsu.edu/~jburkardt/c_src/hello_openmp/hello_openmp.html
+ * http://monismith.info/cs599/examples.html
+ * http://gribblelab.org/CBootcamp/A2_Parallel_Programming_in_C.html
+ * http://www.codeproject.com/Articles/19065/Begin-Parallel-Programming-With-OpenMP
+ * https://msdn.microsoft.com/en-us/magazine/cc163717.aspx
+ * http://people.sc.fsu.edu/~jburkardt/c_src/hello_openmp/hello_openmp.html
 
 Kultowe książki po angielsku o linuxie
-http://www.techbooksforfree.com/linux.shtml
+ * http://www.techbooksforfree.com/linux.shtml
 
 Kultowe filmy instruktażowe i wykłady po angielsku:
-http://www.refseek.com/directory/educational_videos.html
-http://videolectures.net
+ * http://www.refseek.com/directory/educational_videos.html
+ * http://videolectures.net
 
 UWAGI:
 $# to liczba argumentów
@@ -256,90 +256,90 @@ $# to liczba argumentów
 GENTOO INSTALACJA GENTOO INSTALACJA GENTOO INSTALACJA
 
 Standardowo:
-http://www.gentoo.org/doc/pl/handbook/handbook-x86.xml?part=1
-http://pl.gentoo-wiki.com/wiki/Portage
-http://wiki.gentoo.org/wiki/
-http://wiki.sabayon.org/index.php?title=Pl:HOWTO:_Instalacja_oprogramowania_w_Sabayon_/_Kompletny_przewodnik_po_portage
+ * http://www.gentoo.org/doc/pl/handbook/handbook-x86.xml?part=1
+ * http://pl.gentoo-wiki.com/wiki/Portage
+ * http://wiki.gentoo.org/wiki/
+ * http://wiki.sabayon.org/index.php?title=Pl:HOWTO:_Instalacja_oprogramowania_w_Sabayon_/_Kompletny_przewodnik_po_portage
 Tak, z Gentoo nie ma problemu z dokumentacją nawet ich 	
 wewnętrznych ebuildów:
-http://www.youtube.com/watch?v=8aSzB_nEs9k
+ * http://www.youtube.com/watch?v=8aSzB_nEs9k
 
 Po polsku standard:
-http://www.gentoo.org/doc/pl/gentoo-x86-quickinstall.xml
+ * http://www.gentoo.org/doc/pl/gentoo-x86-quickinstall.xml
 
 Niestandardowe:
-http://www.gentoo.org/doc/pl/altinstall.xml
+ * http://www.gentoo.org/doc/pl/altinstall.xml
 
 Po polsku Express:
-http://www.elektroda.pl/rtvforum/topic1528857.html
+ * http://www.elektroda.pl/rtvforum/topic1528857.html
 
 Jaka instalacja, taki linux:
-http://wiki.jakilinux.org/gentoo-instalacja-i-konfiguracja
+ * http://wiki.jakilinux.org/gentoo-instalacja-i-konfiguracja
 
 Pecetmaniak:
-http://pecetmania.pl/linux/instalacja_gentoo.php
+ * http://pecetmania.pl/linux/instalacja_gentoo.php
 
 Forum z informacjami:
-http://forums.gentoo.org/viewforum-f-55.html?sid=5f61763d091673c36135a020835fcf93
+ * http://forums.gentoo.org/viewforum-f-55.html?sid=5f61763d091673c36135a020835fcf93
 
 W pdfie w miarę nowe:
-http://informatyka.3bird.net/download/mylinux/instalacja-gentoo2012-amd64-laptop.pdf
+ * http://informatyka.3bird.net/download/mylinux/instalacja-gentoo2012-amd64-laptop.pdf
 
 portpeek, eix-test-obsolete
-http://forums.gentoo.org/viewtopic-t-782120.html
+ * http://forums.gentoo.org/viewtopic-t-782120.html
 
 WAŻNE INFO O PAKIETACH:
-http://gpo.zugaina.org/x11-libs/libSM
-http://gentoobrowse.randomdan.homeip.net/package/x11-libs/libSM
-https://bugs.gentoo.org/show_bug.cgi?id=487132
+ * http://gpo.zugaina.org/x11-libs/libSM
+ * http://gentoobrowse.randomdan.homeip.net/package/x11-libs/libSM
+ * https://bugs.gentoo.org/show_bug.cgi?id=487132
 
 ebuild
-http://devmanual.gentoo.org/eclass-reference/git-2.eclass/index.html
-http://devmanual.gentoo.org/ebuild-writing/functions/src_install/index.html
+ * http://devmanual.gentoo.org/eclass-reference/git-2.eclass/index.html
+ * http://devmanual.gentoo.org/ebuild-writing/functions/src_install/index.html
 
-http://bradleymacomber.com/ref/Gentoo/
-https://sites.google.com/site/gentoopladaak/install-cheat-sheet
-http://www.baldy.za.net/node/732
-http://gentoovps.net/gentoo-links/
-http://forums.gentoo.org/viewtopic-t-712429-postdays-0-postorder-asc-start-325.html
-http://wayback.archive.org/web/20130301233539/http://en.gentoo-wiki.com/wiki/Main_Page
-http://www.gentoo-wiki.info 
-https://github.com/init6/squashed-portage
+ * http://bradleymacomber.com/ref/Gentoo/
+ * https://sites.google.com/site/gentoopladaak/install-cheat-sheet
+ * http://www.baldy.za.net/node/732
+ * http://gentoovps.net/gentoo-links/
+ * http://forums.gentoo.org/viewtopic-t-712429-postdays-0-postorder-asc-start-325.html
+ * http://wayback.archive.org/web/20130301233539/ * http://en.gentoo-wiki.com/wiki/Main_Page
+ * http://www.gentoo-wiki.info 
+ * https://github.com/init6/squashed-portage
 
 Hardened:
-http://forum.dug.net.pl/viewtopic.php?id=22691
+ * http://forum.dug.net.pl/viewtopic.php?id=22691
 
 SSD:
-http://wiki.debian.org/SSDOptimization?action=show&redirect=SSDoptimization
-http://www.reddit.com/r/Gentoo/comments/13t4ao/installing_gentoo_on_ssd/
-http://wiki.gentoo.org/wiki/SSD
-http://mynixworld.wordpress.com/2011/11/17/gentoo-before-and-after-ssd/
-http://blog.nuclex-games.com/2009/12/aligning-an-ssd-on-linux/
-http://wiki.freeswitch.org/wiki/SSD_Tuning_for_Linux
+ * http://wiki.debian.org/SSDOptimization?action=show&redirect=SSDoptimization
+ * http://www.reddit.com/r/Gentoo/comments/13t4ao/installing_gentoo_on_ssd/
+ * http://wiki.gentoo.org/wiki/SSD
+ * http://mynixworld.wordpress.com/2011/11/17/gentoo-before-and-after-ssd/
+ * http://blog.nuclex-games.com/2009/12/aligning-an-ssd-on-linux/
+ * http://wiki.freeswitch.org/wiki/SSD_Tuning_for_Linux
 
 Systemtap:
-https://sourceware.org/systemtap/tutorial/
-http://gentoobrowse.randomdan.homeip.net/use/systemtap
-http://blog.verbum.org/2011/03/19/analyzing-memory-use-with-systemtap/
-http://en.wikipedia.org/wiki/SystemTap
-https://sourceware.org/systemtap/wiki
-http://my.opera.com/pacho/blog/2013/08/27/how-to-write-proper-systemd-unit-files
+ * https://sourceware.org/systemtap/tutorial/
+ * http://gentoobrowse.randomdan.homeip.net/use/systemtap
+ * http://blog.verbum.org/2011/03/19/analyzing-memory-use-with-systemtap/
+ * http://en.wikipedia.org/wiki/SystemTap
+ * https://sourceware.org/systemtap/wiki
+ * http://my.opera.com/pacho/blog/2013/08/27/how-to-write-proper-systemd-unit-files
 
 GNOME3
-http://blog.fpmurphy.com/2011/04/gnome-3-shell-extensions.html
+ * http://blog.fpmurphy.com/2011/04/gnome-3-shell-extensions.html
 
 Wirtualizacja lxc gentoo
-http://wiki.gentoo.org/wiki/LXC
-http://containerops.org/2013/11/19/lxc-networking/
-http://www.linuxjournal.com/article/10821
+ * http://wiki.gentoo.org/wiki/LXC
+ * http://containerops.org/2013/11/19/lxc-networking/
+ * http://www.linuxjournal.com/article/10821
 
 INNE SYSTEMY
-http://en.wikipedia.org/wiki/Comparison_of_open-source_configuration_management_software
-https://coreos.com/docs/quickstart/
-https://wiki.qubes-os.org/
+ * http://en.wikipedia.org/wiki/Comparison_of_open-source_configuration_management_software
+ * https://coreos.com/docs/quickstart/
+ * https://wiki.qubes-os.org/
 
 ADMIN:
-http://www.linuxjournal.com/content/lvm-demystified
+ * http://www.linuxjournal.com/content/lvm-demystified
 
 
 
