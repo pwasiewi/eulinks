@@ -29,6 +29,8 @@
  * http://www.datasciencecentral.com/m/blogpost?id=6448529:BlogPost:415828
 #np. jedna z metod
  * http://www.statmethods.net/management/reshape.html
+#boost in R
+ * http://www.r-bloggers.com/introducing-the-bh-package/
 
 #porównanie R z pythonem
  * https://www.dataquest.io/blog/python-vs-r/
