@@ -6,22 +6,15 @@ android update project -p . -s -t 1
 ant debug
 adb install -r  /opt/android-ndk-r7b/samples/bitmap-plasma/bin/Plasma-debug.apk
 
+
 ###Edytory i tools
+ * [Android Studio Tutorial](http://code.tutsplus.com/tutorials/android-sdk-working-with-android-studio--mobile-20203)
  * [Android Studio - idea intellij dla Androida](http://developer.android.com/sdk/)
  * [Genymotion - komercyjny emulator](https://www.genymotion.com)
  * [Calabash - testowania aplikacji](http://calaba.sh)
  * [Jenkins CI - kompilacja ciągła](http://jenkins-ci.org)
  * [Mirror - szybki podgląd ui](http://jimulabs.com)
  * [Narzędzia dla Androida](http://j.mp/androidassetstudio)
- * [Android Studio](http://code.tutsplus.com/tutorials/android-sdk-working-with-android-studio--mobile-20203)
- * [Free programming books](https://raw.githubusercontent.com/vhf/free-programming-books/master/free-programming-books.md#agda)
- * [Vogella Tutors](http://www.vogella.com/tutorials/android.html)
- * http://www.freewaregenius.com/twenty-five-free-online-tutorials-for-learning-android-programming/
- * http://www.coreservlets.com/android-tutorial/
- * http://cs76.tv/2011/spring/
- * [Gradle tutorial](http://rominirani.com/2014/07/28/gradle-tutorial-series-an-overview/)
- * [Android Studio Game Course](https://goo.gl/vkfX7s)
- * []()
 
 ###CHMURY W ANDROIDZIE
  * [Popularny serwer w chmurze](https://parse.com/docs/android_guide)
@@ -30,10 +23,17 @@ adb install -r  /opt/android-ndk-r7b/samples/bitmap-plasma/bin/Plasma-debug.apk
  * [Wszystkie UE4](http://goo.gl/fs2S8S)
 
 ###wykłady, GIGANTYCZNE TUTORY i pytania o sensory
+ * [Android Arsenal - zbiór bibliotek](https://android-arsenal.com/)
  * [Programy OpenSource](http://www.aopensource.com)
  * [Programy OpenSource w aplikacji](https://f-droid.org/)
- * [Biblioteki
-   Androida](http://forum.xda-developers.com/showthread.php?t=2226547)
+ * [Biblioteki Androida](http://forum.xda-developers.com/showthread.php?t=2226547)
+ * [Free programming Android books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#android)
+ * [Vogella Tutors](http://www.vogella.com/tutorials/android.html)
+ * http://www.freewaregenius.com/twenty-five-free-online-tutorials-for-learning-android-programming/
+ * http://www.coreservlets.com/android-tutorial/
+ * http://cs76.tv/2011/spring/
+ * [Gradle tutorial](http://rominirani.com/2014/07/28/gradle-tutorial-series-an-overview/)
+ * [Android Studio Game Course](https://goo.gl/vkfX7s)
  * [Zestaw wykładów z programowania Java Android](https://www.udacity.com)
  * [Android Wear](http://www.androprogrammer.com/2015/05/android-wear-how-to-send-data-from.html)
  * [Najlepsze tutoriale po angielsku](http://www.diygenius.com/how-to-learn-android-app-development-online/)
