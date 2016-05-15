@@ -264,7 +264,9 @@
  * https://github.com/portmobile/LAGP-Example-Code)
 
 ###ANDDEV
- * https://github.com/nicolasgramlich/AndEngine)
+ * https://github.com/nicolasgramlich/AndEngine
+
+```
 git clone git://github.com/nicolasgramlich/AndEngine.git
 git clone git://github.com/nicolasgramlich/AndEngineExamples.git
 git clone git://github.com/nicolasgramlich/AndEnginePhysicsBox2DExtension.git
@@ -276,6 +278,8 @@ git clone git://github.com/nicolasgramlich/AndEngineMultiplayerExtension.git
 git clone git://github.com/nicolasgramlich/AndEngineLiveWallpaperExtension.git
 git clone git://github.com/nicolasgramlich/AndEngineTMXTiledMapExtension.git
 git clone git://github.com/nicolasgramlich/AndEngineScriptingExtension.git
+```
+
  * http://www.mybringback.com/series/andengine-gles2-android-game-development/)
  * http://www.andengine.org/forums/tutorials/getting-started-with-andengine-t11-80.html)
  * http://www.andengine.org/forums/tutorials/updated-getting-started-with-andengine-t4858.html)
