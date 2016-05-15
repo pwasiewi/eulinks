@@ -1,10 +1,10 @@
-﻿ * http://developer.android.com/sdk/ndk/overview.html#samples
-export PATH=$PATH:/opt/android-ndk/:/opt/android-sdk-linux/platform-tools/:/opt/android-sdk-linux/tools/
-android list targets
-cd <android app>
-android update project -p . -s -t 1
-ant debug
-adb install -r  /opt/android-ndk-r7b/samples/bitmap-plasma/bin/Plasma-debug.apk
+ * http://developer.android.com/sdk/ndk/overview.html#samples
+   export PATH=$PATH:/opt/android-ndk/:/opt/android-sdk-linux/platform-tools/:/opt/android-sdk-linux/tools/
+   android list targets
+   cd <android app>
+   android update project -p . -s -t 1
+   ant debug
+   adb install -r  /opt/android-ndk-r7b/samples/bitmap-plasma/bin/Plasma-debug.apk
 
 
 ###Edytory i tools
