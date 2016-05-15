@@ -26,6 +26,7 @@
  
 ###DEVELOPERZY
  * https://github.com/JakeWharton
+ * http://antonioleiva.com/
 
 ###wykłady, GIGANTYCZNE TUTORY i pytania o sensory
  * [Android Arsenal - zbiór bibliotek](https://android-arsenal.com/)
