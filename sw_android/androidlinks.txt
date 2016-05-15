@@ -305,10 +305,13 @@ git clone git://github.com/nicolasgramlich/AndEngineScriptingExtension.git
  * http://libgdx.badlogicgames.com/
  * http://www.aurelienribon.com/blog/
  * http://www.gamefromscratch.com/page/LibGDX-Tutorial-series.aspx
+ 
 ####Wspomnieć można jeśli są problemy z uruchomieniem o kursach po polsku: libgdx kurs po polsku - kółko i krzyżyk -
  * http://www.gamedev.pl/txt/wstep-do-libgdx
+ 
 ####libgdx kurs po polsku - bijatyka -
  * http://www.gamedev.pl/txt/gdxcombat--bijatyka-na-libgdx
+ 
 ####Repozytoria polskich developerów:
  * https://github.com/kotcrab?tab=repositories
 
@@ -319,6 +322,7 @@ git clone git://github.com/nicolasgramlich/AndEngineScriptingExtension.git
  * [Tutor lista video na youtube](https://www.youtube.com/playlist?list=PLXY8okVWvwZ0JOwHiH1TntAdq-UDPnC2L)
  * [1.5h tutor](https://www.youtube.com/watch?v=_rVS1zHThZ0)
  * http://www.kilobolt.com/unit-1-building-the-game.html
+ 
 ####czyli w rozwinięciu:
  * http://www.kilobolt.com/day-1-flappy-bird---an-in-depth-analysis.html
  * http://www.kilobolt.com/day-2-setting-up-libgdx.html
@@ -338,6 +342,7 @@ git clone git://github.com/nicolasgramlich/AndEngineScriptingExtension.git
  * http://williammora.com/a-running-game-with-libgdx-part-3/
  * http://williammora.com/a-running-game-with-libgdx-part-4/
  * http://williammora.com/a-running-game-with-libgdx-part-5/
+ 
 ####I inne tutoriale:
  * https://github.com/libgdx/libgdx/wiki/External-tutorials
  * [libgdx gra po polsku - kółko i krzyżyk](http://www.gamedev.pl/txt/wstep-do-libgdx)
@@ -389,11 +394,14 @@ git clone git://github.com/nicolasgramlich/AndEngineScriptingExtension.git
  * http://cpp0x.pl/kursy/Kurs-SDL-C++/22)
  * http://www.sdltutorials.com/)
 hg clone http://hg.libsdl.org/SDL)
+
 ###działający port SDL2 na Androida)
 git clone git://github.com/xorange/SDL2-port-for-android.git)
+
 ###port SDL1.3 na Androida (już nie rozwijany, ale wiele gier))
  * http://www.anddev.org/sdl_port_for_android_sdk-ndk_16-t9218.html)
  * https://github.com/pelya/commandergenius)
+ 
 ###dyskusja nad nowym portem SDL2)
  * http://wilbefast.com/2011/11/11/recent-sdl-android-goodies/)
  * http://www.kekkai.org/roger/sdl/rwops/rwops.html)
@@ -507,6 +515,7 @@ git clone git://github.com/xorange/SDL2-port-for-android.git)
 
 ###Video Kursy:
  * http://sdjournal.org/kursy-video)
+ 
 ###Video Java dla opornych:
  * http://www.youtube.com/watch?v=8stFGEMs7sg)
  * http://www.youtube.com/watch?v=hd8zD6Q55qM)
@@ -593,17 +602,21 @@ git clone git://github.com/xorange/SDL2-port-for-android.git)
  * http://tjws.sourceforge.net/)
  * http://stackoverflow.com/questions/1186328/embedded-http-server-in-swing-java-app)
  * http://scalatra.org/)
+
 ###FORK JAVA
  * http://www.oracle.com/technetwork/articles/java/fork-join-422606.html)
  * http://docs.oracle.com/javase/tutorial/essential/concurrency/forkjoin.html)
  * http://jaceklaskowski.pl/prezentacje/JacekLaskowski-EclipseDemoCamp2011-ConcurrencyUtilitiesJava7-2011.11.08.pdf)
  * http://akuma.kohsuke.org/)
  * http://www.javacodegeeks.com/2011/02/java-forkjoin-parallel-programming.html)
+
 ###THREADS
  * http://pl.wikipedia.org/wiki/W%C4%85tek_%28informatyka%29)
+
 ###THREAD JAVA
  * http://kodatnik.blogspot.com/2011/06/watki-w-javie-podstawy.html)
  * http://sourceforge.net/projects/javaconcurrenta/?source=dlp)
+
 ###SHELL JAVA
  * http://code.google.com/p/cliche/)
 
@@ -672,6 +685,4 @@ git clone git://github.com/xorange/SDL2-port-for-android.git)
  * http://www.caveofprogramming.com/youtube/)
  * http://stackoverflow.com/questions/382623/what-are-your-3-most-important-programming-patterns-and-why)
  * http://stackoverflow.com/questions/2395315/most-important-and-frequently-used-design-patterns)
-                                                                                                                                              
-																																			  
-
+                                                            
