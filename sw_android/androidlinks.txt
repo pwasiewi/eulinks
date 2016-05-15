@@ -15,12 +15,16 @@ adb install -r  /opt/android-ndk-r7b/samples/bitmap-plasma/bin/Plasma-debug.apk
  * [Jenkins CI - kompilacja ciągła](http://jenkins-ci.org)
  * [Mirror - szybki podgląd ui](http://jimulabs.com)
  * [Narzędzia dla Androida](http://j.mp/androidassetstudio)
-
-###CHMURY W ANDROIDZIE
- * [Popularny serwer w chmurze](https://parse.com/docs/android_guide)
+ * [Popularna chmura](https://parse.com/docs/android_guide)
+ * http://google.github.io/dagger/
+ 
 
 ###POKREWNE
  * [Wszystkie UE4](http://goo.gl/fs2S8S)
+ * https://github.com/cSploit/android
+ 
+###DEVELOPERZY
+ * https://github.com/JakeWharton
 
 ###wykłady, GIGANTYCZNE TUTORY i pytania o sensory
  * [Android Arsenal - zbiór bibliotek](https://android-arsenal.com/)
