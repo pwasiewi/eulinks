@@ -1,4 +1,4 @@
- * http://developer.android.com/sdk/ndk/overview.html#samples
+###Polecenia z linii komendy 
   
 ```
    export PATH=$PATH:/opt/android-ndk/:/opt/android-sdk-linux/platform-tools/:/opt/android-sdk-linux/tools/
@@ -18,6 +18,7 @@
  * [Mirror - szybki podgląd ui](http://jimulabs.com)
  * [Narzędzia dla Androida](http://j.mp/androidassetstudio)
  * [Popularna chmura](https://parse.com/docs/android_guide)
+ * http://developer.android.com/sdk/ndk/overview.html#samples
  * http://google.github.io/dagger/
  
 
