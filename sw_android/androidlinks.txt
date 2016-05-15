@@ -1,5 +1,6 @@
  * http://developer.android.com/sdk/ndk/overview.html#samples
    
+   
    export PATH=$PATH:/opt/android-ndk/:/opt/android-sdk-linux/platform-tools/:/opt/android-sdk-linux/tools/
    android list targets
    cd <android app>
