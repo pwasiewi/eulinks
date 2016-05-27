@@ -1,6 +1,7 @@
  * http://bigdatauniversity.com/
 
 #NOSQL
+ * https://www.javacodegeeks.com/2015/10/nosql-vs-sql.html
  * http://stackoverflow.com/questions/2285045/what-scalability-problems-have-you-solved-using-a-nosql-data-store?rq=1
  * http://nosql-database.org/
  * http://nosqltapes.com/
@@ -75,9 +76,11 @@
  * http://www.datastax.com/docs/0.8/brisk/install_brisk_packages#install-brisk-pkg
  * http://www.dbms2.com/2012/03/27/datastax-enterprise-and-cassandra-revisited/
  * http://www.quora.com/How-does-HBase-write-performance-differ-from-write-performance-in-Cassandra-with-consistency-level-ALL
+```
 git clone http://git-wip-us.apache.org/repos/asf/cassandra.git
 cd cassandra/
 ant
+```
  * http://github.com/apache/cassandra/blob/trunk/doc/cql/CQL.textile
  * http://code.google.com/a/apache-extras.org/p/cassandra-dbapi2/
  * https://github.com/pcmanus/cassandra/blob/3779/doc/cql3/CQL.textile
@@ -112,44 +115,62 @@ ant
  * http://zenobius.zeno.pl/archives/511/opinie/mongodb-baza-zorientowana-w-okol-dokumentow-nosql-schema-free
  * http://datasyndrome.com/post/14631249157/mongodb-is-web-scale-hadoop-mongodb
  * https://github.com/mongodb/mongo-hadoop
-Problemy tuningu:
+ 
+####Problemy tuningu:
  * http://highscalability.com/blog/2011/9/13/must-see-5-steps-to-scaling-mongodb-or-any-db-in-8-minutes.html
-Try .explain():
+ 
+####Try .explain():
  * http://stackoverflow.com/questions/7658228/mongodb-count-is-very-slow-how-do-we-refine-work-around-with-it
-Add explicit hints for index:
+ 
+####Add explicit hints for index:
  * http://stackoverflow.com/questions/9734962/simple-mongodb-query-very-slow-although-index-is-set
-A full heap?:
+ 
+####A full heap?:
  * http://stackoverflow.com/questions/11111281/insert-performance-of-node-mongodb-native
-The end of memory space for collection:
+ 
+####The end of memory space for collection:
  * http://stackoverflow.com/questions/6423988/how-to-improve-performance-of-update-and-save-in-mongodb
-Special read clustering:
+ 
+####Special read clustering:
  * http://www.colinhowe.co.uk/2011/02/23/mongodb-performance-for-data-bigger-than-memor/
-Global write lock?:
+ 
+####Global write lock?:
  * http://stackoverflow.com/questions/9062758/mongodb-bad-performance
-Slow logs performance track:
+ 
+####Slow logs performance track:
  * http://stackoverflow.com/questions/4400104/track-mongodb-performance
-Rotate your logs:
+ 
+####Rotate your logs:
  * http://stackoverflow.com/questions/5699152/does-logging-output-to-an-output-file-affect-mongodb-performance
-Use profiler:
+ 
+####Use profiler:
  * http://www.mongodb.org/display/DOCS/Database+Profiler
-Move some collection caches to RAM:
+ 
+####Move some collection caches to RAM:
  * http://stackoverflow.com/questions/13374342/mongodb-preload-documents-into-ram-for-better-performance
  * http://blog.serverdensity.com/mongodb-monitoring-keep-in-it-ram/
  * http://stackoverflow.com/questions/6453584/what-does-it-mean-to-fit-working-set-into-ram-for-mongodb
-Some ideas about collection allocation size:
+ 
+####Some ideas about collection allocation size:
  * http://stackoverflow.com/questions/12236794/mongodb-data-schema-performance
-Use separate collections:
+ 
+####Use separate collections:
  * http://stackoverflow.com/questions/9306815/mongodb-performance-with-growing-data-structure
-A single query can only use one index (better is a compound one):
+
+####A single query can only use one index (better is a compound one):
  * http://stackoverflow.com/questions/12502642/why-is-this-mongodb-query-so-slow
-A missing key?:
+
+####A missing key?:
  * http://stackoverflow.com/questions/8720535/slow-mongodb-query-can-you-explain-why
-Maybe shards:
+
+####Maybe shards:
  * http://stackoverflow.com/questions/2599943/mongodbs-performance-on-aggregation-queries
  * http://highscalability.com/blog/2010/10/15/troubles-with-sharding-what-can-we-learn-from-the-foursquare.html
-Improving performance stackoverflow links:
+
+####Improving performance stackoverflow links:
  * http://stackoverflow.com/a/7635093/602018
-A good point for further sharding replica education is:
+
+####A good point for further sharding replica education is:
  * https://education.10gen.com/courses
 
 
