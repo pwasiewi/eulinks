@@ -56,6 +56,7 @@
   - http://discussions.citrix.com/topic/366729-about-xenserver-glusterfs/page-2#entry1917700
   - http://arstechnica.com/information-technology/2014/01/bitrot-and-atomic-cows-inside-next-gen-filesystems/
   - http://www.gluster.org/community/documentation/index.php/GlusterOnZFS
+  - https://github.com/gluster/gluster-tutorial
 
 ###LDAP, RADIUS, VPN, JUMPCLOUD
   - http://www.ldapman.org/articles/intro_to_ldap.html
