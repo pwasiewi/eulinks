@@ -34,6 +34,7 @@
  * http://bigdatauniversity.com/
  
 #COUCHDB
+ * http://www.couchbase.com/couchbase-vs-couchdb
  * http://guide.couchdb.org/editions/1/en/index.html
  * http://www.ibm.com/developerworks/opensource/library/os-couchdb/index.html
  * http://nosql.mypopescu.com/post/296530101/mongodb-vs-couchdb
