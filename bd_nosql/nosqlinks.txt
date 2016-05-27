@@ -23,7 +23,8 @@
  * http://dba.stackexchange.com/questions/607/what-is-a-key-value-store-database
 
 #NOWE NOSQL DB
-
+  - https://github.com/cockroachdb/cockroach
+  - https://crate.io/
 
 #HYPERGRAPH
  * http://www.hypergraphdb.org/index
