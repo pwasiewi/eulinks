@@ -43,8 +43,15 @@
   http://arstechnica.com/information-technology/2014/01/bitrot-and-atomic-cows-inside-next-gen-filesystems/
   http://www.gluster.org/community/documentation/index.php/GlusterOnZFS
 
+###LDAP, RADIUS, VPN, JUMPCLOUD
+  http://www.ldapman.org/articles/intro_to_ldap.html
+  http://www.onlamp.com/pub/a/onlamp/excerpt/sendmailckbk_chap01/
+  https://opensource.com/business/15/4/benefits-using-radius-over-ldap
+  https://opensource.com/business/14/5/top-4-open-source-ldap-implementations
+  https://jumpcloud.com/blog/cloud-directory-as-a-service-daas/
 
-
+###Sieciowe bazy inne niż mongodb, couchdb itp.
+https://github.com/cockroachdb/cockroach
 
 ##Inne pomocne linki:
   http://www.networkingwithfish.com/
