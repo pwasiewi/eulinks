@@ -5,25 +5,33 @@
   - https://en.wikipedia.org/wiki/LXC
   - https://wiki.gentoo.org/wiki/LXC
   - https://l3net.wordpress.com/2013/08/25/debian-virtualization-lxc-network-isolation/
+  
 ##dlaczego docker
   - http://blog.pierreroudier.net/2015/08/docker-vs-kvm-vs-native-performance-comparison/
   - https://github.com/thewmf/kvm-docker-comparison 
   - https://docs.docker.com/engine/installation/linux/gentoolinux/
+  
 ##źródła dla linku powyżej
   - http://www.tutorialspoint.com/unix_commands/numactl.htm
+  
 ##docker swarm 
   - https://docs.docker.com/swarm/install-w-machine/
+  
 ##docker swarm ha (containers restart)
   - https://github.com/docker/swarm/issues/1488
+  
 ##zastosowania swarm - apache storm
   - http://highscalability.com/blog/2016/4/25/the-joy-of-deploying-apache-storm-on-docker-swarm.html
+  
 #dlaczego nie docker
   - http://www.boycottdocker.org/
   - http://bodenr.blogspot.com/2014/05/kvm-and-docker-lxc-benchmarking-with.html
+  
 ####docker jako container
   - http://phusion.github.io/baseimage-docker/#solution 
   - https://github.com/phusion/baseimage-docker#readme
   - https://blog.phusion.nl/2015/01/20/docker-and-the-pid-1-zombie-reaping-problem/
+  
 ##Właśnie przeglądam zasoby sieciowe w języku angielskim i najlepsza wolnodostępna  książka o sieci:
   - http://www.saylor.org/site/wp-content/uploads/2012/02/Computer-Networking-Principles-Bonaventure-1-30-31-OTC1.pdf
 
@@ -32,12 +40,15 @@
   - http://louwrentius.com/why-i-do-use-zfs-as-a-file-system-for-my-nas.html
   - http://arstechnica.com/information-technology/2014/02/ars-walkthrough-using-the-zfs-next-gen-filesystem-on-linux/
   - http://zfsonlinux.org/faq.html
+  
 ###BTRFS:
   - https://btrfs.wiki.kernel.org/index.php/Main_Page
   - http://www.oracle.com/technetwork/articles/servers-storage-admin/advanced-btrfs-1734952.html
+  
 ###LUSTRE:
   - https://pl.wikipedia.org/wiki/Lustre_%28system_plik%C3%B3w%29
   - https://github.com/marcindulak/vagrant-lustre-tutorial
+  
 ###Glusterfs:
   - http://discussions.citrix.com/topic/366729-about-xenserver-glusterfs/page-2#entry1917700
   - http://arstechnica.com/information-technology/2014/01/bitrot-and-atomic-cows-inside-next-gen-filesystems/
