@@ -1,3 +1,6 @@
+#Ranking baz online
+ http://db-engines.com/en/ranking
+
 #NOSQL
  * https://www.javacodegeeks.com/2015/10/nosql-vs-sql.html
  * http://stackoverflow.com/questions/2285045/what-scalability-problems-have-you-solved-using-a-nosql-data-store?rq=1
