@@ -1,5 +1,3 @@
- * http://bigdatauniversity.com/
-
 #NOSQL
  * https://www.javacodegeeks.com/2015/10/nosql-vs-sql.html
  * http://stackoverflow.com/questions/2285045/what-scalability-problems-have-you-solved-using-a-nosql-data-store?rq=1
@@ -30,7 +28,8 @@
 
 #NOSQL tutors
  * http://porcelli.com.br/2010/08/nosql-for-beginners/
-
+ * http://bigdatauniversity.com/
+ 
 #COUCHDB
  * http://guide.couchdb.org/editions/1/en/index.html
  * http://www.ibm.com/developerworks/opensource/library/os-couchdb/index.html
