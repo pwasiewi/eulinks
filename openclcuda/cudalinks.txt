@@ -1,7 +1,8 @@
 ###tensorflow and other libs on OpenCL
  - https://github.com/tensorflow/tensorflow/issues/22
  - https://bitbucket.org/benoitsteiner/eigen-opencl
-
+ - https://www.phoronix.com/scan.php?page=news_item&px=Google-StreamExec-Parallel
+ 
 
  * http://hgpu.org/?tag=java
  * http://www.gputechconf.com/page/home.html
