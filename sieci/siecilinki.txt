@@ -1,5 +1,6 @@
 :cloud:
-##lxc conteners namespace control groups
+##Wirtualizacja
+###lxc conteners namespace control groups
   - http://www.megiteam.pl/blog/baza-wiedzy/lxc-kontener-pingwinow/
   - https://en.wikipedia.org/wiki/Cgroups
   - https://linuxcontainers.org/
@@ -7,33 +8,33 @@
   - https://wiki.gentoo.org/wiki/LXC
   - https://l3net.wordpress.com/2013/08/25/debian-virtualization-lxc-network-isolation/
   
-##dlaczego docker
+###dlaczego docker
   - http://blog.pierreroudier.net/2015/08/docker-vs-kvm-vs-native-performance-comparison/
   - https://github.com/thewmf/kvm-docker-comparison 
   - https://docs.docker.com/engine/installation/linux/gentoolinux/
   
-##źródła dla linku powyżej
+###źródła dla linku powyżej
   - http://www.tutorialspoint.com/unix_commands/numactl.htm
   
-##docker swarm 
+###docker swarm 
   - https://docs.docker.com/swarm/install-w-machine/
   
-##docker swarm ha (containers restart)
+###docker swarm ha (containers restart)
   - https://github.com/docker/swarm/issues/1488
   
-##zastosowania swarm - apache storm
+###zastosowania swarm - apache storm
   - http://highscalability.com/blog/2016/4/25/the-joy-of-deploying-apache-storm-on-docker-swarm.html
   
-#dlaczego nie docker
+###dlaczego nie docker
   - http://www.boycottdocker.org/
   - http://bodenr.blogspot.com/2014/05/kvm-and-docker-lxc-benchmarking-with.html
   
-####docker jako container
+###docker jako container
   - http://phusion.github.io/baseimage-docker/#solution 
   - https://github.com/phusion/baseimage-docker#readme
   - https://blog.phusion.nl/2015/01/20/docker-and-the-pid-1-zombie-reaping-problem/
   
-##Właśnie przeglądam zasoby sieciowe w języku angielskim i najlepsza wolnodostępna  książka o sieci:
+###Dobra teaoretyczna wolnodostępna  książka o sieci:
   - http://www.saylor.org/site/wp-content/uploads/2012/02/Computer-Networking-Principles-Bonaventure-1-30-31-OTC1.pdf
 
 ##Sieciowe systemy plików:
@@ -87,8 +88,27 @@
   http://www.9tut.com/configure-nat-gns3-lab
   http://www.iptut.com/ccip-knowledge/practice-ccip-gns3-lab/simple-mpls-gns3-lab
   http://saifulaziz.com/2008/08/08/gns-3-and-cisco-170026007200-ios-in-one-pack/
+  
+###OGÓLNIE o GNS3
+  http://www.trainsignal.com/blog/using-gns3-network-simulator
+  http://www.dslreports.com/faq/13956
+  http://www.ubuntubuzz.com/2010/07/gns3-running-graphical-cisco-network.html
+  http://www.techrepublic.com/blog/networking/practice-cisco-router-configuration-using-a-free-emulator/419
 
+###GNS3 MICROCORE uLINUX
+  http://networkingtips-tricks.blogspot.com/2010/09/add-qemu-host-in-gns3.html
+  http://www.brainbump.net/gns3-add-qemu-host-microcore/
+  http://forum.gns3.net/topic5328.html
 
+###GNS3 VPCS
+svn checkout svn://svn.code.sf.net/p/vpcs/code/trunk vpcs-code
+
+###tutorial GNS3 Cisco  dla początkujących - dosyć niewyraźny
+  http://www.youtube.com/watch?v=ZHZbMmLmYo8
+
+###video tutorial obsługi GNS3 konfiguracji sieci
+  http://www.youtube.com/playlist?list=PLC97B643945983558
+  
 ##OSPF
   http://www.cisco.com/en/US/tech/tk365/technologies_white_paper09186a0080094e9e.shtml
   http://network-101.blogspot.com/2011/05/ospfasbr-summary-address.html
@@ -100,9 +120,6 @@
 ##DHCP
   http://www.networkers-online.com/blog/2008/07/how-to-configure-dhcpon-a-cisco-router/
 
-
-##video tutorial obsługi GNS3 konfiguracji sieci
-  http://www.youtube.com/playlist?list=PLC97B643945983558
 ##video kurs Cisco
   http://www.youtube.com/playlist?list=PL2F3C14C55409B224
 
@@ -110,9 +127,6 @@
   http://blog.ciscoinferno.net/
   http://www.oreillynet.com/pub/a/network/2002/01/02/ciscotips.html
   http://bromirski.net/projekty/cisco_faq_pl/cisco_faq_pl.html
-
-##tutorial GNS3 Cisco  dla początkujących - dosyć niewyraźny
-  http://www.youtube.com/watch?v=ZHZbMmLmYo8
 
 ##cheetsheet konfiguracji IOS
   http://packetlife.net/library/cheat-sheets/
@@ -144,20 +158,6 @@
   http://blog.gns3.net/2009/10/olive-juniper/
   http://www.packetmischief.ca/2011/03/24/installing-olive-10-4r1-under-vmware/
   http://juniper.cluepon.net/index.php/Olive
-
-##OGÓLNIE o GNS3
-  http://www.trainsignal.com/blog/using-gns3-network-simulator
-  http://www.dslreports.com/faq/13956
-  http://www.ubuntubuzz.com/2010/07/gns3-running-graphical-cisco-network.html
-  http://www.techrepublic.com/blog/networking/practice-cisco-router-configuration-using-a-free-emulator/419
-
-##GNS3 MICROCORE uLINUX
-  http://networkingtips-tricks.blogspot.com/2010/09/add-qemu-host-in-gns3.html
-  http://www.brainbump.net/gns3-add-qemu-host-microcore/
-  http://forum.gns3.net/topic5328.html
-
-##GNS3 VPCS
-svn checkout svn://svn.code.sf.net/p/vpcs/code/trunk vpcs-code
 
 ##Vyatta
   http://www.carbonwind.net/VyattaOFR/AdvVPN/AdvVPN14.htm
