@@ -39,6 +39,8 @@ preferencji.
  * http://pl.wikibooks.org/wiki/PHP/Czym_jest_programowanie_obiektowe%3F
 
 ##JAVASCRIPT
+ * https://github.com/getify/You-Dont-Know-JS/tree/master/es6%20%26%20beyond
+ * https://addyosmani.com/resources/essentialjsdesignpatterns/book/#observerpatternjavascript
  * http://exploringjs.com/es6/
  * http://exploringjs.com/es6/ch_first-steps.html#leanpub-auto-from-var-to-letconst
  * http://burczu-programator.pl/blog/ecmascript-6-co-nowego
