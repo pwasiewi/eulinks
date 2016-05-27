@@ -42,6 +42,7 @@
   - http://louwrentius.com/why-i-do-use-zfs-as-a-file-system-for-my-nas.html
   - http://arstechnica.com/information-technology/2014/02/ars-walkthrough-using-the-zfs-next-gen-filesystem-on-linux/
   - http://zfsonlinux.org/faq.html
+  - http://louwrentius.com/the-hidden-cost-of-using-zfs-for-your-home-nas.html
   
 ###BTRFS:
   - https://btrfs.wiki.kernel.org/index.php/Main_Page
