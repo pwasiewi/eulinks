@@ -295,6 +295,8 @@ git clone git://github.com/nicolasgramlich/AndEngineScriptingExtension.git
  * http://www.andengine.org/forums/tutorials/mimminito-s-tutorial-list-t417.html)
 
 ###GDX
+ * [Udacity 2D gra wykład](https://github.com/udacity/ud405)
+ * [Udacity 2D gra wykład cd](https://github.com/udacity/ud406)
  * [Polski
    Tutor](https://www.youtube.com/playlist?list=PLFq6ri1W22hyyGVo7pmTMstd-pZWZBmRg)
  * [C4Cheats
