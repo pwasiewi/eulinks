@@ -1,3 +1,7 @@
+###tensorflow on OpenCL
+ - https://github.com/tensorflow/tensorflow/issues/22
+
+
  * http://hgpu.org/?tag=java
  * http://www.gputechconf.com/page/home.html
 
