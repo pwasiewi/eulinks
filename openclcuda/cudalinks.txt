@@ -1,5 +1,6 @@
-###tensorflow on OpenCL
+###tensorflow and other libs on OpenCL
  - https://github.com/tensorflow/tensorflow/issues/22
+ - https://bitbucket.org/benoitsteiner/eigen-opencl
 
 
  * http://hgpu.org/?tag=java
