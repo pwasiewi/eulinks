@@ -22,6 +22,8 @@
  * http://seldo.com/weblog/2010/07/12/in_defence_of_sql
  * http://dba.stackexchange.com/questions/607/what-is-a-key-value-store-database
 
+#NOWE NOSQL DB
+
 
 #HYPERGRAPH
  * http://www.hypergraphdb.org/index
