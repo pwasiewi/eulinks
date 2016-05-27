@@ -200,7 +200,8 @@ svn checkout svn://svn.code.sf.net/p/vpcs/code/trunk vpcs-code
   http://williamstallings.com/ComputerSecurity/
   http://www.slideshare.net/NeelKamalThEYuVrAaJ/seminar-on-hacking
   http://www.slideshare.net/amiable_indian/hacking-fundamentals-jen-johnson-miria-grunick
-
+  - https://serversforhackers.com/series?page=2
+  
 ##INNE KURSY
   http://www.saylor.org/majors/computer-science/
   http://docs.online.bg/NETWORKING/
