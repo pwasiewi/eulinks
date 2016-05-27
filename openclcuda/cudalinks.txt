@@ -8,6 +8,7 @@
  - https://streamcomputing.eu/blog/2015-02-10/overview-of-opencl-2-0-support-samples-blogs-and-drivers/
  - https://software.intel.com/en-us/articles/gpu-quicksort-in-opencl-20-using-nested-parallelism-and-work-group-scan-functions
  - http://developer.amd.com/community/blog/2014/12/09/amd-app-sdk-3-0-beta/
+ - https://anteru.net/blog/2013/07/23/2164/
 
  * http://hgpu.org/?tag=java
  * http://www.gputechconf.com/page/home.html
