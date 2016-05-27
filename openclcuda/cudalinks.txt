@@ -4,6 +4,7 @@
  - https://www.phoronix.com/scan.php?page=news_item&px=Google-StreamExec-Parallel
  - https://github.com/hughperkins/distro-cl
  - https://github.com/hughperkins/DeepCL
+ - https://github.com/hughperkins/EasyCL
 
  * http://hgpu.org/?tag=java
  * http://www.gputechconf.com/page/home.html
