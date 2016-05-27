@@ -90,6 +90,7 @@ preferencji.
  * http://alblue.bandlem.com/ 
 
 ##C++
+ * [Nowe C++ 14](https://github.com/pwasiewi/cppnow_presentations_2014)
  * http://coliru.stacked-crooked.com/a/42c27365c74cca39
  * http://www.freeprogrammingresources.com/cppbooks.html
  * https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#c-1
