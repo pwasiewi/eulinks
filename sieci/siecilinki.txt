@@ -65,6 +65,7 @@
 
 ###Sieciowe bazy inne niż mongodb, couchdb itp.
   - https://github.com/cockroachdb/cockroach
+  - https://crate.io/
 
 ##Inne pomocne linki:
   http://www.networkingwithfish.com/
