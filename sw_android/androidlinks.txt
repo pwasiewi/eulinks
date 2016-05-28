@@ -19,11 +19,6 @@
  - [Popularna chmura](https://parse.com/docs/android_guide)
  - [Gradle tutorial (2015)](http://rominirani.com/2014/07/28/gradle-tutorial-series-an-overview/)
 
- 
-###POKREWNE
- - [Wszystkie UE4](http://goo.gl/fs2S8S)
- - https://github.com/cSploit/android
- 
 ###DEVELOPERZY i BLOGI
  - https://github.com/JakeWharton
  - http://antonioleiva.com/
@@ -53,12 +48,13 @@
  - [Spis tutoriali lollipop 5.0 po angielsku](http://www.diygenius.com/how-to-learn-android-app-development-online/)
 
 ###Aplikacje opensource
- * [Lista androidowych aplikacji z otwartym kodem](http://en.wikipedia.org/wiki/List_of_open_source_Android_applications)
- * https://wiki.koumbit.net/AndroidFreeSoftware
- * [Wielka baza androidowych open sourcowych aplikacji](http://www.aopensource.com/)
- * [Aplikacja z Play Google: Market otwartoźródłowych programów fdroid](http://f-droid.org/)
- * [Kod Androida ](https://android.googlesource.com/)
- * [Barcode lib 2015](https://github.com/zxing/zxing)
+ - [Lista androidowych aplikacji z otwartym kodem](http://en.wikipedia.org/wiki/List_of_open_source_Android_applications)
+ - https://wiki.koumbit.net/AndroidFreeSoftware
+ - [Wielka baza androidowych open sourcowych aplikacji](http://www.aopensource.com/)
+ - [Aplikacja z Play Google: Market otwartoźródłowych programów fdroid](http://f-droid.org/)
+ - [Kod Androida ](https://android.googlesource.com/)
+ - [Barcode lib 2015](https://github.com/zxing/zxing)
+ - https://github.com/cSploit/android
 
 ###Web Python (2016)
  - [Strona newsów w PostgreSQL i MongoDB](https://github.com/samuelclay/NewsBlur)
@@ -201,6 +197,7 @@
  - [Przykłady z kodem Unity](http://danim.tv/blog/archives/unity3d-source-code-example/)
  - http://answers.unity3d.com/index.html
  - [UE4 youtube tutorial](https://www.youtube.com/watch?v=QMsFxzYzFJ8&list=PLZlv_N0_O1gaCL2XjKluO7N2Pmmw9pvhE&index=1)
+ - [Kurs UE4](http://goo.gl/fs2S8S)
 
 ###OpenGLES
  - http://www.songho.ca/opengl/gl_transform.html
