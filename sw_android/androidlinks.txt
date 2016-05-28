@@ -42,6 +42,8 @@
  - [Android Devs Blog 2015](http://android-developers.blogspot.fr/)
  - [Krótkie omówienie książek](http://android-er.blogspot.com/)
  - https://www.sitepoint.com/mobile/
+ - http://www.curious-creature.org/category/android
+ - http://graphics-geek.blogspot.com/
 
 ###wykłady, GIGANTYCZNE TUTORY
  - [Android Arsenal - zbiór bibliotek](https://android-arsenal.com/)
@@ -111,27 +113,12 @@
  * [C++ konwersja RGB HSV](http://lol.zoy.org/blog)
 
 ###PYTANIA, PORADY, ANDROID4)
- * http://developer.android.com/training/index.html)
- * https://github.com/IanGClifton/Android-RenderScript-Tutorials)
- * http://android-developers.blogspot.com/2012/01/levels-in-renderscript.html)
- * http://stackoverflow.com/questions/3402871/about-renderscript)
- * http://developer.android.com/guide/topics/renderscript/graphics.html)
- * http://code.google.com/p/renderscript-examples/)
- * http://www.youtube.com/watch?feature=player_embedded&v=ykPrVWeyV_0#!)
- * http://www.curious-creature.org/category/android/)
- * http://code.google.com/p/xlarge-demos/)
- * http://graphics-geek.blogspot.com/)
- * http://code.google.com/p/iosched/)
- * http://code.google.com/u/118287924347242328050/)
- * http://www.google.com/events/io/2011/sessions/android-open-accessory-api-and-development-kit-adk.html)
- * http://code4reference.com/2012/07/android-jelly-bean-notification/)
- * https://github.com/rakeshcusat/Code4Reference/tree/master/AndroidProjects)
- * http://code.google.com/p/google-app-engine-samples/)
- * http://rakhi577.wordpress.com/2012/06/26/buttons-on-list-view-with-easy-searching-in-android/)
- * http://code.google.com/p/android/issues/detail?id=34868)
- * http://tools.android.com/tips/hardware-emulation)
- * http://www.zdnet.com/blog/burnette/how-to-use-multi-touch-in-android-2-part-6-implementing-the-pinch-zoom-gesture/1847)
- * http://code.google.com/p/android-ui-utils/)
+
+ 
+ * http://code.google.com/p/iosched/
+ * http://tools.android.com/tips/hardware-emulation
+ 
+
  * http://www.codeshogun.com/blog/tag/android/)
  * http://stackoverflow.com/questions/456211/activity-restart-on-rotation-android)
  * http://www.youtube.com/watch?feature=player_embedded&v=ykPrVWeyV_0--!)
