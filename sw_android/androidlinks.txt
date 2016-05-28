@@ -70,11 +70,7 @@
  * [Wielka baza androidowych open sourcowych aplikacji](http://www.aopensource.com/)
  * [Aplikacja z Play Google: Market otwartoźródłowych programów fdroid](http://f-droid.org/)
  * [Kod Androida ](https://android.googlesource.com/)
- * [Task Manager 2013](https://github.com/todoroo/astrid)
- * [Hacker news 2015](https://github.com/manmal/hn-android/)
- * [Baza książek 2009](http://code.google.com/p/shelves/)
- * [Małe aplikacje 2010](http://code.google.com/p/apps-for-android/)
- * [Barcode app 2015](https://github.com/zxing/zxing)
+ * [Barcode lib 2015](https://github.com/zxing/zxing)
 
 ###Web Python (2016)
  - [Strona newsów w PostgreSQL i MongoDB](https://github.com/samuelclay/NewsBlur)
@@ -83,8 +79,8 @@
 ###Przyklady, biblioteki Android:
  * [Biblioteki Square](http://square.github.io)
  * http://google.github.io/dagger/
- * [Simple RSS Reader For Android](https://github.com/ZackehSoul/RSSDemo
- * [CommonsWare Android Components 2015](http://commonsware.com/cwac
+ * [Simple RSS Reader For Android](https://github.com/ZackehSoul/RSSDemo)
+ * [CommonsWare Android Components 2015](http://commonsware.com/cwac)
  * http://www.springsource.org/spring-android/
  * http://www.jpct.net/jpct-ae/index.html
  * [Scala on Android (2016)](https://github.com/pocorall/scaloid)
@@ -95,29 +91,7 @@
  - http://stackoverflow.com/questions/2881128/how-to-use-onsensorchanged-sensor-data-in-combination-with-opengl)
 
 
-###OpenGLES
- - http://www.songho.ca/opengl/gl_transform.html
- - http://www.opengl-tutorial.org/
- - http://aklimx.sppieniezno.pl/nehepl/display.php?id=1 
- - http://insanitydesign.com/wp/projects/nehe-android-ports/)
- - http://www.learnopengles.com/android-lesson-one-getting-started/)
- - http://www3.ntu.edu.sg/home/ehchua/programming/android/Android_3D.html)
- - http://developer.android.com/tools/help/gltracer.html)
- - http://developer.android.com/training/graphics/opengl/index.html)
- - http://developer.android.com/training/graphics/opengl/environment.html)
- - http://code.google.com/p/nehe-android/)
- - http://stackoverflow.com/questions/1629775/tutorials-and-libraries-for-opengl-es-games-on-android)
- - http://insanitydesign.com/wp/projects/nehe-android-ports/)
- - http://www.javacodegeeks.com/2011/06/android-game-development-tutorials.html)
- - http://www.jayway.com/2009/12/03/opengl-es-tutorial-for-android-part-i/)
- - https://www.jayway.com/2013/05/09/opengl-es-2-0-tutorial-for-android-part-i-getting-started
- - http://www.zeuscmd.com/tutorials/opengles/index.php)
- - http://ruibm.com/?p=263)
- - http://gamedev.stackexchange.com/questions/8647/how-to-calculate-vertex-normals-for-a-mesh-in-java-in-opengl-es)
- - http://gamedev.stackexchange.com/questions/8191/any-reliable-polygon-normal-calculation-code)
- - http://programminglinuxgames.blogspot.com/2010/09/parsing-wavefront-obj-file-format-using.html)
- - http://en.wikipedia.org/wiki/Wavefront_.obj_file)
- - [C++ konwersja RGB HSV](http://lol.zoy.org/blog)
+
 
 ###GRY
  - [Spis gier Android na Githubie](https://github.com/leereilly/games)
@@ -154,8 +128,8 @@
 ####libgdx kurs po polsku - kółko i krzyżyk -
  - [Polski
    Tutor](https://www.youtube.com/playlist?list=PLFq6ri1W22hyyGVo7pmTMstd-pZWZBmRg)
- * [libgdx gra po polsku - kółko i krzyżyk](http://www.gamedev.pl/txt/wstep-do-libgdx)
- * [libgdx gra po polsku - bijatyka](http://www.gamedev.pl/txt/gdxcombat--bijatyka-na-libgdx)
+ - [libgdx gamedev po poslku](https://forum.gamedev.pl/c/artykuly)
+ - [libgdx gra po polsku - kółko i krzyżyk](http://www.gamedev.pl/txt/wstep-do-libgdx)
  - https://github.com/kotcrab?tab=repositories
 
 ####A po angielsku:
@@ -236,15 +210,38 @@
  - http://rosettacode.org/wiki/Help:Similar_Sites
  - http://en.wikipedia.org/wiki/Viterbi_algorithm
  
-###Blender)
+###Blender
  - http://michalis.ii.uni.wroc.pl/~michalis/teaching/blender/
 
 ###silniki gier komercyjne i zamkniętym kodem 
  - http://unity3d.com/unity/
  - [Przykłady z kodem Unity](http://danim.tv/blog/archives/unity3d-source-code-example/)
  - http://answers.unity3d.com/index.html
- - [UE4 tutorial](https://www.youtube.com/watch?v=QMsFxzYzFJ8&list=PLZlv_N0_O1gaCL2XjKluO7N2Pmmw9pvhE&index=1)
+ - [UE4 youtube tutorial](https://www.youtube.com/watch?v=QMsFxzYzFJ8&list=PLZlv_N0_O1gaCL2XjKluO7N2Pmmw9pvhE&index=1)
 
+###OpenGLES
+ - http://www.songho.ca/opengl/gl_transform.html
+ - http://www.opengl-tutorial.org/
+ - http://aklimx.sppieniezno.pl/nehepl/display.php?id=1 
+ - http://insanitydesign.com/wp/projects/nehe-android-ports/)
+ - http://www.learnopengles.com/android-lesson-one-getting-started/)
+ - http://www3.ntu.edu.sg/home/ehchua/programming/android/Android_3D.html)
+ - http://developer.android.com/tools/help/gltracer.html)
+ - http://developer.android.com/training/graphics/opengl/index.html)
+ - http://developer.android.com/training/graphics/opengl/environment.html)
+ - http://code.google.com/p/nehe-android/)
+ - http://stackoverflow.com/questions/1629775/tutorials-and-libraries-for-opengl-es-games-on-android)
+ - http://insanitydesign.com/wp/projects/nehe-android-ports/)
+ - http://www.javacodegeeks.com/2011/06/android-game-development-tutorials.html)
+ - http://www.jayway.com/2009/12/03/opengl-es-tutorial-for-android-part-i/)
+ - https://www.jayway.com/2013/05/09/opengl-es-2-0-tutorial-for-android-part-i-getting-started
+ - http://www.zeuscmd.com/tutorials/opengles/index.php)
+ - http://ruibm.com/?p=263)
+ - http://gamedev.stackexchange.com/questions/8647/how-to-calculate-vertex-normals-for-a-mesh-in-java-in-opengl-es)
+ - http://gamedev.stackexchange.com/questions/8191/any-reliable-polygon-normal-calculation-code)
+ - http://programminglinuxgames.blogspot.com/2010/09/parsing-wavefront-obj-file-format-using.html)
+ - http://en.wikipedia.org/wiki/Wavefront_.obj_file)
+ - [C++ konwersja RGB HSV](http://lol.zoy.org/blog)
 
 #STARE MATERIAŁY - TUTORIALE
  - [Wykład na youtube: Damiarias Rodriguez (2014)](http://www.youtube.com/playlist?list=PL9E21BFF408167ED6)
