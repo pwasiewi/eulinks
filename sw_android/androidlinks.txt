@@ -189,7 +189,7 @@
  - http://rosettacode.org/wiki/Help:Similar_Sites
  - http://en.wikipedia.org/wiki/Viterbi_algorithm
  
-###Blender
+###Blender - kurs po polsku
  - http://michalis.ii.uni.wroc.pl/~michalis/teaching/blender/
 
 ###silniki gier komercyjne i zamkniętym kodem 
