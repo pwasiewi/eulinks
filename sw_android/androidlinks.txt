@@ -3,6 +3,7 @@
  - http://lazyfoo.net/tutorials/SDL/index.php
  - https://wiki.libsdl.org/Android
  - https://github.com/AMDmi3/planetonomy
+ - http://developer.android.com/sdk/ndk/overview.html#samples
  - http://libsdl-android.sourceforge.net/ #old android sdl port
  - http://stackoverflow.com/questions/7223349/android-ndk-sigill-crash-on-fpu-instruction-on-armv6-device
 
@@ -25,10 +26,8 @@
  * [Calabash - testowania aplikacji](http://calaba.sh)
  * [Jenkins CI - kompilacja ciągła](http://jenkins-ci.org)
  * [Mirror - szybki podgląd ui](http://jimulabs.com)
- * [Narzędzia dla Androida](http://j.mp/androidassetstudio)
  * [Popularna chmura](https://parse.com/docs/android_guide)
- * http://developer.android.com/sdk/ndk/overview.html#samples
- * http://google.github.io/dagger/
+
  
 
 ###POKREWNE
@@ -132,6 +131,7 @@
 
 
 ###Przyklady, biblioteki Android:
+ * http://google.github.io/dagger/
  * [Biblioteki Square](http://square.github.io)
  * [Simple RSS Reader For Android](https://github.com/ZackehSoul/RSSDemo)
  * [CommonsWare Android Components 2015](http://commonsware.com/cwac)
