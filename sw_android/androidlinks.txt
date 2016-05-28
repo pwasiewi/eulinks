@@ -173,42 +173,18 @@
 
 
 ###GRY
- * [Spis gier Android na Githubie](https://github.com/leereilly/games)
- * https://github.com/chrisboyle/sgtpuzzles
- * https://github.com/scoutant/blokish
- * http://web.comhem.se/petero2home/droidfish/ 
- * http://software.intel.com/en-us/blogs/2012/05/14/eight-popular-open-source-android-game-engines
- * https://github.com/Chluverman/android-gltron
- * http://code.google.com/p/frozenbubbleandroid
- * https://github.com/mobilepearls/com.mobilepearls.sokoban
+ - [Spis gier Android na Githubie](https://github.com/leereilly/games)
+ - https://github.com/chrisboyle/sgtpuzzles
+ - https://github.com/scoutant/blokish
+ - http://web.comhem.se/petero2home/droidfish/ 
+ - http://software.intel.com/en-us/blogs/2012/05/14/eight-popular-open-source-android-game-engines
+ - https://github.com/Chluverman/android-gltron
+ - http://code.google.com/p/frozenbubbleandroid
+ - https://github.com/mobilepearls/com.mobilepearls.sokoban
+ - https://github.com/alanwoolley/CorsixTH-Android
+ - https://github.com/Zukero/andors-trail
+ - http://tmtg.net/
 
-
- * https://github.com/zielmicha/freeciv-android
- * http://sourceforge.net/projects/darkknight/
- * http://code.google.com/p/monolithandroid/
- * http://www.jeyries.fr/quake2android/
- * https://github.com/fidlej/ffng-android
- * https://github.com/Nathisgreen/Fish-Game
-
- 
- * https://github.com/alanwoolley/CorsixTH-Android)
- * https://github.com/hagish/love-native-android)
- * http://code.google.com/p/andors-trail/)
- * http://www.aopensource.com/index.php?more=291)
- * http://www.13thmonkey.org/~boris/jgame/)
- * https://github.com/KonnorLetterBee/GameTest)
- * https://github.com/micahpearlman/MonkVG)
- * https://github.com/SkylarWatson/primer_android_game_dev)
- * https://github.com/AdamFrey/AndroidMazeGame)
- * https://github.com/hdon/android-game-factory)
- * https://github.com/rubik/Game24)
- * https://github.com/kig/runfield)
- * http://code.google.com/p/replicaisland/)
- * https://github.com/shawntan/minicraft-android)
- * https://github.com/chesterbr/minitruco-android)
- * http://student.dei.uc.pt/~jcgonc/productions.htm)
-
- - http://www.androidpolice.com/2012/07/30/going-indie-the-story-of-independent-android-game-development-from-concept-to-completion/
 
 ###SILNIKI GIER
  - http://flixel-gdx.com/
@@ -298,6 +274,7 @@
 
 ###Lua in Android
  - [Lua in Android (2012)](http://dotnetslackers.com/articles/mobile/Integrate-Lua-into-Your-Android-Games.aspx)
+ - http://love2d.org/
  - http://lua-users.org/wiki/LuaDistributions
  - http://code.google.com/p/libgdx-users/wiki/LuaTutorial
  - [Blog for lua mobile game devs (2015)](http://getmoai.com/)
