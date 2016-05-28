@@ -29,9 +29,8 @@
  - [Mirror - szybki podgląd ui](http://jimulabs.com)
  - [Popularna chmura](https://parse.com/docs/android_guide)
  - [Gradle tutorial (2015)](http://rominirani.com/2014/07/28/gradle-tutorial-series-an-overview/)
- - [Android Wear Send Data](http://www.androprogrammer.com/2015/05/android-wear-how-to-send-data-from.html)
- 
 
+ 
 ###POKREWNE
  - [Wszystkie UE4](http://goo.gl/fs2S8S)
  - https://github.com/cSploit/android
@@ -89,9 +88,7 @@
  - http://tools.android.com/tips/hardware-emulation
  - http://stackoverflow.com/questions/456211/activity-restart-on-rotation-android)
  - http://stackoverflow.com/questions/2881128/how-to-use-onsensorchanged-sensor-data-in-combination-with-opengl)
-
-
-
+ - [Android Wear Send Data](http://www.androprogrammer.com/2015/05/android-wear-how-to-send-data-from.html)
 
 ###GRY
  - [Spis gier Android na Githubie](https://github.com/leereilly/games)
@@ -113,7 +110,15 @@
  - https://github.com/Rajawali/Rajawali
  - https://github.com/portmobile/LAGP-Example-Code
 
-###GDX
+###LIBGDX
+####libgdx kurs po polsku - kółko i krzyżyk -
+ - [Polski
+   Tutor](https://www.youtube.com/playlist?list=PLFq6ri1W22hyyGVo7pmTMstd-pZWZBmRg)
+ - [libgdx gamedev artykuły po polsku](https://forum.gamedev.pl/c/artykuly)
+ - [libgdx gra po polsku - kółko i krzyżyk](http://www.gamedev.pl/txt/wstep-do-libgdx)
+ - https://github.com/kotcrab?tab=repositories
+ 
+####Tutoriale, wykłady, blogi o libgdx po angielsku:
  - [Udacity 2D gra wykład](https://github.com/udacity/ud405)
  - [Udacity 2D gra wykład cd](https://github.com/udacity/ud406)
  - [Najlepsze tutoriale po
@@ -123,56 +128,46 @@
  - http://libgdx.badlogicgames.com/
  - http://obviam.net/
  - http://www.gamefromscratch.com/page/LibGDX-Tutorial-series.aspx
- 
-####libgdx kurs po polsku - kółko i krzyżyk -
- - [Polski
-   Tutor](https://www.youtube.com/playlist?list=PLFq6ri1W22hyyGVo7pmTMstd-pZWZBmRg)
- - [libgdx gamedev artykuły po polsku](https://forum.gamedev.pl/c/artykuly)
- - [libgdx gra po polsku - kółko i krzyżyk](http://www.gamedev.pl/txt/wstep-do-libgdx)
- - https://github.com/kotcrab?tab=repositories
-
-####A po angielsku:
- * [C4Cheats libgdx youtube kurs po angielsku](https://www.youtube.com/playlist?list=PLvnEciYMRSk-l5oKsIsbrBbP2ZJFSZLns)
- * http://www.norakomi.com/tutorial_admob_introduction.php
- * http://www.mets-blog.com/category/libgdx/
- * http://www.codeproject.com/Articles/702957/Create-your-first-Android-Game-with-libgdx
- * [Java Game Development na youtube](https://www.youtube.com/playlist?list=PLXY8okVWvwZ0JOwHiH1TntAdq-UDPnC2L)
- * [1.5h tutor Space Invaders](https://www.youtube.com/watch?v=_rVS1zHThZ0)
- * [libgdx gra po angielsku](http://www.kilobolt.com/unit-1-building-the-game.html)
+ - [C4Cheats libgdx youtube kurs po angielsku](https://www.youtube.com/playlist?list=PLvnEciYMRSk-l5oKsIsbrBbP2ZJFSZLns)
+ - http://www.norakomi.com/tutorial_admob_introduction.php
+ - http://www.mets-blog.com/category/libgdx/
+ - http://www.codeproject.com/Articles/702957/Create-your-first-Android-Game-with-libgdx
+ - [Java Game Development na youtube](https://www.youtube.com/playlist?list=PLXY8okVWvwZ0JOwHiH1TntAdq-UDPnC2L)
+ - [1.5h tutor Space Invaders](https://www.youtube.com/watch?v=_rVS1zHThZ0)
+ - [libgdx tutoriale z wiki](https://github.com/libgdx/libgdx/wiki/External-tutorials)
+ - https://github.com/libgdx/libgdx/wiki
+ - https://github.com/libgdx/libgdx/wiki/Video-tutorials
+ - http://www.badlogicgames.com/wordpress/?category_name=libgdx-tutorial)
+ - [libgdx gra po angielsku](http://www.kilobolt.com/unit-1-building-the-game.html)
  
 ####czyli w rozwinięciu:
- * http://www.kilobolt.com/day-1-flappy-bird---an-in-depth-analysis.html
- * http://www.kilobolt.com/day-2-setting-up-libgdx.html
- * http://www.kilobolt.com/day-3-understanding-the-libgdx-framework.html
- * http://www.kilobolt.com/day-4-gameworld-and-gamerenderer-and-the-orthographic-camera.html
- * http://www.kilobolt.com/day-5-the-flight-of-the-dead---adding-the-bird.html
- * http://www.kilobolt.com/day-6-adding-graphics---welcome-to-the-necropolis.html
- * http://www.kilobolt.com/day-7-the-grass-the-bird-and-the-skull-pipe.html
- * http://www.kilobolt.com/day-8-collision-detection-and-sound-effects.html
- * http://www.kilobolt.com/day-9-finishing-gameplay-and-basic-ui.html
- * http://www.kilobolt.com/day-10-gamestates-and-high-score.html
- * http://www.kilobolt.com/day-11-supporting-iosandroid--splashscreen-menus-and-tweening.html
- * http://www.kilobolt.com/day-12-completed-ui--source-code.html
- * http://williammora.com/a-running-game-with-libgdx-part-1/
- * http://williammora.com/a-running-game-with-libgdx-part-2/
- * http://williammora.com/a-running-game-with-libgdx-part-3/
- * http://williammora.com/a-running-game-with-libgdx-part-4/
- * http://williammora.com/a-running-game-with-libgdx-part-5/
+ - http://www.kilobolt.com/day-1-flappy-bird---an-in-depth-analysis.html
+ - http://www.kilobolt.com/day-2-setting-up-libgdx.html
+ - http://www.kilobolt.com/day-3-understanding-the-libgdx-framework.html
+ - http://www.kilobolt.com/day-4-gameworld-and-gamerenderer-and-the-orthographic-camera.html
+ - http://www.kilobolt.com/day-5-the-flight-of-the-dead---adding-the-bird.html
+ - http://www.kilobolt.com/day-6-adding-graphics---welcome-to-the-necropolis.html
+ - http://www.kilobolt.com/day-7-the-grass-the-bird-and-the-skull-pipe.html
+ - http://www.kilobolt.com/day-8-collision-detection-and-sound-effects.html
+ - http://www.kilobolt.com/day-9-finishing-gameplay-and-basic-ui.html
+ - http://www.kilobolt.com/day-10-gamestates-and-high-score.html
+ - http://www.kilobolt.com/day-11-supporting-iosandroid--splashscreen-menus-and-tweening.html
+ - http://www.kilobolt.com/day-12-completed-ui--source-code.html
+ - http://williammora.com/a-running-game-with-libgdx-part-1/
+ - http://williammora.com/a-running-game-with-libgdx-part-2/
+ - http://williammora.com/a-running-game-with-libgdx-part-3/
+ - http://williammora.com/a-running-game-with-libgdx-part-4/
+ - http://williammora.com/a-running-game-with-libgdx-part-5/
  
-####I inne tutoriale:
- * [libgdx tutoriale z wiki](https://github.com/libgdx/libgdx/wiki/External-tutorials)
-
- * http://code.google.com/p/libgdx/wiki/TableOfContents)
- * http://code.google.com/p/libgdx/wiki/VideoTutorials)
- * http://www.badlogicgames.com/wordpress/?category_name=libgdx-tutorial)
- * http://www.badlogicgames.com/wordpress/?p=2032)
- * http://stackoverflow.com/questions/2680827/conversion-to-dalvik-format-failed-with-error-1-on-external-jar)
- * http://www.csc.kth.se/utbildning/kth/kurser/DD143X/dkand11/Group7Henrik/Rakiv.Ahmed.Jonas.Aule.report.pdf)
- * [przykłady z gdx-a](http://code.google.com/p/beginning-android-games/)
+####Pytania libgdx:
+ - http://www.badlogicgames.com/wordpress/?p=2032)
+ - http://stackoverflow.com/questions/2680827/conversion-to-dalvik-format-failed-with-error-1-on-external-jar)
+ - http://www.csc.kth.se/utbildning/kth/kurser/DD143X/dkand11/Group7Henrik/Rakiv.Ahmed.Jonas.Aule.report.pdf)
+ - [przykłady książki o libgdx-ie](http://code.google.com/p/beginning-android-games/)
 )
- * http://www.gubatron.com/blog/2010/05/28/solved-eclipse-cant-see-my-android-device-on-ubuntu/)
- * http://stackoverflow.com/questions/2256884/android-device-chooser-device-not-showing-up)
- * http://developer.android.com/guide/developing/device.html#VendorIds)
+ - http://www.gubatron.com/blog/2010/05/28/solved-eclipse-cant-see-my-android-device-on-ubuntu/)
+ - http://stackoverflow.com/questions/2256884/android-device-chooser-device-not-showing-up)
+
 
 ###skompilowane androidy
  - http://wiki.cyanogenmod.org/w/Devices
