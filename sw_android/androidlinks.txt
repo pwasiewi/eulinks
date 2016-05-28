@@ -20,75 +20,51 @@
 ```
 
 ###Edytory i tools
- * [Android Studio Tutorial](http://code.tutsplus.com/tutorials/android-sdk-working-with-android-studio--mobile-20203)
- * [Android Studio - idea intellij dla Androida](http://developer.android.com/sdk/)
- * [Genymotion - komercyjny emulator](https://www.genymotion.com)
- * [Calabash - testowania aplikacji](http://calaba.sh)
- * [Jenkins CI - kompilacja ciągła](http://jenkins-ci.org)
- * [Mirror - szybki podgląd ui](http://jimulabs.com)
- * [Popularna chmura](https://parse.com/docs/android_guide)
-
+ - [Android Studio Tutorial](http://code.tutsplus.com/tutorials/android-sdk-working-with-android-studio--mobile-20203)
+ - [Android Studio - idea intellij dla Androida](http://developer.android.com/sdk/)
+ - [Genymotion - komercyjny emulator](https://www.genymotion.com)
+ - [Calabash - testowania aplikacji](http://calaba.sh)
+ - [Jenkins CI - kompilacja ciągła](http://jenkins-ci.org)
+ - [Mirror - szybki podgląd ui](http://jimulabs.com)
+ - [Popularna chmura](https://parse.com/docs/android_guide)
+ - [Gradle tutorial (2015)](http://rominirani.com/2014/07/28/gradle-tutorial-series-an-overview/)
+ - [Android Wear Send Data](http://www.androprogrammer.com/2015/05/android-wear-how-to-send-data-from.html)
  
 
 ###POKREWNE
- * [Wszystkie UE4](http://goo.gl/fs2S8S)
- * https://github.com/cSploit/android
+ - [Wszystkie UE4](http://goo.gl/fs2S8S)
+ - https://github.com/cSploit/android
  
-###DEVELOPERZY
- * https://github.com/JakeWharton
- * http://antonioleiva.com/
+###DEVELOPERZY i BLOGI
+ - https://github.com/JakeWharton
+ - http://antonioleiva.com/
+ - [Android Devs Blog 2015](http://android-developers.blogspot.fr/)
+ - [Krótkie omówienie książek](http://android-er.blogspot.com/)
+ - https://www.sitepoint.com/mobile/
 
-###wykłady, GIGANTYCZNE TUTORY i pytania o sensory
+###wykłady, GIGANTYCZNE TUTORY
  - [Android Arsenal - zbiór bibliotek](https://android-arsenal.com/)
- - [Programy OpenSource](http://www.aopensource.com)
- - [Programy OpenSource w aplikacji](https://f-droid.org/)
  - [Free programming Android books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#android)
- - [Gradle tutorial (2015)](http://rominirani.com/2014/07/28/gradle-tutorial-series-an-overview/)
  - [Android Studio Game Course (2015)](https://goo.gl/vkfX7s)
  - [Zestaw wykładów udacity z programowania Java Android](https://www.udacity.com)
- - [Android Wear Send Data](http://www.androprogrammer.com/2015/05/android-wear-how-to-send-data-from.html)
  - [SoldiersofMobile - nowości po polsku (2015)](http://soldiersofmobile.com/praktyczny-kurs-android/)
  - [Super wykład coursery z licznymi przykładami](https://class.coursera.org/android-001/lecture)
  - [Przykłady z wykładu](https://class.coursera.org/androidapps101-001/lecture)
  - [Super wykład coursery nr 2 - wątki i wzorce](https://class.coursera.org/posa-002/lecture)
  - [Wiki z wykładu nr 2](https://share.coursera.org/wiki/index.php/Posa-002:Main)
  - [Wykład nr 3 z coursery](https://www.youtube.com/playlist?list=PLyUlngzGzkztgTizxM6_zqiw8sRj7vBm0)
- * [Kurs Appinventora - graficznego projektanta](https://sites.google.com/site/appinventorsbl/)
- * [Tutoriale Vogelli z Androida 2015](http://www.vogella.com/android.html)
- * [Wykład Coreservlets 2015](http://www.coreservlets.com/android-tutorial/)
- * [Android Studio - first steps](http://code.tutsplus.com/tutorials/android-sdk-working-with-android-studio--mobile-20203)
- * [Tutsplus - layout](http://mobile.tutsplus.com/tutorials/android/android-layout/)
- * [Tutsplus - fundamentals](http://mobile.tutsplus.com/series/android-fundamentals/)
- * [Tutsplus - essentials](http://mobile.tutsplus.com/series/android-essentials/)
- * [Oficjalne wprowadzenie do Androida](http://developer.android.com/guide/basics/what-is-android.html)
- * [Wykład na youtube: Damiarias Rodriguez](http://www.youtube.com/playlist?list=PL9E21BFF408167ED6)
- * [Fabularne filmiki developerów](http://www.youtube.com/user/androiddevelopers/videos)
- * [25 kursów Anroida 2012](http://www.freewaregenius.com/twenty-five-free-online-tutorials-for-learning-android-programming/)
- * [Wykład Androida 2013](http://lecturesnippets.com/android-programming/)
- * [Tutorial thenewBoston](http://www.youtube.com/playlist?list=PL2F07DBCDCC01493A)
- * [Kody źródłowe tutorialu thenewBoston](https://github.com/shafiul/theNewBoston_android_tutorial/tags)
- * [Kanał youtube thenewboston - zaczynają IOS!](https://www.youtube.com/channel/UCJbPGzawDH1njbqV-D5HqKw)
- * [Tutorial video 2012](http://freevideolectures.com/Course/2981/Android-Application-Development-Spring-2012#)
- * [Tutorial 2009](http://webhosting.pl/Programowanie.w.srodowisku.Android.wprowadzenie.do.projektowania.aplikacji.dla.urzadzen.mobilnych)
- * [Polskie tutoriale 2011](http://www.android4devs.pl/)
- * [Tutorial - małe zręczne przykłady -
-   2012](http://www.mkyong.com/tutorials/android-tutorial/)
- * [Starsze polskie kursy na portalu rozryfka - 2011](http://www.rozryfka.pl/kurs-kZ6Ah7looa5!r5M.html)
- * [Kurs video po polsku 2009](http://www.youtube.com/watch?v=x6SCfIvjjWY&feature=related)
- * [Słynny kurs Marakany po angielsku](http://www.binboy.org/android/tutorials/618/Kurs_programowania_na_Androida.html)
- * [Marakana po angielsku](http://marakana.com/techtv/android_bootcamp_screencast_series.html)
- * [Kody źródłowe do Marakany Android](http://marakana.com/forums/android/general/270.html)
- * [Rozne kursy video - offtopic](http://marakana.com/techtv/index.html)
- - [Biblioteki Androida z xda (2013)](http://forum.xda-developers.com/showthread.php?t=2226547)
- - [Tutorials freewaregenius (2012)](http://www.freewaregenius.com/twenty-five-free-online-tutorials-for-learning-android-programming/)
- - [Tutorial po polsku - podpisywanie aplikacji (2012)](http://szymonmotyka.pl/programowanie-na-androida-reklamy-publikacje/)
+ - [Kurs Appinventora - graficznego projektanta](https://sites.google.com/site/appinventorsbl/)
+ - [Tutoriale Vogelli z Androida 2015](http://www.vogella.com/android.html)
+ - [Wykład Coreservlets 2015](http://www.coreservlets.com/android-tutorial/)
+ - [Android Studio - first steps](http://code.tutsplus.com/tutorials/android-sdk-working-with-android-studio--mobile-20203)
+ - [Oficjalne wprowadzenie do Androida](https://developer.android.com/training/index.html)
+ - [Official Android Developer Guide](http://developer.android.com/guide/)
  - [Spis tutoriali lollipop 5.0 po angielsku](http://www.diygenius.com/how-to-learn-android-app-development-online/)
- 
+
 ###Aplikacje opensource
  * [Lista androidowych aplikacji z otwartym kodem](http://en.wikipedia.org/wiki/List_of_open_source_Android_applications)
- * [Mała lista androidowych aplikacji z otwartym kodem](http://blog.interstellr.com/post/39321551640/14-great-android-apps-that-are-also-open-source)
  * [Wielka baza androidowych open sourcowych aplikacji](http://www.aopensource.com/)
- * [Aplikacja otwartoźródłowych programów](http://f-droid.org/)
+ * [Aplikacja z Play Google: Market otwartoźródłowych programów fdroid](http://f-droid.org/)
  * [Kod Androida ](https://android.googlesource.com/)
  * [Task Manager 2013](https://github.com/todoroo/astrid)
  * [Hacker news 2015](https://github.com/manmal/hn-android/
@@ -96,31 +72,9 @@
  * [Małe aplikacje 2010](http://code.google.com/p/apps-for-android/
  * [Barcode app 2015](https://github.com/zxing/zxing)
 
-###Inne otwarte kody
- * [Strona newsów w PostgreSQL i MongoDB](https://github.com/samuelclay/NewsBlur)
-
-
-###Książki wolne android:
- * [Pierwsza książka o Androidzie :)](http://andbook.anddev.org/files/andbook.pdf)
-
-
-###blogi 
- * [Blog 2014](http://www.grokkingandroid.com/)
- * [Blog 2015](http://android-developers.blogspot.fr/)
- * [Blog i kilka opensourceowych programów 2013](http://mobilepearls.com/labs/
- * [Krótkie omówienie książek](http://android-er.blogspot.com/)
- * [Mały blog 2014](http://app-4-android.blogspot.com/)
- * [Official Developer Guide](http://developer.android.com/guide/)
- * [iMały blog 2015](http://www.androiddesignpatterns.com/)
-
-###podpisywanie aplikacji
- * http://www.androiddevelopment.org/tag/apk/)
-
-###facebook
- * [Pierwsze API Facebooka](https://developers.facebook.com/blog/post/385/)
- * [Kod źródłowy API](https://github.com/facebook/facebook-android-sdk/)
- * [Otwartoźródłowy program z kostką](http://code.google.com/p/bite-the-dice)
-
+###Web Python (2016)
+ - [Strona newsów w PostgreSQL i MongoDB](https://github.com/samuelclay/NewsBlur)
+ - https://www.sitepoint.com/creating-mobile-application-reapp/
 
 ###Przyklady, biblioteki Android:
  * http://google.github.io/dagger/
@@ -408,10 +362,9 @@ git clone git://github.com/nicolasgramlich/AndEngineScriptingExtension.git
  * http://source.android.com/source/downloading.html)
  * http://androidarmv6.github.io/)
 
- * [galaxyace4.2.1](http://forum.xda-developers.com/showthread.php?t=2011671
+
  * http://wiki.cyanogenmod.com/wiki/Latest_Version)
  * http://www.teamandroid.com/gapps/)
- * http://goo.im/gapps/)
  * http://www.addictivetips.com/mobile/what-is-clockworkmod-recovery-and-how-to-use-it-on-android-complete-guide/)
  * http://revolutionary.io/)
  * http://androidos.webig.pl/)
@@ -432,49 +385,55 @@ git clone git://github.com/nicolasgramlich/AndEngineScriptingExtension.git
  * http://forum.xda-developers.com/showthread.php?t=1531222 #Reloaded ICS)
  * http://mauweb.net/3.0/en/technology/17/106-icon-androidsamsung-galaxy-i7500-upgrade-1634-wrec-64.html)
 
-###Lua
- * http://dotnetslackers.com/articles/mobile/Integrate-Lua-into-Your-Android-Games.aspx)
- * http://www.keplerproject.org/)
- * http://code.google.com/p/libgdx-users/wiki/LuaTutorial)
- * http://getmoai.com/)
- * http://www.lgdb.org/game/ortho_robot)
- * http://www.raywenderlich.com/31081/how-to-make-a-simple-game-with-moai)
-
+###Lua in Android
+ - [Lua in Android (2012)](http://dotnetslackers.com/articles/mobile/Integrate-Lua-into-Your-Android-Games.aspx)
+ - http://lua-users.org/wiki/LuaDistributions
+ - http://code.google.com/p/libgdx-users/wiki/LuaTutorial
+ - [Blog for lua mobile game devs (2015)](http://getmoai.com/)
+ - http://www.raywenderlich.com/31081/how-to-make-a-simple-game-with-moai
+ - http://www.lgdb.org/game/ortho_robot
+ 
 ###renderscript (już przestarzały w 4.1, tylko do obliczeń na CPU)
- * http://developer.android.com/guide/topics/renderscript/compute.html)
- * http://developer.android.com/guide/topics/renderscript/advanced.html)
- * http://buildmobile.com/master-mobile-friendly-image-manipulation-emboss-images-using-androids-renderscript-api/)
- * http://code.google.com/p/android-mt-tutorials/source/checkout)
- * http://mobile.tutsplus.com/tutorials/android/getting-started-with-renderscript-on-android/)
-
-###limit pamięci w Javie SDK
- * http://blog.javia.org/how-to-work-around-androids-24-mb-memory-limit/)
+ - http://developer.android.com/guide/topics/renderscript/compute.html
 
 ###Algorytmy
- * http://rosettacode.org/wiki/Rosetta_Code)
- * http://rosettacode.org/wiki/Help:Similar_Sites)
- * http://en.wikipedia.org/wiki/Viterbi_algorithm)
+ - http://rosettacode.org/wiki/Rosetta_Code
+ - http://rosettacode.org/wiki/Help:Similar_Sites
+ - http://en.wikipedia.org/wiki/Viterbi_algorithm
+ 
 ###Blender)
- * http://michalis.ii.uni.wroc.pl/~michalis/teaching/blender/
+ - http://michalis.ii.uni.wroc.pl/~michalis/teaching/blender/
 
-###optymalizacja kiedy mało pamięci, przydaje się i w innych komórkach
- * http://forum.xda-developers.com/showpost.php?p=18703418&postcount=5021)
- * http://www.droidforums.net/forum/droid-hacks/148268-script-v6-supercharger-htk-bulletproof-launchers-fix-memory-all-androids.html)
- * http://www.ipmart-forum.pl/archive/index.php/t-74283.html)
- * http://www.drakaz.com/forum/viewtopic.php?id=1303)
- * http://www.drakaz.com/forum/viewtopic.php?id=529 )
- * http://forum.xda-developers.com/showthread.php?t=769528)
- * http://forum.android.com.pl/f40/jakie-aplikacje-posiadacie-na-swoim-telefonie-291/index2.html)
+###silniki gier komercyjne i zamkniętym kodem 
+ - http://unity3d.com/unity/
+ - [Przykłady z kodem Unity](http://danim.tv/blog/archives/unity3d-source-code-example/)
+ - http://answers.unity3d.com/index.html
 
-###silniki gier komercyjne i zamkniętym kodem - nieraz dostępne darmowe wersje 
- * http://unity3d.com/unity/)
- * http://danim.tv/blog/archives/unity3d-source-code-example/)
- * http://answers.unity3d.com/index.html)
+#STARE MATERIAŁY - TUTORIALE
+ - [Wykład na youtube: Damiarias Rodriguez (2014)](http://www.youtube.com/playlist?list=PL9E21BFF408167ED6)
+ - [Filmy developerów Google](http://www.youtube.com/user/androiddevelopers/videos)
+ - [25 kursów Anroida 2012](http://www.freewaregenius.com/twenty-five-free-online-tutorials-for-learning-android-programming/)
+ - [Wykład Androida 2013](http://lecturesnippets.com/android-programming/)
+ - [Tutorial thenewBoston (2014)](http://www.youtube.com/playlist?list=PL2F07DBCDCC01493A)
+ - [Kody źródłowe tutorialu thenewBoston](https://github.com/shafiul/theNewBoston_android_tutorial/tags)
+ - [Kanał youtube thenewboston - zaczynają IOS!](https://www.youtube.com/channel/UCJbPGzawDH1njbqV-D5HqKw)
+ - [Tutorial video 2012](http://freevideolectures.com/Course/2981/Android-Application-Development-Spring-2012#)
+ - [Tutorial 2009](http://webhosting.pl/Programowanie.w.srodowisku.Android.wprowadzenie.do.projektowania.aplikacji.dla.urzadzen.mobilnych)
+ - [Polskie tutoriale 2011](http://www.android4devs.pl/)
+ - [Tutorial - małe zręczne przykłady -
+   2012](http://www.mkyong.com/tutorials/android-tutorial/)
+ - [Słynny kurs Marakany po angielsku](http://www.binboy.org/android/tutorials/618/Kurs_programowania_na_Androida.html)
+ - [Marakana po angielsku](http://marakana.com/techtv/android_bootcamp_screencast_series.html)
+ - [Kody źródłowe do Marakany Android](http://marakana.com/forums/android/general/270.html)
+ - [Rozne kursy video - offtopic](http://marakana.com/techtv/index.html)
+ - [Biblioteki Androida z xda (2013)](http://forum.xda-developers.com/showthread.php?t=2226547)
+ - [Tutorials freewaregenius (2012)](http://www.freewaregenius.com/twenty-five-free-online-tutorials-for-learning-android-programming/)
+ - [Tutorial po polsku - podpisywanie aplikacji (2012)](http://szymonmotyka.pl/programowanie-na-androida-reklamy-publikacje/)
+ - [Blog i kilka opensourceowych programów 2013](http://mobilepearls.com/labs/)
+ - [Otwartoźródłowy program z kostką](http://code.google.com/p/bite-the-dice)
+ 
 
 
-###Chmury:
- * http://webhosting.pl/Ubuntu.11.10.coraz.gorsze.na.desktopach.coraz.lepsze.na.serwerach)
- * http://webhosting.pl/OpenStack.otwarta.chmura.nadzieja.dla.firm.hostingowych?page=1)
 
 ###Kursy Javy po polsku:
  * http://javastart.pl/podstawy-jezyka/)
