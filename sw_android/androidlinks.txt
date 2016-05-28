@@ -133,7 +133,7 @@
  - https://github.com/libgdx/libgdx/wiki
  - https://github.com/libgdx/libgdx/wiki/Video-tutorials
  - http://www.badlogicgames.com/wordpress/?category_name=libgdx-tutorial)
- - [libgdx gra po angielsku](http://www.kilobolt.com/unit-1-building-the-game.html)
+ - [libgdx kilobolt gra po angielsku](http://www.kilobolt.com/unit-1-building-the-game.html)
  
 ####czyli w rozwinięciu:
  - http://www.kilobolt.com/day-1-flappy-bird---an-in-depth-analysis.html
