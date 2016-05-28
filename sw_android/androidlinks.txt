@@ -143,33 +143,27 @@
  * http://www.alittlemadness.com/2010/06/15/android-ant-builds-targeting-a-specific-device/)
 
 ###OpenGLES
- * http://obviam.net/)
- * http://www.songho.ca/opengl/gl_transform.html)
- * http://insanitydesign.com/wp/projects/nehe-android-ports/)
- * http://www.learnopengles.com/android-lesson-one-getting-started/)
- * http://www3.ntu.edu.sg/home/ehchua/programming/android/Android_3D.html)
- * http://developer.android.com/tools/help/gltracer.html)
- * http://developer.android.com/training/graphics/opengl/index.html)
- * http://developer.android.com/training/graphics/opengl/environment.html)
- * http://code.google.com/p/nehe-android/)
- * http://www.opengl-tutorial.org/)
- * http://stackoverflow.com/questions/1629775/tutorials-and-libraries-for-opengl-es-games-on-android)
- * http://insanitydesign.com/wp/projects/nehe-android-ports/)
- * http://www.javacodegeeks.com/2011/06/android-game-development-tutorials.html)
- * http://aklimx.sppieniezno.pl/nehepl/display.php?id=1 #tutor opengl w
- * zwykłym C)
- * http://www.anddev.org/tut-sequence_android_gl_-_learning_opengl_from_scratch-t229.html)
- * http://www.jayway.com/2009/12/03/opengl-es-tutorial-for-android-part-i/)
- * http://www.zeuscmd.com/tutorials/opengles/index.php)
- * http://ruibm.com/?p=263)
- * http://www.khronos.org/opengles/sdk/1.1/docs/man/)
- * http://code.google.com/p/min3d/)
- * http://www.rozengain.com/blog/2010/05/17/loading-3d-models-with-the-min3d-framework-for-android/)
- * http://www.mat-d.com/site/tutorial-load-a-3d-obj-model-with-min3d-for-android/)
- * http://gamedev.stackexchange.com/questions/8647/how-to-calculate-vertex-normals-for-a-mesh-in-java-in-opengl-es)
- * http://gamedev.stackexchange.com/questions/8191/any-reliable-polygon-normal-calculation-code)
- * http://programminglinuxgames.blogspot.com/2010/09/parsing-wavefront-obj-file-format-using.html)
- * http://en.wikipedia.org/wiki/Wavefront_.obj_file)
+ - http://www.songho.ca/opengl/gl_transform.html
+ - http://www.opengl-tutorial.org/
+ - http://aklimx.sppieniezno.pl/nehepl/display.php?id=1 
+ - http://insanitydesign.com/wp/projects/nehe-android-ports/)
+ - http://www.learnopengles.com/android-lesson-one-getting-started/)
+ - http://www3.ntu.edu.sg/home/ehchua/programming/android/Android_3D.html)
+ - http://developer.android.com/tools/help/gltracer.html)
+ - http://developer.android.com/training/graphics/opengl/index.html)
+ - http://developer.android.com/training/graphics/opengl/environment.html)
+ - http://code.google.com/p/nehe-android/)
+ - http://stackoverflow.com/questions/1629775/tutorials-and-libraries-for-opengl-es-games-on-android)
+ - http://insanitydesign.com/wp/projects/nehe-android-ports/)
+ - http://www.javacodegeeks.com/2011/06/android-game-development-tutorials.html)
+ - http://www.jayway.com/2009/12/03/opengl-es-tutorial-for-android-part-i/)
+ - https://www.jayway.com/2013/05/09/opengl-es-2-0-tutorial-for-android-part-i-getting-started
+ - http://www.zeuscmd.com/tutorials/opengles/index.php)
+ - http://ruibm.com/?p=263)
+ - http://gamedev.stackexchange.com/questions/8647/how-to-calculate-vertex-normals-for-a-mesh-in-java-in-opengl-es)
+ - http://gamedev.stackexchange.com/questions/8191/any-reliable-polygon-normal-calculation-code)
+ - http://programminglinuxgames.blogspot.com/2010/09/parsing-wavefront-obj-file-format-using.html)
+ - http://en.wikipedia.org/wiki/Wavefront_.obj_file)
 
 
 ###GRY
@@ -184,7 +178,6 @@
  - https://github.com/alanwoolley/CorsixTH-Android
  - https://github.com/Zukero/andors-trail
  - http://tmtg.net/
-
 
 ###SILNIKI GIER
  - http://flixel-gdx.com/
@@ -201,6 +194,7 @@
  - https://github.com/pwasiewi/overlap2d
  - http://www.gamefromscratch.com/
  - http://libgdx.badlogicgames.com/
+ - http://obviam.net/
  - http://www.aurelienribon.com/blog/
  - http://www.gamefromscratch.com/page/LibGDX-Tutorial-series.aspx
  
