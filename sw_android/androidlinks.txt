@@ -6,6 +6,7 @@
  - http://developer.android.com/sdk/ndk/overview.html#samples
  - http://libsdl-android.sourceforge.net/ #old android sdl port
  - http://stackoverflow.com/questions/7223349/android-ndk-sigill-crash-on-fpu-instruction-on-armv6-device
+ - http://stackoverflow.com/questions/7080525/why-use-armeabi-v7a-code-over-armeabi-code)
 
 
 ###Polecenia z linii komendy 
@@ -172,21 +173,24 @@
 
 
 ###GRY
- * http://software.intel.com/en-us/blogs/2012/05/14/eight-popular-open-source-android-game-engines)
- * https://github.com/Chluverman/android-gltron)
- * http://code.google.com/p/frozenbubbleandroid)
- * https://github.com/chrisboyle/sgtpuzzles)
- * https://github.com/scoutant/blokish)
- * https://github.com/zielmicha/freeciv-android)
- * http://sourceforge.net/projects/darkknight/ #chess)
- * http://web.comhem.se/petero2home/droidfish/ #chess)
- * http://code.google.com/p/monolithandroid/)
- * https://sites.google.com/site/quake2android/
- * https://github.com/mobilepearls/com.mobilepearls.sokoban)
- * https://github.com/fidlej/ffng-android)
- * https://github.com/Nathisgreen/Fish-Game)
- * http://gna.org/svn/?group=warmux)
- * https://github.com/leereilly/games)
+ * [Spis gier Android na Githubie](https://github.com/leereilly/games)
+ * https://github.com/chrisboyle/sgtpuzzles
+ * https://github.com/scoutant/blokish
+ * http://web.comhem.se/petero2home/droidfish/ 
+ * http://software.intel.com/en-us/blogs/2012/05/14/eight-popular-open-source-android-game-engines
+ * https://github.com/Chluverman/android-gltron
+ * http://code.google.com/p/frozenbubbleandroid
+ * https://github.com/mobilepearls/com.mobilepearls.sokoban
+
+
+ * https://github.com/zielmicha/freeciv-android
+ * http://sourceforge.net/projects/darkknight/
+ * http://code.google.com/p/monolithandroid/
+ * http://www.jeyries.fr/quake2android/
+ * https://github.com/fidlej/ffng-android
+ * https://github.com/Nathisgreen/Fish-Game
+
+ 
  * https://github.com/alanwoolley/CorsixTH-Android)
  * https://github.com/hagish/love-native-android)
  * http://code.google.com/p/andors-trail/)
@@ -213,36 +217,6 @@
  - https://github.com/Rajawali/Rajawali
  - https://github.com/portmobile/LAGP-Example-Code
 
-###ANDDEV
- * https://github.com/nicolasgramlich/AndEngine
-
-```
-git clone git://github.com/nicolasgramlich/AndEngine.git
-git clone git://github.com/nicolasgramlich/AndEngineExamples.git
-git clone git://github.com/nicolasgramlich/AndEnginePhysicsBox2DExtension.git
-git clone git://github.com/nicolasgramlich/AndEngineAugmentedRealityExtension.git
-git clone git://github.com/nicolasgramlich/AndEngineMODPlayerExtension.git
-git clone git://github.com/nicolasgramlich/AndEngineSVGTextureRegionExtension.git
-git clone git://github.com/nicolasgramlich/AndEngineTexturePackerExtension.git
-git clone git://github.com/nicolasgramlich/AndEngineMultiplayerExtension.git
-git clone git://github.com/nicolasgramlich/AndEngineLiveWallpaperExtension.git
-git clone git://github.com/nicolasgramlich/AndEngineTMXTiledMapExtension.git
-git clone git://github.com/nicolasgramlich/AndEngineScriptingExtension.git
-```
-
- * http://www.mybringback.com/series/andengine-gles2-android-game-development/)
- * http://www.andengine.org/forums/tutorials/getting-started-with-andengine-t11-80.html)
- * http://www.andengine.org/forums/tutorials/updated-getting-started-with-andengine-t4858.html)
- * http://wiki.andengine.org/Loading_In_the_Background)
- * http://stackoverflow.com/questions/7607877/stackoverflow-when-trying-to-run-the-text-example-in-the-andengineexamplelaunche)
- * http://stackoverflow.com/questions/7080525/why-use-armeabi-v7a-code-over-armeabi-code)
- * http://andenginefromscratch.blogspot.com/)
- * http://www.anddev.org/advanced-tutorials-f21/tutorial-animating-layouts-t55236.html)
- * http://andengineguides.wordpress.com/)
- * https://jimmaru.wordpress.com/2011/09/28/andengine-simple-android-game-tutorial/)
- * https://jimmaru.wordpress.com/2011/12/13/simple-andengine-game-v2-0-more-awesomeness/)
- * http://www.andengine.org/forums/tutorials/mimminito-s-tutorial-list-t417.html)
-
 ###GDX
  - [Udacity 2D gra wykład](https://github.com/udacity/ud405)
  - [Udacity 2D gra wykład cd](https://github.com/udacity/ud406)
@@ -257,8 +231,8 @@ git clone git://github.com/nicolasgramlich/AndEngineScriptingExtension.git
 ####libgdx kurs po polsku - kółko i krzyżyk -
  - [Polski
    Tutor](https://www.youtube.com/playlist?list=PLFq6ri1W22hyyGVo7pmTMstd-pZWZBmRg)
- - http://www.gamedev.pl/txt/wstep-do-libgdx
- - http://www.gamedev.pl/txt/gdxcombat--bijatyka-na-libgdx
+ * [libgdx gra po polsku - kółko i krzyżyk](http://www.gamedev.pl/txt/wstep-do-libgdx)
+ * [libgdx gra po polsku - bijatyka](http://www.gamedev.pl/txt/gdxcombat--bijatyka-na-libgdx)
  - https://github.com/kotcrab?tab=repositories
 
 ####A po angielsku:
@@ -292,8 +266,6 @@ git clone git://github.com/nicolasgramlich/AndEngineScriptingExtension.git
  
 ####I inne tutoriale:
  * https://github.com/libgdx/libgdx/wiki/External-tutorials
- * [libgdx gra po polsku - kółko i krzyżyk](http://www.gamedev.pl/txt/wstep-do-libgdx)
- * [libgdx gra po polsku - bijatyka](http://www.gamedev.pl/txt/gdxcombat--bijatyka-na-libgdx)
  * [libgdx gra po angielsku](http://www.kilobolt.com/unit-1-building-the-game.html)
  * [libgdx tutoriale z wiki](https://github.com/libgdx/libgdx/wiki/External-tutorials)
  * [libgdx youtube kurs po angielsku](https://www.youtube.com/playlist?list=PLvnEciYMRSk-l5oKsIsbrBbP2ZJFSZLns)
