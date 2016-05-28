@@ -118,29 +118,27 @@
  - [Udacity 2D gra wykład cd](https://github.com/udacity/ud406)
  - [Najlepsze tutoriale po
    angielsku](http://www.appance.com/best-libgdx-gamedev-tutorials/)
- - https://github.com/pwasiewi/overlap2d
+ - https://github.com/UnderwaterApps/overlap2d
  - http://www.gamefromscratch.com/
  - http://libgdx.badlogicgames.com/
  - http://obviam.net/
- - http://www.aurelienribon.com/blog/
  - http://www.gamefromscratch.com/page/LibGDX-Tutorial-series.aspx
  
 ####libgdx kurs po polsku - kółko i krzyżyk -
  - [Polski
    Tutor](https://www.youtube.com/playlist?list=PLFq6ri1W22hyyGVo7pmTMstd-pZWZBmRg)
- - [libgdx gamedev po poslku](https://forum.gamedev.pl/c/artykuly)
+ - [libgdx gamedev artykuły po polsku](https://forum.gamedev.pl/c/artykuly)
  - [libgdx gra po polsku - kółko i krzyżyk](http://www.gamedev.pl/txt/wstep-do-libgdx)
  - https://github.com/kotcrab?tab=repositories
 
 ####A po angielsku:
- - [C4Cheats
-   Youtube](https://www.youtube.com/playlist?list=PLvnEciYMRSk-l5oKsIsbrBbP2ZJFSZLns)
+ * [C4Cheats libgdx youtube kurs po angielsku](https://www.youtube.com/playlist?list=PLvnEciYMRSk-l5oKsIsbrBbP2ZJFSZLns)
  * http://www.norakomi.com/tutorial_admob_introduction.php
  * http://www.mets-blog.com/category/libgdx/
  * http://www.codeproject.com/Articles/702957/Create-your-first-Android-Game-with-libgdx
- * [Tutor lista video na youtube](https://www.youtube.com/playlist?list=PLXY8okVWvwZ0JOwHiH1TntAdq-UDPnC2L)
- * [1.5h tutor](https://www.youtube.com/watch?v=_rVS1zHThZ0)
- * http://www.kilobolt.com/unit-1-building-the-game.html
+ * [Java Game Development na youtube](https://www.youtube.com/playlist?list=PLXY8okVWvwZ0JOwHiH1TntAdq-UDPnC2L)
+ * [1.5h tutor Space Invaders](https://www.youtube.com/watch?v=_rVS1zHThZ0)
+ * [libgdx gra po angielsku](http://www.kilobolt.com/unit-1-building-the-game.html)
  
 ####czyli w rozwinięciu:
  * http://www.kilobolt.com/day-1-flappy-bird---an-in-depth-analysis.html
@@ -162,17 +160,8 @@
  * http://williammora.com/a-running-game-with-libgdx-part-5/
  
 ####I inne tutoriale:
- * https://github.com/libgdx/libgdx/wiki/External-tutorials
- * [libgdx gra po angielsku](http://www.kilobolt.com/unit-1-building-the-game.html)
  * [libgdx tutoriale z wiki](https://github.com/libgdx/libgdx/wiki/External-tutorials)
- * [libgdx youtube kurs po angielsku](https://www.youtube.com/playlist?list=PLvnEciYMRSk-l5oKsIsbrBbP2ZJFSZLns)
- * https://github.com/pwasiewi/overlap2d)
- * http://www.gamefromscratch.com/)
- * http://libgdx.badlogicgames.com/)
- * http://www.aurelienribon.com/blog/)
- * http://www.gamefromscratch.com/page/LibGDX-Tutorial-series.aspx)
- * https://github.com/AurelienRibon/gdx-setup-ui)
- * http://obviam.net/index.php/getting-started-in-android-game-development-with-libgdx-create-a-working-prototype-in-a-day-tutorial-part-1/)
+
  * http://code.google.com/p/libgdx/wiki/TableOfContents)
  * http://code.google.com/p/libgdx/wiki/VideoTutorials)
  * http://www.badlogicgames.com/wordpress/?category_name=libgdx-tutorial)
