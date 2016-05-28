@@ -85,8 +85,15 @@
  - http://stackoverflow.com/questions/7223349/android-ndk-sigill-crash-on-fpu-instruction-on-armv6-device
  - http://stackoverflow.com/questions/7080525/why-use-armeabi-v7a-code-over-armeabi-code)
 
+###C++ cocos2d-x
+ - https://github.com/cocos2d/cocos2d-x
+
 ###GRY
  - [Spis gier Android na Githubie](https://github.com/leereilly/games)
+ - https://github.com/watabou/pixel-dungeon
+ - https://github.com/zsoltk/GameOfLife
+ - https://github.com/awlzac/wbta
+ - https://github.com/sromku/memory-game
  - https://github.com/chrisboyle/sgtpuzzles
  - https://github.com/scoutant/blokish
  - http://web.comhem.se/petero2home/droidfish/ 
