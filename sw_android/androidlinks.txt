@@ -111,23 +111,13 @@
  * https://github.com/cyberagent-jp/android-gpuimage)
  * https://github.com/pocorall/scaloid)
  * [C++ konwersja RGB HSV](http://lol.zoy.org/blog)
-
-###PYTANIA, PORADY, ANDROID4)
-
- 
  * http://code.google.com/p/iosched/
- * http://tools.android.com/tips/hardware-emulation
  
+###PYTANIA, PORADY, ANDROID4)
+ - http://tools.android.com/tips/hardware-emulation
+ - http://stackoverflow.com/questions/456211/activity-restart-on-rotation-android)
+ - http://stackoverflow.com/questions/2881128/how-to-use-onsensorchanged-sensor-data-in-combination-with-opengl)
 
- * http://www.codeshogun.com/blog/tag/android/)
- * http://stackoverflow.com/questions/456211/activity-restart-on-rotation-android)
- * http://www.youtube.com/watch?feature=player_embedded&v=ykPrVWeyV_0--!)
- * http://stackoverflow.com/questions/2881128/how-to-use-onsensorchanged-sensor-data-in-combination-with-opengl)
- * http://www.helloandroid.com/tutorials/using-android-phones-sensors)
- * http://www.codeshogun.com/blog/2009/04/17/how-to-detect-shake-motion-in-android-part-i/)
- * http://android-developers.blogspot.com/2010/09/one-screen-turn-deserves-another.html)
- * http://stackoverflow.com/questions/456211/activity-restart-on-rotation-android)
- * http://www.alittlemadness.com/2010/06/15/android-ant-builds-targeting-a-specific-device/)
 
 ###OpenGLES
  - http://www.songho.ca/opengl/gl_transform.html
