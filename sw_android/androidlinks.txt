@@ -67,9 +67,9 @@
  * [Aplikacja z Play Google: Market otwartoźródłowych programów fdroid](http://f-droid.org/)
  * [Kod Androida ](https://android.googlesource.com/)
  * [Task Manager 2013](https://github.com/todoroo/astrid)
- * [Hacker news 2015](https://github.com/manmal/hn-android/
+ * [Hacker news 2015](https://github.com/manmal/hn-android/)
  * [Baza książek 2009](http://code.google.com/p/shelves/)
- * [Małe aplikacje 2010](http://code.google.com/p/apps-for-android/
+ * [Małe aplikacje 2010](http://code.google.com/p/apps-for-android/)
  * [Barcode app 2015](https://github.com/zxing/zxing)
 
 ###Web Python (2016)
@@ -172,8 +172,6 @@
 
 
 ###GRY
- * http://en.wikipedia.org/wiki/List_of_open_source_Android_applications)
- * http://www.aopensource.com/)
  * http://software.intel.com/en-us/blogs/2012/05/14/eight-popular-open-source-android-game-engines)
  * https://github.com/Chluverman/android-gltron)
  * http://code.google.com/p/frozenbubbleandroid)
@@ -250,30 +248,26 @@ git clone git://github.com/nicolasgramlich/AndEngineScriptingExtension.git
  * http://www.andengine.org/forums/tutorials/mimminito-s-tutorial-list-t417.html)
 
 ###GDX
- * [Udacity 2D gra wykład](https://github.com/udacity/ud405)
- * [Udacity 2D gra wykład cd](https://github.com/udacity/ud406)
- * [Polski
-   Tutor](https://www.youtube.com/playlist?list=PLFq6ri1W22hyyGVo7pmTMstd-pZWZBmRg)
- * [C4Cheats
-   Youtube](https://www.youtube.com/playlist?list=PLvnEciYMRSk-l5oKsIsbrBbP2ZJFSZLns)
- * [Najlepsze tutoriale po
+ - [Udacity 2D gra wykład](https://github.com/udacity/ud405)
+ - [Udacity 2D gra wykład cd](https://github.com/udacity/ud406)
+ - [Najlepsze tutoriale po
    angielsku](http://www.appance.com/best-libgdx-gamedev-tutorials/)
- * https://github.com/pwasiewi/overlap2d
- * http://www.gamefromscratch.com/
- * http://libgdx.badlogicgames.com/
- * http://www.aurelienribon.com/blog/
- * http://www.gamefromscratch.com/page/LibGDX-Tutorial-series.aspx
+ - https://github.com/pwasiewi/overlap2d
+ - http://www.gamefromscratch.com/
+ - http://libgdx.badlogicgames.com/
+ - http://www.aurelienribon.com/blog/
+ - http://www.gamefromscratch.com/page/LibGDX-Tutorial-series.aspx
  
-####Wspomnieć można jeśli są problemy z uruchomieniem o kursach po polsku: libgdx kurs po polsku - kółko i krzyżyk -
- * http://www.gamedev.pl/txt/wstep-do-libgdx
- 
-####libgdx kurs po polsku - bijatyka -
- * http://www.gamedev.pl/txt/gdxcombat--bijatyka-na-libgdx
- 
-####Repozytoria polskich developerów:
- * https://github.com/kotcrab?tab=repositories
+####libgdx kurs po polsku - kółko i krzyżyk -
+ - [Polski
+   Tutor](https://www.youtube.com/playlist?list=PLFq6ri1W22hyyGVo7pmTMstd-pZWZBmRg)
+ - http://www.gamedev.pl/txt/wstep-do-libgdx
+ - http://www.gamedev.pl/txt/gdxcombat--bijatyka-na-libgdx
+ - https://github.com/kotcrab?tab=repositories
 
 ####A po angielsku:
+ - [C4Cheats
+   Youtube](https://www.youtube.com/playlist?list=PLvnEciYMRSk-l5oKsIsbrBbP2ZJFSZLns)
  * http://www.norakomi.com/tutorial_admob_introduction.php
  * http://www.mets-blog.com/category/libgdx/
  * http://www.codeproject.com/Articles/702957/Create-your-first-Android-Game-with-libgdx
@@ -294,7 +288,6 @@ git clone git://github.com/nicolasgramlich/AndEngineScriptingExtension.git
  * http://www.kilobolt.com/day-10-gamestates-and-high-score.html
  * http://www.kilobolt.com/day-11-supporting-iosandroid--splashscreen-menus-and-tweening.html
  * http://www.kilobolt.com/day-12-completed-ui--source-code.html
-
  * http://williammora.com/a-running-game-with-libgdx-part-1/
  * http://williammora.com/a-running-game-with-libgdx-part-2/
  * http://williammora.com/a-running-game-with-libgdx-part-3/
@@ -327,63 +320,13 @@ git clone git://github.com/nicolasgramlich/AndEngineScriptingExtension.git
  * http://stackoverflow.com/questions/2256884/android-device-chooser-device-not-showing-up)
  * http://developer.android.com/guide/developing/device.html#VendorIds)
 
-###COCOS2D
- * http://cocos2d.org/doc.html)
-
-###UE4
- * [UE4 tutorial](https://www.youtube.com/watch?v=QMsFxzYzFJ8&list=PLZlv_N0_O1gaCL2XjKluO7N2Pmmw9pvhE&index=1)
-
-###NAPRAWA JDK WERSJI
- * http://qtcstation.com/2011/05/android-and-jdk-compliance/)
- * http://stackoverflow.com/questions/4761888/override-annotation-error-android-prefs)
-
-
-
-###root on android
- * http://www.lifehacker.com.au/2012/01/the-complete-guide-to-rooting-any-android-phone-2/)
- * [galaxy ace root](http://forum.xda-developers.com/showthread.php?t=1034145)
- * [oneclick](http://forum.xda-developers.com/showthread.php?t=803682)
- * http://www.addictivetips.com/mobile/what-is-clockworkmod-recovery-and-how-to-use-it-on-android-complete-guide/)
- * http://mdzlog.alcor.net/2010/05/29/extracting-files-from-a-nandroid-backup-using-unyaffs/)
-
-###Instalacje:
- * http://download.eclipse.org/eclipse/downloads/)
- * http://developer.android.com/sdk/installing.html)
- * http://blog.canonical.com/2011/10/18/ubuntu-11-10-on-arm/)
- * http://www.o-learn.com/content/howto-install-ubuntu-on-toshiba-ac100)
- * http://jlaskowski.blogspot.com/2011/09/ukad-w-androidzie-jedno-sowo-dwa.html)
- * https://github.com/jaceklaskowski/android-examples/tree/master/Lokatnik)
-
 ###skompilowane androidy
- * https://github.com/ResurrectionRemix/platform_manifest/blob/lollipop/README.mkdn)
- * http://xda-university.com/as-a-developer/porting-aosp-roms-using-source-code)
- * http://wiki.cyanogenmod.org/w/Devices#cmversions=%2210.2%22;)
- * http://wiki.cyanogenmod.org/w/Unofficial_Ports)
- * http://source.android.com/source/downloading.html)
- * http://androidarmv6.github.io/)
-
-
- * http://wiki.cyanogenmod.com/wiki/Latest_Version)
- * http://www.teamandroid.com/gapps/)
- * http://www.addictivetips.com/mobile/what-is-clockworkmod-recovery-and-how-to-use-it-on-android-complete-guide/)
- * http://revolutionary.io/)
- * http://androidos.webig.pl/)
- * http://rootzwiki.com/)
- * http://droidvicious.com/)
- * http://code.google.com/p/gaosp/wiki/Building)
- * http://www.drakaz.com/forum/viewtopic.php?id=529)
- * http://forum.xda-developers.com/showthread.php?t=1465317)
- * http://forum.xda-developers.com/showthread.php?t=1012856&page=101)
- * http://forum.xda-developers.com/showpost.php?p=13859219&postcount=971)
- * http://code.google.com/p/badadroid/)
- * http://www.jayceooi.com/2011/11/21/how-to-install-android-4-0-ice-cream-sandwich-on-htc-hd2-video/)
- * http://www.addictivetips.com/mobile/cm9-ics-rom-motorola-milestone-download-install/)
- * http://www.sandvold.as)
- * http://www.wix.com/devilsking52/themythace)
- * http://yagyagaire.blogspot.com/2012/01/how-to-flash-official-stock-firmwares.html)
- * http://s5830.pl/forum-28.html)
- * http://forum.xda-developers.com/showthread.php?t=1531222 #Reloaded ICS)
- * http://mauweb.net/3.0/en/technology/17/106-icon-androidsamsung-galaxy-i7500-upgrade-1634-wrec-64.html)
+ - http://wiki.cyanogenmod.org/w/Devices
+ - http://wiki.cyanogenmod.org/w/Unofficial_Ports
+ - http://source.android.com/source/downloading.html
+ - https://github.com/ResurrectionRemix/platform_manifest/blob/lollipop/README.mkdn
+ - http://wiki.cyanogenmod.com/wiki/Latest_Version
+ - http://www.teamandroid.com/gapps/
 
 ###Lua in Android
  - [Lua in Android (2012)](http://dotnetslackers.com/articles/mobile/Integrate-Lua-into-Your-Android-Games.aspx)
@@ -408,6 +351,8 @@ git clone git://github.com/nicolasgramlich/AndEngineScriptingExtension.git
  - http://unity3d.com/unity/
  - [Przykłady z kodem Unity](http://danim.tv/blog/archives/unity3d-source-code-example/)
  - http://answers.unity3d.com/index.html
+ - [UE4 tutorial](https://www.youtube.com/watch?v=QMsFxzYzFJ8&list=PLZlv_N0_O1gaCL2XjKluO7N2Pmmw9pvhE&index=1)
+
 
 #STARE MATERIAŁY - TUTORIALE
  - [Wykład na youtube: Damiarias Rodriguez (2014)](http://www.youtube.com/playlist?list=PL9E21BFF408167ED6)
