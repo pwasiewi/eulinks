@@ -56,11 +56,11 @@
  - [Barcode lib 2015](https://github.com/zxing/zxing)
  - https://github.com/cSploit/android
 
-###Web Python (2016)
- - [Strona newsów w PostgreSQL i MongoDB](https://github.com/samuelclay/NewsBlur)
+###Web Python
+ - [Strona newsów w PostgreSQL i MongoDB (2016)](https://github.com/samuelclay/NewsBlur)
  - https://www.sitepoint.com/creating-mobile-application-reapp/
 
-###Przyklady, biblioteki Android:
+###Przyklady, biblioteki Android
  * [Biblioteki Square](http://square.github.io)
  * http://google.github.io/dagger/
  * [Simple RSS Reader For Android](https://github.com/ZackehSoul/RSSDemo)
@@ -69,7 +69,7 @@
  * http://www.jpct.net/jpct-ae/index.html
  * [Scala on Android (2016)](https://github.com/pocorall/scaloid)
  
-###PYTANIA, PORADY, ANDROID4)
+###PYTANIA, PORADY, ANDROID4
  - http://tools.android.com/tips/hardware-emulation
  - http://stackoverflow.com/questions/456211/activity-restart-on-rotation-android)
  - http://stackoverflow.com/questions/2881128/how-to-use-onsensorchanged-sensor-data-in-combination-with-opengl)
