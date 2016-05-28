@@ -204,18 +204,14 @@
  * https://github.com/chesterbr/minitruco-android)
  * http://student.dei.uc.pt/~jcgonc/productions.htm)
 
+ - http://www.androidpolice.com/2012/07/30/going-indie-the-story-of-independent-android-game-development-from-concept-to-completion/
+
 ###SILNIKI GIER
- * http://mobilegameengines.com/android/open_source_game_engines)
- * http://code.google.com/p/flixel-android/)
- * https://code.google.com/p/e3roid/)
- * http://ardor3d.com/)
- * http://www.androidpolice.com/2012/07/30/going-indie-the-story-of-independent-android-game-development-from-concept-to-completion/)
- * http://code.zynga.com/2012/10/creating-a-game-with-cocosbuilder/)
- * https://github.com/eburke/android_game_examples)
- * https://github.com/cping/LGame)
- * https://github.com/MasDennis/Rajawali)
- * https://github.com/MasDennis/RajawaliExamples)
- * https://github.com/portmobile/LAGP-Example-Code)
+ - http://flixel-gdx.com/
+ - https://github.com/flixel-gdx/flixel-gdx
+ - https://github.com/cping/LGame
+ - https://github.com/Rajawali/Rajawali
+ - https://github.com/portmobile/LAGP-Example-Code
 
 ###ANDDEV
  * https://github.com/nicolasgramlich/AndEngine
