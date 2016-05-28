@@ -2,31 +2,9 @@
  - https://github.com/libSDL2pp/libSDL2pp
  - http://lazyfoo.net/tutorials/SDL/index.php
  - https://wiki.libsdl.org/Android
- * http://jiggawatt.org/badc0de/android/index.html)
- * http://www.bekatul.info/content/native-c-application-android)
- * http://stackoverflow.com/questions/7223349/android-ndk-sigill-crash-on-fpu-instruction-on-armv6-device)
- * http://libsdl-android.sourceforge.net/)
- * http://developer.android.com/guide/developing/projects/projects-cmdline.html)
- * http://www.wormux.org/phpboost/wiki/print.php?id=39)
- * http://slouken.blogspot.com/2011/02/streaming-textures-with-sdl-13.html
- * #fajne)
- * http://wilbefast.com/2011/07/29/sdl-for-android-in-10-drunken-steps/)
- * http://www.sdltutorials.com/sdl-coordinates-and-blitting)
- * http://info.wsisiz.edu.pl/~szymank0/doku.php?id=public:programowanie:sdl:sdltutorial2)
- * http://cpp0x.pl/kursy/Kurs-SDL-C++/22)
- * http://www.sdltutorials.com/)
-hg clone http://hg.libsdl.org/SDL)
-
-###działający port SDL2 na Androida)
-git clone git://github.com/xorange/SDL2-port-for-android.git)
-
-###port SDL1.3 na Androida (już nie rozwijany, ale wiele gier))
- * http://www.anddev.org/sdl_port_for_android_sdk-ndk_16-t9218.html)
- * https://github.com/pelya/commandergenius)
- 
-###dyskusja nad nowym portem SDL2)
- * http://wilbefast.com/2011/11/11/recent-sdl-android-goodies/)
- * http://www.kekkai.org/roger/sdl/rwops/rwops.html)
+ - https://github.com/AMDmi3/planetonomy
+ - http://libsdl-android.sourceforge.net/ #old android sdl port
+ - http://stackoverflow.com/questions/7223349/android-ndk-sigill-crash-on-fpu-instruction-on-armv6-device
 
 
 ###Polecenia z linii komendy 
