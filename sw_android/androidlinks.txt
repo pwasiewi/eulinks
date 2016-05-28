@@ -80,21 +80,14 @@
  - https://www.sitepoint.com/creating-mobile-application-reapp/
 
 ###Przyklady, biblioteki Android:
- * http://google.github.io/dagger/
  * [Biblioteki Square](http://square.github.io)
- * [Simple RSS Reader For Android](https://github.com/ZackehSoul/RSSDemo)
- * [CommonsWare Android Components 2015](http://commonsware.com/cwac)
- * http://code.google.com/p/android-query/)
- * http://android.wordpress.org/development/)
- * https://github.com/kaeppler/ignition)
- * https://github.com/siyamed/GreenDroid)
- * http://www.springsource.org/spring-android/)
- * https://github.com/roboguice/roboguic)
- * https://github.com/siyamed/android-satellite-menue)
+ * http://google.github.io/dagger/
+ * [Simple RSS Reader For Android](https://github.com/ZackehSoul/RSSDemo
+ * [CommonsWare Android Components 2015](http://commonsware.com/cwac
+ * http://www.springsource.org/spring-android/
  * http://actionbarsherlock.com/)
- * https://github.com/nicolasgramlich/robotium #testy)
- * http://www.jpct.net/jpct-ae/index.html)
- * https://github.com/commonsguy/cw-andtutorials)
+ * http://www.jpct.net/jpct-ae/index.html
+ 
  * https://github.com/JesusFreke/Penroser)
  * http://brainflush.wordpress.com/2009/11/16/introducing-droid-fu-for-android-betteractivity-betterservice-and-betterasynctask/)
  * https://github.com/pakerfeldt/android-viewflow)
