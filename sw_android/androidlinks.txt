@@ -1,14 +1,3 @@
-###C SDL android
- - https://github.com/libSDL2pp/libSDL2pp
- - http://lazyfoo.net/tutorials/SDL/index.php
- - https://wiki.libsdl.org/Android
- - https://github.com/AMDmi3/planetonomy
- - http://developer.android.com/sdk/ndk/overview.html#samples
- - http://libsdl-android.sourceforge.net/ #old android sdl port
- - http://stackoverflow.com/questions/7223349/android-ndk-sigill-crash-on-fpu-instruction-on-armv6-device
- - http://stackoverflow.com/questions/7080525/why-use-armeabi-v7a-code-over-armeabi-code)
-
-
 ###Polecenia z linii komendy 
   
 ```
@@ -89,6 +78,16 @@
  - http://stackoverflow.com/questions/456211/activity-restart-on-rotation-android)
  - http://stackoverflow.com/questions/2881128/how-to-use-onsensorchanged-sensor-data-in-combination-with-opengl)
  - [Android Wear Send Data](http://www.androprogrammer.com/2015/05/android-wear-how-to-send-data-from.html)
+
+###C SDL android
+ - https://github.com/libSDL2pp/libSDL2pp
+ - http://lazyfoo.net/tutorials/SDL/index.php
+ - https://wiki.libsdl.org/Android
+ - https://github.com/AMDmi3/planetonomy
+ - http://developer.android.com/sdk/ndk/overview.html#samples
+ - http://libsdl-android.sourceforge.net/ #old android sdl port
+ - http://stackoverflow.com/questions/7223349/android-ndk-sigill-crash-on-fpu-instruction-on-armv6-device
+ - http://stackoverflow.com/questions/7080525/why-use-armeabi-v7a-code-over-armeabi-code)
 
 ###GRY
  - [Spis gier Android na Githubie](https://github.com/leereilly/games)
