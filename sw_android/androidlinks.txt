@@ -66,6 +66,7 @@
 
 ###Aplikacje opensource
  * [Lista androidowych aplikacji z otwartym kodem](http://en.wikipedia.org/wiki/List_of_open_source_Android_applications)
+ * https://wiki.koumbit.net/AndroidFreeSoftware
  * [Wielka baza androidowych open sourcowych aplikacji](http://www.aopensource.com/)
  * [Aplikacja z Play Google: Market otwartoźródłowych programów fdroid](http://f-droid.org/)
  * [Kod Androida ](https://android.googlesource.com/)
@@ -85,26 +86,8 @@
  * [Simple RSS Reader For Android](https://github.com/ZackehSoul/RSSDemo
  * [CommonsWare Android Components 2015](http://commonsware.com/cwac
  * http://www.springsource.org/spring-android/
- * http://actionbarsherlock.com/)
  * http://www.jpct.net/jpct-ae/index.html
- 
- * https://github.com/JesusFreke/Penroser)
- * http://brainflush.wordpress.com/2009/11/16/introducing-droid-fu-for-android-betteractivity-betterservice-and-betterasynctask/)
- * https://github.com/pakerfeldt/android-viewflow)
- * https://github.com/todoroo/astrid)
- * http://androidappdev.org/widgets/)
- * https://wiki.koumbit.net/AndroidFreeSoftware)
- * http://en.wikipedia.org/wiki/List_of_Open_Source_Android_Applications)
- * https://github.com/npverni/android-notes)
- * http://developer.android.com/resources/tutorials/notepad/notepad-ex1.html)
- * http://www.helloandroid.com/tutorials)
- * https://github.com/bendemboski/DateSlider)
- * https://github.com/commonsguy/cw-andtutorials)
- * https://github.com/JakeWharton/ActionBarSherlock)
- * https://github.com/cyberagent-jp/android-gpuimage)
- * https://github.com/pocorall/scaloid)
- * [C++ konwersja RGB HSV](http://lol.zoy.org/blog)
- * http://code.google.com/p/iosched/
+ * [Scala on Android (2016)](https://github.com/pocorall/scaloid)
  
 ###PYTANIA, PORADY, ANDROID4)
  - http://tools.android.com/tips/hardware-emulation
@@ -134,7 +117,7 @@
  - http://gamedev.stackexchange.com/questions/8191/any-reliable-polygon-normal-calculation-code)
  - http://programminglinuxgames.blogspot.com/2010/09/parsing-wavefront-obj-file-format-using.html)
  - http://en.wikipedia.org/wiki/Wavefront_.obj_file)
-
+ - [C++ konwersja RGB HSV](http://lol.zoy.org/blog)
 
 ###GRY
  - [Spis gier Android na Githubie](https://github.com/leereilly/games)
