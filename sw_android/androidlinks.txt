@@ -65,11 +65,13 @@
 
 ###Przyklady, biblioteki Android
  - [Android Arsenal - zbiór bibliotek](https://android-arsenal.com/)
+ - [Ranking bibliotek Androida](http://www.appbrain.com/stats/libraries/dev)
  - https://android-libs.com/
  - [Biblioteki Square](http://square.github.io)
  - http://google.github.io/dagger/
  - https://bintray.com/search?query=android
  - http://code.tutsplus.com/tutorials/creating-and-publishing-an-android-library--cms-24582
+ - https://www.linkedin.com/pulse/top-5-android-libraries-every-developer-should-know-ahmad-awad
  - [Simple RSS Reader For Android](https://github.com/ZackehSoul/RSSDemo)
  - [CommonsWare Android Components 2015](http://commonsware.com/cwac)
  - http://www.springsource.org/spring-android/
