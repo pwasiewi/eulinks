@@ -9,6 +9,9 @@
    adb install -r  /opt/android-ndk-r7b/samples/bitmap-plasma/bin/Plasma-debug.apk
 ```
 
+###Ciekawostki
+ - http://www.dobreprogramy.pl/Android-na-chromebookach-zaistnial-dzieki-linuksowym-kontenerom-io16,News,73364.html
+
 ###Edytory i tools
  - [Android Studio Tutorial](http://code.tutsplus.com/tutorials/android-sdk-working-with-android-studio--mobile-20203)
  - [Android Studio - idea intellij dla Androida](http://developer.android.com/sdk/)
@@ -30,7 +33,6 @@
 
 ###wykłady, GIGANTYCZNE TUTORY
  - http://damianchodorek.com/lista-kursow/
- - [Android Arsenal - zbiór bibliotek](https://android-arsenal.com/)
  - [Free programming Android books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#android)
  - [Android Studio Game Course (2015)](https://goo.gl/vkfX7s)
  - [Zestaw wykładów udacity z programowania Java Android](https://www.udacity.com)
@@ -62,13 +64,15 @@
  - https://www.sitepoint.com/creating-mobile-application-reapp/
 
 ###Przyklady, biblioteki Android
- * [Biblioteki Square](http://square.github.io)
- * http://google.github.io/dagger/
- * [Simple RSS Reader For Android](https://github.com/ZackehSoul/RSSDemo)
- * [CommonsWare Android Components 2015](http://commonsware.com/cwac)
- * http://www.springsource.org/spring-android/
- * http://www.jpct.net/jpct-ae/index.html
- * [Scala on Android (2016)](https://github.com/pocorall/scaloid)
+ - [Android Arsenal - zbiór bibliotek](https://android-arsenal.com/)
+ - https://android-libs.com/
+ - [Biblioteki Square](http://square.github.io)
+ - http://google.github.io/dagger/
+ - [Simple RSS Reader For Android](https://github.com/ZackehSoul/RSSDemo)
+ - [CommonsWare Android Components 2015](http://commonsware.com/cwac)
+ - http://www.springsource.org/spring-android/
+ - http://www.jpct.net/jpct-ae/index.html
+ - [Scala on Android (2016)](https://github.com/pocorall/scaloid)
  
 ###PYTANIA, PORADY, ANDROID4
  - http://tools.android.com/tips/hardware-emulation
