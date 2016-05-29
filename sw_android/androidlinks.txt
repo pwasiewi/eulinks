@@ -71,6 +71,9 @@
  - http://google.github.io/dagger/
  - https://bintray.com/search?query=android
  - http://code.tutsplus.com/tutorials/creating-and-publishing-an-android-library--cms-24582
+ - http://www.vogella.com/tutorials/AndroidUsefulLibraries/article.html
+ - https://www.quora.com/How-are-libraries-used-in-Android-app-development-and-what-are-the-best-open-source-libraries
+ - http://zeroturnaround.com/rebellabs/7-best-android-libraries-that-java-developer-should-know-about/
  - https://www.linkedin.com/pulse/top-5-android-libraries-every-developer-should-know-ahmad-awad
  - [Simple RSS Reader For Android](https://github.com/ZackehSoul/RSSDemo)
  - [CommonsWare Android Components 2015](http://commonsware.com/cwac)
