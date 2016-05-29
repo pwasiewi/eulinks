@@ -29,6 +29,7 @@
  - http://graphics-geek.blogspot.com/
 
 ###wykłady, GIGANTYCZNE TUTORY
+ - http://damianchodorek.com/lista-kursow/
  - [Android Arsenal - zbiór bibliotek](https://android-arsenal.com/)
  - [Free programming Android books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#android)
  - [Android Studio Game Course (2015)](https://goo.gl/vkfX7s)
