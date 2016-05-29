@@ -109,6 +109,7 @@
  - http://flixel-gdx.com/
  - https://github.com/flixel-gdx/flixel-gdx
  - https://github.com/flixel-gdx/flixel-gdx-examples
+ - https://github.com/flixel-gdx/flixel-gdx/wiki
  - https://github.com/cping/LGame
  - https://github.com/Rajawali/Rajawali
  - https://github.com/portmobile/LAGP-Example-Code
