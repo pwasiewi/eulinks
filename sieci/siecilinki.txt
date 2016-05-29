@@ -1,5 +1,35 @@
 :cloud:
 ##Wirtualizacja
+###XenServer
+http://xenserver.org/open-source-virtualization-download.html
+http://xenserver.org/blog.html
+https://wiki.xenserver.org/index.php?title=Main_Page
+
+####xenserver ha
+http://docs.citrix.com/de-de/xencenter/6-1/xs-xc-protection/xs-xc-pools-ha/xs-xc-pools-ha-about.html
+http://xapi-project.github.io/features/HA/HA.html
+https://support.citrix.com/servlet/KbServlet/download/21018-102-664364/High%20Availability%20for%20Citrix%20XenServer.pdf
+https://xen-orchestra.com/blog/xenserver-and-vm-high-availability/
+https://discussions.citrix.com/topic/367150-ntp-ha-self-fencing/page-2#entry1884695
+http://discussions.citrix.com/topic/333343-need-help-interpreting-xha-logs/
+
+####xenserver failure ha restart
+http://support.citrix.com/article/CTX128275
+http://citrixtechs.com/blog/help-my-citrix-xenserver-poolmaster-is-down-2/
+http://discussions.citrix.com/topic/292757-local-storage-unplugged-and-un-repairable/
+
+####xenserver multipath
+http://docs.citrix.com/content/dam/docs/en-us/xenserver/xenserver-61/xs-design-multipathing-config.pdf
+
+####eksperymentalne 
+https://github.com/FlorianHeigl/xen-ceph-rbd
+http://xenorg.uservoice.com/forums/172169-xen-development/filters/top
+
+####xenserver glusterfs można poprzeć rozwój po zalogowaniu sie
+https://bugs.xenserver.org/browse/XSO-291 
+http://discussions.citrix.com/topic/366729-about-xenserver-glusterfs/?p=1917700
+
+
 ###lxc conteners namespace control groups
   - http://www.megiteam.pl/blog/baza-wiedzy/lxc-kontener-pingwinow/
   - https://en.wikipedia.org/wiki/Cgroups
