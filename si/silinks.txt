@@ -56,19 +56,26 @@ https://cran.r-project.org/web/packages/RSelenium/vignettes/OCRUG-webinar.html
 
 ###grafy i mapy
 http://www.stevebronder.com/news/2014/8/3/8el0szzsaxhfiljvkf8f4uty2yiinh
+
 ###wizualizacja macierzy korelacji
 http://www.sthda.com/english/wiki/visualize-correlation-matrix-using-correlogram
+
 ###regresja i korelacja
 https://beckmw.wordpress.com/2013/02/05/collinearity-and-stepwise-vif-selection/
+
 ###docker R microsoft
 https://github.com/nuest/docker-mro
+
 ###porównanie R z pythonem 
 https://www.dataquest.io/blog/python-vs-r/
+
 ###porównanie R Microsoft
 http://htmlpreview.github.io/?https://github.com/lixzhang/R-MRO-MRS/blob/master/Introduction_to_MRO_and_MRS.html
 http://mqasim.me/?p=68545
+
 ###szeregi czasowe w R
 http://www.ioz.pwr.wroc.pl/Pracownicy/kaplon/R/R_szeregi.htm
+
 ###selforganizing 2-dim maps 
 http://www.r-bloggers.com/self-organising-maps-for-customer-segmentation-using-r-2/ 
 
@@ -77,8 +84,10 @@ http://www.r-bloggers.com/visualizing-neural-networks-in-r-update/
 http://www.r-bloggers.com/visualizing-neural-networks-from-the-nnet-package/ 
 http://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/
 
+
 ###książka Introduction to Statistical Learning
 http://www-bcf.usc.edu/~gareth/ISL/code.html 
+
 ###rozwiązania 
 https://github.com/asadoughi/stat-learning
 
@@ -88,6 +97,7 @@ https://gist.github.com/mick001/49fad7f4c6112d954aff
 
 ###INNE np. reinforcement teoria ogólnie
 http://hunch.net/~jl/projects/RL/RLTheoryTutorial.pdf
+
 ###Opencl2.0 i inne
 https://anteru.net/2013/07/23/2164/
 https://github.com/Itseez/opencv/tree/master/samples/android 
