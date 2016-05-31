@@ -24,6 +24,12 @@ http://www.rdatamining.com/examples
 ###kursy statystycznego uczenia się 
 http://www.r-bloggers.com/online-class-on-statistical-learning/
 
+#Stata, SAS, R - przykłady
+http://www.ats.ucla.edu/stat/dae/
+
+##dplyr - operacje apply
+http://www.jstatsoft.org/v40/i01
+
 ###Tutoriale języka R 
 http://www.skilledup.com/articles/18-free-tutorials-learning-r-programming 
 http://www.statslectures.com/index.php/r-stats-videos-tutorials 
@@ -33,6 +39,8 @@ http://www.r-bloggers.com/how-to-learn-r-2/
 http://www.statmethods.net/ 
 ###W skrócie cały R 
 http://personality-project.org/r/r.guide.html 
+http://www.burns-stat.com/pages/Tutor/R_inferno.pdf
+
 ###szybki wstęp 
 http://www.datasciencecentral.com/m/blogpost?id=6448529:BlogPost:415828 
 ###np. jedna z metod 
