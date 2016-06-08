@@ -1,3 +1,9 @@
+###Sztuczna Inteligencja na Arduino - Fuzzy Logic
+ - http://www.zerokol.com/2012/09/arduinofuzzy-fuzzy-library-for-arduino.html
+ - https://github.com/zerokol/eFLL
+ - https://gist.github.com/zerokol/4110773
+ 
+###Różności 
  * https://en.wikipedia.org/wiki/List_of_Arduino_boards_and_compatible_systems
  * http://www.rugged-circuits.com/10-ways-to-destroy-an-arduino/
  * http://virtgpio.blavery.com/vgpio/
@@ -7,21 +13,21 @@
 
  * http://www.electricrcaircraftguy.com/2014/08/recommended-soldering-kit.html
 
-#PWM
+###PWM
  * http://starter-kit.nettigo.pl/2012/01/co-to-jest-pwm/
  * https://elty.pl/pl/p/Impulsator-z-przyciskiem-galka/402
  * http://feriar-lab.pl/kurs-arduino-5-pwm-obsluga-funkcji-analogread-analogwrite/
  * http://www.hobbytronics.co.uk/arduino-tutorial6-rotary-encoder
 
-#znaki specjalne
+###znaki specjalne
  * http://feriar-lab.pl/jak-zrobic-znak-specjalny-hd44780-w-arduino/
  * http://omerk.github.io/lcdchargen/
 
-#przekaźniki
+###przekaźniki
  * http://feriar-lab.pl/kurs-arduino-11-obsluga-przekaznikow/
  * http://technika-laika.blogspot.com/2014/04/arduino-sterowanie-przekaznikiem-za.html
 
-#bluetooth
+###bluetooth
  * http://blog.bastelhalde.de/?p=274
  * https://wiki.gentoo.org/wiki/Bluetooth
  * http://makezine.com/projects/diy-arduino-bluetooth-programming-shield/
