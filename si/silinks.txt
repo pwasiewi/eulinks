@@ -4,6 +4,11 @@
 ###do projektu serwer zadań do rozwiązania z podpowiedziami 
 - https://www.kaggle.com/competitions
 
+###do projektu Sztuczna Inteligencja na Arduino - Fuzzy Logic
+ - http://www.zerokol.com/2012/09/arduinofuzzy-fuzzy-library-for-arduino.html
+ - https://github.com/zerokol/eFLL
+ - https://gist.github.com/zerokol/4110773
+
 ###online R pomoc - przykładowa funkcja mvrnorm
 - http://www.inside-r.org/packages/cran/rockchalk/docs/mvrnorm
 
