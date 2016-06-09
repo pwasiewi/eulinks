@@ -17,6 +17,9 @@
  - https://github.com/rposudnevskiy/RBDSR
  - http://xenserver.org/discuss-virtualization/virtualization-blog/entry/xenserver-docker-ceph-rbdsr-for-shared-local-storage.html
 
+####xenserver i docker windows 2016
+ - https://msandbu.wordpress.com/2016/05/26/xenserver-7-and-docker-managment-of-netscaler-cpx-and-windows-server-2016/
+
 ####xenserver ha na dwóch maszynach
  - http://www.halizard.com/
 
