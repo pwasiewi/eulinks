@@ -10,6 +10,10 @@
  - https://bugs.xenserver.org/browse/XSO-300
  - http://xenorg.uservoice.com/forums/172169-xen-development/filters/top
  - http://discussions.citrix.com/topic/366729-about-xenserver-glusterfs/?p=1917700
+ 
+####xenserver i ceph 
+ - https://github.com/rposudnevskiy/RBDSR
+ - http://xenserver.org/discuss-virtualization/virtualization-blog/entry/xenserver-docker-ceph-rbdsr-for-shared-local-storage.html
 
 ####xenserver ha na dwóch maszynach
  - http://www.halizard.com/
