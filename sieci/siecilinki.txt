@@ -15,6 +15,7 @@
  
 ####xenserver i ceph 
  - https://github.com/rposudnevskiy/RBDSR
+ - http://linoxide.com/storage/setup-red-hat-ceph-storage-centos-7-0/
  - http://xenserver.org/discuss-virtualization/virtualization-blog/entry/xenserver-docker-ceph-rbdsr-for-shared-local-storage.html
 
 ####xenserver i docker windows 2016
