@@ -22,6 +22,7 @@
 
 ####xenserver ha na dwóch maszynach
  - http://www.halizard.com/
+ - http://www.halizard.com/forum/suggestion-box/148-dundee-upgrade
 
 ####xenserver ha
  - http://docs.citrix.com/de-de/xencenter/6-1/xs-xc-protection/xs-xc-pools-ha/xs-xc-pools-ha-about.html
