@@ -18,6 +18,7 @@
  - https://blog.zhaw.ch/icclab/tag/ceph/
  - http://linoxide.com/storage/setup-red-hat-ceph-storage-centos-7-0/
  - https://github.com/rposudnevskiy/RBDSR
+ - http://karan-mj.blogspot.com/2013/12/what-is-ceph-ceph-is-open-source.html
  - http://xenserver.org/discuss-virtualization/virtualization-blog/entry/xenserver-docker-ceph-rbdsr-for-shared-local-storage.html
 
 ####xenserver i docker windows 2016
