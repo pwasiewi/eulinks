@@ -15,6 +15,7 @@
  
 ####keepalived 
  - https://raymii.org/s/tutorials/Keepalived-Simple-IP-failover-on-Ubuntu.html
+ - https://github.com/fcwu/glusterfs-keepalived
  
 ####xenserver i ceph 
  - http://www.virtualtothecore.com/en/adventures-ceph-storage-part-1-introduction/
