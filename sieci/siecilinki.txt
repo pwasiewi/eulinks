@@ -13,6 +13,9 @@
  - http://xenorg.uservoice.com/forums/172169-xen-development/filters/top
  - http://discussions.citrix.com/topic/366729-about-xenserver-glusterfs/?p=1917700
  
+####keepalived 
+ - https://raymii.org/s/tutorials/Keepalived-Simple-IP-failover-on-Ubuntu.html
+ 
 ####xenserver i ceph 
  - http://www.virtualtothecore.com/en/adventures-ceph-storage-part-1-introduction/
  - https://blog.zhaw.ch/icclab/tag/ceph/
