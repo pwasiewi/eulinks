@@ -14,9 +14,10 @@
  - http://discussions.citrix.com/topic/366729-about-xenserver-glusterfs/?p=1917700
  
 ####xenserver i ceph 
- - https://github.com/rposudnevskiy/RBDSR
- - http://linoxide.com/storage/setup-red-hat-ceph-storage-centos-7-0/
+ - http://www.virtualtothecore.com/en/adventures-ceph-storage-part-1-introduction/
  - https://blog.zhaw.ch/icclab/tag/ceph/
+ - http://linoxide.com/storage/setup-red-hat-ceph-storage-centos-7-0/
+ - https://github.com/rposudnevskiy/RBDSR
  - http://xenserver.org/discuss-virtualization/virtualization-blog/entry/xenserver-docker-ceph-rbdsr-for-shared-local-storage.html
 
 ####xenserver i docker windows 2016
