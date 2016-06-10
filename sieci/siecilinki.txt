@@ -20,6 +20,9 @@
  - https://github.com/rposudnevskiy/RBDSR
  - http://karan-mj.blogspot.com/2013/12/what-is-ceph-ceph-is-open-source.html
  - http://xenserver.org/discuss-virtualization/virtualization-blog/entry/xenserver-docker-ceph-rbdsr-for-shared-local-storage.html
+ 
+####Openstack + HA + ansible
+ - https://raymii.org/s/articles/Building_HA_Clusters_With_Ansible_and_Openstack.html
 
 ####xenserver i docker windows 2016
  - https://msandbu.wordpress.com/2016/05/26/xenserver-7-and-docker-managment-of-netscaler-cpx-and-windows-server-2016/
