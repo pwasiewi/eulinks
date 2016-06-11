@@ -84,6 +84,7 @@
   
 ###docker swarm 
   - https://docs.docker.com/swarm/install-w-machine/
+  - https://docs.openshift.org/latest/architecture/index.html
   
 ###docker swarm ha (containers restart)
   - https://github.com/docker/swarm/issues/1488
