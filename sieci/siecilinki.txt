@@ -64,6 +64,8 @@
  - https://github.com/FlorianHeigl/xen-ceph-rbd
  - http://xenorg.uservoice.com/forums/172169-xen-development/filters/top
 
+####Proxmox
+ - https://www.jamescoyle.net/category/tech-news
 
 
 ###lxc conteners namespace control groups
