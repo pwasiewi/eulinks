@@ -8,6 +8,7 @@
  - https://pve.proxmox.com/wiki/High_Availability_Cluster_4.x
  - https://www.youtube.com/watch?v=OjORUwDY63U&index=1&list=PLKnvkZ00-pHoPqusA07QvmzN6ehnr7Cfc
  - https://pve.proxmox.com/wiki/Ceph_Server
+ - https://www.sebastien-han.fr/blog/2014/10/10/ceph-how-to-test-if-your-ssd-is-suitable-as-a-journal-device/
  
 ####DRBD 
  - https://www.drbd.org/en/doc/users-guide-90/s-configure-split-brain-behavior
