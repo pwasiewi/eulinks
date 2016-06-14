@@ -2,6 +2,16 @@
 ##Wirtualizacja
  - http://download.virtualbox.org/virtualbox/
 
+####Proxmox
+ - https://www.jamescoyle.net/category/tech-news
+ - http://www.sebastien-han.fr/blog/2012/12/07/ceph-2-speed-storage-with-crush/
+ - https://pve.proxmox.com/wiki/High_Availability_Cluster_4.x
+ - https://www.youtube.com/watch?v=OjORUwDY63U&index=1&list=PLKnvkZ00-pHoPqusA07QvmzN6ehnr7Cfc
+ - https://pve.proxmox.com/wiki/Ceph_Server
+ 
+####DRBD 
+ - https://www.drbd.org/en/doc/users-guide-90/s-configure-split-brain-behavior
+
 ###XenServer
  - http://xenserver.org/open-source-virtualization-download.html
  - http://xenserver.org/blog.html
@@ -25,15 +35,6 @@
  - http://karan-mj.blogspot.com/2013/12/what-is-ceph-ceph-is-open-source.html
  - http://xenserver.org/discuss-virtualization/virtualization-blog/entry/xenserver-docker-ceph-rbdsr-for-shared-local-storage.html
 
-####Proxmox
- - https://www.jamescoyle.net/category/tech-news
- - http://www.sebastien-han.fr/blog/2012/12/07/ceph-2-speed-storage-with-crush/
- - https://pve.proxmox.com/wiki/High_Availability_Cluster_4.x
- - https://www.youtube.com/watch?v=OjORUwDY63U&index=1&list=PLKnvkZ00-pHoPqusA07QvmzN6ehnr7Cfc
- 
-####DRBD 
- - https://www.drbd.org/en/doc/users-guide-90/s-configure-split-brain-behavior
- 
 ####Openstack + HA + ansible
  - https://raymii.org/s/articles/Building_HA_Clusters_With_Ansible_and_Openstack.html
 
