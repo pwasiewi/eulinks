@@ -34,6 +34,8 @@
  - https://wiki.centos.org/SpecialInterestGroup/Storage/ceph-Quickstart
  - http://linoxide.com/storage/setup-red-hat-ceph-storage-centos-7-0/
  - http://karan-mj.blogspot.com/2013/12/what-is-ceph-ceph-is-open-source.html
+ - https://www.reddit.com/r/DataHoarder/comments/4gzpxi/why_is_ceph_so_rare_for_home_use_even_among/
+ - http://palmerville.github.io/2016/04/30/single-node-ceph-install.html
  
 ####xenserver i ceph
  - https://github.com/rposudnevskiy/RBDSR
