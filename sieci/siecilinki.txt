@@ -28,12 +28,15 @@
  - https://raymii.org/s/tutorials/Keepalived-Simple-IP-failover-on-Ubuntu.html
  - https://github.com/fcwu/glusterfs-keepalived
  
-####xenserver i ceph 
+####CEPH
  - http://www.virtualtothecore.com/en/adventures-ceph-storage-part-1-introduction/
  - https://blog.zhaw.ch/icclab/tag/ceph/
+ - https://wiki.centos.org/SpecialInterestGroup/Storage/ceph-Quickstart
  - http://linoxide.com/storage/setup-red-hat-ceph-storage-centos-7-0/
- - https://github.com/rposudnevskiy/RBDSR
  - http://karan-mj.blogspot.com/2013/12/what-is-ceph-ceph-is-open-source.html
+ 
+####xenserver i ceph
+ - https://github.com/rposudnevskiy/RBDSR
  - http://xenserver.org/discuss-virtualization/virtualization-blog/entry/xenserver-docker-ceph-rbdsr-for-shared-local-storage.html
 
 ####Openstack + HA + ansible
