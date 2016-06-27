@@ -37,6 +37,12 @@
  - https://www.reddit.com/r/DataHoarder/comments/4gzpxi/why_is_ceph_so_rare_for_home_use_even_among/
  - http://palmerville.github.io/2016/04/30/single-node-ceph-install.html
  
+####CEPH TUNING
+ - https://accelazh.github.io/ceph/Ceph-Performance-Tuning-Checklist
+ - http://xiaoquqi.github.io/blog/2015/06/28/ceph-performance-optimization-summary/
+ - https://01.org/node/3586
+ - https://github.com/01org/CeTune
+ 
 ####xenserver i ceph
  - https://github.com/rposudnevskiy/RBDSR
  - http://xenserver.org/discuss-virtualization/virtualization-blog/entry/xenserver-docker-ceph-rbdsr-for-shared-local-storage.html
