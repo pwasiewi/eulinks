@@ -43,6 +43,7 @@
  - https://01.org/node/3586
  - https://github.com/01org/CeTune
  - http://docs.ceph.com/docs/master/rados/troubleshooting/log-and-debug/
+ - http://www.flashmemorysummit.com/English/Collaterals/Proceedings/2015/20150813_S303E_Zhang.pdf
  
 ####xenserver i ceph
  - https://github.com/rposudnevskiy/RBDSR
