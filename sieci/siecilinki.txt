@@ -13,6 +13,7 @@
  
 ####Proxmox Fencing HA
  - https://pve.proxmox.com/wiki/High_Availability_Cluster_4.x
+ - https://pve.proxmox.com/wiki/Separate_Cluster_Network
  - http://clusterlabs.org/doc/crm_fencing.html
  
 ####DRBD 
