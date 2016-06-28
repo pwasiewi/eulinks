@@ -46,6 +46,8 @@
  - http://www.flashmemorysummit.com/English/Collaterals/Proceedings/2015/20150813_S303E_Zhang.pdf
  - http://xinglin-system.blogspot.com/2012/12/ceph.html
  - https://forum.proxmox.com/threads/ceph-performance-and-latency.18552/
+ - https://forum.proxmox.com/threads/scaleio-on-proxmox.26960/#post-136030
+ - http://events.linuxfoundation.org/sites/events/files/slides/2016_04_The%20challenges%20and%20opportunities%20of%20Open%20source%20storage_v6_0.pdf
  
 ####xenserver i ceph
  - https://github.com/rposudnevskiy/RBDSR
