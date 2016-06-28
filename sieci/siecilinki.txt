@@ -10,6 +10,10 @@
  - https://pve.proxmox.com/wiki/Ceph_Server
  - https://www.sebastien-han.fr/blog/2014/10/10/ceph-how-to-test-if-your-ssd-is-suitable-as-a-journal-device/
  
+####Proxmox Fencing
+ - https://pve.proxmox.com/wiki/Fencing#Enable_fencing_on_all_nodes
+ - http://clusterlabs.org/doc/crm_fencing.html
+ 
 ####DRBD 
  - https://www.drbd.org/en/doc/users-guide-90/s-configure-split-brain-behavior
 
