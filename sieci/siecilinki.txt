@@ -42,6 +42,7 @@
  - http://xiaoquqi.github.io/blog/2015/06/28/ceph-performance-optimization-summary/
  - https://01.org/node/3586
  - https://github.com/01org/CeTune
+ - http://docs.ceph.com/docs/master/rados/troubleshooting/log-and-debug/
  
 ####xenserver i ceph
  - https://github.com/rposudnevskiy/RBDSR
