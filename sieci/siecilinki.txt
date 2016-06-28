@@ -9,9 +9,10 @@
  - https://www.youtube.com/watch?v=OjORUwDY63U&index=1&list=PLKnvkZ00-pHoPqusA07QvmzN6ehnr7Cfc
  - https://pve.proxmox.com/wiki/Ceph_Server
  - https://www.sebastien-han.fr/blog/2014/10/10/ceph-how-to-test-if-your-ssd-is-suitable-as-a-journal-device/
+ - https://pve.proxmox.com/wiki/Proxmox_VE_4.x_Cluster
  
-####Proxmox Fencing
- - https://pve.proxmox.com/wiki/Fencing#Enable_fencing_on_all_nodes
+####Proxmox Fencing HA
+ - https://pve.proxmox.com/wiki/High_Availability_Cluster_4.x
  - http://clusterlabs.org/doc/crm_fencing.html
  
 ####DRBD 
