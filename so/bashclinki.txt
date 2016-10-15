@@ -35,6 +35,11 @@ Instalacja linuxa:
  * http://askubuntu.com/questions/2194/how-can-i-improve-overall-system-performance
  * http://www.overclock.net/a/how-to-configure-and-compile-a-custom-linux-kernel-for-ubuntu
 
+Git:
+ * http://hanxue-it.blogspot.com/2014/06/how-to-upload-image-binary-file-to-gist.html
+ * http://charlesleifer.com/blog/jist-a-command-line-utility-for-managing-multi-file-multi-directory-private-gists/
+ * https://blogs.atlassian.com/2014/05/handle-big-repositories-git/
+ * http://www.labnol.org/internet/github-gist-tutorial/28499/
 
 Vim:
  * http://pinkaccordions.homelinux.org/staff/tp/prog/vi/index-VI.html
