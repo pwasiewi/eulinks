@@ -1,6 +1,8 @@
 ###Polecenia z linii komendy 
   
 ```
+   #https://developer.android.com/studio/run/device.html#VendorIds
+   wget -S -O - http://source.android.com/source/51-android.rules | sed "s/<username>/$USER/"| sudo tee >/dev/null /etc/udev/rules.d/51-android.rules; sudo udevadm control --reload-rules
    export PATH=$PATH:/opt/android-ndk/:/opt/android-sdk-linux/platform-tools/:/opt/android-sdk-linux/tools/
    android list targets
    cd <android app>
