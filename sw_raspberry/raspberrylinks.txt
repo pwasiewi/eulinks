@@ -1,4 +1,7 @@
 ###Gentoo raspberry
 https://sites.google.com/site/mobileapesindustries/gentoo/raspberry-pi
 https://sites.google.com/site/mobileapesindustries/gentoo
+https://wiki.gentoo.org/wiki/Raspberry_Pi/Quick_Install_Guide
+https://wiki.gentoo.org/wiki/Raspberry_Pi/Kernel_Compilation
 
+http://www.intestinate.com/pilfs/
