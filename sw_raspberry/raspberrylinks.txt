@@ -1,15 +1,15 @@
 ###Gentoo raspberry
-https://sites.google.com/site/mobileapesindustries/gentoo/raspberry-pi
-https://sites.google.com/site/mobileapesindustries/gentoo
-https://wiki.gentoo.org/wiki/Raspberry_Pi/Quick_Install_Guide
-https://wiki.gentoo.org/wiki/Raspberry_Pi/Kernel_Compilation
+ * https://sites.google.com/site/mobileapesindustries/gentoo/raspberry-pi
+ * https://sites.google.com/site/mobileapesindustries/gentoo
+ * https://wiki.gentoo.org/wiki/Raspberry_Pi/Quick_Install_Guide
+ * https://wiki.gentoo.org/wiki/Raspberry_Pi/Kernel_Compilation
 
-http://www.intestinate.com/pilfs/
+ * http://www.intestinate.com/pilfs/
 
 
-http://www.funtoo.org/Raspberry_Pi_2
-https://wiki.gentoo.org/wiki/Raspberry_Pi
-http://blog.3mdeb.com/2015/12/30/emulate-rapberry-pi-2-in-qemu/
+ * http://www.funtoo.org/Raspberry_Pi_2
+ * https://wiki.gentoo.org/wiki/Raspberry_Pi
+ * http://blog.3mdeb.com/2015/12/30/emulate-rapberry-pi-2-in-qemu/
 
-https://wiki.sabayon.org/index.php?title=Hitchhikers_Guide_to_the_BeagleBone_(and_ARMv7a)#DistCC_via_SSH
-https://github.com/Sabayon/build/blob/master/bin/armv7a-emerge
+ * https://wiki.sabayon.org/index.php?title=Hitchhikers_Guide_to_the_BeagleBone_(and_ARMv7a)#DistCC_via_SSH
+ * https://github.com/Sabayon/build/blob/master/bin/armv7a-emerge
