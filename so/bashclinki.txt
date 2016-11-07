@@ -8,6 +8,7 @@ Bash:
  * http://dief.republika.pl/main.html
  * http://leksykot.top.hell.pl/tech/bash_string
  * http://pl.wikipedia.org/wiki/Bash
+ * http://linuxcommand.org/wss0150.php
  * http://andyk.pg.gda.pl/skrypty/
  * http://www.ii.pw.edu.pl/~gjb/unix/
  * http://freeos.com/guides/lsst/
