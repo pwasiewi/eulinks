@@ -1,3 +1,8 @@
+###website rapid development
+ * https://iwantmyname.com/blog/the-updated-big-list-of-static-website-generators-for-your-site-blog-or-wiki
+ * http://simonwaldherr.github.io/micromarkdown.js/
+ * http://rmarkdown.rstudio.com/rmarkdown_websites.html
+
 ###mvc model przestarzałym, teraz maszyna stanów
  * https://www.infoq.com/articles/no-more-mvc-frameworks
 
