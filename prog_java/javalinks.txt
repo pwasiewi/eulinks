@@ -171,6 +171,8 @@ preferencji.
  * https://www.tutorialspoint.com/scala
  * https://pavelfatin.com/design-patterns-in-scala/
  * http://www.lihaoyi.com/post/OldDesignPatternsinScala.html
+ * https://twitter.github.io/effectivescala/
+ * http://twitter.github.io/scala_school/
 
 
 ##Video Java dla opornych:
