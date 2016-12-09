@@ -53,6 +53,7 @@ preferencji.
  * http://www.lihaoyi.com/post/OldDesignPatternsinScala.html
  * https://twitter.github.io/effectivescala/
  * http://twitter.github.io/scala_school/
+ * http://matt.might.net/articles/learning-scala-in-small-bites/
 
 ###JAVA
  * http://pl.wikipedia.org/wiki/Java
