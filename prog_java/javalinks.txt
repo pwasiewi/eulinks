@@ -210,8 +210,14 @@ preferencji.
  * http://www.caveofprogramming.com/youtube/
  * http://stackoverflow.com/questions/382623/what-are-your-3-most-important-programming-patterns-and-why
  * http://stackoverflow.com/questions/2395315/most-important-and-frequently-used-design-patterns
+ * http://www.vincehuston.org/dp/
  * http://java-design-patterns.com/patterns/
  * https://github.com/iluwatar/java-design-patterns
                                                                                                                                               
-																																			  
+##Scala
+ * http://www.grzegorzbalcerek.net/jps2
+ * https://github.com/grzegorzbalcerek/scala-book-examples
+ * https://www.tutorialspoint.com/scala
+ * https://pavelfatin.com/design-patterns-in-scala/
+ * http://www.lihaoyi.com/post/OldDesignPatternsinScala.html
 
