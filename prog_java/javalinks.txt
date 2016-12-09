@@ -9,7 +9,7 @@
  * http://www.osqa.net/
  * http://www.digilife.be/quickreferences/indexe.html
 
- * https://github.com/pwasiewi/free-programming-books/blob/master/free-programming-books-pl.md
+ * https://github.com/vhf/free-programming-books/blob/master/free-programming-books-pl.md
  * https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md
 
 
