@@ -1,4 +1,4 @@
-﻿##Darmowe wykłady i serwisy z odpowiedziami
+##Darmowe wykłady i serwisy z odpowiedziami
  * http://www.udacity.com/
  * https://education.10gen.com
  * http://www.uw-team.org/videoarty.html
@@ -45,7 +45,7 @@ preferencji.
  * http://java-design-patterns.com/patterns/
  * https://github.com/iluwatar/java-design-patterns
  
- ###Scala
+###Scala
  * http://www.grzegorzbalcerek.net/jps2
  * https://github.com/grzegorzbalcerek/scala-book-examples
  * https://www.tutorialspoint.com/scala
@@ -80,32 +80,6 @@ preferencji.
  * http://vladmihalcea.com/tutorials/hibernate/
  * http://www.slideshare.net/nosys/using-postgre-sqljavapgcon2014
 
-###HTTPD  JAVA
- * http://code.google.com/p/spark-java
- * git clone git://github.com/perwendel/spark.git
- * http://wiki.eclipse.org/Jetty/Tutorial/Embedding_Jetty
- * http://kcd.sytes.net/articles/simple_web_server.php
- * http://simple.sourceforge.net/
- * http://sourceforge.net/projects/winstone/
- * http://winstone.sourceforge.net/
- * http://tjws.sourceforge.net/
- * http://stackoverflow.com/questions/1186328/embedded-http-server-in-swing-java-app
- * http://scalatra.org/
-###FORK JAVA
- * http://www.oracle.com/technetwork/articles/java/fork-join-422606.html
- * http://docs.oracle.com/javase/tutorial/essential/concurrency/forkjoin.html
- * http://jaceklaskowski.pl/prezentacje/JacekLaskowski-EclipseDemoCamp2011-ConcurrencyUtilitiesJava7-2011.11.08.pdf
- * http://akuma.kohsuke.org/
- * http://www.javacodegeeks.com/2011/02/java-forkjoin-parallel-programming.html
-##THREADS
- * http://pl.wikipedia.org/wiki/W%C4%85tek_%28informatyka%29
-###THREAD JAVA
- * http://kodatnik.blogspot.com/2011/06/watki-w-javie-podstawy.html
- * http://sourceforge.net/projects/javaconcurrenta/?source=dlp
-###SHELL JAVA
- * http://code.google.com/p/cliche/
-
-
 ###Kursy Javy po polsku:
  * http://javastart.pl/podstawy-jezyka/
  * http://javaprogramming.awardspace.com/index.php?pokaz=kurs
@@ -121,8 +95,11 @@ preferencji.
 ###Książki Java:
  * http://www.webdeveloper.pl/manual_java/
  * http://helion.pl/ksiazki/praktyczny-kurs-java-wydanie-iii-marcin-lis,pkjav3.htm
+ 
+###Książki o Javie po angielsku:
+ * http://www.mindviewinc.com/Books/
 
-#Java8
+###Java8
  * http://www.oracle.com/webfolder/technetwork/tutorials/obe/java/Lambda-QuickStart/index.html
  * http://www.coreservlets.com/java-8-tutorial/
  * http://viralpatel.net/blogs/lambda-expressions-java-tutorial/
@@ -153,11 +130,11 @@ preferencji.
  * http://blog.lahteenmaki.net/2014/05/java-streams-vs-c-linq-vs-java6-updated.html
  * http://howtodoinjava.com/2014/04/18/using-comparator-becomes-easier-with-lambda-expressions-java-8/
 
-#java8 in Android
+###java8 in Android
  * http://zserge.com/blog/android-lambda.html
  * http://zserge.com/blog/gradle-maven-publish.html
 
-#JavaEE
+###JavaEE
  * http://jaxenter.com/ten-subtle-best-practices-when-coding-java-108043.html
  * http://zeroturnaround.com/rebellabs/the-curious-coders-java-web-frameworks-comparison-spring-mvc-grails-vaadin-gwt-wicket-play-struts-and-jsf/2/
  * http://vschart.com/compare/node-js/vs/spring-framework
@@ -165,16 +142,42 @@ preferencji.
  * http://www.vogella.com/articles/JavaServerFaces/article.html
  * http://myfaces.apache.org/docindex.html
 
-#Eclipse Maven
+###Eclipse Maven
  * http://stackoverflow.com/questions/2061094/importing-maven-project-into-eclipse
 
-#Parallel Problems
+###Parallel Problems
  * http://adit.io/posts/2013-05-11-The-Dining-Philosophers-Problem-With-Ron-Swanson.html
  * http://coopsoft.com/ar/Calamity2Article.html
 
-##Książki o Javie po angielsku:
- * http://www.mindviewinc.com/Books/
 
+###HTTPD  JAVA
+ * http://code.google.com/p/spark-java
+ * git clone git://github.com/perwendel/spark.git
+ * http://wiki.eclipse.org/Jetty/Tutorial/Embedding_Jetty
+ * http://kcd.sytes.net/articles/simple_web_server.php
+ * http://simple.sourceforge.net/
+ * http://sourceforge.net/projects/winstone/
+ * http://winstone.sourceforge.net/
+ * http://tjws.sourceforge.net/
+ * http://stackoverflow.com/questions/1186328/embedded-http-server-in-swing-java-app
+ * http://scalatra.org/
+ 
+###FORK JAVA
+ * http://www.oracle.com/technetwork/articles/java/fork-join-422606.html
+ * http://docs.oracle.com/javase/tutorial/essential/concurrency/forkjoin.html
+ * http://jaceklaskowski.pl/prezentacje/JacekLaskowski-EclipseDemoCamp2011-ConcurrencyUtilitiesJava7-2011.11.08.pdf
+ * http://akuma.kohsuke.org/
+ * http://www.javacodegeeks.com/2011/02/java-forkjoin-parallel-programming.html
+ 
+##THREADS
+ * http://pl.wikipedia.org/wiki/W%C4%85tek_%28informatyka%29
+ 
+###THREAD JAVA
+ * http://kodatnik.blogspot.com/2011/06/watki-w-javie-podstawy.html
+ * http://sourceforge.net/projects/javaconcurrenta/?source=dlp
+ 
+###SHELL JAVA
+ * http://code.google.com/p/cliche/
 
 ##Video Java dla opornych:
  * http://www.youtube.com/watch?v=8stFGEMs7sg
