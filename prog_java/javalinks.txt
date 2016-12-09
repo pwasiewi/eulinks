@@ -10,6 +10,7 @@
  * http://www.digilife.be/quickreferences/indexe.html
  * http://sdjournal.org/kursy-video
 
+##Darmowe książki po polsku i angielsku
  * https://github.com/vhf/free-programming-books/blob/master/free-programming-books-pl.md
  * https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md
 
@@ -29,11 +30,31 @@ angielsku (choć może nie w każdym przypadku). A ta z kolei jest wstępem
 do dalszych pozycji, można też zacząć od czytania książek, zależy od
 preferencji.
 
-##OBIEKTOWE
+###OBIEKTOWE
  * http://pl.wikipedia.org/wiki/Programowanie_obiektowe
  * http://pl.wikibooks.org/wiki/PHP/Czym_jest_programowanie_obiektowe%3F
 
-##JAVA
+###Wzorce projektowe (design patterns) Java
+ * http://www.tutorialspoint.com/design_pattern/
+ * http://en.wikipedia.org/wiki/Software_design_pattern
+ * http://refcardz.dzone.com/refcardz/design-patterns
+ * http://www.caveofprogramming.com/youtube/
+ * http://stackoverflow.com/questions/382623/what-are-your-3-most-important-programming-patterns-and-why
+ * http://stackoverflow.com/questions/2395315/most-important-and-frequently-used-design-patterns
+ * http://www.vincehuston.org/dp/
+ * http://java-design-patterns.com/patterns/
+ * https://github.com/iluwatar/java-design-patterns
+ 
+ ###Scala
+ * http://www.grzegorzbalcerek.net/jps2
+ * https://github.com/grzegorzbalcerek/scala-book-examples
+ * https://www.tutorialspoint.com/scala
+ * https://pavelfatin.com/design-patterns-in-scala/
+ * http://www.lihaoyi.com/post/OldDesignPatternsinScala.html
+ * https://twitter.github.io/effectivescala/
+ * http://twitter.github.io/scala_school/
+
+###JAVA
  * http://pl.wikipedia.org/wiki/Java
  * http://pl.wikibooks.org/wiki/Java
  * http://en.wikibooks.org/wiki/Java
@@ -55,7 +76,7 @@ preferencji.
  * http://wazniak.mimuw.edu.pl/index.php?title=PO_Klasy_i_kapsu%C5%82kowanie
  * http://wazniak.mimuw.edu.pl/index.php?title=PO_Dziedziczenie_i_interfejsy
 
-#JAVA ORM BD
+###JAVA ORM BD
  * http://vladmihalcea.com/tutorials/hibernate/
  * http://www.slideshare.net/nosys/using-postgre-sqljavapgcon2014
 
@@ -85,7 +106,7 @@ preferencji.
  * http://code.google.com/p/cliche/
 
 
-##Kursy Javy po polsku:
+###Kursy Javy po polsku:
  * http://javastart.pl/podstawy-jezyka/
  * http://javaprogramming.awardspace.com/index.php?pokaz=kurs
  * http://naukajavy.pl/kurs-jezyka-java
@@ -97,7 +118,7 @@ preferencji.
  * http://agaykhan.republika.pl/javastart.html
  * http://www.zsme.tarnow.pl/killer/html/kurs.htm
 
-##Książki Java:
+###Książki Java:
  * http://www.webdeveloper.pl/manual_java/
  * http://helion.pl/ksiazki/praktyczny-kurs-java-wydanie-iii-marcin-lis,pkjav3.htm
 
@@ -153,26 +174,6 @@ preferencji.
 
 ##Książki o Javie po angielsku:
  * http://www.mindviewinc.com/Books/
-
-##Wzorce projektowe (design patterns) Java
- * http://www.tutorialspoint.com/design_pattern/
- * http://en.wikipedia.org/wiki/Software_design_pattern
- * http://refcardz.dzone.com/refcardz/design-patterns
- * http://www.caveofprogramming.com/youtube/
- * http://stackoverflow.com/questions/382623/what-are-your-3-most-important-programming-patterns-and-why
- * http://stackoverflow.com/questions/2395315/most-important-and-frequently-used-design-patterns
- * http://www.vincehuston.org/dp/
- * http://java-design-patterns.com/patterns/
- * https://github.com/iluwatar/java-design-patterns
-                                                                                                                                              
-##Scala
- * http://www.grzegorzbalcerek.net/jps2
- * https://github.com/grzegorzbalcerek/scala-book-examples
- * https://www.tutorialspoint.com/scala
- * https://pavelfatin.com/design-patterns-in-scala/
- * http://www.lihaoyi.com/post/OldDesignPatternsinScala.html
- * https://twitter.github.io/effectivescala/
- * http://twitter.github.io/scala_school/
 
 
 ##Video Java dla opornych:
