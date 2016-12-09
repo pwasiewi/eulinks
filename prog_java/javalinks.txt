@@ -1,4 +1,4 @@
-﻿##Darmowe wykłady
+﻿##Darmowe wykłady i serwisy z odpowiedziami
  * http://www.udacity.com/
  * https://education.10gen.com
  * http://www.uw-team.org/videoarty.html
@@ -8,6 +8,7 @@
  * http://devpytania.pl/
  * http://www.osqa.net/
  * http://www.digilife.be/quickreferences/indexe.html
+ * http://sdjournal.org/kursy-video
 
  * https://github.com/vhf/free-programming-books/blob/master/free-programming-books-pl.md
  * https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md
@@ -100,56 +101,6 @@ preferencji.
  * http://www.webdeveloper.pl/manual_java/
  * http://helion.pl/ksiazki/praktyczny-kurs-java-wydanie-iii-marcin-lis,pkjav3.htm
 
-##Video Kursy:
- * http://sdjournal.org/kursy-video
-
-##Video Java dla opornych:
- * http://www.youtube.com/watch?v=8stFGEMs7sg
- * http://www.youtube.com/watch?v=hd8zD6Q55qM
- * http://www.youtube.com/watch?v=SaFf9s_QgRA
- * http://www.youtube.com/watch?v=sbqxXuTyygo
- * http://www.youtube.com/watch?v=I1qTXwFhMhg
- * http://www.youtube.com/watch?NR=1&v=EfVLMmVuxKU
- * http://www.youtube.com/watch?v=xUIqNPeIeeA - tu blad na koncu liczba calkowita integer nie ma czesci ulamkowej
- * http://www.youtube.com/watch?v=0Um94CxSjZA
- * http://www.youtube.com/watch?v=HkX_2w4QMSs
- * http://www.youtube.com/watch?v=L5un9tlUIk0
- * http://www.youtube.com/watch?v=88Bx9pAcQLY
- * http://www.youtube.com/watch?v=uuieisA61Jo
- * http://www.youtube.com/watch?v=pFr3EdO1YDI - klasy
- * http://www.youtube.com/watch?v=ZgypUlLaajc
- * http://www.youtube.com/watch?v=_lhXFewk0Oc
- * http://www.youtube.com/watch?v=3cpGgV6Mh-k - konstruktory
- * http://www.youtube.com/watch?v=inqrELxBwjY
- * http://www.youtube.com/watch?v=bb1NFAbRvLM
- * http://www.youtube.com/watch?v=Ou-uSwWHmfg
- * http://www.youtube.com/watch?v=M1ltjIzDCqk
- * http://www.youtube.com/watch?v=Z6aqu7fAhBk
- * http://www.youtube.com/watch?v=Yls_Ygrl9aQ
- * http://www.youtube.com/watch?v=ZIE4Fy2iyhg
- * http://www.youtube.com/watch?v=GteZd0_77W8
- * http://www.youtube.com/watch?v=2xpBK1C3KyU
- * http://www.youtube.com/watch?v=z4Ay88qsbqQ
- * http://www.youtube.com/watch?v=Tk-Tf4mLptM
- * http://www.youtube.com/watch?v=4_lS8N5mYTk
- * http://www.youtube.com/watch?v=NR2GLazGk78
- * http://www.youtube.com/watch?v=lMOJY0Gpe1k - tablice wielowymiarowe
- * http://www.youtube.com/watch?v=UUSJkEYCNr4 - zmienna liczba argumentów
- * http://www.youtube.com/watch?v=8fEF8dLcagU - private, public, this
- * http://www.youtube.com/watch?v=Ly25ffl-iZc - przeci±¿enie konstruktorów!!!
- * http://www.youtube.com/watch?NR=1&v=_PxVrzd_gtQ - static
- * http://www.youtube.com/watch?NR=1&v=HrJUqutV8qA - dziedziczenie - BARDZO
- * WAZNY!
- * http://www.youtube.com/watch?v=P7F9BLY_awo - rekurencja
- * http://www.youtube.com/watch?v=p4Bd5B8jQqU - metody generyczne
-
-##Kurs Javy po angielsku, ale bdb:
- * http://math.hws.edu/javanotes/
- * http://java.sun.com/docs/books/tutorial/
- * http://www.javaranch.com/
- * http://www.javapassion.com/portal/
- * http://viralpatel.net/blogs/lambda-expressions-java-tutorial/
-
 #Java8
  * http://www.oracle.com/webfolder/technetwork/tutorials/obe/java/Lambda-QuickStart/index.html
  * http://www.coreservlets.com/java-8-tutorial/
@@ -220,4 +171,52 @@ preferencji.
  * https://www.tutorialspoint.com/scala
  * https://pavelfatin.com/design-patterns-in-scala/
  * http://www.lihaoyi.com/post/OldDesignPatternsinScala.html
+
+
+##Video Java dla opornych:
+ * http://www.youtube.com/watch?v=8stFGEMs7sg
+ * http://www.youtube.com/watch?v=hd8zD6Q55qM
+ * http://www.youtube.com/watch?v=SaFf9s_QgRA
+ * http://www.youtube.com/watch?v=sbqxXuTyygo
+ * http://www.youtube.com/watch?v=I1qTXwFhMhg
+ * http://www.youtube.com/watch?NR=1&v=EfVLMmVuxKU
+ * http://www.youtube.com/watch?v=xUIqNPeIeeA - tu blad na koncu liczba calkowita integer nie ma czesci ulamkowej
+ * http://www.youtube.com/watch?v=0Um94CxSjZA
+ * http://www.youtube.com/watch?v=HkX_2w4QMSs
+ * http://www.youtube.com/watch?v=L5un9tlUIk0
+ * http://www.youtube.com/watch?v=88Bx9pAcQLY
+ * http://www.youtube.com/watch?v=uuieisA61Jo
+ * http://www.youtube.com/watch?v=pFr3EdO1YDI - klasy
+ * http://www.youtube.com/watch?v=ZgypUlLaajc
+ * http://www.youtube.com/watch?v=_lhXFewk0Oc
+ * http://www.youtube.com/watch?v=3cpGgV6Mh-k - konstruktory
+ * http://www.youtube.com/watch?v=inqrELxBwjY
+ * http://www.youtube.com/watch?v=bb1NFAbRvLM
+ * http://www.youtube.com/watch?v=Ou-uSwWHmfg
+ * http://www.youtube.com/watch?v=M1ltjIzDCqk
+ * http://www.youtube.com/watch?v=Z6aqu7fAhBk
+ * http://www.youtube.com/watch?v=Yls_Ygrl9aQ
+ * http://www.youtube.com/watch?v=ZIE4Fy2iyhg
+ * http://www.youtube.com/watch?v=GteZd0_77W8
+ * http://www.youtube.com/watch?v=2xpBK1C3KyU
+ * http://www.youtube.com/watch?v=z4Ay88qsbqQ
+ * http://www.youtube.com/watch?v=Tk-Tf4mLptM
+ * http://www.youtube.com/watch?v=4_lS8N5mYTk
+ * http://www.youtube.com/watch?v=NR2GLazGk78
+ * http://www.youtube.com/watch?v=lMOJY0Gpe1k - tablice wielowymiarowe
+ * http://www.youtube.com/watch?v=UUSJkEYCNr4 - zmienna liczba argumentów
+ * http://www.youtube.com/watch?v=8fEF8dLcagU - private, public, this
+ * http://www.youtube.com/watch?v=Ly25ffl-iZc - przeci±¿enie konstruktorów!!!
+ * http://www.youtube.com/watch?NR=1&v=_PxVrzd_gtQ - static
+ * http://www.youtube.com/watch?NR=1&v=HrJUqutV8qA - dziedziczenie - BARDZO
+ * WAZNY!
+ * http://www.youtube.com/watch?v=P7F9BLY_awo - rekurencja
+ * http://www.youtube.com/watch?v=p4Bd5B8jQqU - metody generyczne
+
+##Kurs Javy po angielsku, ale bdb:
+ * http://math.hws.edu/javanotes/
+ * http://java.sun.com/docs/books/tutorial/
+ * http://www.javaranch.com/
+ * http://www.javapassion.com/portal/
+ * http://viralpatel.net/blogs/lambda-expressions-java-tutorial/
 
