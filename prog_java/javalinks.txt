@@ -33,6 +33,9 @@ preferencji.
 ###OBIEKTOWE
  * http://pl.wikipedia.org/wiki/Programowanie_obiektowe
  * http://pl.wikibooks.org/wiki/PHP/Czym_jest_programowanie_obiektowe%3F
+ 
+###Struktury danych
+ * http://www.opendatastructures.org/
 
 ###Wzorce projektowe (design patterns) Java
  * http://www.tutorialspoint.com/design_pattern/
