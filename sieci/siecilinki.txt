@@ -169,6 +169,9 @@
 ###Sieciowe bazy inne niż mongodb, couchdb itp.
   - https://github.com/cockroachdb/cockroach
   - https://crate.io/
+  
+###Untangle
+  - https://forums.untangle.com/openvpn/34512-export-import-openvpn-client-certificates.html
 
 ##Inne pomocne linki:
   http://www.networkingwithfish.com/
