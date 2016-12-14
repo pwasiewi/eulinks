@@ -11,6 +11,7 @@
  - https://www.sebastien-han.fr/blog/2014/10/10/ceph-how-to-test-if-your-ssd-is-suitable-as-a-journal-device/
  - https://pve.proxmox.com/wiki/Proxmox_VE_4.x_Cluster
  - http://blog.anet-online.pl/?p=73
+ - https://ayufan.eu/projects/proxmox-ve-differential-backups/
  
 ####Proxmox Fencing HA
  - https://pve.proxmox.com/wiki/High_Availability_Cluster_4.x
