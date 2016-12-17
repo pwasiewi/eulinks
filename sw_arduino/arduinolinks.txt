@@ -1,3 +1,6 @@
+###Kursy Arduino
+ - http://forbot.pl/blog/
+
 ###Sztuczna Inteligencja na Arduino - Fuzzy Logic
  - http://www.zerokol.com/2012/09/arduinofuzzy-fuzzy-library-for-arduino.html
  - https://github.com/zerokol/eFLL
