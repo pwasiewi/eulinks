@@ -1,5 +1,8 @@
 ###Kursy Arduino
  - http://forbot.pl/blog/
+ 
+###Zakupy w Chinach
+ - http://elektrokornik.blog.pl/co-warto-zamawiac-z-chin/
 
 ###Sztuczna Inteligencja na Arduino - Fuzzy Logic
  - http://www.zerokol.com/2012/09/arduinofuzzy-fuzzy-library-for-arduino.html
