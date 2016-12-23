@@ -12,8 +12,8 @@
 ```
 
 ###SD CARD FOR MARSHMALLOW Android 6.0
-http://blog.sam.liddicott.com/2016/02/android-6-semi-adopted-storage.html
-http://nelenkov.blogspot.com/2015/06/decrypting-android-m-adopted-storage.html
+ - http://blog.sam.liddicott.com/2016/02/android-6-semi-adopted-storage.html
+ - http://nelenkov.blogspot.com/2015/06/decrypting-android-m-adopted-storage.html
 
 ###Ciekawostki
  - http://www.dobreprogramy.pl/Android-na-chromebookach-zaistnial-dzieki-linuksowym-kontenerom-io16,News,73364.html
