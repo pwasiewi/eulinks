@@ -13,3 +13,6 @@
 
  * https://wiki.sabayon.org/index.php?title=Hitchhikers_Guide_to_the_BeagleBone_(and_ARMv7a)#DistCC_via_SSH
  * https://github.com/Sabayon/build/blob/master/bin/armv7a-emerge
+
+###Fun
+ * http://www.ocsmag.com/2016/04/04/mining-for-education/
