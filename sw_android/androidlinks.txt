@@ -18,6 +18,7 @@
 
 ###Ciekawostki
  - http://www.dobreprogramy.pl/Android-na-chromebookach-zaistnial-dzieki-linuksowym-kontenerom-io16,News,73364.html
+ - https://www.androidpit.com/how-to-solve-google-play-store-errors
 
 ###Edytory i tools
  - [Android Studio Tutorial](http://code.tutsplus.com/tutorials/android-sdk-working-with-android-studio--mobile-20203)
