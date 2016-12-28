@@ -1,6 +1,7 @@
 :cloud:
 ##Wirtualizacja
  - http://download.virtualbox.org/virtualbox/
+ - http://www.brianlinkletter.com/how-to-use-virtualbox-to-emulate-a-network/
 
 ####Proxmox
  - https://www.jamescoyle.net/category/tech-news
