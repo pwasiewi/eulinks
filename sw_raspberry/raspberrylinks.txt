@@ -16,3 +16,8 @@
 
 ###Fun
  * http://www.ocsmag.com/2016/04/04/mining-for-education/
+
+' cd /usr/share/minetest/games/minetest_game/mods
+for i in moreblocks moreores moretrees lightning castle torches plantlife_modpack more_chests round_trunks biome_lib flowers_plus; do [ ! -d $i ] && git clone https://github.com/minetest-mods/$i; done
+for i in animalmaterials mobf_core adv_spawning animals_modpack; do [ ! -d $i ] && git clone https://github.com/sapier/$i; done '
+
