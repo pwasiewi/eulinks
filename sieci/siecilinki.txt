@@ -1,4 +1,12 @@
 :cloud:
+##Kursy sieciowe 
+ - https://www.cybrary.it/
+
+##Strony związane z bezpieczeństwem
+ - https://sekurak.pl/
+ - https://zaufanatrzeciastrona.pl/
+ - https://niebezpiecznik.pl/
+
 ##Wirtualizacja
  - http://download.virtualbox.org/virtualbox/
  - http://www.brianlinkletter.com/how-to-use-virtualbox-to-emulate-a-network/
