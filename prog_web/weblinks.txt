@@ -6,8 +6,9 @@
 ###mvc model przestarzałym, teraz maszyna stanów
  * https://www.infoq.com/articles/no-more-mvc-frameworks
 
-###mapa es6 implementacji w przeglądarkach node.js i innych
+###mapa es6 implementacji plus wzorce projektowe
   - http://kangax.github.io/compat-table/es6/
+  - http://loredanacirstea.github.io/es6-design-patterns/
 
  * http://lifehacker.com/the-best-free-alternatives-to-dyndns-1561556205
  * https://console.developers.google.com
