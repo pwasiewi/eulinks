@@ -1,13 +1,16 @@
 :cloud:
-##Kursy sieciowe 
+###Kursy sieciowe 
  - https://www.cybrary.it/
 
-##Strony związane z bezpieczeństwem
+###Strony związane z bezpieczeństwem
  - https://sekurak.pl/
  - https://zaufanatrzeciastrona.pl/
  - https://niebezpiecznik.pl/
+ 
+###Materiały w pdf
+ - http://www.phenoelit.org/stuff/papers.html
 
-##Wirtualizacja
+###Wirtualizacja
  - http://download.virtualbox.org/virtualbox/
  - http://www.brianlinkletter.com/how-to-use-virtualbox-to-emulate-a-network/
 
@@ -27,6 +30,21 @@
  - https://pve.proxmox.com/wiki/Separate_Cluster_Network
  - http://clusterlabs.org/doc/crm_fencing.html
  
+####Proxmox backup
+ - https://github.com/valeech/proxmox_ceph_backups/blob/master/ceph_restore.sh
+ - https://github.com/EnterpriseVE/eve4pve-barc
+ - https://ayufan.eu/projects/proxmox-ve-differential-backups/
+ - https://forum.proxmox.com/threads/incremental-backups-ceph.30393/
+ 
+####pfSense
+ - https://aikester.com/2016/09/load-balancing-with-pfsense/
+ - https://community.spiceworks.com/topic/1247282-pfsense-carp-openvpn-not-working
+ 
+####Switche
+ - http://www.dell.com/downloads/global/products/pwcnt/en/pwcnt_stacking_switches.pdf
+ - http://en.community.dell.com/support-forums/network-switches/f/866/t/19370806
+
+
 ####DRBD 
  - https://www.drbd.org/en/doc/users-guide-90/s-configure-split-brain-behavior
 
@@ -66,7 +84,12 @@
  - https://forum.proxmox.com/threads/ceph-performance-and-latency.18552/
  - https://forum.proxmox.com/threads/scaleio-on-proxmox.26960/#post-136030
  - http://events.linuxfoundation.org/sites/events/files/slides/2016_04_The%20challenges%20and%20opportunities%20of%20Open%20source%20storage_v6_0.pdf
- 
+
+####Docker i CEPH
+ - https://github.com/ceph/ceph-docker
+ - http://ceph.com/planet/bootstrap-your-ceph-cluster-in-docker/
+
+
 ####xenserver i ceph
  - https://github.com/rposudnevskiy/RBDSR
  - http://xenserver.org/discuss-virtualization/virtualization-blog/entry/xenserver-docker-ceph-rbdsr-for-shared-local-storage.html
