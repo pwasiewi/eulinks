@@ -47,6 +47,7 @@ preferencji.
  * http://www.vincehuston.org/dp/
  * http://java-design-patterns.com/patterns/
  * https://github.com/iluwatar/java-design-patterns
+ * http://alexradzin.blogspot.com/2013/01/annotation-based-design-patterns.html
  
 ###Scala
  * http://www.grzegorzbalcerek.net/jps2
@@ -57,6 +58,7 @@ preferencji.
  * https://twitter.github.io/effectivescala/
  * http://twitter.github.io/scala_school/
  * http://matt.might.net/articles/learning-scala-in-small-bites/
+ * https://darrenjw.wordpress.com/2015/11/16/hofs-closures-partial-application-and-currying-to-solve-the-function-environment-problem-in-scala/
 
 ###JAVA
  * http://pl.wikipedia.org/wiki/Java
