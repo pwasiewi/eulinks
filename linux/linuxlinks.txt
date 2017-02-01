@@ -1,4 +1,8 @@
 
+###EDUGRY
+ - http://www.minetest.net/
+
+
 ###minetest plugins for linux
 
 cd /usr/share/minetest/games/minetest_game/mods;
