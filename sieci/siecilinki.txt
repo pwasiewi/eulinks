@@ -15,15 +15,25 @@
  - http://www.brianlinkletter.com/how-to-use-virtualbox-to-emulate-a-network/
 
 ####Proxmox
+ - https://pve.proxmox.com/wiki/Package_Repositories
  - https://www.jamescoyle.net/category/tech-news
- - http://www.sebastien-han.fr/blog/2012/12/07/ceph-2-speed-storage-with-crush/
  - https://pve.proxmox.com/wiki/High_Availability_Cluster_4.x
  - https://www.youtube.com/watch?v=OjORUwDY63U&index=1&list=PLKnvkZ00-pHoPqusA07QvmzN6ehnr7Cfc
+ - https://pve.proxmox.com/wiki/Proxmox_VE_4.x_Cluster
+ - [import maszyny](http://blog.anet-online.pl/?p=73)
+
+####Proxmox Ceph
  - https://pve.proxmox.com/wiki/Ceph_Server
  - https://www.sebastien-han.fr/blog/2014/10/10/ceph-how-to-test-if-your-ssd-is-suitable-as-a-journal-device/
- - https://pve.proxmox.com/wiki/Proxmox_VE_4.x_Cluster
- - http://blog.anet-online.pl/?p=73
- - https://ayufan.eu/projects/proxmox-ve-differential-backups/
+ - http://www.sebastien-han.fr/blog/2012/12/07/ceph-2-speed-storage-with-crush/
+
+
+####Proxmox VLAN network
+ - https://pve.proxmox.com/wiki/Vlans
+ - https://pve.proxmox.com/wiki/Network_Model#Configuring_VLAN_in_a_cluster
+ - https://blog.no-panic.at/2016/08/09/proxmox-on-debian-at-hetzner-with-multiple-ip-addresses/
+ - http://blog.sjas.de/posts/proxmox-and-VLANs.html
+ - https://raymii.org/s/tutorials/Proxmox_VE_One_Public_IP.html
  
 ####Proxmox Fencing HA
  - https://pve.proxmox.com/wiki/High_Availability_Cluster_4.x
@@ -43,6 +53,10 @@
 ####Switche
  - http://www.dell.com/downloads/global/products/pwcnt/en/pwcnt_stacking_switches.pdf
  - http://en.community.dell.com/support-forums/network-switches/f/866/t/19370806
+ - http://brezular.com/2013/12/17/connecting-open-vswitch-running-on-debian-to-cisco-catalyst-3550-via-trunk/
+ - http://www.admin-magazine.com/CloudAge/Articles/Virtual-switching-with-Open-vSwitch
+ - https://pve.proxmox.com/wiki/Open_vSwitch
+ 
 
 
 ####DRBD 
