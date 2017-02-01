@@ -1,0 +1,22 @@
+
+###minetest plugins for linux
+
+cd /usr/share/minetest/games/minetest_game/mods;
+
+[ ! -d worldedit ] && git clone https://github.com/Uberi/Minetest-WorldEdit.git; 
+
+[ -d Minetest-WorldEdit ] && mv Minetest-WorldEdit worldedit;
+
+for i in moreblocks moreores moretrees lightning castle torches plantlife_modpack more_chests round_trunks biome_lib homedecor_modpack; do [ ! -d $i ] && git clone https://github.com/minetest-mods/$i; done;
+
+for i in animalmaterials mobf_core adv_spawning animals_modpack; do [ ! -d $i ] && git clone https://github.com/sapier/$i; done;
+
+for i in mobs_redo mobs_animal mobs_npc; do [ ! -d $i ] && git clone https://github.com/tenplus1/$i; done;
+
+kpgmobs https://forum.minetest.net/download/file.php?id=384;
+
+[ ! -d mobs_scifi ] && git clone https://github.com/D00Med/mobs_scifi;
+
+[ ! -d cme ] && git clone https://github.com/BlockMen/cme;
+
+//find /etc/init.d -type f -exec sed -i 's/runscript/openrc-run/' {} +
