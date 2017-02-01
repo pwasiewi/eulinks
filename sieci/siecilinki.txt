@@ -7,12 +7,13 @@
  - https://zaufanatrzeciastrona.pl/
  - https://niebezpiecznik.pl/
  
-###Materiały w pdf
+####Materiały w pdf
  - http://www.phenoelit.org/stuff/papers.html
 
-###Wirtualizacja
+####Virtualbox
  - http://download.virtualbox.org/virtualbox/
  - http://www.brianlinkletter.com/how-to-use-virtualbox-to-emulate-a-network/
+ - http://www.commandlinefu.com/commands/view/13718/mount-a-vmware-virtual-disk-.vmdk-file-on-a-linux-box
 
 ####Proxmox
  - https://pve.proxmox.com/wiki/Package_Repositories
@@ -21,6 +22,8 @@
  - https://www.youtube.com/watch?v=OjORUwDY63U&index=1&list=PLKnvkZ00-pHoPqusA07QvmzN6ehnr7Cfc
  - https://pve.proxmox.com/wiki/Proxmox_VE_4.x_Cluster
  - [import maszyny](http://blog.anet-online.pl/?p=73)
+ - http://blog.anet-online.pl/
+ - http://karan-mj.blogspot.com/2014/04/erasure-coding-in-ceph.html
 
 ####Proxmox Ceph
  - https://pve.proxmox.com/wiki/Ceph_Server
@@ -57,26 +60,6 @@
  - http://www.admin-magazine.com/CloudAge/Articles/Virtual-switching-with-Open-vSwitch
  - https://pve.proxmox.com/wiki/Open_vSwitch
  
-
-
-####DRBD 
- - https://www.drbd.org/en/doc/users-guide-90/s-configure-split-brain-behavior
-
-###XenServer
- - http://xenserver.org/open-source-virtualization-download.html
- - http://xenserver.org/blog.html
- - https://wiki.xenserver.org/index.php?title=Main_Page
-
-####xenserver glusterfs można poprzeć rozwój technologii po zalogowaniu się
- - https://bugs.xenserver.org/browse/XSO-291 
- - https://bugs.xenserver.org/browse/XSO-300
- - http://xenorg.uservoice.com/forums/172169-xen-development/filters/top
- - http://discussions.citrix.com/topic/366729-about-xenserver-glusterfs/?p=1917700
- 
-####keepalived 
- - https://raymii.org/s/tutorials/Keepalived-Simple-IP-failover-on-Ubuntu.html
- - https://github.com/fcwu/glusterfs-keepalived
- 
 ####CEPH
  - http://www.virtualtothecore.com/en/adventures-ceph-storage-part-1-introduction/
  - https://blog.zhaw.ch/icclab/tag/ceph/
@@ -103,6 +86,23 @@
  - https://github.com/ceph/ceph-docker
  - http://ceph.com/planet/bootstrap-your-ceph-cluster-in-docker/
 
+####DRBD 
+ - https://www.drbd.org/en/doc/users-guide-90/s-configure-split-brain-behavior
+
+###XenServer
+ - http://xenserver.org/open-source-virtualization-download.html
+ - http://xenserver.org/blog.html
+ - https://wiki.xenserver.org/index.php?title=Main_Page
+
+####xenserver glusterfs można poprzeć rozwój technologii po zalogowaniu się
+ - https://bugs.xenserver.org/browse/XSO-291 
+ - https://bugs.xenserver.org/browse/XSO-300
+ - http://xenorg.uservoice.com/forums/172169-xen-development/filters/top
+ - http://discussions.citrix.com/topic/366729-about-xenserver-glusterfs/?p=1917700
+ 
+####keepalived 
+ - https://raymii.org/s/tutorials/Keepalived-Simple-IP-failover-on-Ubuntu.html
+ - https://github.com/fcwu/glusterfs-keepalived
 
 ####xenserver i ceph
  - https://github.com/rposudnevskiy/RBDSR
