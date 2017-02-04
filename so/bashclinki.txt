@@ -3,8 +3,9 @@
  * http://www.tutorialspoint.com/codingground.htm
  * http://www.commandlinefu.com/commands/browse
  
-###Teoria 
+Teoria sprzętu komputerowego, emulacje retro
  * http://2x-1.net/ob/gray1/
+ * http://hackaday.com/2015/09/28/roundup-retro-computers-in-your-browser/
 
 
 Bash:
