@@ -19,5 +19,11 @@
  * http://www.minetest.net/
  * https://www.raspberrypi.org/forums/viewtopic.php?f=78&t=92104
 
+###tiny mini systemy
+ * http://litebsd.org/wiki/autobuild.php
+ * https://hackaday.io/project/8514-retro-diy-computer-project/log/32809-tiny-litebsd-system-by-pic32mz
+ * https://github.com/sergev/LiteBSD/wiki/Networking
+ * http://www.adiengineering.com/products/minnowboard-turbot-duale/
+ * http://wiki.minnowboard.org/MinnowBoard_Turbot
 
 
