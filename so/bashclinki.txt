@@ -1,3 +1,4 @@
+Kursy i ksiązki
  * https://github.com/vhf/free-programming-books
  * http://thenextweb.com/dd/2012/10/21/so-you-want-to-be-a-programmer-huh-heres-25-ways-to-learn-online/
  * http://www.tutorialspoint.com/codingground.htm
@@ -6,7 +7,8 @@
 Teoria sprzętu komputerowego, emulacje retro
  * http://2x-1.net/ob/gray1/
  * http://hackaday.com/2015/09/28/roundup-retro-computers-in-your-browser/
-
+ * https://github.com/EvgeniyRU/ZX_FDD_Emulator
+ * http://zxds.raxoft.cz/games.html
 
 Bash:
  * http://dief.republika.pl/main.html
