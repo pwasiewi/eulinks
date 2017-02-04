@@ -4,7 +4,7 @@
  * https://education.10gen.com
  * http://www.uw-team.org/videoarty.html
  * http://www.itposter.net/ 
- * http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books/
+ * https://github.com/vhf/free-programming-books
  * http://9fingers.pl/
  * http://devpytania.pl/
  * http://www.osqa.net/
