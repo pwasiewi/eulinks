@@ -1,5 +1,9 @@
+###programy
+ - http://deeplearning.net/software_links/
+
 ###amdgpu opencl
-- http://www.gearsongallium.com/?p=2960
+ - https://radeonopencompute.github.io/
+ - http://www.gearsongallium.com/?p=2960
 
 ###tensorflow and other libs on OpenCL
  - https://github.com/tensorflow/tensorflow/issues/22
