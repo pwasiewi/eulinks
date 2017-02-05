@@ -4,6 +4,8 @@
 ###amdgpu opencl
  - https://radeonopencompute.github.io/
  - http://www.gearsongallium.com/?p=2960
+ - https://github.com/benoitsteiner/tensorflow-opencl/issues/30
+ - https://github.com/lukeiwanski/tensorflow-opencl/blob/cd5861c4defe3182122276fdbbb371f60ea5b708/tensorflow/g3doc/get_started/os_setup.md#create-the-pip-package-and-install
 
 ###tensorflow and other libs on OpenCL
  - https://github.com/tensorflow/tensorflow/issues/22
