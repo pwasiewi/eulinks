@@ -30,21 +30,18 @@
  * https://github.com/Sabayon/build/blob/master/bin/armv7a-emerge
  * [Linux from Scratch on RPI](http://www.intestinate.com/pilfs/)
  * http://elinux.org/Virtual_Development_Board
- 
-
+ * https://emreboy.wordpress.com/2012/12/20/building-a-root-file-system-using-busybox/
+ * http://processors.wiki.ti.com/index.php/Creating_a_Root_File_System_for_Linux_on_OMAP35x
 
 ###Fun
  * http://www.ocsmag.com/2016/04/04/mining-for-education/
  * http://www.minetest.net/
  * https://www.raspberrypi.org/forums/viewtopic.php?f=78&t=92104
- 
- 
-
+  
 ###tiny mini systemy
  * http://litebsd.org/wiki/autobuild.php
  * https://hackaday.io/project/8514-retro-diy-computer-project/log/32809-tiny-litebsd-system-by-pic32mz
  * https://github.com/sergev/LiteBSD/wiki/Networking
  * http://www.adiengineering.com/products/minnowboard-turbot-duale/
  * http://wiki.minnowboard.org/MinnowBoard_Turbot
-
 
