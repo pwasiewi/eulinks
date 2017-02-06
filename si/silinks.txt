@@ -100,25 +100,25 @@
 - http://www.r-bloggers.com/self-organising-maps-for-customer-segmentation-using-r-2/ 
 
 #####rbloggers 
-- http://www.r-bloggers.com/visualizing-neural-networks-in-r-update/
-- http://www.r-bloggers.com/visualizing-neural-networks-from-the-nnet-package/ 
-- http://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/
+ - http://www.r-bloggers.com/visualizing-neural-networks-in-r-update/
+ - http://www.r-bloggers.com/visualizing-neural-networks-from-the-nnet-package/ 
+ - http://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/
 
 ###Literatura
 #####książka po angielsku o uczeniu się maszyn w R - Brett Lantz
-- https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-r
+ - https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-r
 
 #####Dokumentacja R
-- https://www.r-project.org/other-docs.html
+ - https://www.r-project.org/other-docs.html
 
 
 #####książka Introduction to Statistical Learning
-- http://www-bcf.usc.edu/~gareth/ISL/code.html 
+ - http://www-bcf.usc.edu/~gareth/ISL/code.html 
 
 
 ###INNE np. reinforcement teoria ogólnie
-- http://hunch.net/~jl/projects/RL/RLTheoryTutorial.pdf
-- https://github.com/asadoughi/stat-learning
+ - http://hunch.net/~jl/projects/RL/RLTheoryTutorial.pdf
+ - https://github.com/asadoughi/stat-learning
 
 #####deep learning
  - http://caffe.berkeleyvision.org/
