@@ -24,6 +24,7 @@
  - [import maszyny](http://blog.anet-online.pl/?p=73)
  - http://blog.anet-online.pl/
  - http://kanaka.github.io/noVNC/
+ - https://wiki.gentoo.org/wiki/IOMMU_SWIOTLB
 
 ####Proxmox Ceph
  - https://pve.proxmox.com/wiki/Ceph_Server
