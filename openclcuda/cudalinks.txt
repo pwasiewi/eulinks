@@ -6,6 +6,7 @@
  - https://radeonopencompute.github.io/
  - http://www.gearsongallium.com/?p=2960
  - https://github.com/codeplaysoftware/computecpp-sdk
+ - https://github.com/RadeonOpenCompute/ROCm
 
 ###tensorflow and other libs on OpenCL
  - https://www.codeplay.com/portal/sycl-tutorial-1-the-vector-addition
