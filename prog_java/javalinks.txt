@@ -59,6 +59,12 @@ preferencji.
  * http://twitter.github.io/scala_school/
  * http://matt.might.net/articles/learning-scala-in-small-bites/
  * https://darrenjw.wordpress.com/2015/11/16/hofs-closures-partial-application-and-currying-to-solve-the-function-environment-problem-in-scala/
+ * https://github.com/leithaus/XTrace/tree/monadic/src/main/book
+ * http://eed3si9n.com/learning-scalaz/
+ * http://matt.might.net/articles/learning-scala-in-small-bites/
+ * https://twitter.github.io/effectivescala/
+ * http://scala-ide.org/docs/current-user-doc/gettingstarted/index.html
+ * 
 
 ###JAVA
  * http://pl.wikipedia.org/wiki/Java
