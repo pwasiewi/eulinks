@@ -1,14 +1,25 @@
 ###Gentoo raspberry
+ * https://wiki.gentoo.org/wiki/Raspberry_Pi
+ * http://www.funtoo.org/Raspberry_Pi_2
  * https://sites.google.com/site/mobileapesindustries/gentoo/raspberry-pi
  * https://sites.google.com/site/mobileapesindustries/gentoo
  * https://wiki.gentoo.org/wiki/Raspberry_Pi/Quick_Install_Guide
  * https://wiki.gentoo.org/wiki/Raspberry_Pi/Kernel_Compilation
  * https://wiki.gentoo.org/wiki/Cross_build_environment
- * (Kernel moduły raspberry)[http://www.kaltpost.de/?p=1699]
+ * [Kernel moduły raspberry](http://www.kaltpost.de/?p=1699)
+ * https://wiki.gentoo.org/wiki/Cross_Container_Support_Project
+ * https://wiki.gentoo.org/wiki/Crossdev_qemu-static-user-chroot
+ * https://wiki.gentoo.org/wiki/Embedded_Handbook/General/Compiling_with_qemu_user_chroot
+ * https://github.com/raspberrypi/firmware
+ * https://github.com/raspberrypi/linux/releases/tag/raspberrypi-kernel_1.20161215-1
+ * [qemu raspberry](https://github.com/bargees/barge-os/issues/20)
+ * [qemu rpi](https://github.com/dhruvvyas90/qemu-rpi-kernel/wiki)
+ * [yocto on gentoo](https://forums.gentoo.org/viewtopic-t-987684-highlight-.html)
+ * http://blog.3mdeb.com/2015/12/30/emulate-rapberry-pi-2-in-qemu/ 
  
- * http://www.funtoo.org/Raspberry_Pi_2
- * https://wiki.gentoo.org/wiki/Raspberry_Pi
- * http://blog.3mdeb.com/2015/12/30/emulate-rapberry-pi-2-in-qemu/
+ 
+
+ 
 
  * https://wiki.sabayon.org/index.php?title=Hitchhikers_Guide_to_the_BeagleBone_(and_ARMv7a)#DistCC_via_SSH
  * https://github.com/Sabayon/build/blob/master/bin/armv7a-emerge
