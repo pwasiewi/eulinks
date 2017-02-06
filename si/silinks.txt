@@ -15,6 +15,7 @@
 ###R gpu
  - https://github.com/cdeterman/gpuR
  - [tensorflow in R](https://github.com/tensorflow/tensorflow/issues/387)
+ - http://www.raetschlab.org/suppl/shogun/RExamples
 
 ###Kursy
 #####kurs maszynowego uczenia w Octave 
