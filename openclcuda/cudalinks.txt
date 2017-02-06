@@ -5,8 +5,12 @@
  - https://github.com/Lucretia/vulkan-overlay
  - https://radeonopencompute.github.io/
  - http://www.gearsongallium.com/?p=2960
+ - https://github.com/codeplaysoftware/computecpp-sdk
 
 ###tensorflow and other libs on OpenCL
+ - https://www.codeplay.com/portal/sycl-tutorial-1-the-vector-addition
+ - https://www.codeplay.com/portal/tensorflow%E2%84%A2-for-opencl%E2%84%A2-using-sycl%E2%84%A2
+ - https://github.com/keryell/triSYCL
  - https://github.com/benoitsteiner/tensorflow-opencl/issues/30
  - https://github.com/lukeiwanski/tensorflow-opencl/blob/cd5861c4defe3182122276fdbbb371f60ea5b708/tensorflow/g3doc/get_started/os_setup.md#create-the-pip-package-and-install
  - https://www.tensorflow.org/versions/r0.11/how_tos/image_retraining/
@@ -65,6 +69,7 @@
  
 
 ###Cuda C
+ * https://alliseesolutions.wordpress.com/2016/09/08/install-gpu-tensorflow-from-sources-w-ubuntu-16-04-and-cuda-8-0-rc/
  * https://developer.nvidia.com/blog/tags/4501
  * http://www.nvidia.com/object/cuda-newsletter.html
  * http://docs.nvidia.com/cuda/index.html
