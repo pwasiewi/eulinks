@@ -19,6 +19,7 @@
  * http://forum.arduino.cc/index.php?topic=224924.0
  * http://www.electricrcaircraftguy.com/2014/08/recommended-soldering-kit.html
  * http://krzysztofjelonek.net/arduino-czujnik-odleglosci-hc-sr04-i-wykresy-w-czasie-rzeczywistym/
+ * [Johnny Five](https://www.youtube.com/watch?v=8s2--hfsJDY)
 
 ###PWM
  * http://starter-kit.nettigo.pl/2012/01/co-to-jest-pwm/
