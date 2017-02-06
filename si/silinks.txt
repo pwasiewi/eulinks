@@ -10,7 +10,10 @@
  - https://gist.github.com/zerokol/4110773
 
 ###online R pomoc - przykładowa funkcja mvrnorm
-- http://www.inside-r.org/packages/cran/rockchalk/docs/mvrnorm
+ - http://www.inside-r.org/packages/cran/rockchalk/docs/mvrnorm
+
+###R gpu
+ - https://github.com/cdeterman/gpuR
 
 ###Kursy
 #####kurs maszynowego uczenia w Octave 
@@ -118,13 +121,14 @@
 - https://github.com/asadoughi/stat-learning
 
 #####deep learning
-- http://caffe.berkeleyvision.org/
+ - http://caffe.berkeleyvision.org/
 
 #####neural net
-- http://datascienceplus.com/fitting-neural-network-in-r/
-- https://gist.github.com/mick001/49fad7f4c6112d954aff
+ - http://datascienceplus.com/fitting-neural-network-in-r/
+ - https://gist.github.com/mick001/49fad7f4c6112d954aff
 
 #####Opencl2.0 i inne
-- https://anteru.net/2013/07/23/2164/
-- https://github.com/Itseez/opencv/tree/master/samples/android 
+ - https://github.com/viennacl/viennacl-dev
+ - https://anteru.net/2013/07/23/2164/
+ - https://github.com/Itseez/opencv/tree/master/samples/android 
 
