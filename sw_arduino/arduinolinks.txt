@@ -1,5 +1,6 @@
 ###Kursy Arduino
  - http://forbot.pl/blog/
+ - http://feriar-lab.pl/kurs-arduino/
  
 ###Zakupy w Chinach
  - http://elektrokornik.blog.pl/co-warto-zamawiac-z-chin/
@@ -16,7 +17,6 @@
  * http://www.ladyada.net/learn/arduino/index.html
  * http://forum.arduino.cc/index.php?topic=312901.0
  * http://forum.arduino.cc/index.php?topic=224924.0
-
  * http://www.electricrcaircraftguy.com/2014/08/recommended-soldering-kit.html
 
 ###PWM
