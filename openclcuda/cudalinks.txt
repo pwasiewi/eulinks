@@ -10,6 +10,7 @@
  - https://radeonopencompute.github.io/documentation.html
 
 ###tensorflow and other libs on OpenCL
+ - [eigen in opencl sycl](https://bitbucket.org/benoitsteiner/opencl)
  - https://www.codeplay.com/portal/sycl-tutorial-1-the-vector-addition
  - https://www.codeplay.com/portal/tensorflow%E2%84%A2-for-opencl%E2%84%A2-using-sycl%E2%84%A2
  - https://github.com/keryell/triSYCL
