@@ -24,7 +24,10 @@
  - [import maszyny](http://blog.anet-online.pl/?p=73)
  - http://blog.anet-online.pl/
  - http://kanaka.github.io/noVNC/
- - https://wiki.gentoo.org/wiki/IOMMU_SWIOTLB
+ - https://dug.net.pl/tekst/296/przerabianie_debiana_pod_wifi_access_point/
+ - https://www.cyberciti.biz/faq/debian-ubuntu-linux-setting-wireless-access-point/
+ - https://www.cyberciti.biz/faq/howto-ubuntu-debian-squeeze-dhcp-server-setup-tutorial/
+ 
 
 ####Proxmox Ceph
  - https://pve.proxmox.com/wiki/Ceph_Server
