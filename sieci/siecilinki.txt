@@ -9,6 +9,9 @@
  
 ####Materiały w pdf
  - http://www.phenoelit.org/stuff/papers.html
+ 
+###Różne tutoriale
+ - https://www.cyberciti.biz/faq/unix-network-service-restart-stop/
 
 ####Virtualbox
  - http://download.virtualbox.org/virtualbox/
