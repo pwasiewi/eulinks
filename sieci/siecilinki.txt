@@ -60,6 +60,8 @@
 ####pfSense
  - https://aikester.com/2016/09/load-balancing-with-pfsense/
  - https://community.spiceworks.com/topic/1247282-pfsense-carp-openvpn-not-working
+ - [Ipsec router to router for pfSense](https://www.youtube.com/watch?v=iNzJGI5hv-Q)
+ - http://rockhoppervpn.sourceforge.net/
  
 ####Switche
  - http://www.dell.com/downloads/global/products/pwcnt/en/pwcnt_stacking_switches.pdf
