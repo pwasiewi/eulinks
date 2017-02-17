@@ -9,6 +9,7 @@
 ###nodejs
  * https://github.com/kriasoft/nodejs-api-starter
  * https://hapijs.com/
+ * http://glennengstrand.info/blog/?p=418
  * https://www.youtube.com/watch?v=JfYRGTvMbBA
  * https://dzone.com/articles/getting-started-socketio-and
  * https://www.youtube.com/watch?v=X1Jm24b6ZsY
