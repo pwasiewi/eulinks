@@ -12,6 +12,10 @@
  * https://www.youtube.com/watch?v=JfYRGTvMbBA
  * https://dzone.com/articles/getting-started-socketio-and
  * https://www.youtube.com/watch?v=X1Jm24b6ZsY
+ 
+###
+ * http://cherrypy.org/
+ * https://github.com/mjhea0/flask-boilerplate
 
 ###mapa es6 implementacji plus wzorce projektowe
   - http://kangax.github.io/compat-table/es6/
