@@ -72,6 +72,7 @@
  - http://brezular.com/2013/12/17/connecting-open-vswitch-running-on-debian-to-cisco-catalyst-3550-via-trunk/
  - http://www.admin-magazine.com/CloudAge/Articles/Virtual-switching-with-Open-vSwitch
  - https://pve.proxmox.com/wiki/Open_vSwitch
+ - https://z900collector.wordpress.com/2015/03/09/dell-powerconnect-62xx80248024f-general-switch-configuration-topics/
  
 ####CEPH
  - http://www.virtualtothecore.com/en/adventures-ceph-storage-part-1-introduction/
