@@ -10,8 +10,10 @@
 ####Materiały w pdf
  - http://www.phenoelit.org/stuff/papers.html
  
-###Różne tutoriale
+###Różności
  - https://www.cyberciti.biz/faq/unix-network-service-restart-stop/
+ - http://standards-oui.ieee.org/oui.txt
+ - https://www.hellion.org.uk/cgi-bin/randmac.pl?scope=local&type=unicast
 
 ####Virtualbox
  - http://download.virtualbox.org/virtualbox/
