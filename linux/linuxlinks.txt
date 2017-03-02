@@ -11,10 +11,13 @@ cd /usr/share/minetest/games/minetest_game/mods;
 
 [ -d Minetest-WorldEdit ] && mv Minetest-WorldEdit worldedit;
 
+#more blocks there
 for i in moreblocks moreores moretrees lightning castle torches plantlife_modpack more_chests round_trunks biome_lib homedecor_modpack; do [ ! -d $i ] && git clone https://github.com/minetest-mods/$i; done;
 
+#more mods there
 for i in animalmaterials mobf_core adv_spawning animals_modpack; do [ ! -d $i ] && git clone https://github.com/sapier/$i; done;
 
+#more mods there
 for i in mobs_redo mobs_animal mobs_npc; do [ ! -d $i ] && git clone https://github.com/tenplus1/$i; done;
 
 kpgmobs https://forum.minetest.net/download/file.php?id=384;
