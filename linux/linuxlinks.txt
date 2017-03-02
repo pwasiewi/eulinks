@@ -28,3 +28,4 @@ kpgmobs https://forum.minetest.net/download/file.php?id=384;
 //https://github.com/tacigar/maidroid
 //https://github.com/bell07/minetest-townchest.git
 //https://github.com/eidy/aliveai.git
+//https://forum.minetest.net/viewtopic.php?f=9&t=11972
