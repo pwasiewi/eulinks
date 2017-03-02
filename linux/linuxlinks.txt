@@ -24,3 +24,7 @@ kpgmobs https://forum.minetest.net/download/file.php?id=384;
 [ ! -d cme ] && git clone https://github.com/BlockMen/cme;
 
 //find /etc/init.d -type f -exec sed -i 's/runscript/openrc-run/' {} +
+
+//https://github.com/tacigar/maidroid
+//https://github.com/bell07/minetest-townchest.git
+//https://github.com/eidy/aliveai.git
