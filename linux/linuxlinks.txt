@@ -1,9 +1,12 @@
 
-###EDUGRY
+###GRY 
  - http://www.minetest.net/
  - http://wiki.minetest.net/List_of_Subgames
  - http://uberi.mesecons.net/
 
+###MINETEST INTERNALS
+ - http://wiki.minetest.net/Server_commands
+ - http://dev.minetest.net/Intro
 
 ###minetest plugins for linux
 
