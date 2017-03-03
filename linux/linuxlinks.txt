@@ -35,6 +35,9 @@ kpgmobs https://forum.minetest.net/download/file.php?id=384;
 //https://github.com/eidy/aliveai.git
 //https://forum.minetest.net/viewtopic.php?f=9&t=11972
 
+cd /usr/share/minetest/games
+git clone http://repo.or.cz/MineClone/MineClone2.git
+cd /usr/share/minetest/games/minetest_game/mods
 [ ! -d unifieddyes ] && git clone https://github.com/minetest-mods/unifieddyes
 [ ! -d castle ] && git clone https://github.com/minetest-mods/castle
 [ ! -d minetest-mod-mesecons ] && git clone https://github.com/Jeija/minetest-mod-mesecons.git
