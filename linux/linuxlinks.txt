@@ -1,6 +1,7 @@
 
 ###EDUGRY
  - http://www.minetest.net/
+ - http://uberi.mesecons.net/
 
 
 ###minetest plugins for linux
