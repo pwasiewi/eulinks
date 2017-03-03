@@ -39,3 +39,4 @@ kpgmobs https://forum.minetest.net/download/file.php?id=384;
 [ ! -d mesecons ] && mv minetest-mod-mesecons/* .
 [ ! -d minetest_orienteering ] && git clone http://repo.or.cz/minetest_orienteering.git
 [ ! -d orienteering ] && mv minetest_orienteering orienteering
+[ ! -d meshnode ] && git clone https://github.com/stujones11/meshnode.git
