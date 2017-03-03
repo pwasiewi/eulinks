@@ -35,3 +35,5 @@ kpgmobs https://forum.minetest.net/download/file.php?id=384;
 
 git clone https://github.com/minetest-mods/unifieddyes
 git clone https://github.com/minetest-mods/castle
+git clone https://github.com/Jeija/minetest-mod-mesecons.git
+git clone http://repo.or.cz/minetest_orienteering.git
