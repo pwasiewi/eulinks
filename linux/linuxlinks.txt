@@ -1,6 +1,7 @@
 
 ###EDUGRY
  - http://www.minetest.net/
+ - http://wiki.minetest.net/List_of_Subgames
  - http://uberi.mesecons.net/
 
 
