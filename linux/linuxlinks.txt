@@ -3,6 +3,8 @@
  - http://www.minetest.net/
  - http://wiki.minetest.net/List_of_Subgames
  - http://uberi.mesecons.net/
+ - http://wiki.minetest.net/Mods/basic_robot
+ - http://www.makeagamefree.com/
 
 ###MINETEST INTERNALS
  - http://wiki.minetest.net/Server_commands
