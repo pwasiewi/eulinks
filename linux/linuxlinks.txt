@@ -33,7 +33,9 @@ kpgmobs https://forum.minetest.net/download/file.php?id=384;
 //https://github.com/eidy/aliveai.git
 //https://forum.minetest.net/viewtopic.php?f=9&t=11972
 
-git clone https://github.com/minetest-mods/unifieddyes
-git clone https://github.com/minetest-mods/castle
-git clone https://github.com/Jeija/minetest-mod-mesecons.git
-git clone http://repo.or.cz/minetest_orienteering.git
+[ ! -d unifieddyes ] && git clone https://github.com/minetest-mods/unifieddyes
+[ ! -d castle ] && git clone https://github.com/minetest-mods/castle
+[ ! -d minetest-mod-mesecons ] && git clone https://github.com/Jeija/minetest-mod-mesecons.git
+[ ! -d mesecons ] && mv minetest-mod-mesecons/* .
+[ ! -d minetest_orienteering ] && git clone http://repo.or.cz/minetest_orienteering.git
+[ ! -d orienteering ] && mv minetest_orienteering orienteering
