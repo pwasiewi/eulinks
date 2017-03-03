@@ -42,4 +42,9 @@ kpgmobs https://forum.minetest.net/download/file.php?id=384;
 [ ! -d meshnode ] && git clone https://github.com/stujones11/meshnode.git
 [ ! -f ByUjEdwinV2_space.zip ] && wget https://forum.minetest.net/download/file.php?id=7985 -O ByUjEdwinV2_space.zip
 [ ! -f ByAiTechEye-juli-V7_1-marssurvive.zip ] && wget https://forum.minetest.net/download/file.php?id=9106 -O ByAiTechEye-juli-V7_1-marssurvive.zip
+wget https://forum.minetest.net/download/file.php?id=9323 -O ByAiTechEyeV3_5-aliveai.zip
+wget https://forum.minetest.net/download/file.php?id=9340 -O ByAiTechEyeV3_6-aliveai.zip
+unzip ByUjEdwinV4r-smartshop.zip
+unzip ByAiTechEyeV3_6-aliveai.zip
+
 
