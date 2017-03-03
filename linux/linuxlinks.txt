@@ -36,7 +36,7 @@ kpgmobs https://forum.minetest.net/download/file.php?id=384;
 [ ! -d unifieddyes ] && git clone https://github.com/minetest-mods/unifieddyes
 [ ! -d castle ] && git clone https://github.com/minetest-mods/castle
 [ ! -d minetest-mod-mesecons ] && git clone https://github.com/Jeija/minetest-mod-mesecons.git
-[ ! -d mesecons ] && mv minetest-mod-mesecons/* .
+[ ! -d mesecons ] && mv minetest-mod-mesecons/* . && rm -rf minetest-mod-mesecons
 [ ! -d minetest_orienteering ] && git clone http://repo.or.cz/minetest_orienteering.git
 [ ! -d orienteering ] && mv minetest_orienteering orienteering
 [ ! -d meshnode ] && git clone https://github.com/stujones11/meshnode.git
