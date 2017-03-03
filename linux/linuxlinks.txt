@@ -50,5 +50,5 @@ kpgmobs https://forum.minetest.net/download/file.php?id=384;
 mv aliveai/ aliveai.arch
 mv aliveai.arch/* .
 rm -rf aliveai.arch
-
+sed -i 's/status=false/status=true/g' aliveai/init.lua 
 
