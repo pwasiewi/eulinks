@@ -49,5 +49,6 @@ kpgmobs https://forum.minetest.net/download/file.php?id=384;
 [ ! -d aliveai ] unzip ByAiTechEyeV3_6-aliveai.zip
 mv aliveai/ aliveai.arch
 mv aliveai.arch/* .
+rm -rf aliveai.arch
 
 
