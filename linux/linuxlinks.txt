@@ -6,8 +6,16 @@
 
 ###MINETEST INTERNALS
  - http://wiki.minetest.net/Server_commands
+ - http://wiki.minetest.net/Main_Page
+ - http://dev.minetest.net/Global_Minetest_object
  - http://dev.minetest.net/Intro
-
+ - http://home.metrocast.net/~minetestmoddingtutorial/beginnerEN.html
+ - http://rubenwardy.com/minetest_modding_book/index.html
+ - http://sfan5.duckdns.org/minetest-modding-tutorial/html/englishEN.html
+ - http://wiki.minetest.net/Using_Blender
+ - https://www.tutorialspoint.com/lua/index.htm
+ - https://www.lua.org/manual/5.3/
+ 
 ###minetest plugins for linux
 
 cd /usr/share/minetest/games/minetest_game/mods;
