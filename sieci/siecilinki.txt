@@ -182,6 +182,7 @@
 ###docker swarm 
   - https://docs.docker.com/swarm/install-w-machine/
   - https://docs.openshift.org/latest/architecture/index.html
+  - https://www.servethehome.com/docker-swarm-management-a-quick-overview-of-rancher-portainer-and-shipyard/
   
 ###docker swarm ha (containers restart)
   - https://github.com/docker/swarm/issues/1488
