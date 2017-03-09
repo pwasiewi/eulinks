@@ -4,6 +4,7 @@
 ###do projektu serwer zadań do rozwiązania z podpowiedziami 
 - https://www.kaggle.com/competitions
 
+
 ###do projektu Sztuczna Inteligencja na Arduino - Fuzzy Logic
  - http://www.zerokol.com/2012/09/arduinofuzzy-fuzzy-library-for-arduino.html
  - https://github.com/zerokol/eFLL
@@ -35,6 +36,7 @@
 #####DataMining in R 
 - http://www.rdatamining.com/ 
 - http://www.rdatamining.com/examples 
+- https://github.com/pbiecek/DataMining/tree/master/MINI_2015/Lectures
 
 #####kursy statystycznego uczenia się 
 - http://www.r-bloggers.com/online-class-on-statistical-learning/
