@@ -17,6 +17,7 @@
  - https://github.com/novnc/noVNC
  - http://centoshowtos.org/commands/sysbench/
  - https://www.ansible.com/ansible-roles-by-acquia
+ - https://dug.net.pl/tekst/296/przerabianie_debiana_pod_wifi_access_point/
 
 ####Virtualbox
  - http://download.virtualbox.org/virtualbox/
@@ -45,6 +46,7 @@
  - http://karan-mj.blogspot.com/2014/04/erasure-coding-in-ceph.html
  - https://busybox.net/~aldot/mkfs_stride.html
  - https://github.com/01org/CeTune
+ - 
 
 ####Proxmox VLAN network
  - https://pve.proxmox.com/wiki/Vlans
@@ -72,6 +74,7 @@
  - http://rockhoppervpn.sourceforge.net/
  - http://www.gleescape.com/posts/2917
  - https://supportforums.cisco.com/discussion/12579156/windows-10-asa-ipsec-vpn-group-authentication
+ - https://doc.pfsense.org/index.php/IKEv2_with_EAP-MSCHAPv2
  
 ####Switche
  - http://www.dell.com/downloads/global/products/pwcnt/en/pwcnt_stacking_switches.pdf
@@ -90,6 +93,12 @@
  - https://www.reddit.com/r/DataHoarder/comments/4gzpxi/why_is_ceph_so_rare_for_home_use_even_among/
  - http://palmerville.github.io/2016/04/30/single-node-ceph-install.html
  - http://netkiller.github.io/nosql/hypertable/index.html
+ - http://docs.ceph.com/docs/master/rados/troubleshooting/troubleshooting-mon/
+ - http://docs.ceph.com/docs/jewel/rados/operations/add-or-rm-mons/#changing-a-monitor-s-ip-address
+ - https://pve.proxmox.com/wiki/Ceph_Hammer_to_Jewel
+ - https://github.com/rochaporto/collectd-ceph
+ - https://blog.flyingcircus.io/2016/05/27/ceph-performance-learnings-long-read/
+ - https://wiki.debian.org/OpenStackCephHowto
  
 ####CEPH TUNING
  - https://accelazh.github.io/ceph/Ceph-Performance-Tuning-Checklist
