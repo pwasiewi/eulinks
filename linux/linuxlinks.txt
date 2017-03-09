@@ -61,8 +61,9 @@ cd /usr/share/minetest/games/minetest_game/mods
 [ ! -f ByUjEdwinV2_space.zip ] && wget https://forum.minetest.net/download/file.php?id=7985 -O ByUjEdwinV2_space.zip
 [ ! -f ByAiTechEye-juli-V7_1-marssurvive.zip ] && wget https://forum.minetest.net/download/file.php?id=9106 -O ByAiTechEye-juli-V7_1-marssurvive.zip
 [ ! -f ByUjEdwinV4r-smartshop.zip ] && wget https://forum.minetest.net/download/file.php?id=8630 -O ByUjEdwinV4r-smartshop.zip
-[ ! -f ByAiTechEyeV3_5-aliveai.zip ] && wget https://forum.minetest.net/download/file.php?id=9323 -O ByAiTechEyeV3_5-aliveai.zip
-[ ! -f ByAiTechEyeV3_6-aliveai.zip ] && wget https://forum.minetest.net/download/file.php?id=9340 -O ByAiTechEyeV3_6-aliveai.zip
+#[ ! -f ByAiTechEyeV3_5-aliveai.zip ] && wget https://forum.minetest.net/download/file.php?id=9323 -O ByAiTechEyeV3_5-aliveai.zip
+#[ ! -f ByAiTechEyeV3_6-aliveai.zip ] && wget https://forum.minetest.net/download/file.php?id=9340 -O ByAiTechEyeV3_6-aliveai.zip
+[ ! -f ByAiTechEyeV3_941-aliveai.zip ] && wget https://forum.minetest.net/download/file.php?id=9452 -O ByAiTechEyeV3_941-aliveai.zip
 [ ! -d smartshop ] unzip ByUjEdwinV4r-smartshop.zip
 [ ! -d aliveai ] unzip ByAiTechEyeV3_6-aliveai.zip
 mv aliveai/ aliveai.arch
