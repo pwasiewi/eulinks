@@ -38,59 +38,6 @@ preferencji.
  * http://pl.wikipedia.org/wiki/Programowanie_obiektowe
  * http://pl.wikibooks.org/wiki/PHP/Czym_jest_programowanie_obiektowe%3F
 
-##JAVASCRIPT
- * https://github.com/getify/You-Dont-Know-JS/tree/master/es6%20%26%20beyond
- * https://addyosmani.com/resources/essentialjsdesignpatterns/book/#observerpatternjavascript
- * https://developer.mozilla.org/pl/docs/Web/JavaScript/dziedziczenie_lancuch_prototypow
- * http://exploringjs.com/es6/
- * http://exploringjs.com/es6/ch_first-steps.html#leanpub-auto-from-var-to-letconst
- * http://burczu-programator.pl/blog/ecmascript-6-co-nowego
- * http://www.2ality.com/2014/09/es6-modules-final.html
- * http://www.mkyong.com/all-tutorials-on-mkyong-com/
- * https://github.com/matthew-andrews/workshop-making-it-work-offline
- * https://github.com/exalted/mdwiki-seed.git
- * https://gist.github.com/alias1/a8c3c2fd7bf2f50ff666  * install mdwiki
- * https://www.tumblr.com/search/MDwiki
- * https://github.com/rstacruz/flatdoc
-
-##PHP
- * http://pl.wikibooks.org/wiki/Php
- * http://pl.wikibooks.org/wiki/PHP/Dziedziczenie#Implementacja_dziedziczenia
- * http://php.pl/Wortal/Artykuly/PHP/Podstawy/Programowanie-obiektowe-dla-poczatkujacych5
- * http://di.com.pl/porady/35024,0,PHP_Programowanie_obiektowe_dla_poczatkujacych.html
- * http://php.pl/Wortal/Artykuly/PHP/Architektura/OO-Programowanie-obiektowe-w-praktyce
- * http://www.mephir.net.pl/taxonomy/term/10
- * http://www.serwan.pl/index.php/archives/tag/programowanie-obiektowe
- * http://webhosting.pl/Kurs.PHP..Wstep.do.programowania.w.popularnym.jezyku.skryptowym?page=11
- * http://www.serwan.pl/index.php/archives/1653
-
-##Objective-C
- * http://www.niresh.co/hackintosh-downloads/file/75-niresh-mac-os-x-mavericks-109-with-amd-intel-usb/
- * http://tryobjectivec.codeschool.com
- * http://objc.toodarkpark.net/
- * http://gnustep.made-it.com/BG-objc/
- * http://cupsofcocoa.com/2010/08/29/learn-objective-c-in-24-days/
- * http://cocoadevcentral.com/d/learn_objectivec/
- * http://www.youtube.com/watch?v=FQRQsG_HprM
- * http://www.youtube.com/watch?v=1Xqn5IHbusA
- * http://www.otierney.net/objective-c.html
- * http://cocoadevcentral.com/
- * http://ideone.com
- * https://www.sourcelair.com/
- * http://www.hackintosh.com/
- * http://fileability.net/ingredients/
- * http://virtualboximages.com/Hackintosh+VirtualBox+VDI\
- * http://www.osx86.net/files/file/69-os-x-108x-intelbootcd-cloveriso/
- * http://www.wikihow.com/Make-a-Hackintosh-in-a-Virtualbox
- * http://www.souldevteam.net/blog/2013/10/06/os-x-mavericks-10-9-retail-vmware-image-release-notes-links/
- * http://www.bignerdranch.com/book/iphone_programming_the_big_nerd_ranch_guide
- * http://helion.pl/ksiazki/ios-5-programowanie-receptury-vandad-nahavandipoor,ios5re.htm
- * http://helion.pl/ksiazki/objective-c-vademecum-profesjonalisty-wydanie-iii-stephen-g-kochan,objcp3.htm
-
-
-
-##Eclipse4
- * http://alblue.bandlem.com/ 
 
 ##C++
  * https://theboostcpplibraries.com/
@@ -99,7 +46,7 @@ preferencji.
  * http://www.freeprogrammingresources.com/cppbooks.html
  * https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#c-1
 ####Kursy języka C++ i C:
- *  Kursy C++ z programuj.com <http://www.programuj.com/download.php>
+ *  [Kursy C++ z programuj.com] (http://www.programuj.com/download.php)
  *  Kurs C++ z xion
     <http://xion.org.pl/productions/texts/coding/megatutorial/>
  *  Kurs C++ z cpp0x.pl <http://cpp0x.pl/kursy/Kurs-C++/1>
@@ -231,6 +178,61 @@ preferencji.
  * http://www.desy.de/gna/html/cc/Tutorial/tutorial.html
  * http://en.wikipedia.org/wiki/Factory_method_pattern
  * http://www.ics.com/designpatterns/
+
+
+##JAVASCRIPT
+ * https://github.com/getify/You-Dont-Know-JS/tree/master/es6%20%26%20beyond
+ * https://addyosmani.com/resources/essentialjsdesignpatterns/book/#observerpatternjavascript
+ * https://developer.mozilla.org/pl/docs/Web/JavaScript/dziedziczenie_lancuch_prototypow
+ * http://exploringjs.com/es6/
+ * http://exploringjs.com/es6/ch_first-steps.html#leanpub-auto-from-var-to-letconst
+ * http://burczu-programator.pl/blog/ecmascript-6-co-nowego
+ * http://www.2ality.com/2014/09/es6-modules-final.html
+ * http://www.mkyong.com/all-tutorials-on-mkyong-com/
+ * https://github.com/matthew-andrews/workshop-making-it-work-offline
+ * https://github.com/exalted/mdwiki-seed.git
+ * https://gist.github.com/alias1/a8c3c2fd7bf2f50ff666  * install mdwiki
+ * https://www.tumblr.com/search/MDwiki
+ * https://github.com/rstacruz/flatdoc
+
+##PHP
+ * http://pl.wikibooks.org/wiki/Php
+ * http://pl.wikibooks.org/wiki/PHP/Dziedziczenie#Implementacja_dziedziczenia
+ * http://php.pl/Wortal/Artykuly/PHP/Podstawy/Programowanie-obiektowe-dla-poczatkujacych5
+ * http://di.com.pl/porady/35024,0,PHP_Programowanie_obiektowe_dla_poczatkujacych.html
+ * http://php.pl/Wortal/Artykuly/PHP/Architektura/OO-Programowanie-obiektowe-w-praktyce
+ * http://www.mephir.net.pl/taxonomy/term/10
+ * http://www.serwan.pl/index.php/archives/tag/programowanie-obiektowe
+ * http://webhosting.pl/Kurs.PHP..Wstep.do.programowania.w.popularnym.jezyku.skryptowym?page=11
+ * http://www.serwan.pl/index.php/archives/1653
+
+##Objective-C
+ * http://www.niresh.co/hackintosh-downloads/file/75-niresh-mac-os-x-mavericks-109-with-amd-intel-usb/
+ * http://tryobjectivec.codeschool.com
+ * http://objc.toodarkpark.net/
+ * http://gnustep.made-it.com/BG-objc/
+ * http://cupsofcocoa.com/2010/08/29/learn-objective-c-in-24-days/
+ * http://cocoadevcentral.com/d/learn_objectivec/
+ * http://www.youtube.com/watch?v=FQRQsG_HprM
+ * http://www.youtube.com/watch?v=1Xqn5IHbusA
+ * http://www.otierney.net/objective-c.html
+ * http://cocoadevcentral.com/
+ * http://ideone.com
+ * https://www.sourcelair.com/
+ * http://www.hackintosh.com/
+ * http://fileability.net/ingredients/
+ * http://virtualboximages.com/Hackintosh+VirtualBox+VDI\
+ * http://www.osx86.net/files/file/69-os-x-108x-intelbootcd-cloveriso/
+ * http://www.wikihow.com/Make-a-Hackintosh-in-a-Virtualbox
+ * http://www.souldevteam.net/blog/2013/10/06/os-x-mavericks-10-9-retail-vmware-image-release-notes-links/
+ * http://www.bignerdranch.com/book/iphone_programming_the_big_nerd_ranch_guide
+ * http://helion.pl/ksiazki/ios-5-programowanie-receptury-vandad-nahavandipoor,ios5re.htm
+ * http://helion.pl/ksiazki/objective-c-vademecum-profesjonalisty-wydanie-iii-stephen-g-kochan,objcp3.htm
+
+
+
+##Eclipse4
+ * http://alblue.bandlem.com/ 
 
 ##PYTHON
  * http://pl.wikibooks.org/wiki/Zanurkuj_w_Pythonie
