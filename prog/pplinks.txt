@@ -46,63 +46,63 @@ preferencji.
  * http://www.freeprogrammingresources.com/cppbooks.html
  * https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#c-1
 ####Kursy języka C++ i C:
- *  [Kursy C++ z programuj.com] (http://www.programuj.com/download.php)
- *  [Kurs C++ z xion ] (http://xion.org.pl/productions/texts/coding/megatutorial/)
- *  [Kurs C++ z cpp0x.pl ] (http://cpp0x.pl/kursy/Kurs-C++/1)
- *  [Kurs C++ z 4programmers ] (http://4programmers.net/C)
- *  [Kurs C++ bez cholesterolu ] (http://www.intercon.pl/%7Esektor/cbx/)
+ *  [Kursy C++ z programuj.com](http://www.programuj.com/download.php)
+ *  [Kurs C++ z xion ](http://xion.org.pl/productions/texts/coding/megatutorial/)
+ *  [Kurs C++ z cpp0x.pl ](http://cpp0x.pl/kursy/Kurs-C++/1)
+ *  [Kurs C++ z 4programmers ](http://4programmers.net/C)
+ *  [Kurs C++ bez cholesterolu ](http://www.intercon.pl/%7Esektor/cbx/)
  *  [Kurs C++ na Youtubie (filmy screencasty)
-    ] (http://www.youtube.com/playlist?list=PLE84826ABF088F7E8)
- *  [Opis C++ z wikipedii ] (http://pl.wikipedia.org/wiki/C%2B%2B)
- *  [Wikiksiążka C++ po polsku ] (http://pl.wikibooks.org/wiki/C++)
- *  [Kurs C++ z cprogramming po angielsku ] (http://www.cprogramming.com/)
- *  [Wikibook C++ po angielsku ] (http://en.wikibooks.org/wiki/C++)
- *  [Strona C++ po angielsku ] (http://www.cplusplus.com/)
- *  [Strona twórcy C++ Stroustrupa ] (http://www.stroustrup.com/)
+    ](http://www.youtube.com/playlist?list=PLE84826ABF088F7E8)
+ *  [Opis C++ z wikipedii ](http://pl.wikipedia.org/wiki/C%2B%2B)
+ *  [Wikiksiążka C++ po polsku ](http://pl.wikibooks.org/wiki/C++)
+ *  [Kurs C++ z cprogramming po angielsku ](http://www.cprogramming.com/)
+ *  [Wikibook C++ po angielsku ](http://en.wikibooks.org/wiki/C++)
+ *  [Strona C++ po angielsku ](http://www.cplusplus.com/)
+ *  [Strona twórcy C++ Stroustrupa ](http://www.stroustrup.com/)
  *  http://pl.wikibooks.org/wiki/C
- *  [C biblia po angielsku ] (http://publications.gbdirect.co.uk/c_book/)
+ *  [C biblia po angielsku ](http://publications.gbdirect.co.uk/c_book/)
 ####Książki o programowaniu i nie tylko  * za darmo:
  *  [Wykłady C++ z ważniaka w pdf (mniej więcej odpowiednik drugiej
     części Waszych wykładów)
-    ] (http://wazniak.mimuw.edu.pl/index.php?title=Zaawansowane_CPP)
+    ](http://wazniak.mimuw.edu.pl/index.php?title=Zaawansowane_CPP)
  *  [Wolnodostępna anglojęzyczna książka o strukturach danych w Javie i
     C++ (licencja Creative Commons dowolnych modyfikacji)
-    ] (http://opendatastructures.org/)
+    ](http://opendatastructures.org/)
  *  [Książka Shaffera po angielsku o C++ strukturach danych
-    ] (http://people.cs.vt.edu/%7Eshaffer/Book/)
+    ](http://people.cs.vt.edu/%7Eshaffer/Book/)
  *  [Książka po angielsku o C++ boost bibliotece
-    ] (http://en.highscore.de/cpp/boost/)
+    ](http://en.highscore.de/cpp/boost/)
  *  [Książka Preissa po angielsku o C++ strukturach danych
-    ] (http://www.brpreiss.com/books/opus4/)
+    ](http://www.brpreiss.com/books/opus4/)
  *  [Książka Goodricha po angielsku o C++ strukturach danych i
-    algorytmach ] (http://cpp.datastructures.net/)
+    algorytmach ](http://cpp.datastructures.net/)
  *  [Książka po angielsku o projektowaniu w C++ i Javie z przykładami
-    ] (http://www.vincehuston.org/dp/)
+    ](http://www.vincehuston.org/dp/)
  *  [Książka po angielsku o bibliotece C++ libavl drzew binarnych
-    ] (http://adtinfo.org/)
+    ](http://adtinfo.org/)
  *  [Wikiksiążka po angielsku o C++ optymalizacji
-    ] (http://en.wikibooks.org/wiki/Optimizing_C%2B%2B)
+    ](http://en.wikibooks.org/wiki/Optimizing_C%2B%2B)
  *  [Wykład po angielsku o C++ ze Stanford z licznymi przykładami
-    ] (http://www.stanford.edu/class/cs106b/)
+    ](http://www.stanford.edu/class/cs106b/)
  *  [Książka po angielsku o C++ abc 
-] (http://www.computer-books.us/cpp_5.php)
+](http://www.computer-books.us/cpp_5.php)
  *  [Algorytmy i struktury danych po angielsku
-    ] (http://www.cprogramming.com/algorithms-and-data-structures.html)
+    ](http://www.cprogramming.com/algorithms-and-data-structures.html)
  *  [Książka po angielsku o C++
-    ] (http://mindview.net/Books/TICPP/ThinkingInCPP2e.html)
+    ](http://mindview.net/Books/TICPP/ThinkingInCPP2e.html)
  *  [Spis darmowych książek anglojęzycznych o strukturach danych
-] (http://datastructureebook.blogspot.com/2008/01/download-free-data-structures-and.html)
+](http://datastructureebook.blogspot.com/2008/01/download-free-data-structures-and.html)
  *  [Spis darmowych książek anglojęzycznych o strukturach danych i
     algorytmach
-] (http://freee-booksdownload.blogspot.com/2008/02/free-data-structures-and-algorithms.html)
+](http://freee-booksdownload.blogspot.com/2008/02/free-data-structures-and-algorithms.html)
  *  [Spis książek anglojęzycznych o C++ dostępnych w sieci i księgarniach
-] (http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
- *  [Książki za darmo z programowania ] (http://www.techbooksforfree.com/)
+](http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
+ *  [Książki za darmo z programowania ](http://www.techbooksforfree.com/)
  *  [Wykład C++ po angielsku na filmach video
-    ] (http://videolectures.net/stanfordcs106bw08_schwarz_lec27/)
+    ](http://videolectures.net/stanfordcs106bw08_schwarz_lec27/)
  *  [Pierwszy na świecie Uniwersytet Wirtualny  * za darmo kursy
-    informatyczne po angielsku na ] (http://www.udacity.com/)filmach video
-    z egzaminami online ] (http://www.udacity.com/)
+    informatyczne po angielsku na ](http://www.udacity.com/)filmach video
+    z egzaminami online ](http://www.udacity.com/)
 
  * http://www.parashift.com/c++-faq/
  * http://cpp0x.pl/kursy/Kurs-C++/1
