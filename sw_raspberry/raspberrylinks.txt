@@ -1,3 +1,6 @@
+###Raspberry gpio
+ - https://www.perkin.org.uk/posts/a-nodejs-powered-8-bit-cpu-part-one.html
+
 ###Gentoo raspberry
  * https://wiki.gentoo.org/wiki/Raspberry_Pi
  * http://www.funtoo.org/Raspberry_Pi_2
