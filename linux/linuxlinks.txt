@@ -20,6 +20,7 @@
  
 ###minetest plugins for linux
 
+```
 cd /usr/share/minetest/games/minetest_game/mods;
 [ ! -d ethereal ] && git clone https://github.com/tenplus1/ethereal
 [ ! -d worldedit ] && git clone https://github.com/Uberi/Minetest-WorldEdit.git; 
@@ -70,4 +71,4 @@ mv aliveai/ aliveai.arch
 mv aliveai.arch/* .
 rm -rf aliveai.arch
 sed -i 's/status=false/status=true/g' aliveai/init.lua 
-
+```
