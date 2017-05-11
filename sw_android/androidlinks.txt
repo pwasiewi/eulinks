@@ -12,6 +12,7 @@
 ```
 
 ###New ideas - dockers
+ - http://blog.zenika.com/2015/06/15/Docker-meets-the-IDE/
  - https://github.com/tomwillfixit/unity3d
  - https://github.com/protomouse/godot-docker
  - https://github.com/domeide
