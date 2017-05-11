@@ -11,6 +11,16 @@
    adb install -r  /opt/android-ndk-r7b/samples/bitmap-plasma/bin/Plasma-debug.apk
 ```
 
+###New ideas - dockers
+ - https://github.com/tomwillfixit/unity3d
+ - https://github.com/protomouse/godot-docker
+ - https://github.com/domeide
+ - https://github.com/chuck-knox/sublime3-docker
+ - https://github.com/docbill/sublime-text-3
+ - https://packagecontrol.io/packages/Docker%20Based%20Build%20Systems
+ - https://github.com/nickjj/sublime-text-3-packages
+
+
 ###SD CARD FOR MARSHMALLOW Android 6.0
  - http://blog.sam.liddicott.com/2016/02/android-6-semi-adopted-storage.html
  - http://nelenkov.blogspot.com/2015/06/decrypting-android-m-adopted-storage.html
