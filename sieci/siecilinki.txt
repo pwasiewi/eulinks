@@ -10,6 +10,9 @@
 ####Materiały w pdf
  - http://www.phenoelit.org/stuff/papers.html
  
+###Hyper-v
+ - https://docs.microsoft.com/en-us/windows-server/virtualization/hyper-v/get-started/create-a-virtual-machine-in-hyper-v
+ 
 ###Różności
  - https://www.cyberciti.biz/faq/unix-network-service-restart-stop/
  - http://standards-oui.ieee.org/oui.txt
