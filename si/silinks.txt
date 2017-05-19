@@ -4,6 +4,8 @@
 ###do projektu serwer zadań do rozwiązania z podpowiedziami 
 - https://www.kaggle.com/competitions
 
+###case study
+ - http://www.rmdk.ca/boosting_forests_bagging.html
 
 ###do projektu Sztuczna Inteligencja na Arduino - Fuzzy Logic
  - http://www.zerokol.com/2012/09/arduinofuzzy-fuzzy-library-for-arduino.html
