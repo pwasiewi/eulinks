@@ -26,6 +26,7 @@
  - https://projectlombok.org
  - http://square.github.io/picasso/ 
  - https://github.com/Raizlabs/DBFlow
+ - http://square.github.io/retrofit/
 
 ###SD CARD FOR MARSHMALLOW Android 6.0
  - http://blog.sam.liddicott.com/2016/02/android-6-semi-adopted-storage.html
