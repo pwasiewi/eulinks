@@ -21,6 +21,10 @@
  - https://packagecontrol.io/packages/Docker%20Based%20Build%20Systems
  - https://github.com/nickjj/sublime-text-3-packages
 
+###New libraries
+ - http://jakewharton.github.io/butterknife/
+ - https://projectlombok.org
+ 
 
 ###SD CARD FOR MARSHMALLOW Android 6.0
  - http://blog.sam.liddicott.com/2016/02/android-6-semi-adopted-storage.html
