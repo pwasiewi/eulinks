@@ -1,21 +1,21 @@
-###Kursy Arduino
+### Kursy Arduino
  - http://forbot.pl/blog/
  - http://feriar-lab.pl/kurs-arduino/
  
-###Timery
+### Timery
  - http://forum.arduinopolska.com/watek-biblioteka-timers-koniec-z-uci%C4%85%C5%BCliwym-delay
  - https://github.com/nettigo/Timers
  - http://100-x-arduino.blogspot.com/2016/11/bibioteki-cd-czyli-o-przewadze-zmywarki.html
  
-###Zakupy w Chinach
+### Zakupy w Chinach
  - http://elektrokornik.blog.pl/co-warto-zamawiac-z-chin/
 
-###Sztuczna Inteligencja na Arduino - Fuzzy Logic
+### Sztuczna Inteligencja na Arduino - Fuzzy Logic
  - http://www.zerokol.com/2012/09/arduinofuzzy-fuzzy-library-for-arduino.html
  - https://github.com/zerokol/eFLL
  - https://gist.github.com/zerokol/4110773
  
-###Różności 
+### Różności 
  * https://en.wikipedia.org/wiki/List_of_Arduino_boards_and_compatible_systems
  * http://www.rugged-circuits.com/10-ways-to-destroy-an-arduino/
  * http://virtgpio.blavery.com/vgpio/
@@ -27,21 +27,21 @@
  * [Johnny Five](https://www.youtube.com/watch?v=8s2--hfsJDY)
  * https://z900collector.wordpress.com/arduinoembedded/arduino-object-oriented-hcs-part-1/
 
-###PWM
+### PWM
  * http://starter-kit.nettigo.pl/2012/01/co-to-jest-pwm/
  * https://elty.pl/pl/p/Impulsator-z-przyciskiem-galka/402
  * http://feriar-lab.pl/kurs-arduino-5-pwm-obsluga-funkcji-analogread-analogwrite/
  * http://www.hobbytronics.co.uk/arduino-tutorial6-rotary-encoder
 
-###znaki specjalne
+### znaki specjalne
  * http://feriar-lab.pl/jak-zrobic-znak-specjalny-hd44780-w-arduino/
  * http://omerk.github.io/lcdchargen/
 
-###przekaźniki
+### przekaźniki
  * http://feriar-lab.pl/kurs-arduino-11-obsluga-przekaznikow/
  * http://technika-laika.blogspot.com/2014/04/arduino-sterowanie-przekaznikiem-za.html
 
-###bluetooth
+### bluetooth
  * http://blog.bastelhalde.de/?p=274
  * https://wiki.gentoo.org/wiki/Bluetooth
  * http://makezine.com/projects/diy-arduino-bluetooth-programming-shield/
