@@ -10,6 +10,13 @@
 ### Zakupy w Chinach
  - http://elektrokornik.blog.pl/co-warto-zamawiac-z-chin/
 
+### Klocki
+ - https://store.wayneandlayne.com/products/bricktronics-shield-kit.html
+ - https://studio.dexterindustries.com/
+ - https://www.dexterindustries.com/raspberry-pi-robots/
+ - http://www.legoengineering.com/alternative-programming-languages/
+ - http://www.planetarduino.org/?cat=1855
+
 ### Sztuczna Inteligencja na Arduino - Fuzzy Logic
  - http://www.zerokol.com/2012/09/arduinofuzzy-fuzzy-library-for-arduino.html
  - https://github.com/zerokol/eFLL
