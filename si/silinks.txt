@@ -3,6 +3,7 @@
 
 ###do projektu serwer zadań do rozwiązania z podpowiedziami i tutoriale
 - https://www.kaggle.com/competitions
+- blog.kaggle.com/category/winners-interviews/
 - http://blog.kaggle.com/author/kaggleteam/
 - http://blog.echen.me/2017/05/30/exploring-lstms/
 - http://karpathy.github.io/2015/05/21/rnn-effectiveness/
