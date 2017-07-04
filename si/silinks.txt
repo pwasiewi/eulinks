@@ -1,8 +1,10 @@
 ###tutorial wykładowy
 - https://github.com/pwasiewi/eusi/blob/master/skrypty/01stepfirst.R
 
-###do projektu serwer zadań do rozwiązania z podpowiedziami 
+###do projektu serwer zadań do rozwiązania z podpowiedziami i tutoriale
 - https://www.kaggle.com/competitions
+- http://blog.echen.me/2017/05/30/exploring-lstms/
+- http://karpathy.github.io/2015/05/21/rnn-effectiveness/
 
 ###case study
  - http://www.rmdk.ca/boosting_forests_bagging.html
