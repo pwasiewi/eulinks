@@ -70,6 +70,7 @@
  - https://forum.proxmox.com/threads/incremental-backups-ceph.30393/
  
 ####pfSense, vpn ipsec i inne
+ - https://techknight.eu/tag/pfsense/
  - https://aikester.com/2016/09/load-balancing-with-pfsense/
  - https://community.spiceworks.com/topic/1247282-pfsense-carp-openvpn-not-working
  - [Ipsec router to router for pfSense](https://www.youtube.com/watch?v=iNzJGI5hv-Q)
