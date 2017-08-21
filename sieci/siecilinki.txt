@@ -10,6 +10,9 @@
 #### Materiały w pdf
  - http://www.phenoelit.org/stuff/papers.html
  
+#### pfsense bsd
+ - https://www.reddit.com/r/networking/comments/6upchy/can_a_bsd_system_replicate_the_performance_of/dlvdq2e/
+
 ### Hyper-v
  - https://docs.microsoft.com/en-us/windows-server/virtualization/hyper-v/get-started/create-a-virtual-machine-in-hyper-v
  
@@ -120,8 +123,6 @@
  - https://github.com/ceph/ceph-docker
  - http://ceph.com/planet/bootstrap-your-ceph-cluster-in-docker/
 
-#### Glusterfs
- - http://glusterhacker.blogspot.com/
 
 #### DRBD 
  - https://www.drbd.org/en/doc/users-guide-90/s-configure-split-brain-behavior
@@ -243,6 +244,7 @@
   - http://arstechnica.com/information-technology/2014/01/bitrot-and-atomic-cows-inside-next-gen-filesystems/
   - http://www.gluster.org/community/documentation/index.php/GlusterOnZFS
   - https://github.com/gluster/gluster-tutorial
+  - http://glusterhacker.blogspot.com/
 
 ### LDAP, RADIUS, VPN, JUMPCLOUD
   - http://www.ldapman.org/articles/intro_to_ldap.html
