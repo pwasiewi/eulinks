@@ -59,6 +59,7 @@ for i in mobs_redo mobs_animal mobs_npc; do [ ! -d $i ] && git clone https://git
 
 cd /usr/share/minetest/games
 git clone http://repo.or.cz/MineClone/MineClone2.git
+git clone https://github.com/cdqwertz/rpgtest.git
 cd /usr/share/minetest/games/minetest_game/mods
 [ ! -d unifieddyes ] && git clone https://github.com/minetest-mods/unifieddyes
 [ ! -d castle ] && git clone https://github.com/minetest-mods/castle
