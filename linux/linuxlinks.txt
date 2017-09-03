@@ -51,29 +51,13 @@ for i in anvil castle_farming castle_gates castle_lighting castle_masonry castle
 cd /usr/share/minetest/games/minetest_game/mods
 
 #more mods there
-#mobf_core 
-for i in animalmaterials adv_spawning animals_modpack; do [ ! -d $i ] && git clone https://github.com/sapier/$i; done;
+#mobf_core animalmaterials adv_spawning 
+for i in animals_modpack; do [ ! -d $i ] && git clone https://github.com/sapier/$i; done;
 
 #more mods there
-for i in mobs_redo mobs_animal mobs_npc; do [ ! -d $i ] && git clone https://github.com/tenplus1/$i; done;
-
-
-cd /usr/share/minetest/games
-git clone http://repo.or.cz/MineClone/MineClone2.git
-git clone https://github.com/cdqwertz/rpgtest.git
-cd /usr/share/minetest/games/minetest_game/mods
-[ ! -d unifieddyes ] && git clone https://github.com/minetest-mods/unifieddyes
-[ ! -d castle ] && git clone https://github.com/minetest-mods/castle
-[ ! -d minetest-mod-mesecons ] && git clone https://github.com/Jeija/minetest-mod-mesecons.git
-[ ! -d mesecons ] && mv minetest-mod-mesecons/* . && rm -rf minetest-mod-mesecons
-[ ! -d minetest_orienteering ] && git clone http://repo.or.cz/minetest_orienteering.git
-[ ! -d orienteering ] && mv minetest_orienteering orienteering
-[ ! -d meshnode ] && git clone https://github.com/stujones11/meshnode.git
-#[ ! -f ByUjEdwinV2_space.zip ] && wget https://forum.minetest.net/download/file.php?id=7985 -O ByUjEdwinV2_space.zip
-#[ ! -f ByAiTechEye-juli-V7_1-marssurvive.zip ] && wget https://forum.minetest.net/download/file.php?id=9106 -O ByAiTechEye-juli-V7_1-marssurvive.zip
-[ ! -f ByUjEdwinV4r-smartshop.zip ] && wget https://forum.minetest.net/download/file.php?id=8630 -O ByUjEdwinV4r-smartshop.zip
+#mobs_animal mobs_npc
+for i in mobs_redo; do [ ! -d $i ] && git clone https://github.com/tenplus1/$i; done;
 [ ! -f ByAiTechEyeV10_1-aliveai_for_MT-0-4-16-dev_and_newer.zip ] && wget https://forum.minetest.net/download/file.php?id=11936 -O ByAiTechEyeV10_1-aliveai_for_MT-0-4-16-dev_and_newer.zip
-[ ! -f ByAiTechEyeV9-aliveai_for_MT-0-4-16_and_older.zip ] && wget https://forum.minetest.net/download/file.php?id=11734 -O ByAiTechEyeV9-aliveai_for_MT-0-4-16_and_older.zip
 #[ ! -d smartshop ] && unzip ByUjEdwinV4r-smartshop.zip
 #[ ! -d aliveai ] && unzip ByAiTechEyeV9-aliveai_for_MT-0-4-16_and_older.zip
 [ ! -d aliveai ] && unzip ByAiTechEyeV10_1-aliveai_for_MT-0-4-16-dev_and_newer.zip
@@ -83,6 +67,22 @@ rm -rf aliveai.arch
 sed -i 's/status=false/status=true/g' aliveai/init.lua 
 #stworzyć świat flat z ziarnem 5tg4t54tg54
 minetest
+
+cd /usr/share/minetest/games
+git clone http://repo.or.cz/MineClone/MineClone2.git
+git clone https://github.com/cdqwertz/rpgtest.git
+cd /usr/share/minetest/games/minetest_game/mods
+[ ! -d unifieddyes ] && git clone https://github.com/minetest-mods/unifieddyes
+[ ! -d minetest-mod-mesecons ] && git clone https://github.com/Jeija/minetest-mod-mesecons.git
+[ ! -d mesecons ] && mv minetest-mod-mesecons/* . && rm -rf minetest-mod-mesecons
+[ ! -d minetest_orienteering ] && git clone http://repo.or.cz/minetest_orienteering.git
+[ ! -d orienteering ] && mv minetest_orienteering orienteering
+[ ! -d meshnode ] && git clone https://github.com/stujones11/meshnode.git
+#[ ! -f ByUjEdwinV2_space.zip ] && wget https://forum.minetest.net/download/file.php?id=7985 -O ByUjEdwinV2_space.zip
+#[ ! -f ByAiTechEye-juli-V7_1-marssurvive.zip ] && wget https://forum.minetest.net/download/file.php?id=9106 -O ByAiTechEye-juli-V7_1-marssurvive.zip
+[ ! -f ByUjEdwinV4r-smartshop.zip ] && wget https://forum.minetest.net/download/file.php?id=8630 -O ByUjEdwinV4r-smartshop.zip
+[ ! -f ByAiTechEyeV9-aliveai_for_MT-0-4-16_and_older.zip ] && wget https://forum.minetest.net/download/file.php?id=11734 -O ByAiTechEyeV9-aliveai_for_MT-0-4-16_and_older.zip
+
 
 kpgmobs https://forum.minetest.net/download/file.php?id=384;
 
