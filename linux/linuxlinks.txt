@@ -36,6 +36,7 @@
 
 ```
 emerge =minetest-9999 =minetest_game-9999 #install minetest for Gentoo linux
+
 cd /usr/share/minetest/games/minetest_game/mods;
 
 #more blocks there
@@ -53,6 +54,7 @@ for i in animals_modpack; do [ ! -d $i ] && git clone https://github.com/sapier/
 #more mods there
 #mobs_animal mobs_npc
 for i in mobs_redo; do [ ! -d $i ] && git clone https://github.com/tenplus1/$i; done;
+
 [ ! -f ByAiTechEyeV10_1-aliveai_for_MT-0-4-16-dev_and_newer.zip ] && wget https://forum.minetest.net/download/file.php?id=11936 -O ByAiTechEyeV10_1-aliveai_for_MT-0-4-16-dev_and_newer.zip
 #[ ! -d smartshop ] && unzip ByUjEdwinV4r-smartshop.zip
 #[ ! -d aliveai ] && unzip ByAiTechEyeV9-aliveai_for_MT-0-4-16_and_older.zip
@@ -61,6 +63,7 @@ mv aliveai/ aliveai.arch
 mv aliveai.arch/* .
 rm -rf aliveai.arch
 sed -i 's/status=false/status=true/g' aliveai/init.lua 
+curl http://ix.io/zzV > aliveai_folk/init.lua
 #stworzyć świat flat z ziarnem 5tg4t54tg54
 minetest
 
