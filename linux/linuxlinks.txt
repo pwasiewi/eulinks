@@ -51,7 +51,8 @@ for i in anvil castle_farming castle_gates castle_lighting castle_masonry castle
 cd /usr/share/minetest/games/minetest_game/mods
 
 #more mods there
-for i in animalmaterials mobf_core adv_spawning animals_modpack; do [ ! -d $i ] && git clone https://github.com/sapier/$i; done;
+#mobf_core 
+for i in animalmaterials adv_spawning animals_modpack; do [ ! -d $i ] && git clone https://github.com/sapier/$i; done;
 
 #more mods there
 for i in mobs_redo mobs_animal mobs_npc; do [ ! -d $i ] && git clone https://github.com/tenplus1/$i; done;
