@@ -78,7 +78,7 @@ cd /usr/share/minetest/games/minetest_game/mods
 [ ! -f ByUjEdwinV4r-smartshop.zip ] && wget https://forum.minetest.net/download/file.php?id=8630 -O ByUjEdwinV4r-smartshop.zip
 [ ! -f ByAiTechEyeV10_1-aliveai_for_MT-0-4-16-dev_and_newer.zip ] && wget https://forum.minetest.net/download/file.php?id=11936 -O ByAiTechEyeV10_1-aliveai_for_MT-0-4-16-dev_and_newer.zip
 [ ! -d smartshop ] && unzip ByUjEdwinV4r-smartshop.zip
-[ ! -d aliveai ] && unzip ByAiTechEyeV6-_6-aliveai.zip
+[ ! -d aliveai ] && unzip ByAiTechEyeV10_1-aliveai_for_MT-0-4-16-dev_and_newer.zip
 mv aliveai/ aliveai.arch
 mv aliveai.arch/* .
 rm -rf aliveai.arch
