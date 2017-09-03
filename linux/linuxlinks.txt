@@ -50,18 +50,6 @@ for i in animalmaterials mobf_core adv_spawning animals_modpack; do [ ! -d $i ] 
 #more mods there
 for i in mobs_redo mobs_animal mobs_npc; do [ ! -d $i ] && git clone https://github.com/tenplus1/$i; done;
 
-kpgmobs https://forum.minetest.net/download/file.php?id=384;
-
-[ ! -d mobs_scifi ] && git clone https://github.com/D00Med/mobs_scifi;
-
-[ ! -d cme ] && git clone https://github.com/BlockMen/cme;
-
-//find /etc/init.d -type f -exec sed -i 's/runscript/openrc-run/' {} +
-
-//https://github.com/tacigar/maidroid
-//https://github.com/bell07/minetest-townchest.git
-//https://github.com/eidy/aliveai.git
-//https://forum.minetest.net/viewtopic.php?f=9&t=11972
 
 cd /usr/share/minetest/games
 git clone http://repo.or.cz/MineClone/MineClone2.git
@@ -83,4 +71,19 @@ mv aliveai/ aliveai.arch
 mv aliveai.arch/* .
 rm -rf aliveai.arch
 sed -i 's/status=false/status=true/g' aliveai/init.lua 
+minetest
+
+kpgmobs https://forum.minetest.net/download/file.php?id=384;
+
+[ ! -d mobs_scifi ] && git clone https://github.com/D00Med/mobs_scifi;
+
+[ ! -d cme ] && git clone https://github.com/BlockMen/cme;
+
+//find /etc/init.d -type f -exec sed -i 's/runscript/openrc-run/' {} +
+
+//https://github.com/tacigar/maidroid
+//https://github.com/bell07/minetest-townchest.git
+//https://github.com/eidy/aliveai.git
+//https://forum.minetest.net/viewtopic.php?f=9&t=11972
+
 ```
