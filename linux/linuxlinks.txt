@@ -35,7 +35,7 @@
 ###minetest plugins for linux
 
 ```
-emerge =minetest-0.4.16 =minetest_game-0.4.16 #install minetest for Gentoo linux
+emerge =minetest-0.4.14 =minetest_game-0.4.14 #install minetest for Gentoo linux
 cd /usr/share/minetest/games/minetest_game/mods;
 [ ! -d ethereal ] && git clone https://github.com/tenplus1/ethereal
 [ ! -d worldedit ] && git clone https://github.com/Uberi/Minetest-WorldEdit.git; 
