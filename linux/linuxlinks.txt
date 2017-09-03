@@ -43,7 +43,7 @@ cd /usr/share/minetest/games/minetest_game/mods;
 [ -d Minetest-WorldEdit ] && mv Minetest-WorldEdit worldedit;
 
 #more blocks there
-for i in moreblocks moreores moretrees lightning castle torches plantlife_modpack more_chests round_trunks biome_lib unifieddyes; do [ ! -d $i ] && git clone https://github.com/minetest-mods/$i; done;
+for i in moreblocks moreores moretrees lightning torches plantlife_modpack more_chests round_trunks biome_lib unifieddyes anvil castle_farming castle_gates castle_lighting castle_masonry castle_shields castle_storage castle_tapestries castle_weapons crafting_bench; do [ ! -d $i ] && git clone https://github.com/minetest-mods/$i; done;
 
 #more mods there
 for i in animalmaterials mobf_core adv_spawning animals_modpack; do [ ! -d $i ] && git clone https://github.com/sapier/$i; done;
