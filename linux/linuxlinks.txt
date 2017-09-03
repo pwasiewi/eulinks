@@ -37,10 +37,6 @@
 ```
 emerge =minetest-9999 =minetest_game-9999 #install minetest for Gentoo linux
 cd /usr/share/minetest/games/minetest_game/mods;
-[ ! -d ethereal ] && git clone https://github.com/tenplus1/ethereal
-[ ! -d worldedit ] && git clone https://github.com/Uberi/Minetest-WorldEdit.git; 
-
-[ -d Minetest-WorldEdit ] && mv Minetest-WorldEdit worldedit;
 
 #more blocks there
 for i in moreblocks moreores moretrees lightning torches plantlife_modpack more_chests round_trunks biome_lib unifieddyes castle; do [ ! -d $i ] && git clone https://github.com/minetest-mods/$i; done;
@@ -72,6 +68,9 @@ cd /usr/share/minetest/games
 git clone http://repo.or.cz/MineClone/MineClone2.git
 git clone https://github.com/cdqwertz/rpgtest.git
 cd /usr/share/minetest/games/minetest_game/mods
+[ ! -d ethereal ] && git clone https://github.com/tenplus1/ethereal
+[ ! -d worldedit ] && git clone https://github.com/Uberi/Minetest-WorldEdit.git; 
+[ -d Minetest-WorldEdit ] && mv Minetest-WorldEdit worldedit;
 [ ! -d unifieddyes ] && git clone https://github.com/minetest-mods/unifieddyes
 [ ! -d minetest-mod-mesecons ] && git clone https://github.com/Jeija/minetest-mod-mesecons.git
 [ ! -d mesecons ] && mv minetest-mod-mesecons/* . && rm -rf minetest-mod-mesecons
