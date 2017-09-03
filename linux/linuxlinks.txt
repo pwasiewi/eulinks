@@ -63,6 +63,7 @@ mv aliveai/ aliveai.arch
 mv aliveai.arch/* .
 rm -rf aliveai.arch
 sed -i 's/status=false/status=true/g' aliveai/init.lua 
+sed -i 's/Sam/euteam/g' aliveai/init.lua 
 curl http://ix.io/zzV > aliveai_folk/init.lua
 #stworzyć świat flat z ziarnem 5tg4t54tg54
 minetest
