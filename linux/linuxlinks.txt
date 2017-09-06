@@ -40,8 +40,9 @@ emerge =minetest-9999 =minetest_game-9999 #install minetest for Gentoo linux
 cd /usr/share/minetest/games/minetest_game/mods;
 
 #more blocks there
-for i in moreblocks moreores moretrees lightning torches plantlife_modpack more_chests round_trunks biome_lib unifieddyes castle; do [ ! -d $i ] && git clone https://github.com/minetest-mods/$i; done;
+for i in moreblocks moreores moretrees lightning torches plantlife_modpack more_chests round_trunks biome_lib unifieddyes; do [ ! -d $i ] && git clone https://github.com/minetest-mods/$i; done;
 
+for i in castle; do [ ! -d $i ] && git clone https://github.com/minetest-mods/$i; done;
 cd castle
 for i in anvil castle_farming castle_gates castle_lighting castle_masonry castle_shields castle_storage castle_tapestries castle_weapons crafting_bench orbs_of_time ropes; do git clone https://github.com/minetest-mods/$i; done;
 
