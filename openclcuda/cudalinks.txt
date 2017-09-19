@@ -3,6 +3,7 @@
 
 ### tutorials and lectures
  - http://web.engr.oregonstate.edu/~mjb/cs575/
+ - https://handsonopencl.github.io/
 
 ###amdgpu opencl
  - https://github.com/Lucretia/vulkan-overlay
