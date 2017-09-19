@@ -2,6 +2,7 @@
  - http://deeplearning.net/software_links/
 
 ### tutorials and lectures
+ - https://streamhpc.com/knowledge/for-developers/tutorials/
  - http://web.engr.oregonstate.edu/~mjb/cs575/
  - https://handsonopencl.github.io/
  - http://www.cs.bris.ac.uk/home/simonm/workshops/opencl_lecture1.pdf
