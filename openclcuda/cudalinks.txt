@@ -4,6 +4,7 @@
 ### tutorials and lectures
  - http://web.engr.oregonstate.edu/~mjb/cs575/
  - https://handsonopencl.github.io/
+ - http://www.cs.bris.ac.uk/home/simonm/workshops/opencl_lecture1.pdf
 
 ###amdgpu opencl
  - https://github.com/Lucretia/vulkan-overlay
