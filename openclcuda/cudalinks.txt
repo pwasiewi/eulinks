@@ -7,6 +7,7 @@
  - https://handsonopencl.github.io/
  - http://www.cs.bris.ac.uk/home/simonm/workshops/opencl_lecture1.pdf
  - http://wiki.rac.manchester.ac.uk/community/OpenCL
+ - https://gpuopen.com/opencl-rocm1-6/
 
 ###amdgpu opencl
  - https://github.com/Lucretia/vulkan-overlay
