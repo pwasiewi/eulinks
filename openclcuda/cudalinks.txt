@@ -1,6 +1,9 @@
 ###programy
  - http://deeplearning.net/software_links/
 
+### tutorials and lectures
+ - http://web.engr.oregonstate.edu/~mjb/cs575/
+
 ###amdgpu opencl
  - https://github.com/Lucretia/vulkan-overlay
  - https://radeonopencompute.github.io/
