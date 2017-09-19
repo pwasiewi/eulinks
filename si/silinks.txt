@@ -4,6 +4,7 @@
  - http://colah.github.io/posts/2015-08-Understanding-LSTMs/
  - http://ruder.io/#open
  - http://cs231n.github.io/convolutional-networks/
+ - https://blog.pocketcluster.io/
  - http://caffe.berkeleyvision.org/
 
 ### tutorial wykładowy
