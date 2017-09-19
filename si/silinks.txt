@@ -1,6 +1,9 @@
 ##### Deep learning
  - http://www.deeplearningbook.org/
  - https://github.com/tomepel/Technical_Book_DL
+ - http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+ - http://ruder.io/#open
+ - http://cs231n.github.io/convolutional-networks/
  - http://caffe.berkeleyvision.org/
 
 ### tutorial wykładowy
