@@ -7,6 +7,7 @@
  - http://wiki.rac.manchester.ac.uk/community/OpenCL
  - https://gpuopen.com/opencl-rocm1-6/
  - http://www.sqrlab.ca/csci4060u/lectures/
+ - http://smai.emath.fr/cemracs/cemracs16/images/FDesprez.pdf
 
 ### amdgpu opencl
  - https://github.com/Lucretia/vulkan-overlay
