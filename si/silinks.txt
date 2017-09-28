@@ -12,6 +12,7 @@
 
 ### do projektu serwer zadań do rozwiązania z podpowiedziami i tutoriale
 - https://www.kaggle.com/competitions
+- https://www.kaggle.com/kernels
 - http://blog.kaggle.com/category/winners-interviews/
 - http://blog.kaggle.com/author/kaggleteam/
 - http://blog.echen.me/2017/05/30/exploring-lstms/
