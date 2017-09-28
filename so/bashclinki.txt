@@ -32,6 +32,9 @@ Docker
  * http://wiki.gentoo.org/wiki/LXC
  * https://wiki.archlinux.org/index.php/KVM
  * http://developer.ubuntu.com/en/snappy/
+ 
+Selinux
+ * http://blog.perfinion.com/2017/03/fossasia-2017-selinux-introduction/
 
 Instalacja linuxa:
  * http://www.dobreprogramy.pl/Linux-Instalacja-systemu,Demonstracja,11279.html
