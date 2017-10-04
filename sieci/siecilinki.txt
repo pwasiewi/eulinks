@@ -10,6 +10,8 @@
 ### Hack mobile raspberry wifi
  - https://hackaday.com/2016/09/08/nexmon-turns-nexus-5-and-rpi3-into-wifi-toolkit/
  - https://build.nethunter.com/nightly/
+ - https://github.com/seemoo-lab/nexmon
+ - https://github.com/seemoo-lab/bcm-rpi3
  
 #### Materiały w pdf
  - http://www.phenoelit.org/stuff/papers.html
