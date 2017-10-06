@@ -10,6 +10,9 @@
  * http://www.osqa.net/
  * http://www.digilife.be/quickreferences/indexe.html
 
+## JAVA BRAINS
+ - https://www.youtube.com/user/koushks/playlists
+
 ## Ćwiczenia
  - https://www.reddit.com/r/dailyprogrammer/
  - https://www.reddit.com/r/todayilearned/
@@ -373,7 +376,6 @@ preferencji.
 ## PHP MVC
  * https://github.com/ElbertF/Swiftlet
  * https://code.google.com/p/ganon/
-
 
 ## Kursy Javy po polsku:
  * http://javastart.pl/podstawy-jezyka/
