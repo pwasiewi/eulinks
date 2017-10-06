@@ -9,9 +9,11 @@
  * http://devpytania.pl/
  * http://www.osqa.net/
  * http://www.digilife.be/quickreferences/indexe.html
-
-## JAVA BRAINS
+ 
+## PROGGRAMMERS (among them JAVA!) YOUTUBERS
  - https://www.youtube.com/user/koushks/playlists
+ - https://www.youtube.com/user/caveofprogramming/playlists
+ - https://www.youtube.com/user/derekbanas/playlists
 
 ## Ćwiczenia
  - https://www.reddit.com/r/dailyprogrammer/
