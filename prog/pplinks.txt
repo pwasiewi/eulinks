@@ -10,6 +10,10 @@
  * http://www.osqa.net/
  * http://www.digilife.be/quickreferences/indexe.html
 
+## Cwiczenia
+ - https://www.reddit.com/r/dailyprogrammer/
+ - https://www.reddit.com/r/todayilearned/
+
 TUTORIALE:
  * http://www.mkyong.com/all-tutorials-on-mkyong-com/
  * http://blog.reachvikas.com/2014/05/How-To-Create-A-GitHub-Blog/
