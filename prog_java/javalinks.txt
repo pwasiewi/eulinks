@@ -14,9 +14,10 @@
  * https://github.com/vhf/free-programming-books/blob/master/free-programming-books-pl.md
  * https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md
 
-## JAVA YOUTUBERS
+## JAVA (not only!) YOUTUBERS
  - https://www.youtube.com/user/koushks/playlists
  - https://www.youtube.com/user/caveofprogramming/playlists
+ - https://www.youtube.com/user/derekbanas/playlists
 
 ## Ćwiczenia
  - https://www.reddit.com/r/dailyprogrammer/
