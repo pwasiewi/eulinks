@@ -23,8 +23,6 @@
 ## TUTORIALE:
  * http://www.mkyong.com/all-tutorials-on-mkyong-com/
  * http://blog.reachvikas.com/2014/05/How-To-Create-A-GitHub-Blog/
-
- * https://github.com/pwasiewi/free-programming-books/blob/master/free-programming-books-pl.md
  * https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md
 
 
