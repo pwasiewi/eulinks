@@ -1,9 +1,23 @@
-
+## Darmowe wykłady
+ * http://www.udacity.com/
+ * https://education.10gen.com
+ * http://www.uw-team.org/videoarty.html
+ * http://www.itposter.net/ 
+ * https://github.com/vhf/free-programming-books
+ * http://9fingers.pl/
+ * http://devpytania.pl/
+ * http://www.osqa.net/
+ * http://www.digilife.be/quickreferences/indexe.html
+ 
 ## PROGGRAMMERS (among them JAVA!) YOUTUBERS
  - https://www.youtube.com/user/koushks/playlists
  - https://www.youtube.com/user/caveofprogramming/playlists
  - https://www.youtube.com/user/derekbanas/playlists
  - https://www.youtube.com/user/phpacademy/playlists
+
+## Ćwiczenia
+ - https://www.reddit.com/r/dailyprogrammer/
+ - https://www.reddit.com/r/todayilearned/
  
 ### js 
  * https://egghead.io/lessons/node-js-set-up-a-basic-twitter-bot-with-twit-js
