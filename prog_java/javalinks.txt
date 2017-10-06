@@ -17,6 +17,9 @@
 ## JAVA BRAINS
  - https://www.youtube.com/user/koushks/playlists
 
+## Ćwiczenia
+ - https://www.reddit.com/r/dailyprogrammer/
+ - https://www.reddit.com/r/todayilearned/
 
 ## Uruchamiamy skrypty:
 
