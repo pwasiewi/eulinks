@@ -1,5 +1,5 @@
 
-##Darmowe wykłady
+## Darmowe wykłady
  * http://www.udacity.com/
  * https://education.10gen.com
  * http://www.uw-team.org/videoarty.html
@@ -10,11 +10,11 @@
  * http://www.osqa.net/
  * http://www.digilife.be/quickreferences/indexe.html
 
-## Cwiczenia
+## Ćwiczenia
  - https://www.reddit.com/r/dailyprogrammer/
  - https://www.reddit.com/r/todayilearned/
 
-TUTORIALE:
+## TUTORIALE:
  * http://www.mkyong.com/all-tutorials-on-mkyong-com/
  * http://blog.reachvikas.com/2014/05/How-To-Create-A-GitHub-Blog/
 
@@ -22,7 +22,7 @@ TUTORIALE:
  * https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md
 
 
-##Uruchamiamy skrypty:
+## Uruchamiamy skrypty:
 
 php -f nazwa.php;
 
@@ -38,18 +38,18 @@ do dalszych pozycji, można też zacząć od czytania książek, zależy od
 preferencji.
 
 
-##OBIEKTOWE
+## OBIEKTOWE
  * http://pl.wikipedia.org/wiki/Programowanie_obiektowe
  * http://pl.wikibooks.org/wiki/PHP/Czym_jest_programowanie_obiektowe%3F
 
 
-##C++
+## C++
  * https://theboostcpplibraries.com/
  * [Nowe C++ 14](https://github.com/pwasiewi/cppnow_presentations_2014)
  * http://coliru.stacked-crooked.com/a/42c27365c74cca39
  * http://www.freeprogrammingresources.com/cppbooks.html
  * https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#c-1
-####Kursy języka C++ i C:
+#### Kursy języka C++ i C:
  *  [Kursy C++ z programuj.com](http://www.programuj.com/download.php)
  *  [Kurs C++ z xion ](http://xion.org.pl/productions/texts/coding/megatutorial/)
  *  [Kurs C++ z cpp0x.pl ](http://cpp0x.pl/kursy/Kurs-C++/1)
@@ -65,7 +65,7 @@ preferencji.
  *  [Strona twórcy C++ Stroustrupa ](http://www.stroustrup.com/)
  *  http://pl.wikibooks.org/wiki/C
  *  [C biblia po angielsku ](http://publications.gbdirect.co.uk/c_book/)
-####Książki o programowaniu i nie tylko  * za darmo:
+#### Książki o programowaniu i nie tylko  * za darmo:
  *  [Wykłady C++ z ważniaka w pdf (mniej więcej odpowiednik drugiej
     części Waszych wykładów)
     ](http://wazniak.mimuw.edu.pl/index.php?title=Zaawansowane_CPP)
@@ -181,7 +181,7 @@ preferencji.
  * http://www.ics.com/designpatterns/
 
 
-##JAVASCRIPT
+## JAVASCRIPT
  * https://github.com/getify/You-Dont-Know-JS/tree/master/es6%20%26%20beyond
  * https://addyosmani.com/resources/essentialjsdesignpatterns/book/#observerpatternjavascript
  * https://developer.mozilla.org/pl/docs/Web/JavaScript/dziedziczenie_lancuch_prototypow
@@ -196,7 +196,7 @@ preferencji.
  * https://www.tumblr.com/search/MDwiki
  * https://github.com/rstacruz/flatdoc
 
-##PHP
+## PHP
  * http://pl.wikibooks.org/wiki/Php
  * http://pl.wikibooks.org/wiki/PHP/Dziedziczenie#Implementacja_dziedziczenia
  * http://php.pl/Wortal/Artykuly/PHP/Podstawy/Programowanie-obiektowe-dla-poczatkujacych5
@@ -207,7 +207,7 @@ preferencji.
  * http://webhosting.pl/Kurs.PHP..Wstep.do.programowania.w.popularnym.jezyku.skryptowym?page=11
  * http://www.serwan.pl/index.php/archives/1653
 
-##Objective-C
+## Objective-C
  * http://www.niresh.co/hackintosh-downloads/file/75-niresh-mac-os-x-mavericks-109-with-amd-intel-usb/
  * http://tryobjectivec.codeschool.com
  * http://objc.toodarkpark.net/
@@ -232,10 +232,10 @@ preferencji.
 
 
 
-##Eclipse4
+## Eclipse4
  * http://alblue.bandlem.com/ 
 
-##PYTHON
+## PYTHON
  * http://pl.wikibooks.org/wiki/Zanurkuj_w_Pythonie
  * http://pl.wikibooks.org/wiki/Python
  * http://en.wikibooks.org/wiki/Python_Programming/Classes
@@ -247,11 +247,11 @@ preferencji.
  * http://kivy.org
  * http://icodesnip.com/search/python%20packet/
 
-##GIT
+## GIT
  * http://git-scm.com/book/pl
  * http://pl.wikibooks.org/wiki/Git
 
-##JAVA
+## JAVA
  * http://pl.wikipedia.org/wiki/Java
  * http://pl.wikibooks.org/wiki/Java
  * http://en.wikibooks.org/wiki/Java
@@ -274,13 +274,13 @@ preferencji.
  * http://wazniak.mimuw.edu.pl/index.php?title=PO_Dziedziczenie_i_interfejsy
 
 
-##HTTPD 
+## HTTPD 
  * http://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol
  * http://www.fastcgi.com/drupal/
  * http://en.wikipedia.org/wiki/Comparison_of_lightweight_web_servers
  * http://www.slideshare.net/r1chardj0n3s/web-microframework-battle
  * http://www.youtube.com/watch?v=AYjPIMe0BhA
-###HTTPD PYTHON
+### HTTPD PYTHON
  * http://bottlepy.org/docs/dev/tutorial_app.html
  * http://www.marginhound.com/bottle-py-resources/
  * http://gotofritz.net/blog/weekly-challenge/restful-python-api-bottle/
@@ -294,12 +294,12 @@ preferencji.
  * http://www.linuxjournal.com/content/tech-tip-really-simple-http-server-python
  * http://digitizor.com/?p=1430
  * http://docs.mongodb.org/manual/tutorial/write-a-tumblelog-application-with-flask-mongoengine/
-###HTTPD PHP
+### HTTPD PHP
  * http://bcosca.github.com/fatfree
  * http://php.net/manual/en/features.commandline.webserver.php
  * http://code.google.com/p/superglue/
  * http://gitorious.org/belokan
-###HTTPD  JAVA
+### HTTPD  JAVA
  * http://code.google.com/p/spark-java
  * git clone git://github.com/perwendel/spark.git
  * http://wiki.eclipse.org/Jetty/Tutorial/Embedding_Jetty
@@ -310,7 +310,7 @@ preferencji.
  * http://tjws.sourceforge.net/
  * http://stackoverflow.com/questions/1186328/embedded-http-server-in-swing-java-app
  * http://scalatra.org/
-###HTTPD C C++
+### HTTPD C C++
  * http://www.adp-gmbh.ch/win/misc/webserver.html
  * http://www.codeproject.com/Articles/29290/A-C-Embedded-Web-Server
  * http://forum.codecall.net/topic/64541-c-simple-webserver/#axzz2DKbliHX0
@@ -324,58 +324,58 @@ preferencji.
  * https://github.com/99lives/UltraTinyHttp
  * http://www.tntnet.org/cxxtools.html
 
-##FORK
+## FORK
  * http://pl.wikipedia.org/wiki/Fork
-###FORK PYTHON
+### FORK PYTHON
  * http://www.ibm.com/developerworks/aix/library/au-multiprocessing/
-###FORK JAVA
+### FORK JAVA
  * http://www.oracle.com/technetwork/articles/java/fork-join-422606.html
  * http://docs.oracle.com/javase/tutorial/essential/concurrency/forkjoin.html
  * http://jaceklaskowski.pl/prezentacje/JacekLaskowski-EclipseDemoCamp2011-ConcurrencyUtilitiesJava7-2011.11.08.pdf
  * http://akuma.kohsuke.org/
  * http://www.javacodegeeks.com/2011/02/java-forkjoin-parallel-programming.html
-###FORK PHP
+### FORK PHP
  * http://www.electrictoolbox.com/article/php/process-forking/
-###FORK C C++
+### FORK C C++
  * http://dnadesign.pl/tag/wspolbieznosc/
  * http://www.opcode.eu.org/more_advanced/programing/c_cpp/fork.c/
  * http://src.linuxhacker.at/howtos/socket++/html/socket++_12.html#SEC45
 
-##THREADS
+## THREADS
  * http://pl.wikipedia.org/wiki/W%C4%85tek_%28informatyka%29
-###THREAD JAVA
+### THREAD JAVA
  * http://kodatnik.blogspot.com/2011/06/watki-w-javie-podstawy.html
  * http://sourceforge.net/projects/javaconcurrenta/?source=dlp
-###THREAD PYTHON
+### THREAD PYTHON
  * http://en.wikibooks.org/wiki/Python_Programming/Threading
-###THREAD PHP (w php nie ma wątków, ale pod linuksem .. ;) )
+### THREAD PHP (w php nie ma wątków, ale pod linuksem .. ;) )
  * http://stackoverflow.com/questions/2585656/threads-in-php
  * https://github.com/krakjoe/pthreads
-###THREAD C C++
+### THREAD C C++
  * http://stackoverflow.com/questions/266168/simple-example-of-threading-in-c
  * http://www.linuxdocs.org/HOWTOs/C++Programming-HOWTO-24.html
  * http://www.boost.org/doc/libs/1_37_0/doc/html/thread.html
  * g++ simplethread.cpp -lboost_thread -L/usr/lib64/boost-1_51/
 
-##SHELL
+## SHELL
  * http://pl.wikipedia.org/wiki/Pow%C5%82oka_systemowa
-###SHELL JAVA
+### SHELL JAVA
  * http://code.google.com/p/cliche/
-###SHELL PYTHON
+### SHELL PYTHON
  * http://www.doughellmann.com/PyMOTW/cmd/
-###SHELL PHP
+### SHELL PHP
  * http://phpshell.sourceforge.net/
-###SHELL C++
+### SHELL C++
  * http://blog.mezeske.com/?p=377
  * http://www.3till7.net/2008/11/29/c-shell-with-forks-and-pipes/
  * https://github.com/dparrish/libcli
 
-##PHP MVC
+## PHP MVC
  * https://github.com/ElbertF/Swiftlet
  * https://code.google.com/p/ganon/
 
 
-##Kursy Javy po polsku:
+## Kursy Javy po polsku:
  * http://javastart.pl/podstawy-jezyka/
  * http://javaprogramming.awardspace.com/index.php?pokaz=kurs
  * http://naukajavy.pl/kurs-jezyka-java
@@ -387,14 +387,14 @@ preferencji.
  * http://agaykhan.republika.pl/javastart.html
  * http://www.zsme.tarnow.pl/killer/html/kurs.htm
 
-##Książki Java:
+## Książki Java:
  * http://www.webdeveloper.pl/manual_java/
  * http://helion.pl/ksiazki/praktyczny-kurs-java-wydanie-iii-marcin-lis,pkjav3.htm
 
-##Video Kursy:
+## Video Kursy:
  * http://sdjournal.org/kursy-video
 
-##Video Java dla opornych:
+## Video Java dla opornych:
  * http://www.youtube.com/watch?v=8stFGEMs7sg
  * http://www.youtube.com/watch?v=hd8zD6Q55qM
  * http://www.youtube.com/watch?v=SaFf9s_QgRA
@@ -434,14 +434,14 @@ preferencji.
  * http://www.youtube.com/watch?v=P7F9BLY_awo  * rekurencja
  * http://www.youtube.com/watch?v=p4Bd5B8jQqU  * metody generyczne
 
-##Kurs Javy po angielsku, ale bdb:
+## Kurs Javy po angielsku, ale bdb:
  * http://math.hws.edu/javanotes/
  * http://java.sun.com/docs/books/tutorial/
  * http://www.javaranch.com/
  * http://www.javapassion.com/portal/
  * http://viralpatel.net/blogs/lambda-expressions-java-tutorial/
 
-#Java8
+# Java8
  * http://www.oracle.com/webfolder/technetwork/tutorials/obe/java/Lambda-QuickStart/index.html
  * http://www.coreservlets.com/java-8-tutorial/
  * http://viralpatel.net/blogs/lambda-expressions-java-tutorial/
@@ -466,12 +466,12 @@ preferencji.
  * http://java.dzone.com/articles/introduction-functional-1
  * http://www.infoq.com/articles/forkjoin-to-parallel-streams
 
-#java8 in Android
+# java8 in Android
  * http://zserge.com/blog/android-lambda.html
  * http://zserge.com/blog/gradle-maven-publish.html
 
 
-#JavaEE
+# JavaEE
  * http://jaxenter.com/ten-subtle-best-practices-when-coding-java-108043.html
  * http://zeroturnaround.com/rebellabs/the-curious-coders-java-web-frameworks-comparison-spring-mvc-grails-vaadin-gwt-wicket-play-struts-and-jsf/2/
  * http://vschart.com/compare/node-js/vs/spring-framework
@@ -479,14 +479,14 @@ preferencji.
  * http://www.vogella.com/articles/JavaServerFaces/article.html
  * http://myfaces.apache.org/docindex.html
 
-#Parallel Problems
+# Parallel Problems
  * http://adit.io/posts/2013-05-11-The-Dining-Philosophers-Problem-With-Ron-Swanson.html
  * http://coopsoft.com/ar/Calamity2Article.html
 
-##Książki o Javie po angielsku:
+## Książki o Javie po angielsku:
  * http://www.mindviewinc.com/Books/
 
-##Design Pattenrs in Java
+## Design Pattenrs in Java
  * http://www.tutorialspoint.com/design_pattern/
  * http://refcardz.dzone.com/refcardz/design-patterns
  * http://www.caveofprogramming.com/youtube/
