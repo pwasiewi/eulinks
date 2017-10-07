@@ -1,5 +1,6 @@
 ## R imager
  - https://dahtah.github.io/imager/imager.html
+ - https://www.stoltzmaniac.com/facial-recognition-in-r/
 
 ## Tutoriale scilaba:
  * http://wiki.scilab.org/Tutorials
