@@ -10,6 +10,7 @@
  
 ## Python Opencv
  - https://pythonprogramming.net/loading-images-python-opencv-tutorial/
+ - https://github.com/cjgb/rPython-win
 
 ## Tutoriale scilaba:
  * http://wiki.scilab.org/Tutorials
