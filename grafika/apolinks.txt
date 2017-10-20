@@ -1,9 +1,11 @@
 ## R imager
+ - https://cran.r-project.org/web/packages/imager/vignettes/gettingstarted.html
  - https://dahtah.github.io/imager/
  - https://www.r-bloggers.com/author/simon-barthelme/
+ - https://cran.r-project.org/web/packages/imager/vignettes/pixsets.html
  - https://www.stoltzmaniac.com/facial-recognition-in-r/
  - https://github.com/stoltzmaniac/ML-Image-Processing-R
- - https://cran.r-project.org/web/packages/imager/vignettes/gettingstarted.html
+
 
  
 ## Python Opencv
