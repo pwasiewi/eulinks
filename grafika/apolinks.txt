@@ -30,12 +30,14 @@
  * http://siptoolbox.sourceforge.net/
  * https://github.com/rfabbri/siptoolbox
  * https://github.com/rfabbri/animal
+ ```
 ./autogen.sh; ./configure; make; make install
 git clone git://github.com/rfabbri/siptoolbox.git
 ./autogen.sh
 ./configure --prefix=/usr/share/scilab/contrib/
 make; make install
 exec '/usr/share/scilab/contrib/sip-0.8.0-git/loader.sce'
+```
  * http://opencv.willowgarage.com/wiki/
  * http://opencv.willowgarage.com/documentation/python/cookbook.html
  * http://stackoverflow.com/questions/7950744/opencv-color-identification
