@@ -2,6 +2,9 @@
  - https://dahtah.github.io/imager/imager.html
  - https://www.stoltzmaniac.com/facial-recognition-in-r/
  - https://github.com/stoltzmaniac/ML-Image-Processing-R
+ 
+## Python Opencv
+ - https://pythonprogramming.net/loading-images-python-opencv-tutorial/
 
 ## Tutoriale scilaba:
  * http://wiki.scilab.org/Tutorials
