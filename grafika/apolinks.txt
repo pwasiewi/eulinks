@@ -5,6 +5,7 @@
  - https://cran.r-project.org/web/packages/imager/vignettes/pixsets.html
  - https://www.stoltzmaniac.com/facial-recognition-in-r/
  - https://github.com/stoltzmaniac/ML-Image-Processing-R
+ - http://rpubs.com/sjmgarnier/videoplayR
 
 
  
