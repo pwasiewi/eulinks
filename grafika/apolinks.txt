@@ -1,5 +1,6 @@
 ## R imager
  - https://dahtah.github.io/imager/
+ - https://www.r-bloggers.com/author/simon-barthelme/
  - https://www.stoltzmaniac.com/facial-recognition-in-r/
  - https://github.com/stoltzmaniac/ML-Image-Processing-R
  - https://cran.r-project.org/web/packages/imager/vignettes/gettingstarted.html
