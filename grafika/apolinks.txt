@@ -2,6 +2,8 @@
  - https://dahtah.github.io/imager/imager.html
  - https://www.stoltzmaniac.com/facial-recognition-in-r/
  - https://github.com/stoltzmaniac/ML-Image-Processing-R
+ - https://cran.r-project.org/web/packages/imager/vignettes/gettingstarted.html
+
  
 ## Python Opencv
  - https://pythonprogramming.net/loading-images-python-opencv-tutorial/
