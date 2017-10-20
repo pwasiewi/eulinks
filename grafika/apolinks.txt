@@ -11,6 +11,7 @@
 ## Python Opencv
  - https://pythonprogramming.net/loading-images-python-opencv-tutorial/
  - https://github.com/cjgb/rPython-win
+ - https://rstudio.github.io/reticulate/articles/introduction.html
 
 ## Tutoriale scilaba:
  * http://wiki.scilab.org/Tutorials
