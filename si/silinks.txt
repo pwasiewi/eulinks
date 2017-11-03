@@ -1,3 +1,6 @@
+##### Machine learning in Python and not only
+ - https://unsupervisedmethods.com/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78
+
 ##### Financial R
  - https://msperlin.github.io/pafdR/
 
