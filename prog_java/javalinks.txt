@@ -13,6 +13,7 @@
 ## Java biblioteki i inne
  * https://github.com/akullpp/awesome-java
  * https://github.com/google/FreeBuilder
+ * https://github.com/google/auto
 
 ## Darmowe książki po polsku i angielsku
  * https://github.com/vhf/free-programming-books/blob/master/free-programming-books-pl.md
