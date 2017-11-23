@@ -1,8 +1,9 @@
 ##### Machine learning in Python and not only
  - https://unsupervisedmethods.com/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78
 
-##### Financial R
+##### Books and tutors about R 
  - https://msperlin.github.io/pafdR/
+ - http://prokulski.net/index.php/2017/08/30/jak-nauczyc-sie-r-co-czytac/
 
 ##### Deep learning
  - http://www.deeplearningbook.org/
