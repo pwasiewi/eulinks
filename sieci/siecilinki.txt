@@ -6,6 +6,7 @@
  - https://sekurak.pl/
  - https://zaufanatrzeciastrona.pl/
  - https://niebezpiecznik.pl/
+ - https://niebezpiecznik.pl/podcast/
  
 ### Hack mobile raspberry wifi
  - https://hackaday.com/2016/09/08/nexmon-turns-nexus-5-and-rpi3-into-wifi-toolkit/
