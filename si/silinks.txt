@@ -1,6 +1,7 @@
 ##### Machine learning in Python and not only
  - https://unsupervisedmethods.com/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78
  - https://deepmind.com/blog/deepmind-and-blizzard-open-starcraft-ii-ai-research-environment/
+ - https://codesachin.wordpress.com/2015/11/28/self-organizing-maps-with-googles-tensorflow/
 
 ##### Books and tutors about R 
  - https://msperlin.github.io/pafdR/
