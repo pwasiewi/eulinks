@@ -140,6 +140,7 @@ RASPBERRY i INNE
  * http://ubuntuforums.org/showthread.php?t=2257681
 
 SYSTEMY OPERACYJNE I STEROWNIKI JADRA LINUXA:
+ * https://github.com/bashrc/LKMPG
  * http://elinux.org/Device_drivers
  * http://www.makelinux.net/reference
  * http://lwn.net/Kernel/LDD3/
