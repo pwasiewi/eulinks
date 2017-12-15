@@ -151,7 +151,7 @@ SYSTEMY OPERACYJNE I STEROWNIKI JADRA LINUXA:
  * http://www.libusb.org/
  * http://www.beej.us/guide/bgnet/
  * http://www.beej.us/guide/bgipc/
-#usb driver kernel
+### usb driver kernel
  * http://www.linuxjournal.com/article/7353
  * http://training.linuxfoundation.org/free-linux-training/linux-training-videos/how-to-build-character-drivers-for-the-linux-kernel
  * http://go.linuxfoundation.org/l/6342/charcter-drivers-tutorial-code/y46d9
@@ -162,7 +162,7 @@ SYSTEMY OPERACYJNE I STEROWNIKI JADRA LINUXA:
  * http://sysplay.in/index.php?pagefile=linux_drivers
  * http://sysplay.in/index.php?pagefile=lfy_articles
  * http://man7.org/tlpi/
-Po polsku tutorial:
+### Po polsku tutorial:
  * http://anadoxin.org/blog/linux-kernel-development-1
  * http://www.linuxforu.com/tag/linux-device-drivers-series/
  * http://soliduscode.blogspot.com/
