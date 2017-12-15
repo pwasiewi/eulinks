@@ -140,13 +140,13 @@ RASPBERRY i INNE
  * http://ubuntuforums.org/showthread.php?t=2257681
 
 SYSTEMY OPERACYJNE I STEROWNIKI JADRA LINUXA:
+ * https://github.com/duxing2007/ldd3-examples-3.x
+ * http://lwn.net/Kernel/LDD3/
  * https://github.com/bashrc/LKMPG
  * http://tldp.org/LDP/lkmpg/2.6/html/
  * http://tldp.org/LDP/lkmpg/2.6/lkmpg.pdf
  * http://elinux.org/Device_drivers
  * http://www.makelinux.net/reference
- * http://lwn.net/Kernel/LDD3/
- * https://github.com/martinezjavier/ldd3/
  * http://lxr.free-electrons.com/
  * http://www.libusb.org/
  * http://www.beej.us/guide/bgnet/
