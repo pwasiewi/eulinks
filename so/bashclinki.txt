@@ -284,6 +284,7 @@ Po polsku standard:
 
 Niestandardowe:
  * http://www.gentoo.org/doc/pl/altinstall.xml
+ * https://www.reddit.com/r/Gentoo/comments/7lywiq/new_clangmusl_based_experimental_stage4/?sort=new
 
 Po polsku Express:
  * http://www.elektroda.pl/rtvforum/topic1528857.html
