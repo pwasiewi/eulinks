@@ -1,16 +1,37 @@
-###js 
+## Darmowe wykłady
+ * http://www.udacity.com/
+ * https://education.10gen.com
+ * http://www.uw-team.org/videoarty.html
+ * http://www.itposter.net/ 
+ * https://github.com/vhf/free-programming-books
+ * http://9fingers.pl/
+ * http://devpytania.pl/
+ * http://www.osqa.net/
+ * http://www.digilife.be/quickreferences/indexe.html
+ 
+## PROGGRAMMERS (among them JAVA!) YOUTUBERS
+ - https://www.youtube.com/user/koushks/playlists
+ - https://www.youtube.com/user/caveofprogramming/playlists
+ - https://www.youtube.com/user/derekbanas/playlists
+ - https://www.youtube.com/user/phpacademy/playlists
+
+## Ćwiczenia
+ - https://www.reddit.com/r/dailyprogrammer/
+ - https://www.reddit.com/r/todayilearned/
+ 
+### js 
  * https://egghead.io/lessons/node-js-set-up-a-basic-twitter-bot-with-twit-js
 
 
-###website rapid development
+### website rapid development
  * https://iwantmyname.com/blog/the-updated-big-list-of-static-website-generators-for-your-site-blog-or-wiki
  * http://simonwaldherr.github.io/micromarkdown.js/
  * http://rmarkdown.rstudio.com/rmarkdown_websites.html
 
-###mvc model przestarzałym, teraz maszyna stanów
+### mvc model przestarzałym, teraz maszyna stanów
  * https://www.infoq.com/articles/no-more-mvc-frameworks
 
-###nodejs
+### nodejs
  * https://github.com/kriasoft/nodejs-api-starter
  * https://hapijs.com/
  * http://glennengstrand.info/blog/?p=418
@@ -22,7 +43,7 @@
  * http://cherrypy.org/
  * https://github.com/mjhea0/flask-boilerplate
 
-###mapa es6 implementacji plus wzorce projektowe
+### mapa es6 implementacji plus wzorce projektowe
   - http://kangax.github.io/compat-table/es6/
   - http://loredanacirstea.github.io/es6-design-patterns/
 
@@ -35,11 +56,11 @@
  * http://web.archive.org/web/20110725013125/http://www.digital-web.com/articles/scope_in_javascript/
  * http://joelhooks.com/blog/2014/02/06/stop-writing-for-loops-start-using-underscorejs/
 
-###Sequelize json
+### Sequelize json
  * http://srlm.io/2015/02/04/sequelize-subqueries/
  * https://www.compose.io/articles/is-postgresql-your-next-json-database/
 
-###Angular
+### Angular
  * http://johnmunsch.com/2013/07/17/angularjs-services-and-promises/
  * http://leftshift.io/8-tips-for-angular-js-beginners/
  * http://www.jeremyzerr.com/sites/default/files/AngularJS-Data-Driven-Directives.pdf
@@ -85,7 +106,7 @@
 
  * http://jhipster.github.io/
 
-###MEAN
+### MEAN
  * https://github.com/ericdouglas/MEAN-Learning
  * https://github.com/meanjs/mean
  * http://learn.mean.io/
@@ -105,7 +126,7 @@
  * https://engineering.gosquared.com/making-dashboard-faster
  * https://egghead.io/series/how-to-write-an-open-source-javascript-library?__s=6xzfsdewocooo2r8qhfh&order=asc&page=1&utm_campaign=more-javascript-open-source-how-to-from-kent-c-dodds&utm_medium=email&utm_source=more-javascript-open-source-how-to-from-kent-c-dodds
 
-###aplikacja web android
+### aplikacja web android
  * https://en.wikipedia.org/wiki/List_of_graphical_user_interface_builders_and_rapid_application_development_tools
  * https://github.com/EsotericSoftware/tablelayout
  * http://square.github.io/
@@ -116,7 +137,7 @@
  * http://ionicframework.com/docs/
 
 
-###editor html
+### editor html
  * http://rendera.heroku.com/examples/coffeescript_jquery_ajax
  * http://www.skilledup.com/learn/programming/best-html-editors/
  * http://www.awwwards.com/10-html-css-online-code-editors-for-web-developers.html
@@ -130,7 +151,7 @@
  * https://koding.com
  * https://www.sourcelair.com
 
-###html5
+### html5
  * http://ferrante.pl/books/html/#toc
  * http://diveintohtml5.info/
  * http://codegeekz.com/best-html5-editors/
@@ -143,14 +164,14 @@
  * http://necolas.github.io/normalize.css/
  * http://freehtml5templates.com
  * http://themeforest.net/item/porto-responsive-html5-template/4106987
-
-###css3
+ 
+### css3
  * http://www.html5xcss3.com/p/responsive-menus-tutorials.html
  * http://tympanus.net/codrops/2013/05/08/responsive-retina-ready-menu/
  * http://cssdeck.com/labs/metal-ui-buttons
  * https://vimeo.com/album/2887589/video/100887653
 
-###KURSY HTML5 CSS3
+### KURSY HTML5 CSS3
  * http://www.w3schools.com/html/html5_intro.asp       ******
  * http://diveintohtml5.info/							*****
  * http://slides.html5rocks.com/#landing-slide         ***
@@ -177,7 +198,7 @@
  * http://channel9.msdn.com/Series/HTML5-Day           ***
  * http://css3.bradshawenterprises.com/transitions/    ***
 
-###KURSY PHP
+### KURSY PHP
  * http://pl.wikibooks.org/wiki/PHP					***
  * http://www.capaciouscore.pl/kursy/					****
  * http://webhosting.pl/Kurs.PHP..Wstep.do.programowania.w.popularnym.jezyku.skryptowym
@@ -193,11 +214,11 @@
 
  * http://php.webtutor.pl/pl/2011/03/31/hiphop-php-instalacja-na-fedora-12/
 
-###TESTY
+### TESTY
  * http://html5test.com/
 
 
-###nodejs 
+### nodejs 
  * http://dailyjs.com/2010/11/01/node-tutorial/
  * http://nodejs.org/
  * http://dailyjs.com/
@@ -205,11 +226,11 @@
  * http://www.learn2crack.com/2014/04/android-login-registration-nodejs-server.html
  * http://www.codemonkeez.com/2014/05/how-i-got-nodejs-and-mongodb-running-on.html
 
-###couchbase
+### couchbase
  * https://github.com/couchbase/Android-Couchbase 
  * https://github.com/couchbase/couchbase-lite-android
 
-###jquery
+### jquery
  * http://jquerymobile.com/resources/
  * http://www.zachstronaut.com/projects/rotate3di/#demos
  * http://ctoinsights.wordpress.com/2012/01/03/jquery-mobile-tutorial-part-iii-managing-data/
@@ -217,10 +238,10 @@
  * http://johnveldboom.com/posts/38/jquery-ajax-loading-display-images-or-text-until-script-is-finished
  * http://www.codeproject.com/Articles/661782/Three-Ways-to-Dynamically-Load-HTML-Content-into-a
 
-###PhoneGap
+### PhoneGap
  * http://mobileangularui.com/blog/your-first-phonegap-app-with-mobile-angular-ui/
 
-###JAVASCRIPT
+### JAVASCRIPT
  * http://addyosmani.com/resources/essentialjsdesignpatterns/book/
  * http://stackoverflow.com/questions/29879267/es6-class-multiple-inheritance
  * https://developer.mozilla.org/pl/docs/Web/JavaScript/Inheritance_and_the_prototype_chain
@@ -275,30 +296,30 @@ Effective Javascript, Dawid Herman
  * http://codepen.io/
  * http://dabblet.com/
 
-###XML XSLT
+### XML XSLT
  * https://pl.wikipedia.org/wiki/XSL_Transformations
 
-###wolnezasoby
+### wolnezasoby
  * http://www.freepik.com/free-vector/retro-nautical-cruise-badges_715941.htm
 
-###jbookmarks
+### jbookmarks
  * http://stackoverflow.com/questions/18127607/jquery-bookmarks-manager
  * http://forums.mozillazine.org/viewtopic.php?f=38&t=1054655
  * http://blog.coolaj86.com/articles/how-to-create-a-bookmarklet-and-load-jquery-anywhere.html
  * http://railscasts.com/episodes/175-ajax-history-and-bookmarks?view=similar
 
 
-###mobile html5
+### mobile html5
  * http://alistapart.com/article/love-the-boring-bits-of-css
  * https://software.intel.com/en-us/articles/jquery-mobile-basics
  * http://www.sencha.com/products/touch
 
-###platformy webowe
+### platformy webowe
  * http://html5hub.com/comparing-html5-mobile-ui-frameworks/
  * http://ionicframework.com
  * http://cordova.apache.org/
  * https://build.phonegap.com/
-#xdk intel webowe
+### xdk intel webowe
  * http://xdk-software.intel.com/
  * https://software.intel.com/en-us/html5/articles/xdkdocs-overview-html5
  * https://software.intel.com/en-us/html5/articles/building-cross-platform-apps-with-html5
@@ -306,7 +327,7 @@ Effective Javascript, Dawid Herman
 
 
 
-###uniwersalne języki webowe
+### uniwersalne języki webowe
  * http://en.wikipedia.org/wiki/Haxe
  * http://en.wikipedia.org/wiki/Dart_%28programming_language%29
  * http://en.wikipedia.org/wiki/Opa_%28programming_language%29
@@ -318,10 +339,10 @@ Effective Javascript, Dawid Herman
  * http://en.wikipedia.org/wiki/Fantom_%28programming_language%29
  * http://en.wikipedia.org/wiki/Ceylon_Project
 
-###uniwersalne inne
+### uniwersalne inne
  * http://en.wikipedia.org/wiki/Go_%28programming_language%29
 
 
-###Indeksy
+### Indeksy
  * http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html
  * http://lang-index.sourceforge.net/

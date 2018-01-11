@@ -1,19 +1,32 @@
 :cloud:
-###Kursy sieciowe 
+### Kursy sieciowe 
  - https://www.cybrary.it/
 
-###Strony związane z bezpieczeństwem
+### Strony związane z bezpieczeństwem
  - https://sekurak.pl/
  - https://zaufanatrzeciastrona.pl/
  - https://niebezpiecznik.pl/
+ - https://niebezpiecznik.pl/podcast/
  
-####Materiały w pdf
+### Hack mobile raspberry wifi
+ - https://hackaday.com/2016/09/08/nexmon-turns-nexus-5-and-rpi3-into-wifi-toolkit/
+ - https://build.nethunter.com/nightly/
+ - https://github.com/seemoo-lab/nexmon
+ - https://github.com/seemoo-lab/bcm-rpi3
+ 
+### Test sql server injection
+ - https://sekurak.pl/podatnosc-server-side-template-injections/
+ 
+#### Materiały w pdf
  - http://www.phenoelit.org/stuff/papers.html
  
-###Hyper-v
+#### pfsense bsd
+ - https://www.reddit.com/r/networking/comments/6upchy/can_a_bsd_system_replicate_the_performance_of/dlvdq2e/
+
+### Hyper-v
  - https://docs.microsoft.com/en-us/windows-server/virtualization/hyper-v/get-started/create-a-virtual-machine-in-hyper-v
  
-###Różności
+### Różności
  - https://www.cyberciti.biz/faq/unix-network-service-restart-stop/
  - http://standards-oui.ieee.org/oui.txt
  - https://www.hellion.org.uk/cgi-bin/randmac.pl?scope=local&type=unicast
@@ -22,12 +35,12 @@
  - https://www.ansible.com/ansible-roles-by-acquia
  - https://dug.net.pl/tekst/296/przerabianie_debiana_pod_wifi_access_point/
 
-####Virtualbox
+#### Virtualbox
  - http://download.virtualbox.org/virtualbox/
  - http://www.brianlinkletter.com/how-to-use-virtualbox-to-emulate-a-network/
  - http://www.commandlinefu.com/commands/view/13718/mount-a-vmware-virtual-disk-.vmdk-file-on-a-linux-box
 
-####Proxmox
+#### Proxmox
  - https://pve.proxmox.com/wiki/Package_Repositories
  - https://www.jamescoyle.net/category/tech-news
  - https://pve.proxmox.com/wiki/High_Availability_Cluster_4.x
@@ -42,7 +55,7 @@
  - http://blog.sjas.de/posts/Proxmox-user-account.html
  
 
-####Proxmox Ceph
+#### Proxmox Ceph
  - https://pve.proxmox.com/wiki/Ceph_Server
  - https://www.sebastien-han.fr/blog/2014/10/10/ceph-how-to-test-if-your-ssd-is-suitable-as-a-journal-device/
  - http://www.sebastien-han.fr/blog/2012/12/07/ceph-2-speed-storage-with-crush/
@@ -51,25 +64,26 @@
  - https://github.com/01org/CeTune
  - 
 
-####Proxmox VLAN network
+#### Proxmox VLAN network
  - https://pve.proxmox.com/wiki/Vlans
  - https://pve.proxmox.com/wiki/Network_Model#Configuring_VLAN_in_a_cluster
  - https://blog.no-panic.at/2016/08/09/proxmox-on-debian-at-hetzner-with-multiple-ip-addresses/
  - http://blog.sjas.de/posts/proxmox-and-VLANs.html
  - https://raymii.org/s/tutorials/Proxmox_VE_One_Public_IP.html
  
-####Proxmox Fencing HA
+#### Proxmox Fencing HA
  - https://pve.proxmox.com/wiki/High_Availability_Cluster_4.x
  - https://pve.proxmox.com/wiki/Separate_Cluster_Network
  - http://clusterlabs.org/doc/crm_fencing.html
  
-####Proxmox backup
+#### Proxmox backup
  - https://github.com/valeech/proxmox_ceph_backups/blob/master/ceph_restore.sh
  - https://github.com/EnterpriseVE/eve4pve-barc
  - https://ayufan.eu/projects/proxmox-ve-differential-backups/
  - https://forum.proxmox.com/threads/incremental-backups-ceph.30393/
  
-####pfSense, vpn ipsec i inne
+#### pfSense, vpn ipsec i inne
+ - https://techknight.eu/tag/pfsense/
  - https://aikester.com/2016/09/load-balancing-with-pfsense/
  - https://community.spiceworks.com/topic/1247282-pfsense-carp-openvpn-not-working
  - [Ipsec router to router for pfSense](https://www.youtube.com/watch?v=iNzJGI5hv-Q)
@@ -79,7 +93,7 @@
  - https://supportforums.cisco.com/discussion/12579156/windows-10-asa-ipsec-vpn-group-authentication
  - https://doc.pfsense.org/index.php/IKEv2_with_EAP-MSCHAPv2
  
-####Switche
+#### Switche
  - http://www.dell.com/downloads/global/products/pwcnt/en/pwcnt_stacking_switches.pdf
  - http://en.community.dell.com/support-forums/network-switches/f/866/t/19370806
  - http://brezular.com/2013/12/17/connecting-open-vswitch-running-on-debian-to-cisco-catalyst-3550-via-trunk/
@@ -87,7 +101,7 @@
  - https://pve.proxmox.com/wiki/Open_vSwitch
  - https://z900collector.wordpress.com/2015/03/09/dell-powerconnect-62xx80248024f-general-switch-configuration-topics/
  
-####CEPH
+#### CEPH
  - http://www.virtualtothecore.com/en/adventures-ceph-storage-part-1-introduction/
  - https://blog.zhaw.ch/icclab/tag/ceph/
  - https://wiki.centos.org/SpecialInterestGroup/Storage/ceph-Quickstart
@@ -103,7 +117,7 @@
  - https://blog.flyingcircus.io/2016/05/27/ceph-performance-learnings-long-read/
  - https://wiki.debian.org/OpenStackCephHowto
  
-####CEPH TUNING
+#### CEPH TUNING
  - https://accelazh.github.io/ceph/Ceph-Performance-Tuning-Checklist
  - http://xiaoquqi.github.io/blog/2015/06/28/ceph-performance-optimization-summary/
  - https://01.org/node/3586
@@ -115,43 +129,44 @@
  - https://forum.proxmox.com/threads/scaleio-on-proxmox.26960/#post-136030
  - http://events.linuxfoundation.org/sites/events/files/slides/2016_04_The%20challenges%20and%20opportunities%20of%20Open%20source%20storage_v6_0.pdf
 
-####Docker i CEPH
+#### Docker i CEPH
  - https://github.com/ceph/ceph-docker
  - http://ceph.com/planet/bootstrap-your-ceph-cluster-in-docker/
 
-####DRBD 
+
+#### DRBD 
  - https://www.drbd.org/en/doc/users-guide-90/s-configure-split-brain-behavior
 
-###XenServer
+### XenServer
  - http://xenserver.org/open-source-virtualization-download.html
  - http://xenserver.org/blog.html
  - https://wiki.xenserver.org/index.php?title=Main_Page
 
-####xenserver glusterfs można poprzeć rozwój technologii po zalogowaniu się
+#### xenserver glusterfs można poprzeć rozwój technologii po zalogowaniu się
  - https://bugs.xenserver.org/browse/XSO-291 
  - https://bugs.xenserver.org/browse/XSO-300
  - http://xenorg.uservoice.com/forums/172169-xen-development/filters/top
  - http://discussions.citrix.com/topic/366729-about-xenserver-glusterfs/?p=1917700
  
-####keepalived 
+#### keepalived 
  - https://raymii.org/s/tutorials/Keepalived-Simple-IP-failover-on-Ubuntu.html
  - https://github.com/fcwu/glusterfs-keepalived
 
-####xenserver i ceph
+#### xenserver i ceph
  - https://github.com/rposudnevskiy/RBDSR
  - http://xenserver.org/discuss-virtualization/virtualization-blog/entry/xenserver-docker-ceph-rbdsr-for-shared-local-storage.html
 
-####Openstack + HA + ansible
+#### Openstack + HA + ansible
  - https://raymii.org/s/articles/Building_HA_Clusters_With_Ansible_and_Openstack.html
 
-####xenserver i docker windows 2016
+#### xenserver i docker windows 2016
  - https://msandbu.wordpress.com/2016/05/26/xenserver-7-and-docker-managment-of-netscaler-cpx-and-windows-server-2016/
 
-####xenserver ha na dwóch maszynach
+#### xenserver ha na dwóch maszynach
  - http://www.halizard.com/
  - http://www.halizard.com/forum/suggestion-box/148-dundee-upgrade
 
-####xenserver ha
+#### xenserver ha
  - http://docs.citrix.com/de-de/xencenter/6-1/xs-xc-protection/xs-xc-pools-ha/xs-xc-pools-ha-about.html
  - http://xapi-project.github.io/features/HA/HA.html
  - https://support.citrix.com/servlet/KbServlet/download/21018-102-664364/High%20Availability%20for%20Citrix%20XenServer.pdf
@@ -159,28 +174,28 @@
  - https://discussions.citrix.com/topic/367150-ntp-ha-self-fencing/page-2#entry1884695
  - http://discussions.citrix.com/topic/333343-need-help-interpreting-xha-logs/
 
-####xenserver failure ha restart
+#### xenserver failure ha restart
  - http://support.citrix.com/article/CTX128275
  - http://citrixtechs.com/blog/help-my-citrix-xenserver-poolmaster-is-down-2/
  - http://discussions.citrix.com/topic/292757-local-storage-unplugged-and-un-repairable/
  - http://citrixtechs.com/blog/help-my-citrix-xenserver-poolmaster-is-down-2/
 
-####xenserver multipath
+#### xenserver multipath
  - http://docs.citrix.com/content/dam/docs/en-us/xenserver/xenserver-61/xs-design-multipathing-config.pdf
  
-####xenserver docker
+#### xenserver docker
  - http://xenserver.org/discuss-virtualization/virtualization-blog/entry/a-new-year-a-new-way-to-build-for-xenserver.html
  
-####xenserver i ilo
+#### xenserver i ilo
  - http://discussions.citrix.com/topic/289538-wlb-wake-on-lan-times-out-before-xenserver-loads/
  - http://www.experts-exchange.com/questions/26331244/XenServer-5-6-iLO-Power-on-not-working.html
  - http://h20195.www2.hp.com/V2/GetPDF.aspx/4AA0-3524ENW.pdf
 
-####eksperymentalne 
+#### eksperymentalne 
  - https://github.com/FlorianHeigl/xen-ceph-rbd
  - http://xenorg.uservoice.com/forums/172169-xen-development/filters/top
 
-###lxc conteners namespace control groups
+### lxc conteners namespace control groups
   - http://www.megiteam.pl/blog/baza-wiedzy/lxc-kontener-pingwinow/
   - https://en.wikipedia.org/wiki/Cgroups
   - https://linuxcontainers.org/
@@ -188,73 +203,74 @@
   - https://wiki.gentoo.org/wiki/LXC
   - https://l3net.wordpress.com/2013/08/25/debian-virtualization-lxc-network-isolation/
   
-###dlaczego docker
+### dlaczego docker
   - http://blog.pierreroudier.net/2015/08/docker-vs-kvm-vs-native-performance-comparison/
   - https://github.com/thewmf/kvm-docker-comparison 
   - https://docs.docker.com/engine/installation/linux/gentoolinux/
   
-###źródła dla linku powyżej
+### źródła dla linku powyżej
   - http://www.tutorialspoint.com/unix_commands/numactl.htm
   
-###docker swarm 
+### docker swarm 
   - https://docs.docker.com/swarm/install-w-machine/
   - https://docs.openshift.org/latest/architecture/index.html
   - https://www.servethehome.com/docker-swarm-management-a-quick-overview-of-rancher-portainer-and-shipyard/
   
-###docker swarm ha (containers restart)
+### docker swarm ha (containers restart)
   - https://github.com/docker/swarm/issues/1488
   
-###zastosowania swarm - apache storm
+### zastosowania swarm - apache storm
   - http://highscalability.com/blog/2016/4/25/the-joy-of-deploying-apache-storm-on-docker-swarm.html
   
-###dlaczego nie docker
+### dlaczego nie docker
   - http://www.boycottdocker.org/
   - http://bodenr.blogspot.com/2014/05/kvm-and-docker-lxc-benchmarking-with.html
   
-###docker jako container
+### docker jako container
   - http://phusion.github.io/baseimage-docker/#solution 
   - https://github.com/phusion/baseimage-docker#readme
   - https://blog.phusion.nl/2015/01/20/docker-and-the-pid-1-zombie-reaping-problem/
   
-###Dobra teaoretyczna wolnodostępna  książka o sieci:
+### Dobra teaoretyczna wolnodostępna  książka o sieci:
   - http://www.saylor.org/site/wp-content/uploads/2012/02/Computer-Networking-Principles-Bonaventure-1-30-31-OTC1.pdf
 
-##Sieciowe systemy plików:
-###ZFS:
+## Sieciowe systemy plików:
+### ZFS:
   - http://louwrentius.com/why-i-do-use-zfs-as-a-file-system-for-my-nas.html
   - http://arstechnica.com/information-technology/2014/02/ars-walkthrough-using-the-zfs-next-gen-filesystem-on-linux/
   - http://zfsonlinux.org/faq.html
   - http://louwrentius.com/the-hidden-cost-of-using-zfs-for-your-home-nas.html
   
-###BTRFS:
+### BTRFS:
   - https://btrfs.wiki.kernel.org/index.php/Main_Page
   - http://www.oracle.com/technetwork/articles/servers-storage-admin/advanced-btrfs-1734952.html
   
-###LUSTRE:
+### LUSTRE:
   - https://pl.wikipedia.org/wiki/Lustre_%28system_plik%C3%B3w%29
   - https://github.com/marcindulak/vagrant-lustre-tutorial
   
-###Glusterfs:
+### Glusterfs:
   - http://discussions.citrix.com/topic/366729-about-xenserver-glusterfs/page-2#entry1917700
   - http://arstechnica.com/information-technology/2014/01/bitrot-and-atomic-cows-inside-next-gen-filesystems/
   - http://www.gluster.org/community/documentation/index.php/GlusterOnZFS
   - https://github.com/gluster/gluster-tutorial
+  - http://glusterhacker.blogspot.com/
 
-###LDAP, RADIUS, VPN, JUMPCLOUD
+### LDAP, RADIUS, VPN, JUMPCLOUD
   - http://www.ldapman.org/articles/intro_to_ldap.html
   - http://www.onlamp.com/pub/a/onlamp/excerpt/sendmailckbk_chap01/
   - https://opensource.com/business/15/4/benefits-using-radius-over-ldap
   - https://opensource.com/business/14/5/top-4-open-source-ldap-implementations
   - https://jumpcloud.com/blog/cloud-directory-as-a-service-daas/
 
-###Sieciowe bazy inne niż mongodb, couchdb itp.
+### Sieciowe bazy inne niż mongodb, couchdb itp.
   - https://github.com/cockroachdb/cockroach
   - https://crate.io/
   
-###Untangle
+### Untangle
   - https://forums.untangle.com/openvpn/34512-export-import-openvpn-client-certificates.html
 
-##Inne pomocne linki:
+## Inne pomocne linki:
   - http://www.networkingwithfish.com/
   - http://web.dit.upm.es/vnxwiki/index.php/Vnx-tutorial-lxc
   - http://www.linuxjournal.com/article/10821
@@ -264,7 +280,7 @@
   - http://www.opensecuritytraining.info/Rootkits.html
   - https://dug.net.pl/tekst/296/przerabianie_debiana_pod_wifi_access_point/
 
-##GSN3
+## GSN3
   - https://gns3.com/support/docs/creating-the-simplest-topology-2
   - https://github.com/GNS3/gns3-gui/releases
   - http://asomewhatintegratedlife.blogspot.com/2012/01/gns3-virtualbox-edition-installation.html
@@ -278,27 +294,27 @@
   - http://www.iptut.com/ccip-knowledge/practice-ccip-gns3-lab/simple-mpls-gns3-lab
   - http://saifulaziz.com/2008/08/08/gns-3-and-cisco-170026007200-ios-in-one-pack/
   
-###OGÓLNIE o GNS3
+### OGÓLNIE o GNS3
   - http://www.trainsignal.com/blog/using-gns3-network-simulator
   - http://www.dslreports.com/faq/13956
   - http://www.ubuntubuzz.com/2010/07/gns3-running-graphical-cisco-network.html
   - http://www.techrepublic.com/blog/networking/practice-cisco-router-configuration-using-a-free-emulator/419
 
-###GNS3 MICROCORE uLINUX
+### GNS3 MICROCORE uLINUX
   - http://networkingtips-tricks.blogspot.com/2010/09/add-qemu-host-in-gns3.html
   - http://www.brainbump.net/gns3-add-qemu-host-microcore/
   - http://forum.gns3.net/topic5328.html
 
-###GNS3 VPCS
+### GNS3 VPCS
  - svn checkout svn://svn.code.sf.net/p/vpcs/code/trunk vpcs-code
 
-###tutorial GNS3 Cisco  dla początkujących - dosyć niewyraźny
+### tutorial GNS3 Cisco  dla początkujących - dosyć niewyraźny
   - http://www.youtube.com/watch?v=ZHZbMmLmYo8
 
-###video tutorial obsługi GNS3 konfiguracji sieci
+### video tutorial obsługi GNS3 konfiguracji sieci
   - http://www.youtube.com/playlist?list=PLC97B643945983558
   
-##OSPF
+## OSPF
   - http://www.cisco.com/en/US/tech/tk365/technologies_white_paper09186a0080094e9e.shtml
   - http://network-101.blogspot.com/2011/05/ospfasbr-summary-address.html
   - http://network-101.blogspot.com/search/label/OSPF
@@ -306,22 +322,22 @@
   - http://www.firstdigest.com/2010/03/ospf-area-range-vs-summary-address/
   - http://www.youtube.com/watch?v=1ScQYR7Gltw
 
-##DHCP
+## DHCP
   - http://www.networkers-online.com/blog/2008/07/how-to-configure-dhcpon-a-cisco-router/
 
-##video kurs Cisco
+## video kurs Cisco
   - http://www.youtube.com/playlist?list=PL2F3C14C55409B224
 
-##blog o Cisco
+## blog o Cisco
   - http://blog.ciscoinferno.net/
   - http://www.oreillynet.com/pub/a/network/2002/01/02/ciscotips.html
   - http://bromirski.net/projekty/cisco_faq_pl/cisco_faq_pl.html
 
-##cheetsheet konfiguracji IOS
+## cheetsheet konfiguracji IOS
   - http://packetlife.net/library/cheat-sheets/
   - http://www.skullbox.net/ioscheat.php
 
-##Blogi z instrukcjami konfiguracji CISCO
+## Blogi z instrukcjami konfiguracji CISCO
   - http://www.cisco.com/en/US/docs/routers/access/3700/hardware/notes/comflash.html
   - https://www.corelan.be/index.php/2008/06/22/cisco-switch-ios-cheat-sheet/
   - http://aproductivelife.blogspot.com/search/label/Cisco
@@ -331,15 +347,15 @@
   - http://www.slideshare.net/kdebrouw/IP-Routing-kdebrouw
 
 
-##Blogi z instrukcjami konfiguracji
+## Blogi z instrukcjami konfiguracji
   - http://blog.michaelfmcnamara.com/2011/01/vlans-ip-routing-ethernet-routing-switch/
   - http://beej.us/guide/bgnet/
 
 
-##Oficjalne dokumenty CISCO
+## Oficjalne dokumenty CISCO
   - http://www.cisco.com/en/US/prod/collateral/vpndevc/ps5708/ps5710/ps1018/product_implementation_design_guide09186a00800fd670.html
 
-##GNS3 JUNIPER JUNOS
+## GNS3 JUNIPER JUNOS
   - http://inetpro.org/wiki/Using_QEMU_with_Olive_to_emulate_Juniper_Routers
   - http://forum.gns3.net/topic3015.html
   - http://muralirajanm.blogspot.com/
@@ -348,15 +364,15 @@
   - http://www.packetmischief.ca/2011/03/24/installing-olive-10-4r1-under-vmware/
   - http://juniper.cluepon.net/index.php/Olive
 
-##Vyatta
+## Vyatta
   - http://www.carbonwind.net/VyattaOFR/AdvVPN/AdvVPN14.htm
   - http://www.carbonwind.net/VyattaOFR/VyattaOFR.htm
 
-##TCP/IP - subnetting
+## TCP/IP - subnetting
   - https://beausanders.org/main/index.php?option=com_content&view=article&id=72&Itemid=83 
   - http://www.youtube.com/watch?v=QvNQ96MOcMA&feature=plcp
 
-##TCP/IP - przykładowe strony
+## TCP/IP - przykładowe strony
   - http://pl.wikipedia.org/wiki/TCP_%28protok%C3%B3%C5%82%29
   - http://pl.wikipedia.org/wiki/Tablica_trasowania
   - http://pl.wikipedia.org/wiki/Kategoria:Trasowanie_%28telekomunikacja%29
@@ -373,7 +389,7 @@
   - http://www.youtube.com/user/professormesser?feature=watch
   - http://openlearn.open.ac.uk/mod/oucontent/view.php?id=397585&section=3.4
 
-##IPV6 - przykładowe strony
+## IPV6 - przykładowe strony
   - http://www.networkworld.com/news/2010/050610-ipv6-tunnel-basics.html?page=2
   - https://www.zagbot.com/openvpn_ipv6_tunnel.html
   - http://www.pl.ipv6tf.org/wiki/index.php/Strona_g%C5%82%C3%B3wna
@@ -381,23 +397,23 @@
   - http://www.gentoo.org/doc/en/ipv6.xml
   - http://www.networkstraining.com/how-to-configure-ipv6-address-on-cisco-routers/
 
-##HACKING
+## HACKING
   - http://lcamtuf.coredump.cx/
   - http://williamstallings.com/ComputerSecurity/
   - http://www.slideshare.net/NeelKamalThEYuVrAaJ/seminar-on-hacking
   - http://www.slideshare.net/amiable_indian/hacking-fundamentals-jen-johnson-miria-grunick
   - https://serversforhackers.com/series?page=2
   
-##INNE KURSY
+## INNE KURSY
   - http://www.saylor.org/majors/computer-science/
   - http://docs.online.bg/NETWORKING/
   - http://dynagen.org/tutorial.htm
   - https://projects.nesl.ucla.edu/public/sos-2x/doc/tutorial/index.html
 
-##INNE BLOGI
+## INNE BLOGI
   - http://arian-it.blogspot.com/
 
-##INNE WIRTUALIZACJE
+## INNE WIRTUALIZACJE
   - http://code.google.com/p/visual-netkit/
   - http://tuxthink.blogspot.com/2011/12/kvm-introduction.html
   - http://wiki.netkit.org/index.php/Papers
@@ -412,7 +428,7 @@
   - http://en.gentoo-wiki.com/wiki/LXC
   - http://www.funtoo.org/wiki/Metro_Recipes
 
-##CONTAINERS, VLANS
+## CONTAINERS, VLANS
   - http://containerops.org/2013/11/19/lxc-networking/
   - http://blog.scottlowe.org/2013/11/26/lxc-open-vswitch-and-gre-tunnels/
   - http://wiki.gentoo.org/wiki/LXC#Ubuntu
@@ -422,7 +438,7 @@
   - http://www.linuxjournal.com/content/lvm-demystified
 
 
-##3g modem
+## 3g modem
   - http://www.thinkwiki.org/wiki/Ericsson_F3507g_Mobile_Broadband_Module
   - http://www.natisbad.org/E4300/Dell_Wireless_5530_AT_cmd_ref.html
   - http://dug.net.pl/tekst/197/aero2_z_modemem_huawei_e3131/
@@ -432,7 +448,7 @@
   - http://en.gentoo-wiki.com/wiki/Huawei_E220
   - http://crunchbang.org/forums/viewtopic.php?pid=220469%23p220469#p220469
 
-##INNE WYKŁADY
+## INNE WYKŁADY
   - http://faculty.csuci.edu/minder.chen/MIS310/
   - http://www.csc.gatech.edu/~copeland/6612/
   - http://www.coins-lab.org/pnu/akoubaa/net331/lectures.php

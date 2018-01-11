@@ -1,7 +1,15 @@
-###programy
- - http://deeplearning.net/software_links/
 
-###amdgpu opencl
+### tutorials and lectures
+ - https://streamhpc.com/knowledge/for-developers/tutorials/
+ - http://web.engr.oregonstate.edu/~mjb/cs575/
+ - https://handsonopencl.github.io/
+ - http://www.cs.bris.ac.uk/home/simonm/workshops/opencl_lecture1.pdf
+ - http://wiki.rac.manchester.ac.uk/community/OpenCL
+ - https://gpuopen.com/opencl-rocm1-6/
+ - http://www.sqrlab.ca/csci4060u/lectures/
+ - http://smai.emath.fr/cemracs/cemracs16/images/FDesprez.pdf
+
+### amdgpu opencl
  - https://github.com/Lucretia/vulkan-overlay
  - https://radeonopencompute.github.io/
  - http://www.gearsongallium.com/?p=2960
@@ -9,7 +17,7 @@
  - https://github.com/RadeonOpenCompute/ROCm
  - https://radeonopencompute.github.io/documentation.html
 
-###tensorflow and other libs on OpenCL
+### tensorflow and other libs on OpenCL
  - [eigen in opencl sycl](https://bitbucket.org/benoitsteiner/opencl)
  - https://www.codeplay.com/portal/sycl-tutorial-1-the-vector-addition
  - https://www.codeplay.com/portal/tensorflow%E2%84%A2-for-opencl%E2%84%A2-using-sycl%E2%84%A2
@@ -34,7 +42,7 @@
  * http://www.gputechconf.com/page/home.html
  * https://github.com/parallel-forall/code-samples
  
-###OPENCL
+### OPENCL
  * https://streamcomputing.eu/blog/2015-02-10/overview-of-opencl-2-0-support-samples-blogs-and-drivers/
  * https://streamcomputing.eu/knowledge/for-developers/tutorials/
  * http://streamcomputing.eu/knowledge/for-developers/opencl-wrappers/
@@ -71,7 +79,7 @@
 
  
 
-###Cuda C
+### Cuda C
  * https://alliseesolutions.wordpress.com/2016/09/08/install-gpu-tensorflow-from-sources-w-ubuntu-16-04-and-cuda-8-0-rc/
  * https://developer.nvidia.com/blog/tags/4501
  * http://www.nvidia.com/object/cuda-newsletter.html
@@ -96,24 +104,24 @@
  * http://devblogs.nvidia.com/parallelforall/unified-memory-in-cuda-6/
  * http://devblogs.nvidia.com/parallelforall/developing-portable-cuda-cc-code-hemi/
 
-###AES
+### AES
  * http://code.google.com/p/engine-cuda/wiki/benchmarkVersion011
  * http://http.developer.nvidia.com/GPUGems3/gpugems3_ch36.html
 
-###HASH PASS
+### HASH PASS
  * http://whitepixel.zorinaq.com/
  * http://blog.zorinaq.com/?e=43
  * http://hashcat.net/oclhashcat-plus/
  * http://www.krystianpiwowarczyk.pl/showarticle.php?article=28
  
-###cudaminer
+### cudaminer
  * https://bitcointalk.org/index.php?topic=167229.0
  * http://code.google.com/p/cuda-thrust-extensions/
  * http://www.gat3way.eu/hashkill/index.php
 
-###KOMERCYJNE
+### KOMERCYJNE
  * http://speedit.vratis.com 
 
-###PARALLEL
+### PARALLEL
  * http://news.dice.com/2013/11/04/speed-test-comparing-intel-c-gnu-c-and-llvm-clang-compilers/
 

@@ -16,6 +16,7 @@
  - https://www.dexterindustries.com/raspberry-pi-robots/
  - http://www.legoengineering.com/alternative-programming-languages/
  - http://www.planetarduino.org/?cat=1855
+ - http://makezine.com/projects/bricktronics-mini-tank/
 
 ### Sztuczna Inteligencja na Arduino - Fuzzy Logic
  - http://www.zerokol.com/2012/09/arduinofuzzy-fuzzy-library-for-arduino.html

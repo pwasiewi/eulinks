@@ -1,4 +1,20 @@
-##Tutoriale scilaba:
+## R imager
+ - https://cran.r-project.org/web/packages/imager/vignettes/gettingstarted.html
+ - https://dahtah.github.io/imager/
+ - https://www.r-bloggers.com/author/simon-barthelme/
+ - https://cran.r-project.org/web/packages/imager/vignettes/pixsets.html
+ - https://www.stoltzmaniac.com/facial-recognition-in-r/
+ - https://github.com/stoltzmaniac/ML-Image-Processing-R
+ - http://rpubs.com/sjmgarnier/videoplayR
+
+
+ 
+## Python Opencv
+ - https://pythonprogramming.net/loading-images-python-opencv-tutorial/
+ - https://github.com/cjgb/rPython-win
+ - https://rstudio.github.io/reticulate/articles/introduction.html
+
+## Tutoriale scilaba:
  * http://wiki.scilab.org/Tutorials
  * http://sivp.sourceforge.net/sivp-doc-2006.en.pdf
  * http://leppakaklifoth.blogspot.com/2012/06/sip-projekt-suzacy-do-przetwarzania.html
@@ -10,7 +26,7 @@
  * http://wiki.nosdigitais.teia.org.br/Scilab
  * http://www.docstoc.com/docs/148258056/Image-and-Video-Processing-using-Scilab
 
-##CIEKAWE PROGRAMY FILTRY
+## CIEKAWE PROGRAMY FILTRY
  * http://www.jhlabs.com/ip/filters/index.html
  * http://www.fmwconcepts.com/imagemagick/index.php
  * http://www.jhlabs.com/ip/blurring.html
@@ -18,25 +34,28 @@
  * http://tysonrobichaudphotography.wordpress.com/category/photographic-study-masters-series/
 
 
-##SCILAB OCTAVE
+## SCILAB OCTAVE
  * http://atoms.scilab.org/toolboxes/IPD/8.3.1/files/Tutorial.pdf
  * http://www.scilab.org/resources/documentation/community
  * http://sivp.sourceforge.net/
  * http://siptoolbox.sourceforge.net/
  * https://github.com/rfabbri/siptoolbox
  * https://github.com/rfabbri/animal
+ ```
 ./autogen.sh; ./configure; make; make install
 git clone git://github.com/rfabbri/siptoolbox.git
 ./autogen.sh
 ./configure --prefix=/usr/share/scilab/contrib/
 make; make install
 exec '/usr/share/scilab/contrib/sip-0.8.0-git/loader.sce'
+```
  * http://opencv.willowgarage.com/wiki/
  * http://opencv.willowgarage.com/documentation/python/cookbook.html
  * http://stackoverflow.com/questions/7950744/opencv-color-identification
  * http://www.csse.uwa.edu.au/~pk/Research/MatlabFns/index.html
  * https://sites.google.com/site/elsamuko/gimp/gimp-octave
 
+```
 [im2,map2] = mogrify(im,map, '-equalize');
 im = gray_imread('onca.png');
 im2 = mogrify(im, ['-rotate', '40']);
@@ -63,10 +82,10 @@ b = edge(a,’sobel’,0.15);
 b = gsm2d(a,2);
 c=im2bw(b,0.8);
 imshow(suma_obr,strf='041')
+```
 
 
-
-#PYTHON PIL
+# PYTHON PIL
  * http://www.pythonware.com/library/pil/handbook/image.htm
  * http://effbot.org/imagingbook/image.htm
  * http://nadiana.com/pil-tutorial-how-create-button-generator
@@ -74,7 +93,7 @@ imshow(suma_obr,strf='041')
  * http://www.cazabon.com/pyCMS/PIL_usm.html
  * http://stackoverflow.com/questions/2034037/image-embossing-in-python-with-pil-adding-depth-azimuth-etc
 
-#GIMP
+# GIMP
  * http://pl.wikibooks.org/wiki/GIMP/Programowanie
  * http://gimpbook.com/scripting/
  * http://gimpbook.com/scripting/notes.html
@@ -107,20 +126,21 @@ imshow(suma_obr,strf='041')
  * http://www.gimpusers.com/forums/gimp-user/2404-howto-create-images-with-gimp-python-non-interactive
  * http://www.gimpdome.com
 
-#DARMOWE POMOCE
+# DARMOWE POMOCE
  * http://www.1a-photoshop.de/news/10-kostenlose-rost-texturen-gratis-downloaden/
  * http://www.1a-photoshop.de/news/rost-textur-pack-ii-10-rostige-texturen-gratis-downloaden/
  * http://www.1a-photoshop.de/news/10-kostenlose-rost-texturen-gratis-downloaden/
 
 
  * http://en.wikipedia.org/wiki/Digital_image_processing
-#DIP in R
+# DIP in R
  * http://www.jstatsoft.org/v19/i01/paper
 
-#TYPING
+# TYPING
  * http://www.typingweb.com
 
-#Programy do zainstalowania (jak się uda, to dobrze):
+# Programy do zainstalowania (jak się uda, to dobrze):
+```
 python
 easy_python
  * http://stackoverflow.com/questions/4930216/how-to-install-easy-install-in-python-2-7-1-on-windows-7
@@ -144,4 +164,4 @@ scilab-4.1.2-r3
 Toolboxy do scilaba: http://siptoolbox.sourceforge.net/, http://sivp.sourceforge.net/
 ufraw
 rawtherapee
-
+```
