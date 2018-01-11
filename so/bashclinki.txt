@@ -349,6 +349,9 @@ Wirtualizacja lxc gentoo
  * http://containerops.org/2013/11/19/lxc-networking/
  * http://www.linuxjournal.com/article/10821
 
+Syslinux:
+ * https://alphaos.tuxfamily.org/forum/viewtopic.php?t=1070
+
 INNE SYSTEMY
  * http://en.wikipedia.org/wiki/Comparison_of_open-source_configuration_management_software
  * https://coreos.com/docs/quickstart/
