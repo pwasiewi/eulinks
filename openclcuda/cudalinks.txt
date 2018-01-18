@@ -1,3 +1,5 @@
+### sycl
+ * https://blog.tartanllama.xyz/sycl/
 
 ### tutorials and lectures
  - https://streamhpc.com/knowledge/for-developers/tutorials/
