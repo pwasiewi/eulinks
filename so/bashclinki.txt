@@ -9,6 +9,7 @@ Teoria sprzętu komputerowego, emulacje retro
  * http://hackaday.com/2015/09/28/roundup-retro-computers-in-your-browser/
  * https://github.com/EvgeniyRU/ZX_FDD_Emulator
  * http://zxds.raxoft.cz/games.html
+ * https://pdos.csail.mit.edu/6.828/2016/schedule.html
  
 ### meltdown spectre
  * https://sekurak.pl/intelamdarm-wszystko-podatne-meltdown-spectre-wykradanie-pamieci-z-os/
