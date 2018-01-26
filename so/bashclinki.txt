@@ -12,6 +12,7 @@ Teoria sprzętu komputerowego, emulacje retro
  
 ### meltdown spectre
  * https://sekurak.pl/intelamdarm-wszystko-podatne-meltdown-spectre-wykradanie-pamieci-z-os/
+ * https://meltdownattack.com/
  * http://funwithbits.net/blog/programmers-guide-to-meltdown/
  * https://github.com/IAIK/meltdown
  * https://github.com/paboldin/meltdown-exploit
