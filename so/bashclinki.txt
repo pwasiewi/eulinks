@@ -19,6 +19,9 @@ Teoria sprzętu komputerowego, emulacje retro
  * https://github.com/paboldin/meltdown-exploit
  * https://github.com/raphaelsc/Am-I-affected-by-Meltdown/
  * https://github.com/Eugnis/spectre-attack
+ 
+### Podstawowe exploity
+ * https://sploitfun.wordpress.com/2015/06/26/linux-x86-exploit-development-tutorial-series/
 
 Bash:
  * http://dief.republika.pl/main.html
