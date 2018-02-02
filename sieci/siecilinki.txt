@@ -20,6 +20,7 @@
 ### Yubi
  - https://nelenkov.blogspot.com/2014/03/unlocking-android-using-otp.html
  - https://techfreak.pl/yubikey-klucz-do-bezpieczenstwa/
+ - https://www.cnet.com/how-to/how-to-move-google-authenticator-to-a-new-device/
  
 #### Materiały w pdf
  - http://www.phenoelit.org/stuff/papers.html
