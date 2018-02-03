@@ -1,5 +1,7 @@
+### TABLICE TĘCZOWE 
  * https://www.freerainbowtables.com/articles/introduction_to_rainbow_tables/ 
  * http://project-rainbowcrack.com/table.htm
  * http://www.allprojectstats.com/po.php?projekt=86
 
+### MINING
 - https://www.bestvpn.com/ethereum-mining/
