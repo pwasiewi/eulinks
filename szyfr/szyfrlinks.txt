@@ -7,8 +7,9 @@
  - https://nelenkov.blogspot.com/2014/03/unlocking-android-using-otp.html
  - https://techfreak.pl/yubikey-klucz-do-bezpieczenstwa/
  - https://www.cnet.com/how-to/how-to-move-google-authenticator-to-a-new-device/
+ - https://www.sigilance.com/
+ - https://www.nitrokey.com/
 
 ### MINING
-- https://www.bestvpn.com/ethereum-mining/
-- https://www.sigilance.com/
-- https://www.nitrokey.com/
+ - https://www.bestvpn.com/ethereum-mining/
+
