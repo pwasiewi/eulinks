@@ -15,4 +15,5 @@
 
 ### MINING
  - https://www.bestvpn.com/ethereum-mining/
+ - https://etherscan.io/ether-mining-calculator
 
