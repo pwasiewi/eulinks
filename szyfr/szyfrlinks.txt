@@ -11,6 +11,7 @@
  - https://www.nitrokey.com/
  - https://github.com/hillbrad/U2FReviews
  - http://shop.fidesmo.com/products
+ - https://twofactorauth.org/
 
 ### MINING
  - https://www.bestvpn.com/ethereum-mining/
