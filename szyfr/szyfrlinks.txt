@@ -10,6 +10,7 @@
  - https://www.sigilance.com/
  - https://www.nitrokey.com/
  - https://github.com/hillbrad/U2FReviews
+ - https://www.imperialviolet.org/2017/10/08/securitykeytest.html
 
 ### MINING
  - https://www.bestvpn.com/ethereum-mining/
