@@ -9,6 +9,7 @@
  - https://www.cnet.com/how-to/how-to-move-google-authenticator-to-a-new-device/
  - https://www.sigilance.com/
  - https://www.nitrokey.com/
+ - https://github.com/hillbrad/U2FReviews
 
 ### MINING
  - https://www.bestvpn.com/ethereum-mining/
