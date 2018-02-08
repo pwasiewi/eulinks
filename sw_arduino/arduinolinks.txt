@@ -2,6 +2,9 @@
  - http://forbot.pl/blog/
  - http://feriar-lab.pl/kurs-arduino/
  
+### Blogi
+ - http://hobbyspace.pl/category/arduino/
+ 
 ### Timery
  - http://forum.arduinopolska.com/watek-biblioteka-timers-koniec-z-uci%C4%85%C5%BCliwym-delay
  - http://100-x-arduino.blogspot.com/2016/11/bibioteki-cd-czyli-o-przewadze-zmywarki.html
