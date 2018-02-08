@@ -3,6 +3,7 @@
  
 ### hardware blogs
  - https://techfreak.pl/
+ - http://hobbyspace.pl/category/raspberry-pi/
 
 ### RPI docker
  - http://blog.hypriot.com/getting-started-with-docker-on-your-arm-device/
