@@ -1,5 +1,11 @@
+### Opencl machine learning
+ * https://www.datacamp.com/community/tutorials/deep-learning-python
+ * https://github.com/plaidml
+ * https://wiki.tiker.net/PyOpenCL/Examples/MedianFilter
+
 ### sycl
  * https://blog.tartanllama.xyz/sycl/
+ * http://deep-beta.co.uk/setting-up-tensorflow-with-opencl-using-sycl/
 
 ### tutorials and lectures
  - https://streamhpc.com/knowledge/for-developers/tutorials/
