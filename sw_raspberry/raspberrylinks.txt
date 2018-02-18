@@ -59,3 +59,13 @@
  * http://www.adiengineering.com/products/minnowboard-turbot-duale/
  * http://wiki.minnowboard.org/MinnowBoard_Turbot
 
+### TFT kedai do not buy it - not compatible with fbtft
+ * https://www.raspberrypi.org/forums/viewtopic.php?f=44&t=124961&start=200
+ * https://github.com/lzto/RaspberryPi_KeDei_35_lcd_v62
+ * https://github.com/FREEWING-JP/tinydrm/tree/feature/kedei_35_v50/kedei_35_lcd_v50
+ * https://frec.pl/blog/compiling-custom-raspberry-pi-kernel-with-kedei-35/
+ * https://johan.ehnberg.net/raspberry-pi-tft-kedei-3-5-touchscreen-v2/
+ 
+### Other TFT compatible with fbtft
+ * https://appdictive.dk/blog/projects/2015/10/30/cheap_tft_display_on_raspberry_pi/
+ 
