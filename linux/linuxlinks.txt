@@ -1,5 +1,7 @@
 ### UBUNTU
  - https://thishosting.rocks/ubuntu-18-04-new-features-release-date/
+ - https://www.dell.com/support/article/pl/pl/pldhs1/sln298431/a-guide-to-nvidia-optimus-on-dell-pcs-with-an-ubuntu-operating-system?lang=en
+ - https://askubuntu.com/questions/941077/screen-tearing-on-nvidia-gtx960m
 
 ### New ideas - dockers
  - https://www.quora.com/Are-there-browser-based-server-side-IDEs-like-RStudio-Server-for-Python-Matlab-C++-Java
