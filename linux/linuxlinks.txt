@@ -1,5 +1,7 @@
+### UBUNTU
+ - https://thishosting.rocks/ubuntu-18-04-new-features-release-date/
 
-###New ideas - dockers
+### New ideas - dockers
  - https://www.quora.com/Are-there-browser-based-server-side-IDEs-like-RStudio-Server-for-Python-Matlab-C++-Java
  - http://blog.zenika.com/2015/06/15/Docker-meets-the-IDE/
  - https://github.com/tomwillfixit/unity3d
@@ -13,14 +15,14 @@
  - https://github.com/ONLYOFFICE/Docker-DocumentServer
  - https://github.com/pwasiewi/dokerz/tree/master/rstudio
 
-###GRY 
+### GRY 
  - http://www.minetest.net/
  - http://wiki.minetest.net/List_of_Subgames
  - http://uberi.mesecons.net/
  - http://wiki.minetest.net/Mods/basic_robot
  - http://www.makeagamefree.com/
 
-###MINETEST INTERNALS
+### MINETEST INTERNALS
  - http://wiki.minetest.net/Server_commands
  - http://wiki.minetest.net/Main_Page
  - http://dev.minetest.net/Global_Minetest_object
@@ -32,7 +34,7 @@
  - https://www.tutorialspoint.com/lua/index.htm
  - https://www.lua.org/manual/5.3/
  
-###minetest plugins for linux
+### minetest plugins for linux
 
 ```
 emerge =minetest-9999 =minetest_game-9999 #install minetest for Gentoo linux
