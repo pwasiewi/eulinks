@@ -7,10 +7,11 @@
  * https://blog.tartanllama.xyz/sycl/
  * http://deep-beta.co.uk/setting-up-tensorflow-with-opencl-using-sycl/
 
-### md5
+### md5 and so on
  * https://blog.jfo.click/advent-of-learning-about-md5-and-opencl/
  * https://www.mscs.dal.ca/~selinger/md5collision/
  * https://blog.thireus.com/cracking-story-how-i-cracked-over-122-million-sha1-and-md5-hashed-passwords/
+ * https://www.question-defense.com/2010/08/15/automated-password-cracking-use-oclhashcat-to-launch-a-fingerprint-attack
 
 ### tutorials and lectures
  - https://streamhpc.com/knowledge/for-developers/tutorials/
