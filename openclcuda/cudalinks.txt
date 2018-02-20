@@ -7,6 +7,9 @@
  * https://blog.tartanllama.xyz/sycl/
  * http://deep-beta.co.uk/setting-up-tensorflow-with-opencl-using-sycl/
 
+### md5
+ * https://blog.jfo.click/advent-of-learning-about-md5-and-opencl/
+
 ### tutorials and lectures
  - https://streamhpc.com/knowledge/for-developers/tutorials/
  - http://web.engr.oregonstate.edu/~mjb/cs575/
