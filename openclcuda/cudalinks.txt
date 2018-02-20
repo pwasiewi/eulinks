@@ -10,6 +10,7 @@
 ### md5
  * https://blog.jfo.click/advent-of-learning-about-md5-and-opencl/
  * https://www.mscs.dal.ca/~selinger/md5collision/
+ * https://blog.thireus.com/cracking-story-how-i-cracked-over-122-million-sha1-and-md5-hashed-passwords/
 
 ### tutorials and lectures
  - https://streamhpc.com/knowledge/for-developers/tutorials/
