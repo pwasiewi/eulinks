@@ -1,3 +1,8 @@
+## shadertoy
+ * https://www.shadertoy.com
+ * https://www.youtube.com/watch?v=0ifChJ0nJfM
+
+
 ## R imager
  - https://cran.r-project.org/web/packages/imager/vignettes/gettingstarted.html
  - https://dahtah.github.io/imager/
