@@ -6,6 +6,10 @@
 ### sycl
  * https://blog.tartanllama.xyz/sycl/
  * http://deep-beta.co.uk/setting-up-tensorflow-with-opencl-using-sycl/
+ 
+### container
+ - https://andre-ratsimbazafy.com/cuda-gpu-passthrough-to-a-lxc-container/8/
+ - https://stackoverflow.com/questions/25185405/using-gpu-from-a-docker-container
 
 ### md5 and so on
  * https://blog.jfo.click/advent-of-learning-about-md5-and-opencl/
