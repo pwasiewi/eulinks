@@ -13,6 +13,13 @@
  - http://shop.fidesmo.com/products
  - https://twofactorauth.org/
 
+### MD5 SHA1
+ - https://blog.jfo.click/advent-of-learning-about-md5-and-opencl/
+ - https://www.mscs.dal.ca/~selinger/md5collision/
+ - https://blog.thireus.com/cracking-story-how-i-cracked-over-122-million-sha1-and-md5-hashed-passwords/
+ - https://www.question-defense.com/2010/08/15/automated-password-cracking-use-oclhashcat-to-launch-a-fingerprint-attack
+ - 
+
 ### MINING
  - https://www.bestvpn.com/ethereum-mining/
  - https://etherscan.io/ether-mining-calculator
