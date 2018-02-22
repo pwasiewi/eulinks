@@ -25,6 +25,7 @@
  - https://www.funtoo.org/LXD
  - https://stgraber.org/2016/03/11/lxd-2-0-blog-post-series-012/
  - https://bayton.org/docs/linux/lxd/lxd-zfs-and-bridged-networking-on-ubuntu-16-04-lts/
+ - https://bayton.org/docs/linux/lxd/lxd-zfs-and-bridged-networking-on-ubuntu-16-04-lts/
  
 #### Materiały w pdf
  - http://www.phenoelit.org/stuff/papers.html
