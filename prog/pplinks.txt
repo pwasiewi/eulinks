@@ -50,6 +50,8 @@ preferencji.
 ## C++
  * https://theboostcpplibraries.com/
  * [Nowe C++ 14](https://github.com/pwasiewi/cppnow_presentations_2014)
+ - [Blog C++17](http://www.bfilipek.com/)
+ - https://tech.io/playgrounds/2205/7-features-of-c17-that-will-simplify-your-code/introduction
  * http://coliru.stacked-crooked.com/a/42c27365c74cca39
  * http://www.freeprogrammingresources.com/cppbooks.html
  * https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#c-1
