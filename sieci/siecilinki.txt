@@ -22,6 +22,7 @@
  - http://big-elephants.com/2015-09/virtual-public-network-setup-with-gentoo-and-kvm/
  - http://www.oops.co.at/blog/kvm-setting-up-network-bridging-with-systemd-on-gentoo
  - https://www.funtoo.org/LXC_Fun
+ - https://www.funtoo.org/LXD
  
 #### Materiały w pdf
  - http://www.phenoelit.org/stuff/papers.html
