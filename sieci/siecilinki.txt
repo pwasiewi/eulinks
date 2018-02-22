@@ -23,6 +23,7 @@
  - http://www.oops.co.at/blog/kvm-setting-up-network-bridging-with-systemd-on-gentoo
  - https://www.funtoo.org/LXC_Fun
  - https://www.funtoo.org/LXD
+ - https://stgraber.org/2016/03/11/lxd-2-0-blog-post-series-012/
  
 #### Materiały w pdf
  - http://www.phenoelit.org/stuff/papers.html
