@@ -4,6 +4,9 @@
  - https://deepmind.com/blog/deepmind-and-blizzard-open-starcraft-ii-ai-research-environment/
  - https://codesachin.wordpress.com/2015/11/28/self-organizing-maps-with-googles-tensorflow/
 
+##### Prolog
+ - http://jmvanel.free.fr/ai/prolog-getting-started.html
+
 ##### Books and tutors about R 
  - https://msperlin.github.io/pafdR/
  - http://prokulski.net/index.php/2017/08/30/jak-nauczyc-sie-r-co-czytac/
