@@ -4,9 +4,12 @@
  - https://deepmind.com/blog/deepmind-and-blizzard-open-starcraft-ii-ai-research-environment/
  - https://codesachin.wordpress.com/2015/11/28/self-organizing-maps-with-googles-tensorflow/
 
-##### Prolog
+##### Prolog, Haskell
  - http://jmvanel.free.fr/ai/prolog-getting-started.html
  - https://www.cpp.edu/~jrfisher/www/prolog_tutorial/contents.html
+ - http://propella.blogspot.com/2009/04/prolog-in-haskell.html
+ - https://wiki.haskell.org/Logic_programming_example
+ 
 
 ##### Books and tutors about R 
  - https://msperlin.github.io/pafdR/
