@@ -6,6 +6,7 @@
 
 ##### Prolog
  - http://jmvanel.free.fr/ai/prolog-getting-started.html
+ - https://www.cpp.edu/~jrfisher/www/prolog_tutorial/contents.html
 
 ##### Books and tutors about R 
  - https://msperlin.github.io/pafdR/
