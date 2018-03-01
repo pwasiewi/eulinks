@@ -15,6 +15,9 @@
  - https://try.kotlinlang.org
  - https://www.raywenderlich.com/168038/common-design-patterns-android-kotlin
  - https://github.com/dbacinski/Design-Patterns-In-Kotlin
+ - https://github.com/ReactiveX/RxKotlin
+ - https://medium.freecodecamp.org/rxandroid-and-kotlin-part-1-f0382dc26ed8
+ - http://kotlinlang.org/docs/tutorials/kotlin-android.html
  
 
 
