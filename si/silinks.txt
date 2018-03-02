@@ -47,6 +47,7 @@
 
 ### case study
  - http://www.rmdk.ca/boosting_forests_bagging.html
+ - https://rpubs.com/chengjiun/52658
 
 ### do projektu Sztuczna Inteligencja na Arduino - Fuzzy Logic
  - http://www.zerokol.com/2012/09/arduinofuzzy-fuzzy-library-for-arduino.html
