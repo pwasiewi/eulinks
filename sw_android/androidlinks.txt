@@ -18,7 +18,7 @@
  - https://github.com/ReactiveX/RxKotlin
  - https://medium.freecodecamp.org/rxandroid-and-kotlin-part-1-f0382dc26ed8
  - http://kotlinlang.org/docs/tutorials/kotlin-android.html
- 
+ - https://github.com/mcxiaoke/awesome-kotlin
 
 
 ###New ideas - dockers
