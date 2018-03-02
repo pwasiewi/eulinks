@@ -19,6 +19,7 @@
  - https://medium.freecodecamp.org/rxandroid-and-kotlin-part-1-f0382dc26ed8
  - http://kotlinlang.org/docs/tutorials/kotlin-android.html
  - https://github.com/mcxiaoke/awesome-kotlin
+ - https://blog.kotlin-academy.com/the-character-of-kotlin-a72193b822a8
 
 
 ###New ideas - dockers
