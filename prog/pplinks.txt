@@ -48,6 +48,8 @@ preferencji.
 
 
 ## C++
+ * https://video4h.com/video/iWvcoIKSaoc/a-tour-of-modern-c.html
+ * [Modern C++ several design patterns](https://www.youtube.com/watch?v=j9arNRRoPe8)
  * https://theboostcpplibraries.com/
  * [Nowe C++ 14](https://github.com/pwasiewi/cppnow_presentations_2014)
  - [Blog C++17](http://www.bfilipek.com/)
