@@ -20,7 +20,7 @@
  - http://kotlinlang.org/docs/tutorials/kotlin-android.html
  - https://github.com/mcxiaoke/awesome-kotlin
  - https://blog.kotlin-academy.com/the-character-of-kotlin-a72193b822a8
-
+ - http://docs.paralleluniverse.co/quasar/
 
 ###New ideas - dockers
  - http://blog.zenika.com/2015/06/15/Docker-meets-the-IDE/
