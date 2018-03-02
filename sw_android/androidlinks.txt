@@ -19,6 +19,7 @@
  - https://www.raywenderlich.com/170233/reactive-programming-rxandroid-kotlin-introduction
  - https://medium.freecodecamp.org/rxandroid-and-kotlin-part-1-f0382dc26ed8
  - http://rxmarbles.com/
+ - http://adavis.info/2017/07/using-rxbinding-with-kotlin-and-rxjava2.html
  - http://kotlinlang.org/docs/tutorials/kotlin-android.html
  - https://github.com/mcxiaoke/awesome-kotlin
  - https://blog.kotlin-academy.com/the-character-of-kotlin-a72193b822a8
