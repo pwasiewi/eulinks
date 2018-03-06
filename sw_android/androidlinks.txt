@@ -25,6 +25,7 @@
  - https://blog.kotlin-academy.com/the-character-of-kotlin-a72193b822a8
  - http://docs.paralleluniverse.co/quasar/
  - [Reactive progrqamming](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
+ - https://github.com/kotlin/anko-example
 
 ###New ideas - dockers
  - http://blog.zenika.com/2015/06/15/Docker-meets-the-IDE/
