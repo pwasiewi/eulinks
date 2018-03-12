@@ -1,4 +1,4 @@
-###Polecenia z linii komendy 
+### Polecenia z linii komendy 
   
 ```
    #https://developer.android.com/studio/run/device.html#VendorIds
@@ -40,7 +40,7 @@
  - https://fernandocejas.com/2017/02/03/android-testing-with-kotlin/
  - https://blog.jetbrains.com/kotlin/2016/03/kotlin-educational-plugin/
 
-###New ideas - dockers
+### New ideas - dockers
  - http://blog.zenika.com/2015/06/15/Docker-meets-the-IDE/
  - https://github.com/tomwillfixit/unity3d
  - https://github.com/protomouse/godot-docker
@@ -50,23 +50,23 @@
  - https://packagecontrol.io/packages/Docker%20Based%20Build%20Systems
  - https://github.com/nickjj/sublime-text-3-packages
 
-###New libraries
+### New libraries
  - http://jakewharton.github.io/butterknife/
  - https://projectlombok.org
  - http://square.github.io/picasso/ 
  - https://github.com/Raizlabs/DBFlow
  - http://square.github.io/retrofit/
 
-###SD CARD FOR MARSHMALLOW Android 6.0
+### SD CARD FOR MARSHMALLOW Android 6.0
  - http://blog.sam.liddicott.com/2016/02/android-6-semi-adopted-storage.html
  - http://nelenkov.blogspot.com/2015/06/decrypting-android-m-adopted-storage.html
  - http://www.theandroidsoul.com/how-to-flash-supersu-using-twrp-recovery-and-root-any-android-device/
 
-###Ciekawostki
+### Ciekawostki
  - http://www.dobreprogramy.pl/Android-na-chromebookach-zaistnial-dzieki-linuksowym-kontenerom-io16,News,73364.html
  - https://www.androidpit.com/how-to-solve-google-play-store-errors
 
-###Edytory i tools
+### Edytory i tools
  - [Android Studio Tutorial](http://code.tutsplus.com/tutorials/android-sdk-working-with-android-studio--mobile-20203)
  - [Android Studio - idea intellij dla Androida](http://developer.android.com/sdk/)
  - [Genymotion - komercyjny emulator](https://www.genymotion.com)
@@ -76,7 +76,7 @@
  - [Popularna chmura](https://parse.com/docs/android_guide)
  - [Gradle tutorial (2015)](http://rominirani.com/2014/07/28/gradle-tutorial-series-an-overview/)
 
-###DEVELOPERZY i BLOGI
+### DEVELOPERZY i BLOGI
  - https://github.com/JakeWharton
  - http://antonioleiva.com/
  - [Android Devs Blog 2015](http://android-developers.blogspot.fr/)
@@ -86,7 +86,7 @@
  - http://graphics-geek.blogspot.com/
  - http://officialandroid.blogspot.com/
 
-###wykłady, GIGANTYCZNE TUTORY
+### wykłady, GIGANTYCZNE TUTORY
  - http://damianchodorek.com/lista-kursow/
  - [Free programming Android books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#android)
  - [Android Studio Game Course (2015)](https://goo.gl/vkfX7s)
@@ -105,7 +105,7 @@
  - [Official Android Developer Guide](http://developer.android.com/guide/)
  - [Spis tutoriali lollipop 5.0 po angielsku](http://www.diygenius.com/how-to-learn-android-app-development-online/)
 
-###Aplikacje opensource
+### Aplikacje opensource
  - [Lista androidowych aplikacji z otwartym kodem](http://en.wikipedia.org/wiki/List_of_open_source_Android_applications)
  - https://wiki.koumbit.net/AndroidFreeSoftware
  - [Wielka baza androidowych open sourcowych aplikacji](http://www.aopensource.com/)
@@ -114,11 +114,11 @@
  - [Barcode lib 2015](https://github.com/zxing/zxing)
  - https://github.com/cSploit/android
 
-###Web Python
+### Web Python
  - [Strona newsów w PostgreSQL i MongoDB (2016)](https://github.com/samuelclay/NewsBlur)
  - https://www.sitepoint.com/creating-mobile-application-reapp/
 
-###Przyklady, biblioteki Android
+### Przyklady, biblioteki Android
  - [Android Arsenal - zbiór bibliotek](https://android-arsenal.com/)
  - [Ranking bibliotek Androida](http://www.appbrain.com/stats/libraries/dev)
  - https://android-libs.com/
@@ -139,13 +139,13 @@
  - http://www.jpct.net/jpct-ae/index.html
  - [Scala on Android (2016)](https://github.com/pocorall/scaloid)
  
-###PYTANIA, PORADY, ANDROID4
+### PYTANIA, PORADY, ANDROID4
  - http://tools.android.com/tips/hardware-emulation
  - http://stackoverflow.com/questions/456211/activity-restart-on-rotation-android)
  - http://stackoverflow.com/questions/2881128/how-to-use-onsensorchanged-sensor-data-in-combination-with-opengl)
  - [Android Wear Send Data](http://www.androprogrammer.com/2015/05/android-wear-how-to-send-data-from.html)
 
-###C SDL android
+### C SDL android
  - https://github.com/libSDL2pp/libSDL2pp
  - http://lazyfoo.net/tutorials/SDL/index.php
  - https://wiki.libsdl.org/Android
@@ -155,10 +155,10 @@
  - http://stackoverflow.com/questions/7223349/android-ndk-sigill-crash-on-fpu-instruction-on-armv6-device
  - http://stackoverflow.com/questions/7080525/why-use-armeabi-v7a-code-over-armeabi-code)
 
-###C++ cocos2d-x
+### C++ cocos2d-x
  - https://github.com/cocos2d/cocos2d-x
 
-###GRY
+### GRY
  - [Spis gier Android na Githubie](https://github.com/leereilly/games)
  - https://github.com/watabou/pixel-dungeon
  - https://github.com/zsoltk/GameOfLife
@@ -175,7 +175,7 @@
  - https://github.com/Zukero/andors-trail
  - http://tmtg.net/
 
-###SILNIKI GIER
+### SILNIKI GIER
  - http://flixel-gdx.com/
  - https://github.com/flixel-gdx/flixel-gdx
  - https://github.com/flixel-gdx/flixel-gdx-examples
@@ -184,15 +184,15 @@
  - https://github.com/Rajawali/Rajawali
  - https://github.com/portmobile/LAGP-Example-Code
 
-###LIBGDX
-####libgdx kurs po polsku - kółko i krzyżyk -
+### LIBGDX
+#### libgdx kurs po polsku - kółko i krzyżyk -
  - [Polski
    Tutor](https://www.youtube.com/playlist?list=PLFq6ri1W22hyyGVo7pmTMstd-pZWZBmRg)
  - [libgdx gamedev artykuły po polsku](https://forum.gamedev.pl/c/artykuly)
  - [libgdx gra po polsku - kółko i krzyżyk](http://www.gamedev.pl/txt/wstep-do-libgdx)
  - https://github.com/kotcrab?tab=repositories
  
-####Tutoriale, wykłady, blogi o libgdx po angielsku:
+#### Tutoriale, wykłady, blogi o libgdx po angielsku:
  - [Udacity 2D gra wykład](https://github.com/udacity/ud405)
  - [Udacity 2D gra wykład cd](https://github.com/udacity/ud406)
  - [Najlepsze tutoriale po
@@ -214,7 +214,7 @@
  - http://www.badlogicgames.com/wordpress/?category_name=libgdx-tutorial)
  - [libgdx kilobolt gra po angielsku](http://www.kilobolt.com/unit-1-building-the-game.html)
  
-####czyli w rozwinięciu:
+#### czyli w rozwinięciu:
  - http://www.kilobolt.com/day-1-flappy-bird---an-in-depth-analysis.html
  - http://www.kilobolt.com/day-2-setting-up-libgdx.html
  - http://www.kilobolt.com/day-3-understanding-the-libgdx-framework.html
@@ -233,7 +233,7 @@
  - http://williammora.com/a-running-game-with-libgdx-part-4/
  - http://williammora.com/a-running-game-with-libgdx-part-5/
  
-####Pytania libgdx:
+#### Pytania libgdx:
  - http://www.badlogicgames.com/wordpress/?p=2032)
  - http://stackoverflow.com/questions/2680827/conversion-to-dalvik-format-failed-with-error-1-on-external-jar)
  - http://www.csc.kth.se/utbildning/kth/kurser/DD143X/dkand11/Group7Henrik/Rakiv.Ahmed.Jonas.Aule.report.pdf)
@@ -243,7 +243,7 @@
  - http://stackoverflow.com/questions/2256884/android-device-chooser-device-not-showing-up)
 
 
-###skompilowane androidy
+### skompilowane androidy
  - http://wiki.cyanogenmod.org/w/Devices
  - http://wiki.cyanogenmod.org/w/Unofficial_Ports
  - http://source.android.com/source/downloading.html
@@ -251,7 +251,7 @@
  - http://wiki.cyanogenmod.com/wiki/Latest_Version
  - http://www.teamandroid.com/gapps/
 
-###Lua in Android
+### Lua in Android
  - [Lua in Android (2012)](http://dotnetslackers.com/articles/mobile/Integrate-Lua-into-Your-Android-Games.aspx)
  - http://love2d.org/
  - http://lua-users.org/wiki/LuaDistributions
@@ -260,25 +260,25 @@
  - http://www.raywenderlich.com/31081/how-to-make-a-simple-game-with-moai
  - http://www.lgdb.org/game/ortho_robot
  
-###renderscript (już przestarzały w 4.1, tylko do obliczeń na CPU)
+### renderscript (już przestarzały w 4.1, tylko do obliczeń na CPU)
  - http://developer.android.com/guide/topics/renderscript/compute.html
 
-###Algorytmy
+### Algorytmy
  - http://rosettacode.org/wiki/Rosetta_Code
  - http://rosettacode.org/wiki/Help:Similar_Sites
  - http://en.wikipedia.org/wiki/Viterbi_algorithm
  
-###Blender - kurs po polsku
+### Blender - kurs po polsku
  - http://michalis.ii.uni.wroc.pl/~michalis/teaching/blender/
 
-###silniki gier komercyjne i zamkniętym kodem 
+### silniki gier komercyjne i zamkniętym kodem 
  - http://unity3d.com/unity/
  - [Przykłady z kodem Unity](http://danim.tv/blog/archives/unity3d-source-code-example/)
  - http://answers.unity3d.com/index.html
  - [UE4 youtube tutorial](https://www.youtube.com/watch?v=QMsFxzYzFJ8&list=PLZlv_N0_O1gaCL2XjKluO7N2Pmmw9pvhE&index=1)
  - [Kurs UE4](http://goo.gl/fs2S8S)
 
-###OpenGLES
+### OpenGLES
  - http://www.songho.ca/opengl/gl_transform.html
  - http://www.opengl-tutorial.org/
  - http://aklimx.sppieniezno.pl/nehepl/display.php?id=1 
@@ -302,7 +302,7 @@
  - http://en.wikipedia.org/wiki/Wavefront_.obj_file)
  - [C++ konwersja RGB HSV](http://lol.zoy.org/blog)
 
-#STARE MATERIAŁY - TUTORIALE
+# STARE MATERIAŁY - TUTORIALE
  - [Wykład na youtube: Damiarias Rodriguez (2014)](http://www.youtube.com/playlist?list=PL9E21BFF408167ED6)
  - [Filmy developerów Google](http://www.youtube.com/user/androiddevelopers/videos)
  - [25 kursów Anroida 2012](http://www.freewaregenius.com/twenty-five-free-online-tutorials-for-learning-android-programming/)
@@ -325,195 +325,3 @@
  - [Blog i kilka opensourceowych programów 2013](http://mobilepearls.com/labs/)
  - [Otwartoźródłowy program z kostką](http://code.google.com/p/bite-the-dice)
  
-
-
-
-###Kursy Javy po polsku:
- * http://javastart.pl/podstawy-jezyka/)
- * http://javaprogramming.awardspace.com/index.php?pokaz=kurs)
- * http://naukajavy.pl/kurs-jezyka-java)
- * http://software.com.pl/kurs-programowania-java-czesc-i-ii-i-iii/)
- * http://www.staff.amu.edu.pl/~psi/informatyka/java/kurs/kurs.html)
- * http://pl.wikibooks.org/wiki/Programowanie:Java)
- * http://pl.wikibooks.org/wiki/Java)
- * http://aspiryna.net/category/programowanie/java/)
- * http://agaykhan.republika.pl/javastart.html)
- * http://www.zsme.tarnow.pl/killer/html/kurs.htm)
-
-###Książki Java:
- * http://www.webdeveloper.pl/manual_java/)
- * http://helion.pl/ksiazki/praktyczny-kurs-java-wydanie-iii-marcin-lis,pkjav3.htm)
-
-###Video Kursy:
- * http://sdjournal.org/kursy-video)
- 
-###Video Java dla opornych:
- * http://www.youtube.com/watch?v=8stFGEMs7sg)
- * http://www.youtube.com/watch?v=hd8zD6Q55qM)
- * http://www.youtube.com/watch?v=SaFf9s_QgRA)
- * http://www.youtube.com/watch?v=sbqxXuTyygo)
- * http://www.youtube.com/watch?v=I1qTXwFhMhg)
- * http://www.youtube.com/watch?NR=1&v=EfVLMmVuxKU)
- * [tu blad na koncu liczba calkowita integer nie ma czesci ulamkowej](http://www.youtube.com/watch?v=xUIqNPeIeeA)
- * http://www.youtube.com/watch?v=0Um94CxSjZA)
- * http://www.youtube.com/watch?v=HkX_2w4QMSs)
- * http://www.youtube.com/watch?v=L5un9tlUIk0)
- * http://www.youtube.com/watch?v=88Bx9pAcQLY)
- * http://www.youtube.com/watch?v=uuieisA61Jo)
- * [klasy](http://www.youtube.com/watch?v=pFr3EdO1YDI)
- * http://www.youtube.com/watch?v=ZgypUlLaajc)
- * http://www.youtube.com/watch?v=_lhXFewk0Oc)
- * [konstruktory](http://www.youtube.com/watch?v=3cpGgV6Mh-k)
- * http://www.youtube.com/watch?v=inqrELxBwjY)
- * http://www.youtube.com/watch?v=bb1NFAbRvLM)
- * http://www.youtube.com/watch?v=Ou-uSwWHmfg)
- * http://www.youtube.com/watch?v=M1ltjIzDCqk)
- * http://www.youtube.com/watch?v=Z6aqu7fAhBk)
- * http://www.youtube.com/watch?v=Yls_Ygrl9aQ)
- * http://www.youtube.com/watch?v=ZIE4Fy2iyhg)
- * http://www.youtube.com/watch?v=GteZd0_77W8)
- * http://www.youtube.com/watch?v=2xpBK1C3KyU)
- * http://www.youtube.com/watch?v=z4Ay88qsbqQ)
- * http://www.youtube.com/watch?v=Tk-Tf4mLptM)
- * http://www.youtube.com/watch?v=4_lS8N5mYTk)
- * http://www.youtube.com/watch?v=NR2GLazGk78)
- * [tablice wielowymiarowe](http://www.youtube.com/watch?v=lMOJY0Gpe1k)
- * [zmienna liczba argumentów](http://www.youtube.com/watch?v=UUSJkEYCNr4)
- * [private, public, this](http://www.youtube.com/watch?v=8fEF8dLcagU)
- * [przeciążenie konstruktorów](http://www.youtube.com/watch?v=Ly25ffl-iZc)
- * [static](http://www.youtube.com/watch?NR=1&v=_PxVrzd_gtQ)
- * [dziedziczenie - BARDZO WAZNY!](http://www.youtube.com/watch?NR=1&v=HrJUqutV8qA)
- * [rekurencja](http://www.youtube.com/watch?v=P7F9BLY_awo)
- * [metody generyczne](http://www.youtube.com/watch?v=p4Bd5B8jQqU)
-
-
-###Kurs Javy po angielsku, ale bdb:)
- * http://math.hws.edu/javanotes/)
- * http://java.sun.com/docs/books/tutorial/)
- * http://www.javaranch.com/)
- * http://www.javapassion.com/portal/)
-
-###Książki o Javie po angielsku:)
- * http://www.mindviewinc.com/Books/)
-
-##inne
- * http://iphonedevelopment.blogspot.com/)
-
-###JAVA
- * http://pl.wikipedia.org/wiki/Java)
- * http://pl.wikibooks.org/wiki/Java)
- * http://en.wikibooks.org/wiki/Java)
- * http://zetcode.com/tutorials/javaswingtutorial)
- * http://zetcode.com/gui/javaswt/)
- * http://docs.oracle.com/javase/tutorial/java/concepts/interface.html)
- * http://www.java2s.com/Code/Java/Language-Basics/Implementmultipleinterfaces.htm)
- * http://www.codemiles.com/java-examples/java-interface-example-t3505.html)
- * http://en.wikipedia.org/wiki/Method_overriding)
- * http://www.vogella.com/articles/JavaConcurrency/article.html)
- * http://en.wikipedia.org/wiki/Java_concurrency)
- * http://docs.oracle.com/javase/tutorial/essential/concurrency/index.html)
- * http://www.oracle.com/technetwork/articles/java/fork-join-422606.html)
- * http://rashidnoorani.blogspot.com/2012/08/how-to-use-fork-join-framework-features.html)
- * http://stackoverflow.com/questions/171952/is-there-a-destructor-for-java)
- * http://education.wikia.com/wiki/PWr_-_Programowanie_obiektowe)
- * http://wazniak.mimuw.edu.pl/index.php?title=PO_Obiektowe_modelowanie_dziedziny)
- * http://wazniak.mimuw.edu.pl/index.php?title=PO_Wprowadzenie_do_programowania_obiektowego)
- * http://wazniak.mimuw.edu.pl/index.php?title=PO_Klasy_i_kapsu%C5%82kowanie)
- * http://wazniak.mimuw.edu.pl/index.php?title=PO_Dziedziczenie_i_interfejsy)
-
-
-###HTTPD  JAVA
- * http://code.google.com/p/spark-java)
-- git clone git://github.com/perwendel/spark.git)
- * http://wiki.eclipse.org/Jetty/Tutorial/Embedding_Jetty)
- * http://kcd.sytes.net/articles/simple_web_server.php)
- * http://simple.sourceforge.net/)
- * http://sourceforge.net/projects/winstone/)
- * http://winstone.sourceforge.net/)
- * http://tjws.sourceforge.net/)
- * http://stackoverflow.com/questions/1186328/embedded-http-server-in-swing-java-app)
- * http://scalatra.org/)
-
-###FORK JAVA
- * http://www.oracle.com/technetwork/articles/java/fork-join-422606.html)
- * http://docs.oracle.com/javase/tutorial/essential/concurrency/forkjoin.html)
- * http://jaceklaskowski.pl/prezentacje/JacekLaskowski-EclipseDemoCamp2011-ConcurrencyUtilitiesJava7-2011.11.08.pdf)
- * http://akuma.kohsuke.org/)
- * http://www.javacodegeeks.com/2011/02/java-forkjoin-parallel-programming.html)
-
-###THREADS
- * http://pl.wikipedia.org/wiki/W%C4%85tek_%28informatyka%29)
-
-###THREAD JAVA
- * http://kodatnik.blogspot.com/2011/06/watki-w-javie-podstawy.html)
- * http://sourceforge.net/projects/javaconcurrenta/?source=dlp)
-
-###SHELL JAVA
- * http://code.google.com/p/cliche/)
-
-
-
-###Video Kursy:
- * http://sdjournal.org/kursy-video)
-
-###Kurs Javy po angielsku, ale bdb:
- * http://math.hws.edu/javanotes/)
- * http://java.sun.com/docs/books/tutorial/)
- * http://www.javaranch.com/)
- * http://www.javapassion.com/portal/)
- * http://viralpatel.net/blogs/lambda-expressions-java-tutorial/)
-
-###Java8
- * http://www.oracle.com/webfolder/technetwork/tutorials/obe/java/Lambda-QuickStart/index.html)
- * http://www.coreservlets.com/java-8-tutorial/)
- * http://viralpatel.net/blogs/lambda-expressions-java-tutorial/)
- * http://www.informit.com/articles/article.aspx?p=2191423&seqNum=2)
- * http://cr.openjdk.java.net/~briangoetz/lambda/lambda-state-final.html)
- * http://www.oreilly.com/pub/e/3038)
- * http://stuartmarks.wordpress.com/2014/06/04/java-8-lambda-and-streams-overview/)
- * http://bit.ly/1eZv11J)
- * http://www.infoq.com/presentations/lambda-streams-java-8?utm_source=infoq&utm_medium=slideshare&utm_campaign=slidesharelondon)
- * http://openjdk.java.net/projects/sumatra/)
- * https://code.google.com/p/aparapi/)
- * https://github.com/pcpratts/rootbeer1)
- * http://www.drdobbs.com/jvm/lambda-expressions-in-java-8/240166764)
- * http://jlaskowski.blogspot.com/2014/04/o-javautilstream-przez-przykadzik-z.html)
- * http://www.slideshare.net/jaceklaskowski/stackoverflow-github-twitter-reddit-i-twj-profesjonalny-rozwj)
- * http://jaxenter.com/ten-subtle-best-practices-when-coding-java-108043.html)
- * http://blog.informatech.cr/2013/03/24/java-streams-preview-vs-net-linq/)
- * http://blog.informatech.cr/2013/03/11/java-infinite-streams/)
- * http://blog.informatech.cr/2013/04/10/java-optional-objects/)
- * http://blog.informatech.cr/2013/03/25/java-streams-api-preview/)
- * http://cr.openjdk.java.net/~briangoetz/lambda/sotc3.html)
- * http://java.dzone.com/articles/introduction-functional-1)
- * http://www.infoq.com/articles/forkjoin-to-parallel-streams)
- * http://www.baeldung.com/java-8-sort-lambda)
- * https://www.youtube.com/watch?v=fHqTRENbpTs //streams ruppert)
-
-###java8 in Android
- * http://zserge.com/blog/android-lambda.html)
- * http://zserge.com/blog/gradle-maven-publish.html)
-
-###JavaEE
- * http://jaxenter.com/ten-subtle-best-practices-when-coding-java-108043.html)
- * http://zeroturnaround.com/rebellabs/the-curious-coders-java-web-frameworks-comparison-spring-mvc-grails-vaadin-gwt-wicket-play-struts-and-jsf/2/)
- * http://vschart.com/compare/node-js/vs/spring-framework)
- * http://www.oracle.com/technetwork/java/javaee/documentation/index-137726.html)
- * http://www.vogella.com/articles/JavaServerFaces/article.html)
- * http://myfaces.apache.org/docindex.html)
-
-###Parallel Problems
- * http://adit.io/posts/2013-05-11-The-Dining-Philosophers-Problem-With-Ron-Swanson.html)
- * http://coopsoft.com/ar/Calamity2Article.html)
-
-###Książki o Javie po angielsku:
- * http://www.mindviewinc.com/Books/)
-
-###Design Pattenrs in Java
- * http://www.tutorialspoint.com/design_pattern/)
- * http://en.wikipedia.org/wiki/Software_design_pattern)
- * http://refcardz.dzone.com/refcardz/design-patterns)
- * http://www.caveofprogramming.com/youtube/)
- * http://stackoverflow.com/questions/382623/what-are-your-3-most-important-programming-patterns-and-why)
- * http://stackoverflow.com/questions/2395315/most-important-and-frequently-used-design-patterns)
-                                                            
