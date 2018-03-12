@@ -13,6 +13,7 @@
 
 ### Kotlin
  - https://try.kotlinlang.org
+ - https://github.com/kotlin/anko-example
  - https://www.raywenderlich.com/168038/common-design-patterns-android-kotlin
  - https://github.com/dbacinski/Design-Patterns-In-Kotlin
  - https://github.com/ReactiveX/RxKotlin
@@ -25,7 +26,7 @@
  - https://blog.kotlin-academy.com/the-character-of-kotlin-a72193b822a8
  - http://docs.paralleluniverse.co/quasar/
  - [Reactive progrqamming](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
- - https://github.com/kotlin/anko-example
+ - https://www.youtube.com/watch?v=Org0vh-VSgA&list=PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh
 
 ###New ideas - dockers
  - http://blog.zenika.com/2015/06/15/Docker-meets-the-IDE/
