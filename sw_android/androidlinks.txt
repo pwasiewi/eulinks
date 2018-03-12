@@ -12,9 +12,12 @@
 ```
 
 ### Kotlin
+ - [Kurs Kotlina po polsku na youtube](https://www.youtube.com/watch?v=lPv0_Gc2wcc&index=2&list=PLCANL9WHTsiGeQzn72AUU6FH3p3aoAiMM)
  - https://try.kotlinlang.org
  - https://github.com/kotlin/anko-example
+ - https://github.com/nekocode/Kotlin-Android-Template
  - https://www.raywenderlich.com/168038/common-design-patterns-android-kotlin
+ - https://android.jlelse.eu/learn-kotlin-while-developing-an-android-app-introduction-567e21ff9664
  - https://github.com/dbacinski/Design-Patterns-In-Kotlin
  - https://github.com/ReactiveX/RxKotlin
  - https://www.raywenderlich.com/170233/reactive-programming-rxandroid-kotlin-introduction
@@ -27,6 +30,13 @@
  - http://docs.paralleluniverse.co/quasar/
  - [Reactive progrqamming](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
  - https://www.youtube.com/watch?v=Org0vh-VSgA&list=PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh
+ - http://nilhcem.com/swift-is-like-kotlin/
+ - https://antonioleiva.com/category/blog/
+ - https://learnxinyminutes.com/docs/kotlin/
+ - https://blog.jetbrains.com/kotlin/
+ - https://developer.android.com/kotlin/get-started.html
+ - https://fernandocejas.com/2017/02/03/android-testing-with-kotlin/
+ - https://blog.jetbrains.com/kotlin/2016/03/kotlin-educational-plugin/
 
 ###New ideas - dockers
  - http://blog.zenika.com/2015/06/15/Docker-meets-the-IDE/
