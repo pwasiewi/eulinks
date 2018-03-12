@@ -3,6 +3,7 @@
  - https://www.cybrary.it/
 
 ### kontenery i inne
+ - https://insights.ubuntu.com/2016/08/15/lunch-learn-with-openstack-containers
  - https://www.nsnam.org/wiki/HOWTO_Use_Linux_Containers_to_set_up_virtual_networks
  - http://big-elephants.com/2015-09/virtual-public-network-setup-with-gentoo-and-kvm/
  - http://www.oops.co.at/blog/kvm-setting-up-network-bridging-with-systemd-on-gentoo
