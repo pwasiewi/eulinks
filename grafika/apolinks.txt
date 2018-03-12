@@ -1,7 +1,17 @@
 ## shadertoy
  * https://www.shadertoy.com
+ * http://pirron.one/playingincanvas/texture-masks-using-shader
+ * http://pirron.one/playingincanvas/color-palettes-using-shaders
  * https://www.youtube.com/watch?v=0ifChJ0nJfM
-
+ * https://www.shadertoy.com/view/Md23DV
+ * https://www.shadertoy.com/results?query=tag%3Dtutorial
+ * https://www.youtube.com/watch?v=dKA5ZVALOhs
+ * https://www.youtube.com/watch?v=u5HAYVHsasc
+ * https://gamedevelopment.tutsplus.com/tutorials/a-beginners-guide-to-coding-graphics-shaders--cms-23313
+ * https://www.defold.com/tutorials/shadertoy/
+ * https://support.troikatronix.com/support/solutions/articles/13000025645-glsl-shader-actor-tutorial
+ * https://en.wikibooks.org/wiki/Fractals/shadertoy
+ * http://dent.readthedocs.io/en/latest/tutorial-shadertoy.html
 
 ## R imager
  - https://cran.r-project.org/web/packages/imager/vignettes/gettingstarted.html
@@ -11,8 +21,6 @@
  - https://www.stoltzmaniac.com/facial-recognition-in-r/
  - https://github.com/stoltzmaniac/ML-Image-Processing-R
  - http://rpubs.com/sjmgarnier/videoplayR
-
-
  
 ## Python Opencv
  - https://pythonprogramming.net/loading-images-python-opencv-tutorial/
