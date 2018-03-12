@@ -19,6 +19,7 @@
  * http://www.mkyong.com/all-tutorials-on-mkyong-com/
  * http://blog.reachvikas.com/2014/05/How-To-Create-A-GitHub-Blog/
  * https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md
+ * https://4programmers.net/Forum/Webmastering/284635-ciekawe_skrypty_do_frontu
 
 ### nodejs 
  * http://dailyjs.com/2010/11/01/node-tutorial/
