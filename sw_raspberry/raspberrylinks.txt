@@ -5,6 +5,12 @@
  - https://techfreak.pl/
  - http://hobbyspace.pl/category/raspberry-pi/
 
+### Hack mobile raspberry wifi
+ - https://hackaday.com/2016/09/08/nexmon-turns-nexus-5-and-rpi3-into-wifi-toolkit/
+ - https://build.nethunter.com/nightly/
+ - https://github.com/seemoo-lab/nexmon
+ - https://github.com/seemoo-lab/bcm-rpi3
+ 
 ### RPI docker
  - http://blog.hypriot.com/getting-started-with-docker-on-your-arm-device/
 

@@ -1,0 +1,96 @@
+## Darmowe wykłady i serwisy z odpowiedziami
+ * http://www.udacity.com/
+ * https://education.10gen.com
+ * http://www.uw-team.org/videoarty.html
+ * http://www.itposter.net/ 
+ * https://github.com/vhf/free-programming-books
+ * http://9fingers.pl/
+ * http://devpytania.pl/
+ * http://www.osqa.net/
+ * http://www.digilife.be/quickreferences/indexe.html
+ 
+## Ćwiczenia
+ - https://www.reddit.com/r/dailyprogrammer/
+ - https://www.reddit.com/r/todayilearned/
+ 
+## Youtuberzy programiści - kursy!
+ - https://www.youtube.com/user/koushks/playlists
+ - https://www.youtube.com/user/caveofprogramming/playlists
+ - https://www.youtube.com/user/derekbanas/playlists
+ - https://www.youtube.com/user/phpacademy/playlists
+
+## TUTORIALE:
+ * http://www.mkyong.com/all-tutorials-on-mkyong-com/
+ * http://blog.reachvikas.com/2014/05/How-To-Create-A-GitHub-Blog/
+ * https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md
+
+
+## Uruchamiamy skrypty:
+
+python nazwa.py;
+
+Źródła z wikipedii po polsku są wstępem do lepiej dopracowanej wiki po
+angielsku (choć może nie w każdym przypadku). A ta z kolei jest wstępem 
+do dalszych pozycji, można też zacząć od czytania książek, zależy od
+preferencji.
+
+
+## OBIEKTOWE
+ * http://pl.wikipedia.org/wiki/Programowanie_obiektowe
+ * http://pl.wikibooks.org/wiki/PHP/Czym_jest_programowanie_obiektowe%3F
+
+## PYTHON
+ * http://pl.wikibooks.org/wiki/Zanurkuj_w_Pythonie
+ * http://pl.wikibooks.org/wiki/Python
+ * http://en.wikibooks.org/wiki/Python_Programming/Classes
+ * http://www.diveintopython.net/
+ * http://www.python.org/getit/
+ * http://pypi.python.org/pypi/pip
+ * http://www.lfd.uci.edu/~gohlke/pythonlibs/
+ * https://github.com/pyjs/pyjs
+ * http://kivy.org
+ * http://icodesnip.com/search/python%20packet/
+
+## HTTPD 
+ * http://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol
+ * http://www.fastcgi.com/drupal/
+ * http://en.wikipedia.org/wiki/Comparison_of_lightweight_web_servers
+ * http://www.slideshare.net/r1chardj0n3s/web-microframework-battle
+ * http://www.youtube.com/watch?v=AYjPIMe0BhA
+
+### HTTPD PYTHON
+ * http://bottlepy.org/docs/dev/tutorial_app.html
+ * http://www.marginhound.com/bottle-py-resources/
+ * http://gotofritz.net/blog/weekly-challenge/restful-python-api-bottle/
+ * http://enricorossi.org/blog/2012/python_bottle_and_ajax/
+ * http://blog.rutwick.com/use-bottle-python-framework-with-google-app-engine
+ * https://developers.google.com/appengine/docs/python/gettingstarted/helloworld?hl=pl
+ * http://www.pythondiary.com/blog/Feb.14,2012/too-many-micro-webframeworks.html
+ * http://flask.pocoo.org/docs/
+ * http://www.joemartaganna.com/web-development/how-to-build-a-web-app-using-bottle-with-jinja2-in-google-app-engine/
+ * http://fragments.turtlemeat.com/pythonwebserver.php
+ * http://www.linuxjournal.com/content/tech-tip-really-simple-http-server-python
+ * http://digitizor.com/?p=1430
+ * http://docs.mongodb.org/manual/tutorial/write-a-tumblelog-application-with-flask-mongoengine/
+
+## FORK
+ * http://pl.wikipedia.org/wiki/Fork
+
+### FORK PYTHON
+ * http://www.ibm.com/developerworks/aix/library/au-multiprocessing/
+
+## THREADS
+ * http://pl.wikipedia.org/wiki/W%C4%85tek_%28informatyka%29
+
+### THREAD PYTHON
+ * http://en.wikibooks.org/wiki/Python_Programming/Threading
+
+## SHELL
+ * http://pl.wikipedia.org/wiki/Pow%C5%82oka_systemowa
+
+### SHELL PYTHON
+ * http://www.doughellmann.com/PyMOTW/cmd/
+
+### web python
+ * http://cherrypy.org/
+ * https://github.com/mjhea0/flask-boilerplate

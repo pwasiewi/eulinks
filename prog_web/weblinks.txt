@@ -1,4 +1,4 @@
-## Darmowe wykłady
+## Darmowe wykłady i serwisy z odpowiedziami
  * http://www.udacity.com/
  * https://education.10gen.com
  * http://www.uw-team.org/videoarty.html
@@ -9,18 +9,124 @@
  * http://www.osqa.net/
  * http://www.digilife.be/quickreferences/indexe.html
  
-## PROGGRAMMERS (among them JAVA!) YOUTUBERS
+## Youtuberzy programiści - kursy!
  - https://www.youtube.com/user/koushks/playlists
  - https://www.youtube.com/user/caveofprogramming/playlists
  - https://www.youtube.com/user/derekbanas/playlists
  - https://www.youtube.com/user/phpacademy/playlists
 
-## Ćwiczenia
- - https://www.reddit.com/r/dailyprogrammer/
- - https://www.reddit.com/r/todayilearned/
- 
-### js 
- * https://egghead.io/lessons/node-js-set-up-a-basic-twitter-bot-with-twit-js
+## TUTORIALE:
+ * http://www.mkyong.com/all-tutorials-on-mkyong-com/
+ * http://blog.reachvikas.com/2014/05/How-To-Create-A-GitHub-Blog/
+ * https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md
+
+### nodejs 
+ * http://dailyjs.com/2010/11/01/node-tutorial/
+ * http://nodejs.org/
+ * http://dailyjs.com/
+ * https://cloud.google.com/solutions/mean/
+ * http://www.learn2crack.com/2014/04/android-login-registration-nodejs-server.html
+ * http://www.codemonkeez.com/2014/05/how-i-got-nodejs-and-mongodb-running-on.html
+
+### couchbase
+ * https://github.com/couchbase/Android-Couchbase 
+ * https://github.com/couchbase/couchbase-lite-android
+
+### jquery
+ * http://jquerymobile.com/resources/
+ * http://www.zachstronaut.com/projects/rotate3di/#demos
+ * http://ctoinsights.wordpress.com/2012/01/03/jquery-mobile-tutorial-part-iii-managing-data/
+ * http://www.freshdesignweb.com/jquery-javascript-popup-window.html
+ * http://johnveldboom.com/posts/38/jquery-ajax-loading-display-images-or-text-until-script-is-finished
+ * http://www.codeproject.com/Articles/661782/Three-Ways-to-Dynamically-Load-HTML-Content-into-a
+
+### PhoneGap
+ * http://mobileangularui.com/blog/your-first-phonegap-app-with-mobile-angular-ui/
+
+### JAVASCRIPT
+ * http://addyosmani.com/resources/essentialjsdesignpatterns/book/
+ * https://developer.mozilla.org/pl/docs/Web/JavaScript/dziedziczenie_lancuch_prototypow
+ * http://exploringjs.com/es6/
+ * http://exploringjs.com/es6/ch_first-steps.html#leanpub-auto-from-var-to-letconst
+ * http://burczu-programator.pl/blog/ecmascript-6-co-nowego
+ * http://www.2ality.com/2014/09/es6-modules-final.html
+ * http://stackoverflow.com/questions/29879267/es6-class-multiple-inheritance
+ * https://developer.mozilla.org/pl/docs/Web/JavaScript/Inheritance_and_the_prototype_chain
+ * http://kangax.github.io/compat-table/es6/
+ * http://www.frontendjournal.com/html5-pushstate-and-single-page-apps/
+ * http://www.sitepoint.com/understanding-ecmascript-6-class-inheritance/
+ * https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md
+ * http://www.codecademy.com/tracks/javascript
+ * http://www.hongkiat.com/blog/free-angular-ebooks/
+ * http://www.learn-angularjs-apps-projects.com/
+ * https://github.com/mjhea0/thinkful-angular
+ * https://www.airpair.com/node.js/posts/top-10-mistakes-node-developers-make
+ * http://mherman.org/blog/2015/02/12/postgresql-and-nodejs/#.VZyMzDJd7gj
+ * http://www.copterlabs.com/blog/json-what-it-is-how-it-works-how-to-use-it/
+ * http://justinklemm.com/node-js-async-tutorial/
+ * https://github.com/johnpapa/angular-styleguide
+ * https://github.com/toddmotto/angularjs-styleguide
+ * https://github.com/pgrest/pgrest
+ * https://github.com/brianc/node-postgres
+ * https://github.com/brianc/node-pg-query
+ * http://sarabinns.com/tag/passport-js-sequelize-postgresql/
+ * https://github.com/fnakstad/angular-client-side-auth
+ * https://github.com/ggoral/easy-passport-local-sequelize-express4-sample
+ * http://www.aptuz.com/blog/is-postgres-nosql-database-better-than-mongodb/
+ * http://briantford.com/blog/angular-phonegap
+ * https://github.com/EnterpriseDB/pg_nosql_benchmark
+ * http://jsbooks.revolunet.com/
+ * http://ferrante.pl/frontend/javascript/jak-swiat-webowy-uslyszal-o-17-latku-z-polski-prezentacja/
+ - http://www.mkyong.com/all-tutorials-on-mkyong-com/
+ - https://github.com/matthew-andrews/workshop-making-it-work-offline
+ - https://github.com/exalted/mdwiki-seed.git
+ - https://gist.github.com/alias1/a8c3c2fd7bf2f50ff666 - install mdwiki
+ - https://www.tumblr.com/search/MDwiki
+ - https://github.com/rstacruz/flatdoc
+
+### javascript pomoce
+ * http://ferrante.pl/frontend/javascript/jak-swiat-webowy-uslyszal-o-17-latku-z-polski-prezentacja/
+ * Książki: Eloquent javascript, Marijn Haverbeke; Illustrated Guide to the Frontend Development; Maintanable Javascript, Nicholas Zakas; Effective Javascript, Dawid Herman
+ * http://bonsaiden.github.io/JavaScript-Garden/pl/
+ * http://jstherightway.org/
+ * http://jsforcats.com/
+ * http://jsbooks.revolunet.com/
+ * http://javascript.pl/
+ * https://developer.mozilla.org/pl/
+ * http://dailyjs.com/
+ * http://www.html5rocks.com/en/
+ * http://webplatformdaily.org/
+ * http://webmastah.pl/
+ * http://codepen.io/
+ * http://dabblet.com/
+ * http://eloquentjavascript.net/
+ * http://web.archive.org/web/20110725013125/http://www.digital-web.com/articles/scope_in_javascript/
+ * http://joelhooks.com/blog/2014/02/06/stop-writing-for-loops-start-using-underscorejs/
+
+### XML XSLT
+ * https://pl.wikipedia.org/wiki/XSL_Transformations
+
+### wolnezasoby
+ * http://www.freepik.com/free-vector/retro-nautical-cruise-badges_715941.htm
+
+### jbookmarks
+ * http://stackoverflow.com/questions/18127607/jquery-bookmarks-manager
+ * http://forums.mozillazine.org/viewtopic.php?f=38&t=1054655
+ * http://blog.coolaj86.com/articles/how-to-create-a-bookmarklet-and-load-jquery-anywhere.html
+ * http://railscasts.com/episodes/175-ajax-history-and-bookmarks?view=similar
+
+
+### mobile html5
+ * http://alistapart.com/article/love-the-boring-bits-of-css
+ * https://software.intel.com/en-us/articles/jquery-mobile-basics
+ * http://www.sencha.com/products/touch
+
+
+### platformy webowe
+ * http://html5hub.com/comparing-html5-mobile-ui-frameworks/
+ * http://ionicframework.com
+ * http://cordova.apache.org/
+ * https://build.phonegap.com/
 
 
 ### website rapid development
@@ -28,7 +134,7 @@
  * http://simonwaldherr.github.io/micromarkdown.js/
  * http://rmarkdown.rstudio.com/rmarkdown_websites.html
 
-### mvc model przestarzałym, teraz maszyna stanów
+### mvc modelem przestarzałym, teraz maszyna stanów
  * https://www.infoq.com/articles/no-more-mvc-frameworks
 
 ### nodejs
@@ -39,22 +145,14 @@
  * https://dzone.com/articles/getting-started-socketio-and
  * https://www.youtube.com/watch?v=X1Jm24b6ZsY
  
-###
- * http://cherrypy.org/
- * https://github.com/mjhea0/flask-boilerplate
-
 ### mapa es6 implementacji plus wzorce projektowe
-  - http://kangax.github.io/compat-table/es6/
-  - http://loredanacirstea.github.io/es6-design-patterns/
+ - http://kangax.github.io/compat-table/es6/
+ - http://loredanacirstea.github.io/es6-design-patterns/
 
+### DYNDNS 
  * http://lifehacker.com/the-best-free-alternatives-to-dyndns-1561556205
  * https://console.developers.google.com
  * http://www.iconarchive.com/
-
-
- * http://eloquentjavascript.net/
- * http://web.archive.org/web/20110725013125/http://www.digital-web.com/articles/scope_in_javascript/
- * http://joelhooks.com/blog/2014/02/06/stop-writing-for-loops-start-using-underscorejs/
 
 ### Sequelize json
  * http://srlm.io/2015/02/04/sequelize-subqueries/
@@ -84,9 +182,7 @@
  * https://gist.github.com/kalbarczyk
  * http://tylerhenkel.com/building-an-angular-node-comment-app-using-yeoman/
  * https://www.airpair.com/node.js/posts/top-10-mistakes-node-developers-make
-
  * http://krispo.github.io/angular-nvd3/
-
  * http://markdalgleish.com/2013/06/using-promises-in-angularjs-views/
  * http://kirkbushell.me/when-to-use-directives-controllers-or-services-in-angular/
  * http://techprd.com/angular-js-app-with-postgresql-or-mysql-using-sequelize-js/
@@ -94,16 +190,13 @@
  * http://www.bennadel.com/blog/2555-preloading-data-before-executing-nginclude-in-angularjs.htm
  * http://www.yearofmoo.com/2012/08/use-angularjs-to-power-your-web-application.html
  * http://www.yearofmoo.com/2012/10/more-angularjs-magic-to-supercharge-your-webapp.html
-
  * https://github.com/flowjs/ng-flow
  * http://zbryikt.github.io/ui-choices/ #test
  * https://programmaticponderings.wordpress.com/2014/07/23/data-driven-form-design-with-angularjs/
  * https://www.packtpub.com/books/content/working-live-data-and-angularjs
  * http://www.metaltoad.com/blog/angularjs-promises-from-service-to-template
-
  * https://plus.google.com/events/cljavmi7kpup1fso43k3fkpk2eg
  * https://egghead.io/series/angularjs-app-from-scratch-getting-started?__s=6xzfsdewocooo2r8qhfh&utm_campaign=learn-how-to-build-an-angularjs-app-from-scratch&utm_medium=email&utm_source=angular-email-course
-
  * http://jhipster.github.io/
 
 ### MEAN
@@ -189,7 +282,6 @@
  * http://www.youtube.com/watch?v=llrFV5bcL2M			*
  * http://www.youtube.com/playlist?list=PLHHBQe9DSsLLd1TN-nNVjg_SRntHZiq9C *
  * http://www.kurshtmlcss.pl							** 
-
  * http://www.devboard.pl/kurs-html5-wzorowy-szablon   *
  * http://www.devboard.pl/html5						***
  * http://channel9.msdn.com/Series/Darmowy-kurs-HTML5  **
@@ -198,134 +290,14 @@
  * http://channel9.msdn.com/Series/HTML5-Day           ***
  * http://css3.bradshawenterprises.com/transitions/    ***
 
-### KURSY PHP
- * http://pl.wikibooks.org/wiki/PHP					***
- * http://www.capaciouscore.pl/kursy/					****
- * http://webhosting.pl/Kurs.PHP..Wstep.do.programowania.w.popularnym.jezyku.skryptowym
- * http://phpkurs.pl/									***
- * http://kursphp.com/									*
- * http://www.youtube.com/playlist?list=PLE974A9BEF34A967A **** 
- * http://www.youtube.com/user/uwteamorg				*****
- * http://www.youtube.com/watch?v=0h-CL0LhhSk 			*** dla zielonych
-
- * http://www.apachefriends.org/en/xampp.html
-
-
-
- * http://php.webtutor.pl/pl/2011/03/31/hiphop-php-instalacja-na-fedora-12/
-
 ### TESTY
  * http://html5test.com/
 
-
-### nodejs 
- * http://dailyjs.com/2010/11/01/node-tutorial/
- * http://nodejs.org/
- * http://dailyjs.com/
- * https://cloud.google.com/solutions/mean/
- * http://www.learn2crack.com/2014/04/android-login-registration-nodejs-server.html
- * http://www.codemonkeez.com/2014/05/how-i-got-nodejs-and-mongodb-running-on.html
-
-### couchbase
- * https://github.com/couchbase/Android-Couchbase 
- * https://github.com/couchbase/couchbase-lite-android
-
-### jquery
- * http://jquerymobile.com/resources/
- * http://www.zachstronaut.com/projects/rotate3di/#demos
- * http://ctoinsights.wordpress.com/2012/01/03/jquery-mobile-tutorial-part-iii-managing-data/
- * http://www.freshdesignweb.com/jquery-javascript-popup-window.html
- * http://johnveldboom.com/posts/38/jquery-ajax-loading-display-images-or-text-until-script-is-finished
- * http://www.codeproject.com/Articles/661782/Three-Ways-to-Dynamically-Load-HTML-Content-into-a
-
-### PhoneGap
- * http://mobileangularui.com/blog/your-first-phonegap-app-with-mobile-angular-ui/
-
-### JAVASCRIPT
- * http://addyosmani.com/resources/essentialjsdesignpatterns/book/
- * http://stackoverflow.com/questions/29879267/es6-class-multiple-inheritance
- * https://developer.mozilla.org/pl/docs/Web/JavaScript/Inheritance_and_the_prototype_chain
- * http://kangax.github.io/compat-table/es6/
- * http://www.frontendjournal.com/html5-pushstate-and-single-page-apps/
- * http://www.sitepoint.com/understanding-ecmascript-6-class-inheritance/
- * https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md
- * http://www.codecademy.com/tracks/javascript
- * http://www.hongkiat.com/blog/free-angular-ebooks/
- * http://www.learn-angularjs-apps-projects.com/
- * https://github.com/mjhea0/thinkful-angular
- * https://www.airpair.com/node.js/posts/top-10-mistakes-node-developers-make
- * http://mherman.org/blog/2015/02/12/postgresql-and-nodejs/#.VZyMzDJd7gj
- * http://www.copterlabs.com/blog/json-what-it-is-how-it-works-how-to-use-it/
- * http://justinklemm.com/node-js-async-tutorial/
- * https://github.com/johnpapa/angular-styleguide
- * https://github.com/toddmotto/angularjs-styleguide
- * https://github.com/pgrest/pgrest
- * https://github.com/brianc/node-postgres
- * https://github.com/brianc/node-pg-query
- * http://sarabinns.com/tag/passport-js-sequelize-postgresql/
- * https://github.com/fnakstad/angular-client-side-auth
- * https://github.com/ggoral/easy-passport-local-sequelize-express4-sample
- * http://www.aptuz.com/blog/is-postgres-nosql-database-better-than-mongodb/
- * http://briantford.com/blog/angular-phonegap
- * https://github.com/EnterpriseDB/pg_nosql_benchmark
- * http://jsbooks.revolunet.com/
- * http://ferrante.pl/frontend/javascript/jak-swiat-webowy-uslyszal-o-17-latku-z-polski-prezentacja/
-- http://www.mkyong.com/all-tutorials-on-mkyong-com/
-- https://github.com/matthew-andrews/workshop-making-it-work-offline
-- https://github.com/exalted/mdwiki-seed.git
-- https://gist.github.com/alias1/a8c3c2fd7bf2f50ff666 - install mdwiki
-- https://www.tumblr.com/search/MDwiki
-- https://github.com/rstacruz/flatdoc
-#javascript pomoce
- * http://ferrante.pl/frontend/javascript/jak-swiat-webowy-uslyszal-o-17-latku-z-polski-prezentacja/
-Książki:
-Eloquent javascript, Marijn Haverbeke
-Illustrated Guide to the Frontend Development
-Maintanable Javascript, Nicholas Zakas
-Effective Javascript, Dawid Herman
- * http://bonsaiden.github.io/JavaScript-Garden/pl/
- * http://jstherightway.org/
- * http://jsforcats.com/
- * http://jsbooks.revolunet.com/
- * http://javascript.pl/
- * https://developer.mozilla.org/pl/
- * http://dailyjs.com/
- * http://www.html5rocks.com/en/
- * http://webplatformdaily.org/
- * http://webmastah.pl/
- * http://codepen.io/
- * http://dabblet.com/
-
-### XML XSLT
- * https://pl.wikipedia.org/wiki/XSL_Transformations
-
-### wolnezasoby
- * http://www.freepik.com/free-vector/retro-nautical-cruise-badges_715941.htm
-
-### jbookmarks
- * http://stackoverflow.com/questions/18127607/jquery-bookmarks-manager
- * http://forums.mozillazine.org/viewtopic.php?f=38&t=1054655
- * http://blog.coolaj86.com/articles/how-to-create-a-bookmarklet-and-load-jquery-anywhere.html
- * http://railscasts.com/episodes/175-ajax-history-and-bookmarks?view=similar
-
-
-### mobile html5
- * http://alistapart.com/article/love-the-boring-bits-of-css
- * https://software.intel.com/en-us/articles/jquery-mobile-basics
- * http://www.sencha.com/products/touch
-
-### platformy webowe
- * http://html5hub.com/comparing-html5-mobile-ui-frameworks/
- * http://ionicframework.com
- * http://cordova.apache.org/
- * https://build.phonegap.com/
 ### xdk intel webowe
  * http://xdk-software.intel.com/
  * https://software.intel.com/en-us/html5/articles/xdkdocs-overview-html5
  * https://software.intel.com/en-us/html5/articles/building-cross-platform-apps-with-html5
  * https://software.intel.com/en-us/html5/articles/intel-xdk-guided-tutorial-content
-
-
 
 ### uniwersalne języki webowe
  * http://en.wikipedia.org/wiki/Haxe
@@ -338,10 +310,7 @@ Effective Javascript, Dawid Herman
  * http://en.wikipedia.org/wiki/Ceylon_Project
  * http://en.wikipedia.org/wiki/Fantom_%28programming_language%29
  * http://en.wikipedia.org/wiki/Ceylon_Project
-
-### uniwersalne inne
  * http://en.wikipedia.org/wiki/Go_%28programming_language%29
-
 
 ### Indeksy
  * http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html

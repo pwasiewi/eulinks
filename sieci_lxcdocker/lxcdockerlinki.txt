@@ -1,0 +1,60 @@
+:cloud:
+### Kursy sieciowe 
+ - https://www.cybrary.it/
+
+### kontenery i inne
+ - https://www.nsnam.org/wiki/HOWTO_Use_Linux_Containers_to_set_up_virtual_networks
+ - http://big-elephants.com/2015-09/virtual-public-network-setup-with-gentoo-and-kvm/
+ - http://www.oops.co.at/blog/kvm-setting-up-network-bridging-with-systemd-on-gentoo
+ - https://www.funtoo.org/LXC_Fun
+ - https://www.funtoo.org/LXD
+ - https://stgraber.org/2016/03/11/lxd-2-0-blog-post-series-012/
+ - https://bayton.org/docs/linux/lxd/lxd-zfs-and-bridged-networking-on-ubuntu-16-04-lts/
+ - https://github.com/globalcitizen/lxc-gentoo
+ - http://en.gentoo-wiki.com/wiki/LXC
+ 
+### Hyper-v
+ - https://docs.microsoft.com/en-us/windows-server/virtualization/hyper-v/get-started/create-a-virtual-machine-in-hyper-v
+ 
+### lxc conteners namespace control groups
+  - http://www.megiteam.pl/blog/baza-wiedzy/lxc-kontener-pingwinow/
+  - https://en.wikipedia.org/wiki/Cgroups
+  - https://linuxcontainers.org/
+  - https://en.wikipedia.org/wiki/LXC
+  - https://wiki.gentoo.org/wiki/LXC
+  - https://l3net.wordpress.com/2013/08/25/debian-virtualization-lxc-network-isolation/
+  
+### dlaczego docker
+  - http://blog.pierreroudier.net/2015/08/docker-vs-kvm-vs-native-performance-comparison/
+  - https://github.com/thewmf/kvm-docker-comparison 
+  - https://docs.docker.com/engine/installation/linux/gentoolinux/
+  
+### docker swarm 
+  - https://docs.docker.com/swarm/install-w-machine/
+  - https://docs.openshift.org/latest/architecture/index.html
+  - https://www.servethehome.com/docker-swarm-management-a-quick-overview-of-rancher-portainer-and-shipyard/
+  
+### docker swarm ha (containers restart)
+  - https://github.com/docker/swarm/issues/1488
+  
+### zastosowania swarm - apache storm
+  - http://highscalability.com/blog/2016/4/25/the-joy-of-deploying-apache-storm-on-docker-swarm.html
+  
+### dlaczego nie docker
+  - http://www.boycottdocker.org/
+  - http://bodenr.blogspot.com/2014/05/kvm-and-docker-lxc-benchmarking-with.html
+  
+### docker jako container
+  - http://phusion.github.io/baseimage-docker/#solution 
+  - https://github.com/phusion/baseimage-docker#readme
+  - https://blog.phusion.nl/2015/01/20/docker-and-the-pid-1-zombie-reaping-problem/
+  
+## CONTAINERS, VLANS
+  - http://containerops.org/2013/11/19/lxc-networking/
+  - http://blog.scottlowe.org/2013/11/26/lxc-open-vswitch-and-gre-tunnels/
+  - http://wiki.gentoo.org/wiki/LXC#Ubuntu
+  - http://www.linuxjournal.com/article/10821
+  - http://big-elephants.com/2013-07/creating-virtual-networks-with-kvm-on-gentoo/
+  - http://web.dit.upm.es/vnxwiki/index.php/Vnx-tutorial-lxc
+  - http://www.linuxjournal.com/content/lvm-demystified
+

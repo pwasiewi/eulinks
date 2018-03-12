@@ -1,0 +1,78 @@
+:cloud:
+### Kursy sieciowe 
+ - https://www.cybrary.it/
+
+#### Proxmox
+ - https://pve.proxmox.com/wiki/Package_Repositories
+ - https://www.jamescoyle.net/category/tech-news
+ - https://pve.proxmox.com/wiki/High_Availability_Cluster_4.x
+ - https://www.youtube.com/watch?v=OjORUwDY63U&index=1&list=PLKnvkZ00-pHoPqusA07QvmzN6ehnr7Cfc
+ - https://pve.proxmox.com/wiki/Proxmox_VE_4.x_Cluster
+ - [import maszyny](http://blog.anet-online.pl/?p=73)
+ - http://blog.anet-online.pl/
+ - http://kanaka.github.io/noVNC/
+ - https://dug.net.pl/tekst/296/przerabianie_debiana_pod_wifi_access_point/
+ - https://www.cyberciti.biz/faq/debian-ubuntu-linux-setting-wireless-access-point/
+ - https://www.cyberciti.biz/faq/howto-ubuntu-debian-squeeze-dhcp-server-setup-tutorial/
+ - http://blog.sjas.de/posts/Proxmox-user-account.html
+ 
+
+#### Proxmox Ceph
+ - https://pve.proxmox.com/wiki/Ceph_Server
+ - https://www.sebastien-han.fr/blog/2014/10/10/ceph-how-to-test-if-your-ssd-is-suitable-as-a-journal-device/
+ - http://www.sebastien-han.fr/blog/2012/12/07/ceph-2-speed-storage-with-crush/
+ - http://karan-mj.blogspot.com/2014/04/erasure-coding-in-ceph.html
+ - https://busybox.net/~aldot/mkfs_stride.html
+ - https://github.com/01org/CeTune
+ - 
+
+#### Proxmox VLAN network
+ - https://pve.proxmox.com/wiki/Vlans
+ - https://pve.proxmox.com/wiki/Network_Model#Configuring_VLAN_in_a_cluster
+ - https://blog.no-panic.at/2016/08/09/proxmox-on-debian-at-hetzner-with-multiple-ip-addresses/
+ - http://blog.sjas.de/posts/proxmox-and-VLANs.html
+ - https://raymii.org/s/tutorials/Proxmox_VE_One_Public_IP.html
+ 
+#### Proxmox Fencing HA
+ - https://pve.proxmox.com/wiki/High_Availability_Cluster_4.x
+ - https://pve.proxmox.com/wiki/Separate_Cluster_Network
+ - http://clusterlabs.org/doc/crm_fencing.html
+ 
+#### Proxmox backup
+ - https://github.com/valeech/proxmox_ceph_backups/blob/master/ceph_restore.sh
+ - https://github.com/EnterpriseVE/eve4pve-barc
+ - https://ayufan.eu/projects/proxmox-ve-differential-backups/
+ - https://forum.proxmox.com/threads/incremental-backups-ceph.30393/
+ 
+#### CEPH
+ - http://www.virtualtothecore.com/en/adventures-ceph-storage-part-1-introduction/
+ - https://blog.zhaw.ch/icclab/tag/ceph/
+ - https://wiki.centos.org/SpecialInterestGroup/Storage/ceph-Quickstart
+ - http://linoxide.com/storage/setup-red-hat-ceph-storage-centos-7-0/
+ - http://karan-mj.blogspot.com/2013/12/what-is-ceph-ceph-is-open-source.html
+ - https://www.reddit.com/r/DataHoarder/comments/4gzpxi/why_is_ceph_so_rare_for_home_use_even_among/
+ - http://palmerville.github.io/2016/04/30/single-node-ceph-install.html
+ - http://netkiller.github.io/nosql/hypertable/index.html
+ - http://docs.ceph.com/docs/master/rados/troubleshooting/troubleshooting-mon/
+ - http://docs.ceph.com/docs/jewel/rados/operations/add-or-rm-mons/#changing-a-monitor-s-ip-address
+ - https://pve.proxmox.com/wiki/Ceph_Hammer_to_Jewel
+ - https://github.com/rochaporto/collectd-ceph
+ - https://blog.flyingcircus.io/2016/05/27/ceph-performance-learnings-long-read/
+ - https://wiki.debian.org/OpenStackCephHowto
+ 
+#### CEPH TUNING
+ - https://accelazh.github.io/ceph/Ceph-Performance-Tuning-Checklist
+ - http://xiaoquqi.github.io/blog/2015/06/28/ceph-performance-optimization-summary/
+ - https://01.org/node/3586
+ - https://github.com/01org/CeTune
+ - http://docs.ceph.com/docs/master/rados/troubleshooting/log-and-debug/
+ - http://www.flashmemorysummit.com/English/Collaterals/Proceedings/2015/20150813_S303E_Zhang.pdf
+ - http://xinglin-system.blogspot.com/2012/12/ceph.html
+ - https://forum.proxmox.com/threads/ceph-performance-and-latency.18552/
+ - https://forum.proxmox.com/threads/scaleio-on-proxmox.26960/#post-136030
+ - http://events.linuxfoundation.org/sites/events/files/slides/2016_04_The%20challenges%20and%20opportunities%20of%20Open%20source%20storage_v6_0.pdf
+
+#### Docker i CEPH
+ - https://github.com/ceph/ceph-docker
+ - http://ceph.com/planet/bootstrap-your-ceph-cluster-in-docker/
+

@@ -29,13 +29,7 @@
  - https://www.reddit.com/r/dailyprogrammer/
  - https://www.reddit.com/r/todayilearned/
 
-## Uruchamiamy skrypty:
-
-php -f nazwa.php;
-
-python nazwa.py;
-
-g++ nazwa.cpp; ./a.out;
+## Uruchamiamy programy:
 
 javac nazwa.java; java -cp . nazwa;
 
@@ -48,8 +42,9 @@ preferencji.
  * http://pl.wikipedia.org/wiki/Programowanie_obiektowe
  * http://pl.wikibooks.org/wiki/PHP/Czym_jest_programowanie_obiektowe%3F
  
-### Struktury danych
+### Struktury danych i inne
  * http://www.opendatastructures.org/
+ * http://www.mindviewinc.com/Books/
 
 ### Wzorce projektowe (design patterns) Java
  * http://www.tutorialspoint.com/design_pattern/
