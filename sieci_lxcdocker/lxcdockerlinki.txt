@@ -14,6 +14,17 @@
  - https://github.com/globalcitizen/lxc-gentoo
  - http://en.gentoo-wiki.com/wiki/LXC
  
+
+### New ideas - dockers
+ - http://blog.zenika.com/2015/06/15/Docker-meets-the-IDE/
+ - https://github.com/tomwillfixit/unity3d
+ - https://github.com/protomouse/godot-docker
+ - https://github.com/domeide
+ - https://github.com/chuck-knox/sublime3-docker
+ - https://github.com/docbill/sublime-text-3
+ - https://packagecontrol.io/packages/Docker%20Based%20Build%20Systems
+ - https://github.com/nickjj/sublime-text-3-packages
+ 
 ### Hyper-v
  - https://docs.microsoft.com/en-us/windows-server/virtualization/hyper-v/get-started/create-a-virtual-machine-in-hyper-v
  
