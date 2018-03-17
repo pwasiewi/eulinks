@@ -10,6 +10,8 @@
    ant debug
    adb install -r  /opt/android-ndk-r7b/samples/bitmap-plasma/bin/Plasma-debug.apk
 ```
+### GOOGLE CODELABS
+ - https://g.co/codelabs
 
 ### Kotlin
  - [Kurs Kotlina po polsku na youtube](https://www.youtube.com/watch?v=lPv0_Gc2wcc&index=2&list=PLCANL9WHTsiGeQzn72AUU6FH3p3aoAiMM)
