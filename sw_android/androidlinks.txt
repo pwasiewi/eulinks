@@ -19,6 +19,7 @@
  - https://github.com/kotlin/anko-example
  - https://www.codementor.io/jessicathornsby/write-better-kotlin-getting-started-with-anko-for-android-ecwt3p6hz
  - https://medium.com/@v.souhrada/introduction-to-anko-for-android-part-1-6178d536cbe6
+ - https://codelabs.developers.google.com/codelabs/notification-channels-kotlin/index.html#0
  - https://github.com/nekocode/Kotlin-Android-Template
  - https://www.raywenderlich.com/168038/common-design-patterns-android-kotlin
  - https://android.jlelse.eu/learn-kotlin-while-developing-an-android-app-introduction-567e21ff9664
