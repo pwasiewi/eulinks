@@ -17,6 +17,7 @@
  - https://kotlin.link/
  - https://github.com/KotlinBy/awesome-kotlin
  - https://github.com/kotlin/anko-example
+ - https://www.codementor.io/jessicathornsby/write-better-kotlin-getting-started-with-anko-for-android-ecwt3p6hz
  - https://medium.com/@v.souhrada/introduction-to-anko-for-android-part-1-6178d536cbe6
  - https://github.com/nekocode/Kotlin-Android-Template
  - https://www.raywenderlich.com/168038/common-design-patterns-android-kotlin
