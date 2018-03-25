@@ -91,7 +91,7 @@ cd /usr/share/minetest/games/minetest_game/mods
 #[ ! -f ByUjEdwinV2_space.zip ] && wget https://forum.minetest.net/download/file.php?id=7985 -O ByUjEdwinV2_space.zip
 #[ ! -f ByAiTechEye-juli-V7_1-marssurvive.zip ] && wget https://forum.minetest.net/download/file.php?id=9106 -O ByAiTechEye-juli-V7_1-marssurvive.zip
 [ ! -f ByUjEdwinV4r-smartshop.zip ] && wget https://forum.minetest.net/download/file.php?id=8630 -O ByUjEdwinV4r-smartshop.zip
-[ ! -f ByAiTechEyeV9-aliveai_for_MT-0-4-16_and_older.zip ] && wget https://forum.minetest.net/download/file.php?id=11734 -O ByAiTechEyeV9-aliveai_for_MT-0-4-16_and_older.zip
+[ ! -f ByAiTechEyeV19_1-aliveai.zip ] && wget https://forum.minetest.net/download/file.php?id=14005 -O ByAiTechEyeV19_1-aliveai.zip
 
 
 kpgmobs https://forum.minetest.net/download/file.php?id=384;
