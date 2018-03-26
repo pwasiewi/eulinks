@@ -1,10 +1,10 @@
-Kursy i ksiązki
+### Kursy i ksiązki
  * https://github.com/vhf/free-programming-books
  * http://thenextweb.com/dd/2012/10/21/so-you-want-to-be-a-programmer-huh-heres-25-ways-to-learn-online/
  * http://www.tutorialspoint.com/codingground.htm
  * http://www.commandlinefu.com/commands/browse
  
-Teoria sprzętu komputerowego, emulacje retro
+### Teoria sprzętu komputerowego, emulacje retro
  * http://2x-1.net/ob/gray1/
  * http://hackaday.com/2015/09/28/roundup-retro-computers-in-your-browser/
  * https://github.com/EvgeniyRU/ZX_FDD_Emulator
@@ -24,7 +24,7 @@ Teoria sprzętu komputerowego, emulacje retro
  * https://sploitfun.wordpress.com/2015/06/26/linux-x86-exploit-development-tutorial-series/
  * https://github.com/vitalysim/Awesome-Hacking-Resources
 
-Bash:
+### Bash:
  * http://dief.republika.pl/main.html
  * http://leksykot.top.hell.pl/tech/bash_string
  * http://pl.wikipedia.org/wiki/Bash
@@ -34,23 +34,23 @@ Bash:
  * http://freeos.com/guides/lsst/
  * http://en.kioskea.net/faq/shell-371
 
-Wirtualizacja - instalacja VirtualBoxa
+### Wirtualizacja - instalacja VirtualBoxa
  * http://www.altcontroldelete.pl/artykuly/virtualbox-tutorial-tworzenie-konfiguracja-i-uzytkowanie-maszyn-wirtualnych/
 Wirtualizacja - instalacja linuxa na Virtualboxie:
  * http://darkend.pl/blog/?p=81
  * http://it-world.pl/2012/07/instalacja-linuxa-na-virtualbox/
  * http://bethesignal.org/blog/2011/01/05/how-to-mount-virtualbox-vdi-image/
 
-Docker
+### Docker
  * http://siphon9.net/loune/2014/12/docker-in-an-lxc-container-on-gentoo/
  * http://wiki.gentoo.org/wiki/LXC
  * https://wiki.archlinux.org/index.php/KVM
  * http://developer.ubuntu.com/en/snappy/
  
-Selinux
+### Selinux
  * http://blog.perfinion.com/2017/03/fossasia-2017-selinux-introduction/
 
-Instalacja linuxa:
+### Instalacja linuxa:
  * http://www.dobreprogramy.pl/Linux-Instalacja-systemu,Demonstracja,11279.html
  * http://www.abclinux.com.pl/instalacja-linuxa-ubuntu-windows-obok-linuxa-grub/
  * http://www.itwroc.pl/porady-informatyczne/item/9-instalacja-ubuntu-linux-z-usb-/-unetbootin
@@ -59,29 +59,29 @@ Instalacja linuxa:
  * http://askubuntu.com/questions/2194/how-can-i-improve-overall-system-performance
  * http://www.overclock.net/a/how-to-configure-and-compile-a-custom-linux-kernel-for-ubuntu
 
-Git:
+### Git:
  * http://hanxue-it.blogspot.com/2014/06/how-to-upload-image-binary-file-to-gist.html
  * http://charlesleifer.com/blog/jist-a-command-line-utility-for-managing-multi-file-multi-directory-private-gists/
  * https://blogs.atlassian.com/2014/05/handle-big-repositories-git/
  * http://www.labnol.org/internet/github-gist-tutorial/28499/
 
-Vim:
+### Vim:
  * http://pinkaccordions.homelinux.org/staff/tp/prog/vi/index-VI.html
 
-Emacs:
+### Emacs:
  * http://pinkaccordions.homelinux.org/staff/tp/prog/emacs/refcard/emacsrefcard-pl.pdf
 
-Online:
+### Online:
  * https://codenvy.com/ide/pwasiewi
 
-AWK:
+### AWK:
  * http://free.of.pl/a/awk/index.php?sp=linki
  * http://www.gentoo.org/doc/pl/articles/
 
-SED:
+### SED:
  * http://www.grymoire.com/Unix/Sed.html
 
-Dla zaawansowanych po angielsku:
+### Dla zaawansowanych po angielsku:
  * http://www.digilife.be/quickreferences/indexe.html
  * http://www.linuxforu.com/2011/09/recover-deleted-files-in-linux/
  * http://www.opcode.eu.org/abc_of_computing/programing/bash/
@@ -92,14 +92,14 @@ Dla zaawansowanych po angielsku:
  * http://www.cs.berkeley.edu/~brewer/cs262/unix.pdf
  * http://www.klauser.com/lxug/
 
-Kursy C po polsku:
+### Kursy C po polsku:
  * http://qvazar.pl/kurs-c/kurs-c.html
  * http://pl.wikibooks.org/wiki/C
  * http://www.ansic.yoyo.pl/kurs1.html
  * http://cpp0x.pl/
  * http://pl.wikibooks.org/wiki/C/Wska%C5%BAniki_-_wi%C4%99cej
 
-Kursy C po angielsku:
+### Kursy C po angielsku:
  * http://courses.skilledup.com/C?price=0
  * http://c.learncodethehardway.org/book/
  * http://www.beej.us/guide/bgc/output/html/singlepage/bgc.html
@@ -111,40 +111,40 @@ Kursy C po angielsku:
  * http://www.acm.uiuc.edu/webmonkeys/book/c_guide/
  * http://cslibrary.stanford.edu/107/UnixProgrammingTools.pdf
 
-Przykłady programów:
+### Przykłady programów:
  * http://rosettacode.org/wiki/Main_Page
  * http://en.wikipedia.org/wiki/Category:Articles_with_example_C_code
 Testy dla początkujących:
  * http://pl.spoj.pl/
 
-Przykładowy program w Allegro:
+### Przykładowy program w Allegro:
  * http://www.allegro.cc/depot/QuixoGame/
 
-Przykładowe drzewa binarne w C:
+### Przykładowe drzewa binarne w C:
  * http://blog.0x1fff.com/2009/09/drzewo-poszukiwan-binarnych-bst.html
  * http://4programmers.net/C/Artyku%C5%82y/Drzewa_BST,_wyszukiwanie_liniowe_i_binarne._Por%C3%B3wnanie_szybko%C5%9Bci.
  * http://programmuj.blogspot.com/2009/09/implementacja-drzewa-binarnego-bst-c.html
 
-Algorytmy:
+### Algorytmy:
  * http://www.youtube.com/user/AlgoRythmics/videos
  * http://www.algorytm.org/
  * http://wazniak.mimuw.edu.pl/index.php?title=Algorytmy_i_struktury_danych
  * http://xlinux.nist.gov/dads//
 
-Make i inne:
+### Make i inne:
  * http://pl.wikipedia.org/wiki/Make
 ftp://ztchs.p.lodz.pl/WDInf/Materialy/Linux/make_opis.pdf
  * http://www.eng.hawaii.edu/Tutor/Make/index.html
  * http://jakilinux.org/category/aplikacje/konsola/
 
-Book about linux (gentoo):
+### Book about linux (gentoo):
  * http://swift.siphos.be/linux_sea/
  * http://swift.siphos.be/aglara/
 
-Filmy o linuxie:
+### Filmy o linuxie:
  * http://freevideolectures.com/blog/2012/04/5-websites-learning-linux/
 
-RASPBERRY i INNE
+### RASPBERRY i INNE
  * https://github.com/23ars/linux_gpio_driver
  * http://sysprogs.com/VisualKernel/tutorials/raspberry/leddriver/
  * http://www.slideshare.net/tusharkute/part-03-file-system-implementation-in-linux?next_slideshow=1
@@ -153,7 +153,7 @@ RASPBERRY i INNE
  * https://github.com/BLavery/virtual-GPIO
  * http://ubuntuforums.org/showthread.php?t=2257681
 
-SYSTEMY OPERACYJNE I STEROWNIKI JADRA LINUXA:
+### SYSTEMY OPERACYJNE I STEROWNIKI JADRA LINUXA:
  * https://github.com/duxing2007/ldd3-examples-3.x
  * http://lwn.net/Kernel/LDD3/
  * https://github.com/bashrc/LKMPG
@@ -225,17 +225,17 @@ SYSTEMY OPERACYJNE I STEROWNIKI JADRA LINUXA:
  * http://www.ibm.com/developerworks/linux/tutorials/l-harden-server/
  * http://students.mimuw.edu.pl/SO/LabLinux/PLIKI/index.html
 
-LVM:
+### LVM:
  * https://wiki.gentoo.org/wiki/LVM
 
-Fsync:
+### Fsync:
  * http://www.spinics.net/lists/kernel/msg1977366.html
 
-GUID
+### GUID
  * http://www.linux.com/learn/tutorials/730440-using-the-new-guid-partition-table-in-linux-good-bye-ancient-mbr-
 
 
-Mmap:
+### Mmap:
  * http://www.linuxquestions.org/questions/programming-9/mmap-tutorial-c-c-511265/
  * http://en.wikipedia.org/wiki/Mmap
  * http://beej.us/guide/bgipc/output/html/multipage/mmap.html
@@ -243,32 +243,32 @@ Mmap:
  * http://stackoverflow.com/questions/258091/when-should-i-use-mmap-for-file-access
 
 
-Patch kernel online:
+### Patch kernel online:
  * http://rhelblog.redhat.com/2014/02/26/kpatch/
  * https://github.com/dynup/kpatch
 
-Security:
+### Security:
  * http://www.cromwell-intl.com/security/
  * http://leakforums.org/forum-24
  * http://www.win.tue.nl/~aeb/linux/hh/
  * http://www.2600.com
  * http://lwn.net/Articles/
 
-Parallel in C:
+### Parallel in C:
  * http://monismith.info/cs599/examples.html
  * http://gribblelab.org/CBootcamp/A2_Parallel_Programming_in_C.html
  * http://www.codeproject.com/Articles/19065/Begin-Parallel-Programming-With-OpenMP
  * https://msdn.microsoft.com/en-us/magazine/cc163717.aspx
  * http://people.sc.fsu.edu/~jburkardt/c_src/hello_openmp/hello_openmp.html
 
-Kultowe książki po angielsku o linuxie
+### Kultowe książki po angielsku o linuxie
  * http://www.techbooksforfree.com/linux.shtml
 
-Kultowe filmy instruktażowe i wykłady po angielsku:
+### Kultowe filmy instruktażowe i wykłady po angielsku:
  * http://www.refseek.com/directory/educational_videos.html
  * http://videolectures.net
 
-UWAGI:
+### UWAGI:
 $# to liczba argumentów
 
 * make defconfig - Set all options to default values
@@ -282,9 +282,9 @@ $# to liczba argumentów
 
 
 
-GENTOO INSTALACJA GENTOO INSTALACJA GENTOO INSTALACJA
+## GENTOO INSTALACJA GENTOO INSTALACJA GENTOO INSTALACJA
 
-Standardowo:
+### Standardowo:
  * http://www.gentoo.org/doc/pl/handbook/handbook-x86.xml?part=1
  * http://pl.gentoo-wiki.com/wiki/Portage
  * http://wiki.gentoo.org/wiki/
@@ -293,37 +293,37 @@ Tak, z Gentoo nie ma problemu z dokumentacją nawet ich
 wewnętrznych ebuildów:
  * http://www.youtube.com/watch?v=8aSzB_nEs9k
 
-Po polsku standard:
+### Po polsku standard:
  * http://www.gentoo.org/doc/pl/gentoo-x86-quickinstall.xml
 
-Niestandardowe:
+### Niestandardowe:
  * http://www.gentoo.org/doc/pl/altinstall.xml
  * https://www.reddit.com/r/Gentoo/comments/7lywiq/new_clangmusl_based_experimental_stage4/?sort=new
 
-Po polsku Express:
+### Po polsku Express:
  * http://www.elektroda.pl/rtvforum/topic1528857.html
 
-Jaka instalacja, taki linux:
+### Jaka instalacja, taki linux:
  * http://wiki.jakilinux.org/gentoo-instalacja-i-konfiguracja
 
-Pecetmaniak:
+### Pecetmaniak:
  * http://pecetmania.pl/linux/instalacja_gentoo.php
 
-Forum z informacjami:
+### Forum z informacjami:
  * http://forums.gentoo.org/viewforum-f-55.html?sid=5f61763d091673c36135a020835fcf93
 
-W pdfie w miarę nowe:
+### W pdfie w miarę nowe:
  * http://informatyka.3bird.net/download/mylinux/instalacja-gentoo2012-amd64-laptop.pdf
 
-portpeek, eix-test-obsolete
+### portpeek, eix-test-obsolete
  * http://forums.gentoo.org/viewtopic-t-782120.html
 
-WAŻNE INFO O PAKIETACH:
+### WAŻNE INFO O PAKIETACH:
  * http://gpo.zugaina.org/x11-libs/libSM
  * http://gentoobrowse.randomdan.homeip.net/package/x11-libs/libSM
  * https://bugs.gentoo.org/show_bug.cgi?id=487132
 
-ebuild
+### ebuild
  * http://devmanual.gentoo.org/eclass-reference/git-2.eclass/index.html
  * http://devmanual.gentoo.org/ebuild-writing/functions/src_install/index.html
 
@@ -336,10 +336,10 @@ ebuild
  * http://www.gentoo-wiki.info 
  * https://github.com/init6/squashed-portage
 
-Hardened:
+### Hardened:
  * http://forum.dug.net.pl/viewtopic.php?id=22691
 
-SSD:
+### SSD:
  * http://wiki.debian.org/SSDOptimization?action=show&redirect=SSDoptimization
  * http://www.reddit.com/r/Gentoo/comments/13t4ao/installing_gentoo_on_ssd/
  * http://wiki.gentoo.org/wiki/SSD
@@ -347,7 +347,7 @@ SSD:
  * http://blog.nuclex-games.com/2009/12/aligning-an-ssd-on-linux/
  * http://wiki.freeswitch.org/wiki/SSD_Tuning_for_Linux
 
-Systemtap:
+### Systemtap:
  * https://sourceware.org/systemtap/tutorial/
  * http://gentoobrowse.randomdan.homeip.net/use/systemtap
  * http://blog.verbum.org/2011/03/19/analyzing-memory-use-with-systemtap/
@@ -355,23 +355,23 @@ Systemtap:
  * https://sourceware.org/systemtap/wiki
  * http://my.opera.com/pacho/blog/2013/08/27/how-to-write-proper-systemd-unit-files
 
-GNOME3
+### GNOME3
  * http://blog.fpmurphy.com/2011/04/gnome-3-shell-extensions.html
 
-Wirtualizacja lxc gentoo
+### Wirtualizacja lxc gentoo
  * http://wiki.gentoo.org/wiki/LXC
  * http://containerops.org/2013/11/19/lxc-networking/
  * http://www.linuxjournal.com/article/10821
 
-Syslinux:
+### Syslinux:
  * https://alphaos.tuxfamily.org/forum/viewtopic.php?t=1070
 
-INNE SYSTEMY
+## INNE SYSTEMY
  * http://en.wikipedia.org/wiki/Comparison_of_open-source_configuration_management_software
  * https://coreos.com/docs/quickstart/
  * https://wiki.qubes-os.org/
 
-ADMIN:
+### ADMIN:
  * http://www.linuxjournal.com/content/lvm-demystified
 
 
