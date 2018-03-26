@@ -18,7 +18,7 @@
  - http://simpleopencl.blogspot.com/2013/06/tutorial-simple-start-with-opencl-and-c.html
  
 ### OpenCL examples
- * https://wiki.tiker.net/PyOpenCL/Examples/MedianFilter
+ - https://wiki.tiker.net/PyOpenCL/Examples/MedianFilter
  - https://software.intel.com/en-us/articles/gpu-quicksort-in-opencl-20-using-nested-parallelism-and-work-group-scan-functions
  - http://arrayfire.com/quest-for-the-smallest-opencl-program/
  - https://github.com/bgaster/opencl-book-samples
