@@ -1,3 +1,5 @@
+# OpenCL
+
 ### Opencl machine learning
  * https://www.datacamp.com/community/tutorials/deep-learning-python
  * https://github.com/plaidml
@@ -21,6 +23,11 @@
  - http://arrayfire.com/quest-for-the-smallest-opencl-program/
  - https://github.com/bgaster/opencl-book-samples
  - https://github.com/smistad/OpenCLUtilities
+
+### HASH PASS
+ * http://whitepixel.zorinaq.com/
+ * http://blog.zorinaq.com/?e=43
+ * http://hashcat.net/oclhashcat-plus/
 
 ### MD5 and opencl
  * https://blog.jfo.click/advent-of-learning-about-md5-and-opencl/
@@ -50,6 +57,8 @@
  - https://github.com/hughperkins/distro-cl
  - https://github.com/hughperkins/DeepCL
  - https://github.com/hughperkins/EasyCL
+ * https://github.com/ddemidov/vexcl
+ * http://vexcl.readthedocs.io/en/latest/
 
 ### SYCL Opencl machine learning (maybe not so quick, so not popular)
  * https://blog.tartanllama.xyz/sycl/
@@ -68,7 +77,7 @@
  * http://streamcomputing.eu/blog/2013-12-27/opencl-spir-by-example/
  - https://www.khronos.org/conformance/adopters/conformant-products#opencl
  
-### tensorflow with OpenCL 
+### Tensorflow with OpenCL 
  - https://github.com/ROCmSoftwarePlatform/hiptensorflow/
  - https://github.com/hughperkins/tf-coriander
  - https://github.com/benoitsteiner/tensorflow-opencl/issues/30
@@ -78,56 +87,44 @@
 ### Tensorflow examples
  - https://www.tensorflow.org/versions/r0.11/how_tos/image_retraining/
  
+# CUDA
+ 
 ### CUDA in a LXC container
  - https://andre-ratsimbazafy.com/cuda-gpu-passthrough-to-a-lxc-container/8/
  - https://stackoverflow.com/questions/25185405/using-gpu-from-a-docker-container
+
+### Tensorflow with CUDA
+ * https://alliseesolutions.wordpress.com/2016/09/08/install-gpu-tensorflow-from-sources-w-ubuntu-16-04-and-cuda-8-0-rc/
  
 ### CUDA examples
  * https://github.com/parallel-forall/code-samples
-
-### Cuda C
- * https://alliseesolutions.wordpress.com/2016/09/08/install-gpu-tensorflow-from-sources-w-ubuntu-16-04-and-cuda-8-0-rc/
- * https://developer.nvidia.com/blog/tags/4501
+ 
+### CUDA sites
  * http://www.nvidia.com/object/cuda-newsletter.html
  * http://docs.nvidia.com/cuda/index.html
+ * http://devblogs.nvidia.com/parallelforall/
+ 
+### CUDA lectures 
  * http://saahpc.ncsa.illinois.edu/09/sessions/day2/session2/Garland_presentation.pdf
  * https://itunes.apple.com/us/itunes-u/programming-massively-parallel/id384233322
- * http://www.whatsacreel.net76.net/cuda.html
- * https://www.youtube.com/playlist?list=PLKK11Ligqititws0ZOoGk3SW-TZCar4dK
+ * http://research.nvidia.com/publication/relational-algorithms-multi-bulk-synchronous-processors
+ * http://devblogs.nvidia.com/parallelforall/unified-memory-in-cuda-6/
+ * http://devblogs.nvidia.com/parallelforall/developing-portable-cuda-cc-code-hemi/
+ 
+ ### CUDA tutorials
+ * [CUDA tutorials](https://www.youtube.com/playlist?list=PLKK11Ligqititws0ZOoGk3SW-TZCar4dK)
  * http://www.drdobbs.com/parallel/cuda-supercomputing-for-the-masses-part/207200659
 
 ### CUDA libraries
  * http://mathema.tician.de/software/pycuda
- * http://choorucode.com/2011/03/14/cuda-template-kernels/
  * http://gpumlib.sourceforge.net/
  * http://code.google.com/p/cufflink-library/
  * http://code.google.com/p/back40computing/
  * https://github.com/IlyaGrebnov/libbsc
- * http://research.nvidia.com/publication/relational-algorithms-multi-bulk-synchronous-processors
- * https://github.com/ddemidov/vexcl
- * http://ddemidov.github.com/vexcl/
- * http://devblogs.nvidia.com/parallelforall/
- * http://devblogs.nvidia.com/parallelforall/unified-memory-in-cuda-6/
- * http://devblogs.nvidia.com/parallelforall/developing-portable-cuda-cc-code-hemi/
+ * https://code.google.com/archive/p/cuda-thrust-extensions/
 
 ### AES
  * http://code.google.com/p/engine-cuda/wiki/benchmarkVersion011
- * http://http.developer.nvidia.com/GPUGems3/gpugems3_ch36.html
-
-### HASH PASS
- * http://whitepixel.zorinaq.com/
- * http://blog.zorinaq.com/?e=43
- * http://hashcat.net/oclhashcat-plus/
- * http://www.krystianpiwowarczyk.pl/showarticle.php?article=28
  
 ### cudaminer
  * https://bitcointalk.org/index.php?topic=167229.0
- * http://code.google.com/p/cuda-thrust-extensions/
- * http://www.gat3way.eu/hashkill/index.php
-
-### KOMERCYJNE
- * http://speedit.vratis.com 
-
-### PARALLEL
- * http://news.dice.com/2013/11/04/speed-test-comparing-intel-c-gnu-c-and-llvm-clang-compilers/
-
