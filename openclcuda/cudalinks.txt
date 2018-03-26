@@ -19,6 +19,8 @@
  * https://wiki.skullsecurity.org/Passwords
 
 ### tutorials and lectures
+ - https://github.com/HandsOnOpenCL/Lecture-Slides
+ - https://github.com/HandsOnOpenCL/Exercises-Solutions
  - https://streamhpc.com/knowledge/for-developers/tutorials/
  - http://web.engr.oregonstate.edu/~mjb/cs575/
  - https://handsonopencl.github.io/
@@ -109,7 +111,7 @@
  * https://www.youtube.com/playlist?list=PLKK11Ligqititws0ZOoGk3SW-TZCar4dK
  * http://www.drdobbs.com/parallel/cuda-supercomputing-for-the-masses-part/207200659
 
-### przykłady ,biblioteki
+#przykłady ,biblioteki
  * http://mathema.tician.de/software/pycuda
  * http://choorucode.com/2011/03/14/cuda-template-kernels/
  * http://gpumlib.sourceforge.net/
