@@ -1,7 +1,7 @@
-#Ranking baz online
+### Ranking baz online
  http://db-engines.com/en/ranking
 
-#NOSQL
+### NOSQL
  * https://www.javacodegeeks.com/2015/10/nosql-vs-sql.html
  * http://stackoverflow.com/questions/2285045/what-scalability-problems-have-you-solved-using-a-nosql-data-store?rq=1
  * http://nosql-database.org/
@@ -25,18 +25,18 @@
  * http://seldo.com/weblog/2010/07/12/in_defence_of_sql
  * http://dba.stackexchange.com/questions/607/what-is-a-key-value-store-database
 
-#NOWE NOSQL DB
+### NOWE NOSQL DB
   - https://github.com/cockroachdb/cockroach
   - https://crate.io/
 
-#HYPERGRAPH
+### HYPERGRAPH
  * http://www.hypergraphdb.org/index
 
-#NOSQL tutors
+### NOSQL tutors
  * http://porcelli.com.br/2010/08/nosql-for-beginners/
  * http://bigdatauniversity.com/
  
-#COUCHDB
+### COUCHDB
  * http://www.couchbase.com/couchbase-vs-couchdb
  * http://guide.couchdb.org/editions/1/en/index.html
  * http://www.ibm.com/developerworks/opensource/library/os-couchdb/index.html
@@ -45,25 +45,25 @@
  * http://blog.mattwoodward.com/massive-couchdb-brain-dump
  * https://github.com/janl/jscouch
 
-#TouchDB
+### TouchDB
  * https://github.com/couchbaselabs/TouchDB-Android
 
-#REDIS
+### REDIS
  * http://redis.io/commands
  * https://github.com/andymccurdy/redis-py
  * http://code.google.com/p/credis/
  * http://openmymind.net/redis.pdf
 
-#RIAK
+### RIAK
  * http://basho.com/
 
-#MIDGARD
+### MIDGARD
  * http://www.midgard-project.org/
 
-#BIGDATA
+### BIGDATA
  * https://bigdata.svn.sourceforge.net/svnroot/bigdata/tags/BIGDATA_RELEASE_1_2_0/
 
-#CASANDRA
+### CASANDRA
  * http://www.divconq.com/2010/migrate-a-relational-database-structure-into-a-nosql-cassandra-structure-part-i/
  * http://www.datastax.com/search?q=cql3
  * http://www.divconq.com/category/cassandra/
@@ -99,7 +99,7 @@ ant
  * http://www.datastax.com/dev/blog/schema-in-cassandra-1-1
  * https://github.com/spring-projects/spring-data-cassandra
 
-#MONGODB
+### MONGODB
  * http://www.mongodb.com/presentations
  * https://www.mongodb.com/presentations/mongodb-and-hadoop-driving-business-insights
  * https://www.mongodb.com/presentations/webinar-diagnostics-and-debugging-mongodb
@@ -122,65 +122,65 @@ ant
  * http://datasyndrome.com/post/14631249157/mongodb-is-web-scale-hadoop-mongodb
  * https://github.com/mongodb/mongo-hadoop
  
-####Problemy tuningu:
+#### Problemy tuningu:
  * http://highscalability.com/blog/2011/9/13/must-see-5-steps-to-scaling-mongodb-or-any-db-in-8-minutes.html
  
-####Try .explain():
+#### Try .explain():
  * http://stackoverflow.com/questions/7658228/mongodb-count-is-very-slow-how-do-we-refine-work-around-with-it
  
-####Add explicit hints for index:
+#### Add explicit hints for index:
  * http://stackoverflow.com/questions/9734962/simple-mongodb-query-very-slow-although-index-is-set
  
-####A full heap?:
+#### A full heap?:
  * http://stackoverflow.com/questions/11111281/insert-performance-of-node-mongodb-native
  
-####The end of memory space for collection:
+#### The end of memory space for collection:
  * http://stackoverflow.com/questions/6423988/how-to-improve-performance-of-update-and-save-in-mongodb
  
-####Special read clustering:
+#### Special read clustering:
  * http://www.colinhowe.co.uk/2011/02/23/mongodb-performance-for-data-bigger-than-memor/
  
-####Global write lock?:
+#### Global write lock?:
  * http://stackoverflow.com/questions/9062758/mongodb-bad-performance
  
-####Slow logs performance track:
+#### Slow logs performance track:
  * http://stackoverflow.com/questions/4400104/track-mongodb-performance
  
-####Rotate your logs:
+#### Rotate your logs:
  * http://stackoverflow.com/questions/5699152/does-logging-output-to-an-output-file-affect-mongodb-performance
  
-####Use profiler:
+#### Use profiler:
  * http://www.mongodb.org/display/DOCS/Database+Profiler
  
-####Move some collection caches to RAM:
+#### Move some collection caches to RAM:
  * http://stackoverflow.com/questions/13374342/mongodb-preload-documents-into-ram-for-better-performance
  * http://blog.serverdensity.com/mongodb-monitoring-keep-in-it-ram/
  * http://stackoverflow.com/questions/6453584/what-does-it-mean-to-fit-working-set-into-ram-for-mongodb
  
-####Some ideas about collection allocation size:
+#### Some ideas about collection allocation size:
  * http://stackoverflow.com/questions/12236794/mongodb-data-schema-performance
  
-####Use separate collections:
+#### Use separate collections:
  * http://stackoverflow.com/questions/9306815/mongodb-performance-with-growing-data-structure
 
-####A single query can only use one index (better is a compound one):
+#### A single query can only use one index (better is a compound one):
  * http://stackoverflow.com/questions/12502642/why-is-this-mongodb-query-so-slow
 
-####A missing key?:
+#### A missing key?:
  * http://stackoverflow.com/questions/8720535/slow-mongodb-query-can-you-explain-why
 
-####Maybe shards:
+#### Maybe shards:
  * http://stackoverflow.com/questions/2599943/mongodbs-performance-on-aggregation-queries
  * http://highscalability.com/blog/2010/10/15/troubles-with-sharding-what-can-we-learn-from-the-foursquare.html
 
-####Improving performance stackoverflow links:
+#### Improving performance stackoverflow links:
  * http://stackoverflow.com/a/7635093/602018
 
-####A good point for further sharding replica education is:
+#### A good point for further sharding replica education is:
  * https://education.10gen.com/courses
 
 
-#HADOOP HBASE
+### HADOOP HBASE
  * http://hbase.apache.org/book/book.html
  * http://hbase.apache.org/book/quickstart.html
  * http://ole-martin.net/hbase-tutorial-for-beginners/
@@ -196,7 +196,7 @@ ant
  * http://www.slideshare.net/cloudera/chicago-data-summit-apache-hbase-an-introduction
  * http://www.slideshare.net/gschmutz/nosql-for-data-services-data-virtualization-big-data
 
-#HADOOP HIVE
+### HADOOP HIVE
  * https://cwiki.apache.org/confluence/display/Hive/GettingStarted
  * http://stackoverflow.com/questions/9626789/how-can-i-partition-a-table-with-hive
  * http://horicky.blogspot.com/2008/11/hadoop-mapreduce-implementation.html
@@ -206,7 +206,7 @@ ant
  * https://github.com/yc-huang/Hive-mongo
  * https://issues.apache.org/jira/browse/HIVE-3384
 
-#HADOOP HADOOP
+### HADOOP HADOOP
  * http://www.michael-noll.com/blog/2013/07/04/using-avro-in-mapreduce-jobs-with-hadoop-pig-hive/
  * http://www.crobak.org/2011/12/getting-started-with-apache-hadoop-0-23-0/
  * http://www.ibm.com/developerworks/linux/library/l-hadoop-1/
@@ -220,7 +220,7 @@ ant
  * http://www.michael-noll.com/tutorials/running-hadoop-on-ubuntu-linux-multi-node-cluster/
  * http://videolectures.net/kdd2010_papadimitriou_sun_yan_lsdm/
 
-#HADOOP PIG
+### HADOOP PIG
  * http://hortonworks.com/blog/new-features-in-apache-pig-0-10/
  * http://allthingshadoop.com/2010/05/31/hadoop-pig-yahoo-alan-gates/
  * http://www.ibm.com/developerworks/library/l-apachepigdataquery/index.html
@@ -230,10 +230,10 @@ ant
  * https://github.com/alanfgates/programmingpig
 
 
-#HADOOP SQOOP
+### HADOOP SQOOP
  * https://www.facebook.com/note.php?note_id=86376592002
 
-#NODE.JS
+### NODE.JS
  * http://ofps.oreilly.com/titles/9781449398583/
  * http://visionmedia.github.com/masteringnode/
  * http://www.readwriteweb.com/hack/2011/04/6-free-e-books-on-nodejs.php
@@ -243,7 +243,7 @@ ant
  * http://www.stoimen.com/blog/2010/12/02/diving-into-node-js-a-long-polling-example/
  * http://www.readwriteweb.com/hack/2010/12/6-free-javascript-e-books.php
 
-#ORIENTDB
+### ORIENTDB
  * http://www.orientdb.org/index.htm
 svn checkout http://orient.googlecode.com/svn/ orient-read-only
 cd orient-read-only/trunk
@@ -273,22 +273,22 @@ ant release
  * http://code.google.com/p/orient/wiki/Production_deployments
 
 
-#NEO4J
+### NEO4J
  * http://docs.neo4j.org/chunked/snapshot/tutorials.html
  * http://www.infoq.com/articles/graph-nosql-neo4j
  * http://neo4j.org/
  * https://github.com/kiyoya/kiyoya-overlay
 
-#NUVOLABASE.COM
+### NUVOLABASE.COM
  * http://www.nuvolabase.com/site/
 
-#Zepto/jQuery
+### Zepto/jQuery
  * http://ofps.oreilly.com/titles/9781449316419
  * http://www.jqtouch.com/
  * https://build.phonegap.com/
 
-#FREEEBOOKS
+### FREEEBOOKS
  * http://www.readwriteweb.com/hack/tag/ebooks/
 
-#SORT ALGORITHMS
+### SORT ALGORITHMS
  * http://www.stoimen.com/blog/
