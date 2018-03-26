@@ -6,7 +6,7 @@
  * https://hgpu.org/?tag=opencl
  * https://github.com/smistad
  
-### Tutorials
+### OpenCL Tutorials
  - https://handsonopencl.github.io/
  - https://github.com/HandsOnOpenCL/Lecture-Slides
  - https://github.com/HandsOnOpenCL/Exercises-Solutions
@@ -42,7 +42,7 @@
  - http://www.sqrlab.ca/csci4060u/lectures/
  - http://smai.emath.fr/cemracs/cemracs16/images/FDesprez.pdf
  
-###OpenCL Books
+### OpenCL Books
  - https://us.fixstars.com/opencl/book/OpenCLProgrammingBook/contents/
 
 ### Libraries with OpenCL
@@ -96,7 +96,7 @@
  * https://www.youtube.com/playlist?list=PLKK11Ligqititws0ZOoGk3SW-TZCar4dK
  * http://www.drdobbs.com/parallel/cuda-supercomputing-for-the-masses-part/207200659
 
-#przykłady ,biblioteki
+### CUDA libraries
  * http://mathema.tician.de/software/pycuda
  * http://choorucode.com/2011/03/14/cuda-template-kernels/
  * http://gpumlib.sourceforge.net/
@@ -130,4 +130,4 @@
 
 ### PARALLEL
  * http://news.dice.com/2013/11/04/speed-test-comparing-intel-c-gnu-c-and-llvm-clang-compilers/
- 
+
