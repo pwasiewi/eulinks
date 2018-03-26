@@ -1,45 +1,46 @@
 ### Opencl machine learning
  * https://www.datacamp.com/community/tutorials/deep-learning-python
  * https://github.com/plaidml
+
+### Tutorials
+ - https://handsonopencl.github.io/
+ - https://github.com/HandsOnOpenCL/Lecture-Slides
+ - https://github.com/HandsOnOpenCL/Exercises-Solutions
+ - https://streamhpc.com/knowledge/for-developers/tutorials/
+ 
+### Lectures Opencl
+ - http://web.engr.oregonstate.edu/~mjb/cs575/
+ - http://wiki.rac.manchester.ac.uk/community/OpenCL
+ - http://www.sqrlab.ca/csci4060u/lectures/
+ - http://smai.emath.fr/cemracs/cemracs16/images/FDesprez.pdf
+ 
+### OpenCL examples
  * https://wiki.tiker.net/PyOpenCL/Examples/MedianFilter
 
-### sycl
+### SYCL Opencl machine learning (maybe not so quick, so not popular)
  * https://blog.tartanllama.xyz/sycl/
  * http://deep-beta.co.uk/setting-up-tensorflow-with-opencl-using-sycl/
+ - https://github.com/codeplaysoftware/computecpp-sdk
+ - [eigen in opencl sycl](https://bitbucket.org/benoitsteiner/opencl)
  
-### container
+### CUDA in a LXC container
  - https://andre-ratsimbazafy.com/cuda-gpu-passthrough-to-a-lxc-container/8/
  - https://stackoverflow.com/questions/25185405/using-gpu-from-a-docker-container
 
-### md5 and so on
+### MD5 and opencl
  * https://blog.jfo.click/advent-of-learning-about-md5-and-opencl/
  * https://www.mscs.dal.ca/~selinger/md5collision/
  * https://blog.thireus.com/cracking-story-how-i-cracked-over-122-million-sha1-and-md5-hashed-passwords/
  * https://www.question-defense.com/2010/08/15/automated-password-cracking-use-oclhashcat-to-launch-a-fingerprint-attack
  * https://wiki.skullsecurity.org/Passwords
 
-### tutorials and lectures
- - https://github.com/HandsOnOpenCL/Lecture-Slides
- - https://github.com/HandsOnOpenCL/Exercises-Solutions
- - https://streamhpc.com/knowledge/for-developers/tutorials/
- - http://web.engr.oregonstate.edu/~mjb/cs575/
- - https://handsonopencl.github.io/
- - http://www.cs.bris.ac.uk/home/simonm/workshops/opencl_lecture1.pdf
- - http://wiki.rac.manchester.ac.uk/community/OpenCL
+### AMD ROCm only ubuntu 16.04 or centos, but Open Source (so maybe in future)
  - https://gpuopen.com/opencl-rocm1-6/
- - http://www.sqrlab.ca/csci4060u/lectures/
- - http://smai.emath.fr/cemracs/cemracs16/images/FDesprez.pdf
-
-### amdgpu opencl
- - https://github.com/Lucretia/vulkan-overlay
  - https://radeonopencompute.github.io/
- - http://www.gearsongallium.com/?p=2960
- - https://github.com/codeplaysoftware/computecpp-sdk
  - https://github.com/RadeonOpenCompute/ROCm
  - https://radeonopencompute.github.io/documentation.html
 
 ### tensorflow and other libs on OpenCL
- - [eigen in opencl sycl](https://bitbucket.org/benoitsteiner/opencl)
  - https://www.codeplay.com/portal/sycl-tutorial-1-the-vector-addition
  - https://www.codeplay.com/portal/tensorflow%E2%84%A2-for-opencl%E2%84%A2-using-sycl%E2%84%A2
  - https://github.com/keryell/triSYCL
@@ -58,7 +59,6 @@
  - https://software.intel.com/en-us/articles/gpu-quicksort-in-opencl-20-using-nested-parallelism-and-work-group-scan-functions
  - http://developer.amd.com/community/blog/2014/12/09/amd-app-sdk-3-0-beta/
  - https://anteru.net/blog/2013/07/23/2164/
- - https://github.com/HandsOnOpenCL
  * http://hgpu.org/?tag=java
  * http://www.gputechconf.com/page/home.html
  * https://github.com/parallel-forall/code-samples
