@@ -1,4 +1,4 @@
-#Darmowe wykłady 
+### Darmowe wykłady 
  * http://www.uw-team.org/videoarty.html
  * http://www.udacity.com/
  * http://education.10gen.com
@@ -17,57 +17,56 @@ wprowadzone modyfikacje oraz opisać dokładnie słabe encje, klucze główne i
 obce, sprawdzić czy rozkład do postaci trzeciej normalnej jest optymalny np.
 analizę kolejnych kroków projektowania schematu relacyjnego bazy.
 
-POstgreSQL:
+### PostgreSQL:
  * http://blog.endpoint.com/2014/04/speeding-up-saving-millions-of-orm.html
  * http://www.slideshare.net/markwkm/andoird-postgresql
  * http://www.slideshare.net/nosys/using-postgre-sqljavapgcon2014
  * https://devcenter.heroku.com/articles/postgresql-indexes
  * https://wiki.postgresql.org/wiki/Sample_Databases
 
-Oracle:
+### Oracle:
  * http://www.dba-oracle.com/t_avoiding_mutating_table_error.htm
 
-Dla początkujących blogi:
+### Dla początkujących blogi:
  * http://database-programmer.blogspot.com/2008/01/database-skills-sane-approach-to.html
  * http://database-programmer.blogspot.com/2008/01/table-design-patterns.html
-Odnośniki wyżej zamieszczone pobrane zostały ze stackoverflow:
+### Odnośniki wyżej zamieszczone pobrane zostały ze stackoverflow:
  * http://stackoverflow.com/questions/145689/relational-database-design-patterns
  * http://stackoverflow.com/questions/4048151/what-are-the-options-for-storing-hierarchical-data-in-a-relational-database
 
-Tutoriale SQL-a:
+### Tutoriale SQL-a:
  * http://philip.greenspun.com/sql/
  * http://sqlzoo.net/wiki/Main_Page
  * http://www.sqlcourse.com/index.html
  * http://www.w3schools.com/sql/default.asp
 
-TESTY:
+### TESTY:
  * http://vitessedata.com/benchmark/
 
-Narzędzia:
-DBDesignerFork
+### Narzędzia:
+#### DBDesignerFork
  * http://sourceforge.net/projects/dbdesigner-fork/
-DBDesigner 
+#### DBDesigner 
  * http://www.fabforce.net/dbdesigner4/
-DBUML
+#### DBUML
  * http://sourceforge.net/projects/dbuml/files/complete%20package/1.0.4/
-DIA
+#### DIA
  * http://sourceforge.net/projects/dia2sql/
  * https://wiki.gnome.org/action/show/Apps/Dia?action=show&redirect=Dia
  * http://dia-installer.de/index.html.en
-oraz
-SQLDeveloper dodatek SQLModeler (od wersji 3 zawarty w Developerze):
+#### oraz SQLDeveloper dodatek SQLModeler (od wersji 3 zawarty w Developerze):
  * http://www.oracle.com/technetwork/developer-tools/datamodeler/overview/index.html
  * http://stackoverflow.com/questions/6580529/how-to-generate-e-r-diagram-using-oracle-sql-developer
  * http://www.oracle.com/technetwork/developer-tools/datamodeler/demonstrations-224554.html
  * http://code.google.com/p/wwwsqldesigner/
  * http://stackoverflow.com/questions/1863289/best-visual-modeling-tool-for-sql-server-erwin-alternative
 
-#cheetsheet
+### cheetsheet
  * http://www.itposter.net/
  * http://devcheatsheet.com
  * http://www.cheat-sheets.org/
 
-#XML
+### XML
  * http://webmaster.helion.pl/kurshtml/xml/xml.htm
  * http://www.w3schools.com/xquery/xquery_intro.asp
  * http://pl.wikipedia.org/wiki/XML
@@ -81,10 +80,10 @@ SQLDeveloper dodatek SQLModeler (od wersji 3 zawarty w Developerze):
  * http://www.sedna.org/adminguide/AdminGuidesu4.html
 
 
-#JSON vs. XML
+### JSON vs. XML
  * http://www.json.org/fatfree.html
  * http://www.codeproject.com/Articles/370869/XML-Databases
  * http://json-schema.org/
 
-#INNE
+### INNE
  * http://kva.es/Database_EBooks/
