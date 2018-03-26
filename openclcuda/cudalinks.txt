@@ -2,30 +2,25 @@
  * https://www.datacamp.com/community/tutorials/deep-learning-python
  * https://github.com/plaidml
 
+### OpenCL sites
+ * https://hgpu.org/?tag=opencl
+ * https://github.com/smistad
+ 
 ### Tutorials
  - https://handsonopencl.github.io/
  - https://github.com/HandsOnOpenCL/Lecture-Slides
  - https://github.com/HandsOnOpenCL/Exercises-Solutions
  - https://streamhpc.com/knowledge/for-developers/tutorials/
- 
-### Lectures Opencl
- - http://web.engr.oregonstate.edu/~mjb/cs575/
- - http://wiki.rac.manchester.ac.uk/community/OpenCL
- - http://www.sqrlab.ca/csci4060u/lectures/
- - http://smai.emath.fr/cemracs/cemracs16/images/FDesprez.pdf
+ - https://developer.apple.com/library/content/documentation/Performance/Conceptual/OpenCL_MacProgGuide/TuningPerformanceOntheGPU/TuningPerformanceOntheGPU.html
+ - https://www.eriksmistad.no/getting-started-with-opencl-and-gpu-computing/
+ - http://simpleopencl.blogspot.com/2013/06/tutorial-simple-start-with-opencl-and-c.html
  
 ### OpenCL examples
  * https://wiki.tiker.net/PyOpenCL/Examples/MedianFilter
-
-### SYCL Opencl machine learning (maybe not so quick, so not popular)
- * https://blog.tartanllama.xyz/sycl/
- * http://deep-beta.co.uk/setting-up-tensorflow-with-opencl-using-sycl/
- - https://github.com/codeplaysoftware/computecpp-sdk
- - [eigen in opencl sycl](https://bitbucket.org/benoitsteiner/opencl)
- 
-### CUDA in a LXC container
- - https://andre-ratsimbazafy.com/cuda-gpu-passthrough-to-a-lxc-container/8/
- - https://stackoverflow.com/questions/25185405/using-gpu-from-a-docker-container
+ - https://software.intel.com/en-us/articles/gpu-quicksort-in-opencl-20-using-nested-parallelism-and-work-group-scan-functions
+ - http://arrayfire.com/quest-for-the-smallest-opencl-program/
+ - https://github.com/bgaster/opencl-book-samples
+ - https://github.com/smistad/OpenCLUtilities
 
 ### MD5 and opencl
  * https://blog.jfo.click/advent-of-learning-about-md5-and-opencl/
@@ -39,66 +34,56 @@
  - https://radeonopencompute.github.io/
  - https://github.com/RadeonOpenCompute/ROCm
  - https://radeonopencompute.github.io/documentation.html
+ - https://github.com/ROCmSoftwarePlatform/hiptensorflow/
 
-### tensorflow and other libs on OpenCL
- - https://www.codeplay.com/portal/sycl-tutorial-1-the-vector-addition
- - https://www.codeplay.com/portal/tensorflow%E2%84%A2-for-opencl%E2%84%A2-using-sycl%E2%84%A2
- - https://github.com/keryell/triSYCL
- - https://github.com/benoitsteiner/tensorflow-opencl/issues/30
- - https://github.com/lukeiwanski/tensorflow-opencl/blob/cd5861c4defe3182122276fdbbb371f60ea5b708/tensorflow/g3doc/get_started/os_setup.md#create-the-pip-package-and-install
- - https://www.tensorflow.org/versions/r0.11/how_tos/image_retraining/
- - https://github.com/hughperkins/tensorflow-cl
- - https://github.com/tensorflow/tensorflow/issues/22
- - https://bitbucket.org/benoitsteiner/eigen-opencl
- - https://www.phoronix.com/scan.php?page=news_item&px=Google-StreamExec-Parallel
+### Lectures about Opencl
+ - http://web.engr.oregonstate.edu/~mjb/cs575/
+ - http://wiki.rac.manchester.ac.uk/community/OpenCL
+ - http://www.sqrlab.ca/csci4060u/lectures/
+ - http://smai.emath.fr/cemracs/cemracs16/images/FDesprez.pdf
+ 
+###OpenCL Books
+ - https://us.fixstars.com/opencl/book/OpenCLProgrammingBook/contents/
+
+### Libraries with OpenCL
+ - https://streamhpc.com/knowledge/for-developers/opencl-wrappers/
  - https://github.com/hughperkins/distro-cl
  - https://github.com/hughperkins/DeepCL
  - https://github.com/hughperkins/EasyCL
+
+### SYCL Opencl machine learning (maybe not so quick, so not popular)
+ * https://blog.tartanllama.xyz/sycl/
+ * http://deep-beta.co.uk/setting-up-tensorflow-with-opencl-using-sycl/
+ - https://github.com/codeplaysoftware/computecpp-sdk
+ - [eigen in opencl sycl](https://bitbucket.org/benoitsteiner/opencl)
+ - https://developer.codeplay.com/computecppce/latest/getting-started-guide
+ - https://www.codeplay.com/portal/sycl-tutorial-1-the-vector-addition
+ - https://www.codeplay.com/portal/tensorflow%E2%84%A2-for-opencl%E2%84%A2-using-sycl%E2%84%A2
+ - https://github.com/keryell/triSYCL
+ 
+### Future and current features description
+ - https://github.com/henline/streamexecutordoc
  - https://streamcomputing.eu/blog/2015-02-10/overview-of-opencl-2-0-support-samples-blogs-and-drivers/
- - https://streamcomputing.eu/knowledge/for-developers/tutorials/
- - https://software.intel.com/en-us/articles/gpu-quicksort-in-opencl-20-using-nested-parallelism-and-work-group-scan-functions
- - http://developer.amd.com/community/blog/2014/12/09/amd-app-sdk-3-0-beta/
  - https://anteru.net/blog/2013/07/23/2164/
- * http://hgpu.org/?tag=java
- * http://www.gputechconf.com/page/home.html
+ * http://streamcomputing.eu/blog/2013-12-27/opencl-spir-by-example/
+ - https://www.khronos.org/conformance/adopters/conformant-products#opencl
+ 
+### tensorflow with OpenCL 
+ - https://github.com/ROCmSoftwarePlatform/hiptensorflow/
+ - https://github.com/hughperkins/tf-coriander
+ - https://github.com/benoitsteiner/tensorflow-opencl/issues/30
+ - https://github.com/tensorflow/tensorflow/issues/22
+ - https://github.com/lukeiwanski/tensorflow-opencl/blob/cd5861c4defe3182122276fdbbb371f60ea5b708/tensorflow/g3doc/get_started/os_setup.md#create-the-pip-package-and-install
+
+### Tensorflow examples
+ - https://www.tensorflow.org/versions/r0.11/how_tos/image_retraining/
+ 
+### CUDA in a LXC container
+ - https://andre-ratsimbazafy.com/cuda-gpu-passthrough-to-a-lxc-container/8/
+ - https://stackoverflow.com/questions/25185405/using-gpu-from-a-docker-container
+ 
+### CUDA examples
  * https://github.com/parallel-forall/code-samples
- 
-### OPENCL
- * https://streamcomputing.eu/blog/2015-02-10/overview-of-opencl-2-0-support-samples-blogs-and-drivers/
- * https://streamcomputing.eu/knowledge/for-developers/tutorials/
- * http://streamcomputing.eu/knowledge/for-developers/opencl-wrappers/
- * http://www.openclblog.com/
- * http://www.fixstars.com/en/opencl/book/OpenCLProgrammingBook/first-opencl-program/
- * http://arrayfire.com/quest-for-the-smallest-opencl-program/
- * http://boost.2283326.n4.nabble.com/compute-GPGPU-Library-Request-For-Feedback-td4643691.html
- * http://stackoverflow.com/questions/21318112/how-to-prepare-eclipse-for-opencl-programming-intel-opencl-sdk-installed-in-li
- * http://www.fixstars.com/en/opencl/book/OpenCLProgrammingBook/contents/A
- * http://streamcomputing.eu/knowledge/for-developers/books/
- * https://github.com/smistad
- * http://enja.org/2010/07/20/adventures-in-opencl-part-1-5-cpp-bindings/
- * http://simpleopencl.blogspot.com/2013/06/tutorial-simple-start-with-opencl-and-c.html
- * http://stackoverflow.com/questions/2362186/debugger-for-opencl
- * http://streamcomputing.eu/blog/2013-12-27/opencl-spir-by-example/
- * https://developer.apple.com/library/mac/documentation/Performance/Conceptual/OpenCL_MacProgGuide/TuningPerformanceOntheGPU/TuningPerformanceOntheGPU.html
- * https://github.com/bgaster/opencl-book-samples
- * https://github.com/dmed256/OCL-Library
- * http://code.google.com/p/openclam/
- * http://developer.amd.com/gpu_assets/ATI_Stream_SDK_OpenCL_Programming_Guide.pdf
- * http://www.fixstars.com/en/opencl/book/OpenCLProgrammingBook/contents/
- * http://streamcomputing.eu/knowledge/for-developers/books/
- * https://code.google.com/p/opencl-book-samples/
- * https://developer.apple.com/library/mac/documentation/Performance/Conceptual/OpenCL_MacProgGuide/TuningPerformanceOntheGPU/TuningPerformanceOntheGPU.html
- * http://streamcomputing.eu/blog/2013-12-27/opencl-spir-by-example/
- * http://stackoverflow.com/questions/2362186/debugger-for-opencl
- * https://www.khronos.org/conformance/adopters/conformant-products#opencl
-
- * http://simpleopencl.blogspot.com/2013/06/tutorial-simple-start-with-opencl-and-c.html
- * http://enja.org/2010/07/20/adventures-in-opencl-part-1-5-cpp-bindings/
- * http://www.thebigblob.com/using-the-cpp-bindings-for-opencl/
- * http://dhruba.name/2012/10/06/opencl-cookbook-hello-world-using-cpp-host-binding/
- * https://github.com/smistad/OpenCLUtilities
-
- 
 
 ### Cuda C
  * https://alliseesolutions.wordpress.com/2016/09/08/install-gpu-tensorflow-from-sources-w-ubuntu-16-04-and-cuda-8-0-rc/
@@ -145,4 +130,4 @@
 
 ### PARALLEL
  * http://news.dice.com/2013/11/04/speed-test-comparing-intel-c-gnu-c-and-llvm-clang-compilers/
-
+ 
