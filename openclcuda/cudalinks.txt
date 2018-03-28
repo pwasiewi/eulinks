@@ -37,11 +37,11 @@
  * https://wiki.skullsecurity.org/Passwords
 
 ### AMD ROCm only ubuntu 16.04 or centos, but Open Source (so maybe in future)
+ - https://github.com/ROCmSoftwarePlatform/tensorflow
  - https://gpuopen.com/opencl-rocm1-6/
  - https://radeonopencompute.github.io/
  - https://github.com/RadeonOpenCompute/ROCm
  - https://radeonopencompute.github.io/documentation.html
- - https://github.com/ROCmSoftwarePlatform/hiptensorflow/
 
 ### Lectures about Opencl
  - http://web.engr.oregonstate.edu/~mjb/cs575/
@@ -78,7 +78,7 @@
  - https://www.khronos.org/conformance/adopters/conformant-products#opencl
  
 ### Tensorflow with OpenCL 
- - https://github.com/ROCmSoftwarePlatform/hiptensorflow/
+ - https://github.com/ROCmSoftwarePlatform/tensorflow
  - https://github.com/hughperkins/tf-coriander
  - https://github.com/benoitsteiner/tensorflow-opencl/issues/30
  - https://github.com/tensorflow/tensorflow/issues/22
