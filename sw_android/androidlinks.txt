@@ -13,6 +13,16 @@
 ### GOOGLE CODELABS
  - https://g.co/codelabs
 
+#### Kotlin coroutines
+ - https://github.com/Kotlin/kotlinx.coroutines
+ - https://www.youtube.com/watch?v=_hfBv0a09Jc
+ - https://fr.slideshare.net/elizarov/introduction-to-coroutines-kotlinconf-2017
+ - https://www.youtube.com/watch?v=YrrUCSi72E8
+ - https://www.slideshare.net/elizarov/deep-dive-into-coroutines-on-jvm-kotlinconf-2017
+
+#### rxkotlin
+ - https://erikcaffrey.github.io/ANDROID-kotlin-arch-components/
+
 ### Kotlin
  - [Kurs Kotlina po polsku na youtube](https://www.youtube.com/watch?v=lPv0_Gc2wcc&index=2&list=PLCANL9WHTsiGeQzn72AUU6FH3p3aoAiMM)
  - https://try.kotlinlang.org
