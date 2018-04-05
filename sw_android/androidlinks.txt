@@ -13,6 +13,8 @@
 ### GOOGLE CODELABS
  - https://g.co/codelabs
 
+#Kotlin 
+
 #### Kotlin coroutines
  - https://github.com/Kotlin/kotlinx.coroutines
  - https://github.com/Kotlin/kotlinx.coroutines/blob/master/ui/coroutines-guide-ui.md
@@ -43,14 +45,16 @@
  - https://www.raywenderlich.com/168038/common-design-patterns-android-kotlin
  - http://kotlinlang.org/docs/tutorials/kotlin-android.html
 
-### Kotlin
+#### Kotlin - odnośniki
+ - https://kotlin.link/
+ - https://github.com/KotlinBy/awesome-kotlin
+ - https://github.com/mcxiaoke/awesome-kotlin
+ 
+#### Kotlin - podstawowe tutoriale
  - [Kurs Kotlina po polsku na youtube](https://www.youtube.com/watch?v=lPv0_Gc2wcc&index=2&list=PLCANL9WHTsiGeQzn72AUU6FH3p3aoAiMM)
  - https://try.kotlinlang.org
  - http://kotlinbyexample.org/
- - https://kotlin.link/
- - https://github.com/KotlinBy/awesome-kotlin
  - https://github.com/dbacinski/Design-Patterns-In-Kotlin
- - https://github.com/mcxiaoke/awesome-kotlin
  - https://blog.kotlin-academy.com/the-character-of-kotlin-a72193b822a8
  - http://docs.paralleluniverse.co/quasar/
  - https://www.youtube.com/watch?v=Org0vh-VSgA&list=PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh
