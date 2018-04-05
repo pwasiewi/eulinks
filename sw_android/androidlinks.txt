@@ -22,8 +22,18 @@
  - https://www.youtube.com/watch?v=YrrUCSi72E8
  - https://www.slideshare.net/elizarov/deep-dive-into-coroutines-on-jvm-kotlinconf-2017
 
-#### rxkotlin
+#### Anko Android
+ - https://github.com/kotlin/anko-example
+ - https://www.codementor.io/jessicathornsby/write-better-kotlin-getting-started-with-anko-for-android-ecwt3p6hz
+ - https://medium.com/@v.souhrada/introduction-to-anko-for-android-part-1-6178d536cbe6
+
+#### Rxkotlin i inne
  - https://erikcaffrey.github.io/ANDROID-kotlin-arch-components/
+ - https://github.com/ReactiveX/RxKotlin
+ - https://www.raywenderlich.com/170233/reactive-programming-rxandroid-kotlin-introduction
+ - https://medium.freecodecamp.org/rxandroid-and-kotlin-part-1-f0382dc26ed8
+ - http://rxmarbles.com/
+ - http://adavis.info/2017/07/using-rxbinding-with-kotlin-and-rxjava2.html
 
 ### Kotlin
  - [Kurs Kotlina po polsku na youtube](https://www.youtube.com/watch?v=lPv0_Gc2wcc&index=2&list=PLCANL9WHTsiGeQzn72AUU6FH3p3aoAiMM)
@@ -31,19 +41,11 @@
  - http://kotlinbyexample.org/
  - https://kotlin.link/
  - https://github.com/KotlinBy/awesome-kotlin
- - https://github.com/kotlin/anko-example
- - https://www.codementor.io/jessicathornsby/write-better-kotlin-getting-started-with-anko-for-android-ecwt3p6hz
- - https://medium.com/@v.souhrada/introduction-to-anko-for-android-part-1-6178d536cbe6
  - https://codelabs.developers.google.com/codelabs/notification-channels-kotlin/index.html#0
  - https://github.com/nekocode/Kotlin-Android-Template
  - https://www.raywenderlich.com/168038/common-design-patterns-android-kotlin
  - https://android.jlelse.eu/learn-kotlin-while-developing-an-android-app-introduction-567e21ff9664
  - https://github.com/dbacinski/Design-Patterns-In-Kotlin
- - https://github.com/ReactiveX/RxKotlin
- - https://www.raywenderlich.com/170233/reactive-programming-rxandroid-kotlin-introduction
- - https://medium.freecodecamp.org/rxandroid-and-kotlin-part-1-f0382dc26ed8
- - http://rxmarbles.com/
- - http://adavis.info/2017/07/using-rxbinding-with-kotlin-and-rxjava2.html
  - http://kotlinlang.org/docs/tutorials/kotlin-android.html
  - https://github.com/mcxiaoke/awesome-kotlin
  - https://blog.kotlin-academy.com/the-character-of-kotlin-a72193b822a8
