@@ -1,6 +1,8 @@
 ### Polecenia z linii komendy 
   
 ```
+   #Android-Studio w katalogu projektu
+   ./gradlew clean build 
    #https://developer.android.com/studio/run/device.html#VendorIds
    wget -S -O - http://source.android.com/source/51-android.rules | sed "s/<username>/$USER/"| sudo tee >/dev/null /etc/udev/rules.d/51-android.rules; sudo udevadm control --reload-rules
    export PATH=$PATH:/opt/android-ndk/:/opt/android-sdk-linux/platform-tools/:/opt/android-sdk-linux/tools/
@@ -47,12 +49,12 @@
  - http://kotlinlang.org/docs/tutorials/kotlin-android.html
  - https://fernandocejas.com/2017/02/03/android-testing-with-kotlin/
 
-#### Kotlin - odnośniki
+#### Kotlin odnośniki
  - https://kotlin.link/
  - https://github.com/KotlinBy/awesome-kotlin
  - https://github.com/mcxiaoke/awesome-kotlin
  
-#### Kotlin - podstawowe tutoriale
+#### Kotlin podstawowe tutoriale
  - https://try.kotlinlang.org
  - http://kotlinbyexample.org/
  - https://blog.jetbrains.com/kotlin/2016/03/kotlin-educational-plugin/
