@@ -13,7 +13,7 @@
 ### GOOGLE CODELABS
  - https://g.co/codelabs
 
-#Kotlin 
+# Kotlin 
 
 #### Kotlin coroutines
  - https://github.com/Kotlin/kotlinx.coroutines
@@ -39,11 +39,13 @@
  - [Reactive programming](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 
 #### Android Kotlin
+ - https://developer.android.com/kotlin/get-started.html
  - https://codelabs.developers.google.com/codelabs/notification-channels-kotlin/index.html#0
  - https://github.com/nekocode/Kotlin-Android-Template
  - https://android.jlelse.eu/learn-kotlin-while-developing-an-android-app-introduction-567e21ff9664
  - https://www.raywenderlich.com/168038/common-design-patterns-android-kotlin
  - http://kotlinlang.org/docs/tutorials/kotlin-android.html
+ - https://fernandocejas.com/2017/02/03/android-testing-with-kotlin/
 
 #### Kotlin - odnośniki
  - https://kotlin.link/
@@ -51,20 +53,23 @@
  - https://github.com/mcxiaoke/awesome-kotlin
  
 #### Kotlin - podstawowe tutoriale
- - [Kurs Kotlina po polsku na youtube](https://www.youtube.com/watch?v=lPv0_Gc2wcc&index=2&list=PLCANL9WHTsiGeQzn72AUU6FH3p3aoAiMM)
  - https://try.kotlinlang.org
  - http://kotlinbyexample.org/
+ - https://blog.jetbrains.com/kotlin/2016/03/kotlin-educational-plugin/
+ - https://learnxinyminutes.com/docs/kotlin/
  - https://github.com/dbacinski/Design-Patterns-In-Kotlin
  - https://blog.kotlin-academy.com/the-character-of-kotlin-a72193b822a8
- - http://docs.paralleluniverse.co/quasar/
- - https://www.youtube.com/watch?v=Org0vh-VSgA&list=PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh
+ - [Kotlin video tutorial](https://www.youtube.com/watch?v=Org0vh-VSgA&list=PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh)
+ - [Kurs Kotlina po polsku na youtube](https://www.youtube.com/watch?v=lPv0_Gc2wcc&index=2&list=PLCANL9WHTsiGeQzn72AUU6FH3p3aoAiMM)
+ 
+#### Kotlin blogi
  - http://nilhcem.com/swift-is-like-kotlin/
- - https://antonioleiva.com/category/blog/
- - https://learnxinyminutes.com/docs/kotlin/
+ - [Blog książki o Kotlin w Android](https://antonioleiva.com/category/blog/)
  - https://blog.jetbrains.com/kotlin/
- - https://developer.android.com/kotlin/get-started.html
- - https://fernandocejas.com/2017/02/03/android-testing-with-kotlin/
- - https://blog.jetbrains.com/kotlin/2016/03/kotlin-educational-plugin/
+
+
+#### Kotlin and libraries
+ - http://docs.paralleluniverse.co/quasar/
 
 ### New Android libraries
  - http://jakewharton.github.io/butterknife/
@@ -92,7 +97,7 @@
  - [Popularna chmura](https://parse.com/docs/android_guide)
  - [Gradle tutorial (2015)](http://rominirani.com/2014/07/28/gradle-tutorial-series-an-overview/)
 
-### DEVELOPERZY i BLOGI
+### DEVELOPERZY i BLOGI Androida
  - https://github.com/JakeWharton
  - http://antonioleiva.com/
  - [Android Devs Blog 2015](http://android-developers.blogspot.fr/)
