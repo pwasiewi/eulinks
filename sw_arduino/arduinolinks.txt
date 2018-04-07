@@ -9,6 +9,7 @@
  - http://forum.arduinopolska.com/watek-biblioteka-timers-koniec-z-uci%C4%85%C5%BCliwym-delay (http://bit.ly/arduinotimer)
  - http://100-x-arduino.blogspot.com/2016/11/bibioteki-cd-czyli-o-przewadze-zmywarki.html
  - https://github.com/nettigo/Timers
+ - https://playground.arduino.cc/Main/LibraryList#Timing
  
 ### Zakupy w Chinach
  - http://elektrokornik.blog.pl/co-warto-zamawiac-z-chin/
@@ -27,6 +28,7 @@
  - https://gist.github.com/zerokol/4110773
  
 ### Różności 
+ * https://playground.arduino.cc/Main/LibraryList
  * https://en.wikipedia.org/wiki/List_of_Arduino_boards_and_compatible_systems
  * http://www.rugged-circuits.com/10-ways-to-destroy-an-arduino/
  * http://virtgpio.blavery.com/vgpio/
