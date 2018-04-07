@@ -10,6 +10,7 @@
  - http://100-x-arduino.blogspot.com/2016/11/bibioteki-cd-czyli-o-przewadze-zmywarki.html
  - https://github.com/nettigo/Timers
  - https://playground.arduino.cc/Main/LibraryList#Timing
+ - https://github.com/PaulStoffregen/TimerOne
  - https://github.com/prampec/arduino-softtimer
  - https://github.com/prampec/arduino-pcimanager
  
