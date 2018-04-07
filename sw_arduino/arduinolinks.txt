@@ -11,6 +11,7 @@
  - https://github.com/nettigo/Timers
  - https://playground.arduino.cc/Main/LibraryList#Timing
  - https://github.com/prampec/arduino-softtimer
+ - https://github.com/prampec/arduino-pcimanager
  
 ### Zakupy w Chinach
  - http://elektrokornik.blog.pl/co-warto-zamawiac-z-chin/
