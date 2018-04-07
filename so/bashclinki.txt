@@ -1,4 +1,5 @@
 ### Kursy i ksiązki
+ * https://vim-adventures.com/
  * https://github.com/vhf/free-programming-books
  * http://thenextweb.com/dd/2012/10/21/so-you-want-to-be-a-programmer-huh-heres-25-ways-to-learn-online/
  * http://www.tutorialspoint.com/codingground.htm
