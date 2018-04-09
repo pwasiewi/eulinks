@@ -4,6 +4,7 @@
  
 ### Blogi
  - http://www.instructables.com/technology/arduino/
+ - https://www.theengineeringprojects.com/category/arduino-projects
  - http://hobbyspace.pl/category/arduino/
 
 ###Fonty
