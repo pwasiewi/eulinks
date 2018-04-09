@@ -3,8 +3,9 @@
  - http://feriar-lab.pl/kurs-arduino/
  
 ### Blogi
+ - http://www.instructables.com/technology/arduino/
  - http://hobbyspace.pl/category/arduino/
- 
+
 ###Fonty
  - http://omerk.github.io/lcdchargen/
  
