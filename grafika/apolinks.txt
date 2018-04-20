@@ -13,7 +13,7 @@
  * https://en.wikibooks.org/wiki/Fractals/shadertoy
  * http://dent.readthedocs.io/en/latest/tutorial-shadertoy.html
  
- ## shadertoy po polsku
+## shadertoy po polsku
  * https://medium.com/@maciej.matyka/shadertoy-po-polsku-4f80e251e902
 
 ## R imager
