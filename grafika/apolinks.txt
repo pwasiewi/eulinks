@@ -12,6 +12,9 @@
  * https://support.troikatronix.com/support/solutions/articles/13000025645-glsl-shader-actor-tutorial
  * https://en.wikibooks.org/wiki/Fractals/shadertoy
  * http://dent.readthedocs.io/en/latest/tutorial-shadertoy.html
+ 
+ ## shadertoy po polsku
+ * https://medium.com/@maciej.matyka/shadertoy-po-polsku-4f80e251e902
 
 ## R imager
  - https://cran.r-project.org/web/packages/imager/vignettes/gettingstarted.html
