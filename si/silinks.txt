@@ -28,6 +28,9 @@
  - http://www.wildml.com/2016/10/learning-reinforcement-learning/
  - http://deeplearning.net/software/libgpuarray/
 
+### SVM in R
+ - https://en.wikibooks.org/wiki/Data_Mining_Algorithms_In_R/Classification/SVM
+
 ### tutorial wykładowy
 - https://github.com/pwasiewi/eusi/blob/master/skrypty/01stepfirst.R
 - https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/
