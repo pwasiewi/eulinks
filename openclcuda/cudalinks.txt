@@ -23,6 +23,7 @@
  - http://arrayfire.com/quest-for-the-smallest-opencl-program/
  - https://github.com/bgaster/opencl-book-samples
  - https://github.com/smistad/OpenCLUtilities
+ - http://gpgpu-computing4.blogspot.com/2009/09/matrix-multiplication-2-opencl.html
 
 ### HASH PASS
  * http://whitepixel.zorinaq.com/
