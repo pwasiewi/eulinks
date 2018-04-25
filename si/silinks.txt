@@ -30,6 +30,7 @@
 
 ### SVM in R
  - https://en.wikibooks.org/wiki/Data_Mining_Algorithms_In_R/Classification/SVM
+ - http://dimensionless.in/rblog/SVM_blog.html
 
 ### tutorial wykładowy
 - https://github.com/pwasiewi/eusi/blob/master/skrypty/01stepfirst.R
