@@ -29,6 +29,7 @@
  - http://www.wildml.com/2016/10/learning-reinforcement-learning/
  - http://deeplearning.net/software/libgpuarray/
 
+
 ### SVM in R
  - https://en.wikibooks.org/wiki/Data_Mining_Algorithms_In_R/Classification/SVM
  - http://dimensionless.in/rblog/SVM_blog.html
@@ -39,6 +40,7 @@
 
 ### r python
 - http://vknight.org/unpeudemath/python/2017/09/16/using-python-in-R-to-study-the-ipd.html
+- https://cran.r-project.org/web/packages/h2o4gpu/vignettes/getting_started.html
 
 ### do projektu serwer zadań do rozwiązania z podpowiedziami i tutoriale
 - https://www.kaggle.com/competitions
