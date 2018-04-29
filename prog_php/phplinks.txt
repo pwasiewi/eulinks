@@ -1,0 +1,93 @@
+## Darmowe wykłady i serwisy z odpowiedziami
+ * http://www.udacity.com/
+ * https://education.10gen.com
+ * http://www.uw-team.org/videoarty.html
+ * http://www.itposter.net/ 
+ * https://github.com/vhf/free-programming-books
+ * http://9fingers.pl/
+ * http://devpytania.pl/
+ * http://www.osqa.net/
+ * http://www.digilife.be/quickreferences/indexe.html
+ 
+## Ćwiczenia
+ - https://www.reddit.com/r/dailyprogrammer/
+ - https://www.reddit.com/r/todayilearned/
+ 
+## Youtuberzy programiści - kursy!
+ - https://www.youtube.com/user/koushks/playlists
+ - https://www.youtube.com/user/caveofprogramming/playlists
+ - https://www.youtube.com/user/derekbanas/playlists
+ - https://www.youtube.com/user/phpacademy/playlists
+
+## TUTORIALE:
+ * http://www.mkyong.com/all-tutorials-on-mkyong-com/
+ * http://blog.reachvikas.com/2014/05/How-To-Create-A-GitHub-Blog/
+ * https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md
+
+
+## Uruchamiamy skrypty:
+
+php -f nazwa.php;
+
+Źródła z wikipedii po polsku są wstępem do lepiej dopracowanej wiki po
+angielsku (choć może nie w każdym przypadku). A ta z kolei jest wstępem 
+do dalszych pozycji, można też zacząć od czytania książek, zależy od
+preferencji.
+
+
+## OBIEKTOWE
+ * http://pl.wikipedia.org/wiki/Programowanie_obiektowe
+ * http://pl.wikibooks.org/wiki/PHP/Czym_jest_programowanie_obiektowe%3F
+
+### KURSY PHP
+ * http://pl.wikibooks.org/wiki/PHP					***
+ * http://www.capaciouscore.pl/kursy/					****
+ * http://webhosting.pl/Kurs.PHP..Wstep.do.programowania.w.popularnym.jezyku.skryptowym
+ * http://phpkurs.pl/									***
+ * http://kursphp.com/									*
+ * http://www.youtube.com/playlist?list=PLE974A9BEF34A967A **** 
+ * http://www.youtube.com/user/uwteamorg				*****
+ * http://www.youtube.com/watch?v=0h-CL0LhhSk 			*** dla zielonych
+ * http://www.apachefriends.org/en/xampp.html
+ * http://php.webtutor.pl/pl/2011/03/31/hiphop-php-instalacja-na-fedora-12/
+
+## PHP
+ * http://pl.wikibooks.org/wiki/Php
+ * http://pl.wikibooks.org/wiki/PHP/Dziedziczenie#Implementacja_dziedziczenia
+ * http://php.pl/Wortal/Artykuly/PHP/Podstawy/Programowanie-obiektowe-dla-poczatkujacych5
+ * http://di.com.pl/porady/35024,0,PHP_Programowanie_obiektowe_dla_poczatkujacych.html
+ * http://php.pl/Wortal/Artykuly/PHP/Architektura/OO-Programowanie-obiektowe-w-praktyce
+ * http://www.mephir.net.pl/taxonomy/term/10
+ * http://www.serwan.pl/index.php/archives/tag/programowanie-obiektowe
+ * http://webhosting.pl/Kurs.PHP..Wstep.do.programowania.w.popularnym.jezyku.skryptowym?page=11
+ * http://www.serwan.pl/index.php/archives/1653
+
+### HTTPD PHP
+ * http://bcosca.github.com/fatfree
+ * http://php.net/manual/en/features.commandline.webserver.php
+ * http://code.google.com/p/superglue/
+ * http://gitorious.org/belokan
+
+## FORK
+ * http://pl.wikipedia.org/wiki/Fork
+
+### FORK PHP
+ * http://www.electrictoolbox.com/article/php/process-forking/
+
+## THREADS
+ * http://pl.wikipedia.org/wiki/W%C4%85tek_%28informatyka%29
+
+### THREAD PHP (w php nie ma wątków, ale pod linuksem .. ;) )
+ * http://stackoverflow.com/questions/2585656/threads-in-php
+ * https://github.com/krakjoe/pthreads
+
+## SHELL
+ * http://pl.wikipedia.org/wiki/Pow%C5%82oka_systemowa
+
+### SHELL PHP
+ * http://phpshell.sourceforge.net/
+
+## PHP MVC
+ * https://github.com/ElbertF/Swiftlet
+ * https://code.google.com/p/ganon/
+

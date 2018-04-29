@@ -1,0 +1,65 @@
+:cloud:
+### Kursy sieciowe 
+ - https://www.cybrary.it/
+
+### XenServer
+ - http://xenserver.org/open-source-virtualization-download.html
+ - http://xenserver.org/blog.html
+ - https://wiki.xenserver.org/index.php?title=Main_Page
+
+#### xenserver glusterfs można poprzeć rozwój technologii po zalogowaniu się
+ - https://bugs.xenserver.org/browse/XSO-291 
+ - https://bugs.xenserver.org/browse/XSO-300
+ - http://xenorg.uservoice.com/forums/172169-xen-development/filters/top
+ - http://discussions.citrix.com/topic/366729-about-xenserver-glusterfs/?p=1917700
+ 
+#### keepalived 
+ - https://raymii.org/s/tutorials/Keepalived-Simple-IP-failover-on-Ubuntu.html
+ - https://github.com/fcwu/glusterfs-keepalived
+
+#### xenserver i ceph
+ - https://github.com/rposudnevskiy/RBDSR
+ - http://xenserver.org/discuss-virtualization/virtualization-blog/entry/xenserver-docker-ceph-rbdsr-for-shared-local-storage.html
+
+#### Openstack + HA + ansible
+ - https://raymii.org/s/articles/Building_HA_Clusters_With_Ansible_and_Openstack.html
+
+#### xenserver i docker windows 2016
+ - https://msandbu.wordpress.com/2016/05/26/xenserver-7-and-docker-managment-of-netscaler-cpx-and-windows-server-2016/
+
+#### halizard - xenserver ha na dwóch maszynach z DRDB
+ - http://www.halizard.com/
+ - http://www.halizard.com/forum/suggestion-box/148-dundee-upgrade
+
+#### DRBD 
+ - https://www.drbd.org/en/doc/users-guide-90/s-configure-split-brain-behavior
+
+#### xenserver ha
+ - http://docs.citrix.com/de-de/xencenter/6-1/xs-xc-protection/xs-xc-pools-ha/xs-xc-pools-ha-about.html
+ - http://xapi-project.github.io/features/HA/HA.html
+ - https://support.citrix.com/servlet/KbServlet/download/21018-102-664364/High%20Availability%20for%20Citrix%20XenServer.pdf
+ - https://xen-orchestra.com/blog/xenserver-and-vm-high-availability/
+ - https://discussions.citrix.com/topic/367150-ntp-ha-self-fencing/page-2#entry1884695
+ - http://discussions.citrix.com/topic/333343-need-help-interpreting-xha-logs/
+
+#### xenserver failure ha restart
+ - http://support.citrix.com/article/CTX128275
+ - http://citrixtechs.com/blog/help-my-citrix-xenserver-poolmaster-is-down-2/
+ - http://discussions.citrix.com/topic/292757-local-storage-unplugged-and-un-repairable/
+ - http://citrixtechs.com/blog/help-my-citrix-xenserver-poolmaster-is-down-2/
+
+#### xenserver multipath
+ - http://docs.citrix.com/content/dam/docs/en-us/xenserver/xenserver-61/xs-design-multipathing-config.pdf
+ 
+#### xenserver docker
+ - http://xenserver.org/discuss-virtualization/virtualization-blog/entry/a-new-year-a-new-way-to-build-for-xenserver.html
+ 
+#### xenserver i ilo
+ - http://discussions.citrix.com/topic/289538-wlb-wake-on-lan-times-out-before-xenserver-loads/
+ - http://www.experts-exchange.com/questions/26331244/XenServer-5-6-iLO-Power-on-not-working.html
+ - http://h20195.www2.hp.com/V2/GetPDF.aspx/4AA0-3524ENW.pdf
+
+#### eksperymentalne 
+ - https://github.com/FlorianHeigl/xen-ceph-rbd
+ - http://xenorg.uservoice.com/forums/172169-xen-development/filters/top
+

@@ -1,0 +1,210 @@
+## Darmowe wykłady i odpowiedzi na pytania
+ * http://www.udacity.com/
+ * https://education.10gen.com
+ * http://www.uw-team.org/videoarty.html
+ * http://www.itposter.net/ 
+ * https://github.com/vhf/free-programming-books
+ * http://9fingers.pl/
+ * http://devpytania.pl/
+ * http://www.osqa.net/
+ * http://www.digilife.be/quickreferences/indexe.html
+ 
+## Youtuberzy programiści - kursy!
+ - https://www.youtube.com/user/koushks/playlists
+ - https://www.youtube.com/user/caveofprogramming/playlists
+ - https://www.youtube.com/user/derekbanas/playlists
+ - https://www.youtube.com/user/phpacademy/playlists
+
+## Ćwiczenia
+ - https://www.reddit.com/r/dailyprogrammer/
+ - https://www.reddit.com/r/todayilearned/
+
+## Uruchamiamy programy:
+
+g++ nazwa.cpp; ./a.out;
+
+Źródła z wikipedii po polsku są wstępem do lepiej dopracowanej wiki po
+angielsku (choć może nie w każdym przypadku). A ta z kolei jest wstępem 
+do dalszych pozycji, można też zacząć od czytania książek, zależy od
+preferencji.
+
+## C++
+ * https://video4h.com/video/iWvcoIKSaoc/a-tour-of-modern-c.html
+ * [Modern C++ several design patterns](https://www.youtube.com/watch?v=j9arNRRoPe8)
+ * https://theboostcpplibraries.com/
+ * [Nowe C++ 14](https://github.com/pwasiewi/cppnow_presentations_2014)
+ - [Blog C++17](http://www.bfilipek.com/)
+ - https://tech.io/playgrounds/2205/7-features-of-c17-that-will-simplify-your-code/introduction
+ - https://github.com/PacktPublishing/Cpp17-STL-Cookbook
+ * http://coliru.stacked-crooked.com/a/42c27365c74cca39
+ * http://www.freeprogrammingresources.com/cppbooks.html
+ * https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#c-1
+#### Kursy języka C++ i C:
+ *  [Kursy C++ z programuj.com](http://www.programuj.com/download.php)
+ *  [Kurs C++ z xion ](http://xion.org.pl/productions/texts/coding/megatutorial/)
+ *  [Kurs C++ z cpp0x.pl ](http://cpp0x.pl/kursy/Kurs-C++/1)
+ *  [Kurs C++ z 4programmers ](http://4programmers.net/C)
+ *  [Kurs C++ bez cholesterolu ](http://www.intercon.pl/%7Esektor/cbx/)
+ *  [Kurs C++ na Youtubie (filmy screencasty)
+    ](http://www.youtube.com/playlist?list=PLE84826ABF088F7E8)
+ *  [Opis C++ z wikipedii ](http://pl.wikipedia.org/wiki/C%2B%2B)
+ *  [Wikiksiążka C++ po polsku ](http://pl.wikibooks.org/wiki/C++)
+ *  [Kurs C++ z cprogramming po angielsku ](http://www.cprogramming.com/)
+ *  [Wikibook C++ po angielsku ](http://en.wikibooks.org/wiki/C++)
+ *  [Strona C++ po angielsku ](http://www.cplusplus.com/)
+ *  [Strona twórcy C++ Stroustrupa ](http://www.stroustrup.com/)
+ *  http://pl.wikibooks.org/wiki/C
+ *  [C biblia po angielsku ](http://publications.gbdirect.co.uk/c_book/)
+#### Książki o programowaniu i nie tylko  * za darmo:
+ *  [Wykłady C++ z ważniaka w pdf (mniej więcej odpowiednik drugiej
+    części Waszych wykładów)
+    ](http://wazniak.mimuw.edu.pl/index.php?title=Zaawansowane_CPP)
+ *  [Wolnodostępna anglojęzyczna książka o strukturach danych w Javie i
+    C++ (licencja Creative Commons dowolnych modyfikacji)
+    ](http://opendatastructures.org/)
+ *  [Książka Shaffera po angielsku o C++ strukturach danych
+    ](http://people.cs.vt.edu/%7Eshaffer/Book/)
+ *  [Książka po angielsku o C++ boost bibliotece
+    ](http://en.highscore.de/cpp/boost/)
+ *  [Książka Preissa po angielsku o C++ strukturach danych
+    ](http://www.brpreiss.com/books/opus4/)
+ *  [Książka Goodricha po angielsku o C++ strukturach danych i
+    algorytmach ](http://cpp.datastructures.net/)
+ *  [Książka po angielsku o projektowaniu w C++ i Javie z przykładami
+    ](http://www.vincehuston.org/dp/)
+ *  [Książka po angielsku o bibliotece C++ libavl drzew binarnych
+    ](http://adtinfo.org/)
+ *  [Wikiksiążka po angielsku o C++ optymalizacji
+    ](http://en.wikibooks.org/wiki/Optimizing_C%2B%2B)
+ *  [Wykład po angielsku o C++ ze Stanford z licznymi przykładami
+    ](http://www.stanford.edu/class/cs106b/)
+ *  [Książka po angielsku o C++ abc 
+](http://www.computer-books.us/cpp_5.php)
+ *  [Algorytmy i struktury danych po angielsku
+    ](http://www.cprogramming.com/algorithms-and-data-structures.html)
+ *  [Książka po angielsku o C++
+    ](http://mindview.net/Books/TICPP/ThinkingInCPP2e.html)
+ *  [Spis darmowych książek anglojęzycznych o strukturach danych
+](http://datastructureebook.blogspot.com/2008/01/download-free-data-structures-and.html)
+ *  [Spis darmowych książek anglojęzycznych o strukturach danych i
+    algorytmach
+](http://freee-booksdownload.blogspot.com/2008/02/free-data-structures-and-algorithms.html)
+ *  [Spis książek anglojęzycznych o C++ dostępnych w sieci i księgarniach
+](http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
+ *  [Książki za darmo z programowania ](http://www.techbooksforfree.com/)
+ *  [Wykład C++ po angielsku na filmach video
+    ](http://videolectures.net/stanfordcs106bw08_schwarz_lec27/)
+ *  [Pierwszy na świecie Uniwersytet Wirtualny  * za darmo kursy
+    informatyczne po angielsku na ](http://www.udacity.com/)filmach video
+    z egzaminami online ](http://www.udacity.com/)
+
+ * http://www.parashift.com/c++-faq/
+ * http://cpp0x.pl/kursy/Kurs-C++/1
+ * http://pl.wikipedia.org/wiki/C%2B%2B
+ * http://pl.wikibooks.org/wiki/C++
+ * http://en.wikibooks.org/wiki/C++
+ * http://www.programuj.com/download.php
+ * http://nberu.blogspot.com/2013/09/c11-dynamiczna-pamiec-new-inteligentne.html
+ * http://herbsutter.com/2013/05/29/gotw-89-solution-smart-pointers/
+ * http://eli.thegreenplace.net/2012/06/20/c11-using-unique_ptr-with-standard-library-containers/
+ * http://darkcult.nazwa.pl/wiki/index.php/Strona_g%C5%82%C3%B3wna
+ * http://xion.org.pl/productions/texts/coding/megatutorial/
+ * http://mst.mimuw.edu.pl/wyklady/poc/wyklad.pdf
+ * http://4programmers.net/C
+ * http://www.intercon.pl/~sektor/cbx/
+ * http://www.youtube.com/playlist?list=PLE84826ABF088F7E8
+
+ * http://www.banym.de/eclipse/install-eclipse-cdt-on-windows-7
+ * http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list
+ * http://www.cprogramming.com/algorithms-and-data-structures.html
+ * http://users.cis.fiu.edu/~weiss/dsaa_c++/code/
+ * http://www.informit.com/guides/guide.aspx?g=cplusplus
+ * http://www.parashift.com/c++-faq-lite/
+ * http://en.wikibooks.org/wiki/More_C%2B%2B_Idioms
+ * http://www.stanford.edu/class/cs106b/
+ * http://www.stanford.edu/class/cs106l/
+ * http://www.computer-books.us/cpp_5.php
+ * http://en.highscore.de/cpp/boost/
+ * http://people.cs.vt.edu/~shaffer/Book/
+ * http://courses.cs.vt.edu/~cs3114
+ * http://algoviz.org/OpenDSA/Books/OpenDSA/html/#
+ * http://algoviz.org/algoviz-wiki/index.php/Samples
+ * http://en.wikipedia.org/wiki/List_of_data_structures
+ * http://pl.wikibooks.org/wiki/C%2B%2B/Algorytmy_w_STL
+ * http://freee-booksdownload.blogspot.com/2008/02/free-data-structures-and-algorithms.html
+ * http://datastructureebook.blogspot.com/2008/01/download-free-data-structures-and.html
+ * http://opendatastructures.org/
+ * https://github.com/patmorin/ods
+ * http://cpp.datastructures.net/
+ * http://adtinfo.org/
+ * http://www.brpreiss.com/books/opus4/
+ * http://www.vincehuston.org/dp/ #design patterns
+ * http://www.cprogramming.com/
+ * http://www.cplusplus.com/
+ * http://www.stroustrup.com/
+ * http://mindview.net/Books/TICPP/ThinkingInCPP2e.html
+ * http://www.planet-source-code.com/vb/Tutorial/default.asp?lngWId=3
+ * http://www.codersource.net/codersource_cppprogramming.html
+ * http://cpp-tutorial.cpp4u.com/index.html
+ * http://www.gillius.org/tutorial.htm
+ * http://www.sgi.com/tech/stl/
+ * http://www.intap.net/~drw/cpp/
+ * http://www.4p8.com/eric.brasseur/cppcen.html
+ * http://www.edm2.com/0507/introcpp1.html
+ * http://www.arachnoid.com/cpptutor/index.html
+ * http://www.programmingtutorials.com/cplusplus.aspx
+ * http://www.cplusplus.happycodings.com/Data_Structures/index.html
+ * http://library.thinkquest.org/C005618/text/index.htm
+ * http://www.dreamincode.net/forums/topic/10157-data-structures-in-c-tutorial/
+ * http://www.dreamincode.net/forums/topic/141161-kyas-data-structure-adventures/
+ * http://www.dreamincode.net/forums/topic/10157-data-structures-in-c-tutorial/
+ * http://sourcecodemania.com/binary-search-trees-and-data-structure/
+ * http://sourcecodemania.com/basic-data-structures-tutorial-using-cpp/
+ * http://programming-technique.blogspot.com/2012/04/lab-assignments-and-problems-on-data.html
+ * http://eli.thegreenplace.net/2012/06/20/c11-using-unique_ptr-with-standard-library-containers/
+ * http://xion.org.pl/productions/texts/coding/simple-gc-in-cpp/
+ * http://www.devx.com/cplus/10MinuteSolution/30508/0/page/2
+ * http://eli.thegreenplace.net/2011/12/15/understanding-lvalues-and-rvalues-in-c-and-c/
+ * http://www.uow.edu.au/~nabg/ABC/ABC.html
+ * http://www.desy.de/gna/html/cc/Tutorial/tutorial.html
+ * http://en.wikipedia.org/wiki/Factory_method_pattern
+ * http://www.ics.com/designpatterns/
+
+
+### HTTPD C C++
+ * http://www.adp-gmbh.ch/win/misc/webserver.html
+ * http://www.codeproject.com/Articles/29290/A-C-Embedded-Web-Server
+ * http://forum.codecall.net/topic/64541-c-simple-webserver/#axzz2DKbliHX0
+ * http://stackoverflow.com/questions/409087/creating-a-web-server-in-pure-c
+ * http://www.webtoolkit.eu/wt
+ * http://doc.qt.digia.com/solutions/3/qtservice/qtservice-example-server.html
+ * http://www.boost.org/doc/libs/1_41_0/doc/html/boost_asio/examples.html
+ * http://www.tutorialspoint.com/cplusplus/cpp_web_programming.htm
+ * https://github.com/trapni/x0 -
+ * https://github.com/trapni/x0/blob/master/examples/app1.cpp
+ * https://github.com/99lives/UltraTinyHttp
+ * http://www.tntnet.org/cxxtools.html
+
+## FORK
+ * http://pl.wikipedia.org/wiki/Fork
+### FORK C C++
+ * http://dnadesign.pl/tag/wspolbieznosc/
+ * http://www.opcode.eu.org/more_advanced/programing/c_cpp/fork.c/
+ * http://src.linuxhacker.at/howtos/socket++/html/socket++_12.html#SEC45
+
+## THREADS
+ * http://pl.wikipedia.org/wiki/W%C4%85tek_%28informatyka%29
+### THREAD C C++
+ * http://stackoverflow.com/questions/266168/simple-example-of-threading-in-c
+ * http://www.linuxdocs.org/HOWTOs/C++Programming-HOWTO-24.html
+ * http://www.boost.org/doc/libs/1_37_0/doc/html/thread.html
+ * g++ simplethread.cpp -lboost_thread -L/usr/lib64/boost-1_51/
+
+## SHELL
+ * http://pl.wikipedia.org/wiki/Pow%C5%82oka_systemowa
+### SHELL C++
+ * http://blog.mezeske.com/?p=377
+ * http://www.3till7.net/2008/11/29/c-shell-with-forks-and-pipes/
+ * https://github.com/dparrish/libcli
+
+
