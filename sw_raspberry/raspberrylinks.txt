@@ -1,6 +1,7 @@
 ### podstawy Raspberry PI linux
  - [flagi raspberry123](https://gist.github.com/fm4dd/c663217935dc17f0fc73c9c81b0aa845)
  - https://elinux.org/RPi_Distributions
+ - https://wiki.osdev.org/Raspberry_Pi_Bare_Bones
  
 ### TV
  - http://www.spincraft.com/hackers/harmony-remote-hacking/
