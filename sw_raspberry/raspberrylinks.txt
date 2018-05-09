@@ -5,7 +5,8 @@
  - https://wiki.osdev.org/Raspberry_Pi_Bare_Bones
  - http://mgalgs.github.io/2015/05/16/how-to-build-a-custom-linux-kernel-for-qemu-2015-edition.html
  
-### TV
+### hardware units and rpi
+ - https://medium.com/@soobrosa/deep-learning-on-the-edge-first-impressions-of-the-movidius-neural-compute-stick-7de09eeca2d6
  - http://www.spincraft.com/hackers/harmony-remote-hacking/
  
 ### hardware blogs
