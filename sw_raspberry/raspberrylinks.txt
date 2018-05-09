@@ -5,7 +5,10 @@
  - https://wiki.osdev.org/Raspberry_Pi_Bare_Bones
  - http://mgalgs.github.io/2015/05/16/how-to-build-a-custom-linux-kernel-for-qemu-2015-edition.html
  
-### hardware units and rpi
+### tensorflow for rpi
+ - https://petewarden.com/2017/08/20/cross-compiling-tensorflow-for-the-raspberry-pi/
+
+### hardware units for rpi
  - https://medium.com/@soobrosa/deep-learning-on-the-edge-first-impressions-of-the-movidius-neural-compute-stick-7de09eeca2d6
  - http://www.spincraft.com/hackers/harmony-remote-hacking/
  
