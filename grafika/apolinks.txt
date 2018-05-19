@@ -1,3 +1,6 @@
+## shader book
+ - https://thebookofshaders.com
+
 ## shadertoy glsl
  * https://www.shadertoy.com
  * http://pirron.one/playingincanvas/texture-masks-using-shader
