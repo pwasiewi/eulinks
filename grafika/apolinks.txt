@@ -1,4 +1,4 @@
-## shadertoy
+## shadertoy glsl
  * https://www.shadertoy.com
  * http://pirron.one/playingincanvas/texture-masks-using-shader
  * http://pirron.one/playingincanvas/color-palettes-using-shaders
@@ -15,6 +15,9 @@
  
 ## shadertoy po polsku
  * https://medium.com/@maciej.matyka/shadertoy-po-polsku-4f80e251e902
+
+## glsl w innych zastosowaniach
+ * http://webglplayground.net
 
 ## R imager
  - https://cran.r-project.org/web/packages/imager/vignettes/gettingstarted.html
