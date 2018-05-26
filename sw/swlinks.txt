@@ -1,0 +1,31 @@
+## RTOS
+ - https://en.wikipedia.org/wiki/Comparison_of_real-time_operating_systems
+ - https://www.freertos.org
+ - http://ecos.sourceware.org
+ - http://www.chibios.org/
+ - https://www.rtems.org/
+ - https://www.zephyrproject.org/
+ - https://github.com/embox/embox
+ - http://prex.sourceforge.net/
+ - http://www.ukos.ch/
+ - https://www.keil.com
+ - https://github.com/coocox/CoOS
+ - https://os.mbed.com/releases/
+ - http://tinyos.stanford.edu/tinyos-wiki/index.php/TinyOS_Documentation_Wiki
+ - https://github.com/tinyos/tinyos-main
+
+## RTOS emu
+ - https://www.freertos.org/FreeRTOS-simulator-for-Linux.html
+ - https://www.freertos.org/FreeRTOS-Windows-Simulator-Emulator-for-Visual-Studio-and-Eclipse-MingW.html
+ - https://sudani93.wordpress.com/2015/10/18/simulating-freertos-gem5-or-qemu/
+ - https://github.com/jkovacic/FreeRTOS-GCC-ARM926ejs
+
+## RT linux
+ - https://www.rtai.org/
+ - http://linuxcnc.org/
+ - https://xenomai.org/embedded-hardware/
+ - http://www.kolibrios.org/en/
+
+## micro utils
+ - http://micropython.org/
+ - https://github.com/micropython/micropython

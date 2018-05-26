@@ -1,10 +1,13 @@
-### podstawy Raspberry PI linux
+### Make sd card fro rpi3
+ - http://blog.hypriot.com/post/how-to-get-docker-working-on-your-favourite-arm-board-with-hypriotos/
+
+### Raspberry PI linux hub i dystrybucje
  - https://elinux.org/RPi_Hub
- - [gcc cflags for raspberry123](https://gist.github.com/fm4dd/c663217935dc17f0fc73c9c81b0aa845)
  - https://elinux.org/RPi_Distributions
 
 ### skrośna kompilacja: qemu itd.
  - https://wiki.gentoo.org/wiki/Embedded_Handbook/General/Compiling_with_qemu_user_chroot
+ - [gcc cflags for raspberry123](https://gist.github.com/fm4dd/c663217935dc17f0fc73c9c81b0aa845)
  - https://wiki.osdev.org/Raspberry_Pi_Bare_Bones
  - http://mgalgs.github.io/2015/05/16/how-to-build-a-custom-linux-kernel-for-qemu-2015-edition.html
  

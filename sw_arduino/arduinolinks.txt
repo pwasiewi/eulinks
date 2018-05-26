@@ -7,7 +7,14 @@
  - https://www.theengineeringprojects.com/category/arduino-projects
  - http://hobbyspace.pl/category/arduino/
 
-###Fonty
+### FreeRTOS
+ - https://create.arduino.cc/projecthub/feilipu/using-freertos-multi-tasking-in-arduino-ebc3cc
+ - https://forum.arduino.cc/index.php?topic=138643.0
+ - https://github.com/PeterVranken/RTuinOS
+ - https://github.com/feilipu/Arduino_FreeRTOS_Library
+ - https://exploreembedded.com/wiki/Setting_Up_FreeRTOS_on_Arduino
+
+### Fonty
  - http://omerk.github.io/lcdchargen/
  
 ### Timery
