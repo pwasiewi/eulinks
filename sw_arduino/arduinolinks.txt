@@ -8,6 +8,7 @@
  - http://hobbyspace.pl/category/arduino/
 
 ### FreeRTOS
+ - https://exploreembedded.com/wiki/index.php?title=Task%20Switching
  - https://create.arduino.cc/projecthub/feilipu/using-freertos-multi-tasking-in-arduino-ebc3cc
  - https://forum.arduino.cc/index.php?topic=138643.0
  - https://github.com/PeterVranken/RTuinOS
