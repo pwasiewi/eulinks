@@ -29,3 +29,4 @@
 ## micro utils
  - http://micropython.org/
  - https://github.com/micropython/micropython
+ - http://microbit.org/
