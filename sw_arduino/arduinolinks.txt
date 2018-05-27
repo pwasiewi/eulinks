@@ -6,6 +6,7 @@
  - http://www.instructables.com/technology/arduino/
  - https://www.theengineeringprojects.com/category/arduino-projects
  - http://hobbyspace.pl/category/arduino/
+ - https://majsterkowo.pl/elektronika/arduino/
 
 ### FreeRTOS
  - https://exploreembedded.com/wiki/index.php?title=Task%20Switching#Category:Free%20RTOS%20with%20Arduino
