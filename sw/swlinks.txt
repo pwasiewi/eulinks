@@ -18,8 +18,9 @@
  - http://tinyos.stanford.edu/tinyos-wiki/index.php/TinyOS_Documentation_Wiki
  - https://github.com/tinyos/tinyos-main
 
-##RTOS info
+##freeRTOS tutorials
  - https://ep.com.pl/files/2434.pdf
+ - http://socialledge.com/sjsu/index.php/FreeRTOS_Tutorial
 
 ## RTOS emu
  - https://www.freertos.org/FreeRTOS-simulator-for-Linux.html
