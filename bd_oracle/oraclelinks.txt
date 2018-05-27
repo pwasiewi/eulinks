@@ -4,11 +4,7 @@
  * https://forums.oracle.com/thread/2403810
  * http://st-curriculum.oracle.com/obe/jdev/obe11jdev/11/common/files/sample_schema_scripts.zip
 
-<<<<<<< HEAD
-# Książki:
-=======
 ### Książki:
->>>>>>> 86cb8d518b2dd348b722053416eb44bec523baff
  * http://helion.pl/kategorie/bazy-danych/oracle
  * http://docstore.mik.ua/orelly/ Reilly CD bookshelf
  * http://docstore.mik.ua/orelly/oracle/prog2/ - Oracle PL/SQL Programming, 2nd Edition
@@ -26,36 +22,12 @@ EXECUTE DBMS_STATS.GATHER_TABLE_STATS ('login_name','test1');
 EXECUTE DBMS_STATS.GATHER_TABLE_STATS ('login_name','test2');
 ```
 
-<<<<<<< HEAD
-# O optymalizatorze zapytań:
-=======
 ## O optymalizatorze zapytań:
->>>>>>> 86cb8d518b2dd348b722053416eb44bec523baff
  * http://www.oracle-base.com/articles/misc/cost-based-optimizer-and-database-statistics.php
  * http://www.oradev.com/create_statistics.jsp
  * http://dba.stackexchange.com/questions/21916/oracle-11g-index-rebuild-vs-gather-table-stats
  * http://richardfoote.wordpress.com/2007/12/11/index-internals-rebuilding-the-truth/
 ## Hinty:
-<<<<<<< HEAD
-## Aktualny spis hintów
- * http://www.databasejournal.com/features/oracle/article.php/3774831/Optimizer-Hints-in-Oracle-11g-and-hint-overkill.htm
- * http://www.databasejournal.com/features/oracle/article.php/1447251/Listen-Softwares-How-To-SQL-Tuning--Optimizer-Hints.htm
-## Mniej aktualny ich krótki opis
- * http://www.adp-gmbh.ch/ora/sql/hints/index.html
-## Wycinek dokumentacji
- * http://docs.oracle.com/cd/B28359_01/text.111/b28303/aoptim.htm
-## Ogólnie o indeksach
- * http://www.techonthenet.com/oracle/indexes.php
-## Ciekawy mechanizm wyłączania indeksów w Oraclu
- * http://oracletoday.blogspot.com/2007/08/invisible-indexes-in-11g.html
-## Dokumentacja oficjalnie o hintach
- * http://docs.oracle.com/cd/E11882_01/server.112/e16638/hintsref.htm
-## Wspomnienie o planie optymalizacji
- * http://cs.slu.edu/~goldwasser/class/slu/csa341/2003_Fall/lectures/oracle_optimizer/
-## krótkie wspomnienie o optymalizacji
- * http://blog.hardeep.name/wp-content/uploads/2009/07/performance_tuning_guide.pdf
-## Blog o execute plan
-=======
 ### Aktualny spis hintów
  * http://www.databasejournal.com/features/oracle/article.php/3774831/Optimizer-Hints-in-Oracle-11g-and-hint-overkill.htm
  * http://www.databasejournal.com/features/oracle/article.php/1447251/Listen-Softwares-How-To-SQL-Tuning--Optimizer-Hints.htm
@@ -74,16 +46,11 @@ EXECUTE DBMS_STATS.GATHER_TABLE_STATS ('login_name','test2');
 ### krótkie wspomnienie o optymalizacji
  * http://blog.hardeep.name/wp-content/uploads/2009/07/performance_tuning_guide.pdf
 ### Blog o execute plan
->>>>>>> 86cb8d518b2dd348b722053416eb44bec523baff
  * http://www.orafaq.com/node/1420
  * http://arjudba.blogspot.de/2008/06/nested-loop-joins.html
  * http://oracle-base.com/articles/misc/cost-based-optimizer-and-database-statistics.php
 
-<<<<<<< HEAD
-## Optymalizator:
-=======
 ### Optymalizator:
->>>>>>> 86cb8d518b2dd348b722053416eb44bec523baff
  * http://www.dba-oracle.com/art_sql_tune.htm
  * http://www.orafaq.com/node/1446
  * http://arjudba.blogspot.com/2008/06/how-query-optimizer-chooses-execution.html
@@ -93,11 +60,7 @@ EXECUTE DBMS_STATS.GATHER_TABLE_STATS ('login_name','test2');
  * http://www.dba-oracle.com/art_otn_cbo_p7.htm
 
 
-<<<<<<< HEAD
-## Instalacja na linuxie:
-=======
 ### Instalacja na linuxie:
->>>>>>> 86cb8d518b2dd348b722053416eb44bec523baff
  * http://www.oracle-base.com/articles/11g/OracleDB11gR2InstallationOnFedora15.php
  * http://forums.gentoo.org/viewtopic-t-581228.html
  * http://www.fuzzy.cz/en/articles/installing-oracle-11g-r2-on-gentoo/
@@ -126,19 +89,11 @@ EXECUTE DBMS_STATS.GATHER_TABLE_STATS ('login_name','test2');
  * http://support.douglas-associates.com/KB/a194/configure-oracle-xe-with-archivelog-and-daily-backup.aspx
  * http://www.oracle.com/webfolder/technetwork/tutorials/obe/db/sqldev/r30/SQLdev3.0_Import_Export/sqldev3.0_import_export.htm
 
-<<<<<<< HEAD
-## Pliki do pobrania potrzebne darmowe konto oracle.com:
- * http://www.oracle.com/technetwork/developer-tools/sql-developer/sqldev-ea-download-486950.html
- * http://www.oracle.com/technetwork/database/enterprise-edition/downloads/index.html
-
-## Zbiory artykułów i ich przykłady:
-=======
 ### Pliki do pobrania potrzebne darmowe konto oracle.com:
  * http://www.oracle.com/technetwork/developer-tools/sql-developer/sqldev-ea-download-486950.html
  * http://www.oracle.com/technetwork/database/enterprise-edition/downloads/index.html
 
 ### Zbiory artykułów i ich przykłady:
->>>>>>> 86cb8d518b2dd348b722053416eb44bec523baff
  * http://www.oracle.com/pls/db112/
  * http://download.oracle.com/docs/cd/E14072_01/server.112/e10595.pdf
  * http://download.oracle.com/docs/cd/E14072_01/server.112/e10595/memory005.htm
@@ -174,22 +129,14 @@ EXECUTE DBMS_STATS.GATHER_TABLE_STATS ('login_name','test2');
  * http://www.docstoc.com/docs/89159292/Sample-Resume-Databse
  * http://www.pelikant.imsi.pl/Strojenie,administracja.pdf
 
-<<<<<<< HEAD
-## Polskie blogi:
-=======
 ### Polskie blogi:
->>>>>>> 86cb8d518b2dd348b722053416eb44bec523baff
  * http://andrzejklusiewicz.blogspot.com/2010/12/kurs-administracji-bazami-danych-oracle.html
  * http://www.goszczu.pl
  * http://www.bd.pjwstk.edu.pl/BazaWiedzy/wyklad9/Partycjonowanie.htm
  * http://lukaszantoniak.wordpress.com/category/oracle/
  * http://www.tidnab.nowaruda.net/oracle
 
-<<<<<<< HEAD
-## Zagraniczne blogi i przykładowe zagadnienia:
-=======
 ### Zagraniczne blogi i przykładowe zagadnienia:
->>>>>>> 86cb8d518b2dd348b722053416eb44bec523baff
  * http://www.colestock.com/blogs/2008/01/new-in-11g-active-database-duplication.html
  * http://www.adp-gmbh.ch/ora/
  * http://www.adp-gmbh.ch/ora/misc/read_sql_from_shell_script.html
@@ -214,21 +161,13 @@ EXECUTE DBMS_STATS.GATHER_TABLE_STATS ('login_name','test2');
  * http://asktom.oracle.com/pls/asktom/f?p=100:11:0::::P11_QUESTION_ID:3310002340673
 
 
-<<<<<<< HEAD
-## Java:
-=======
 ### Java:
->>>>>>> 86cb8d518b2dd348b722053416eb44bec523baff
  * http://www.exampledepot.com/egs/java.sql/pkg.html
  * http://www.orafaq.com/wiki/JDBC
  * http://www.oracle.com/technetwork/database/enterprise-edition/jdbc-111060-084321.html
  * http://docs.oracle.com/javase/tutorial/jdbc/basics/transactions.html
 
-<<<<<<< HEAD
-## Deadlocks sqlinjection:
-=======
 ### Deadlocks sqlinjection:
->>>>>>> 86cb8d518b2dd348b722053416eb44bec523baff
  * http://www.oratechinfo.co.uk/deadlocks.html
  * http://broadh2o.net/docs/database/oracle/oracleLocks.html
  * http://www.oratechinfo.co.uk/sql_injection.html
@@ -236,11 +175,7 @@ EXECUTE DBMS_STATS.GATHER_TABLE_STATS ('login_name','test2');
  * http://psoug.org/reference/bindvars.html
  * http://www.adp-gmbh.ch/ora/concepts/bind_variables.html
 
-<<<<<<< HEAD
-## Triggers:
-=======
 ### Triggers:
->>>>>>> 86cb8d518b2dd348b722053416eb44bec523baff
  * http://www.club-oracle.com/articles/database-triggers-in-pl-sql-499/
  * http://psoug.org/reference/procedures.html
  * http://psoug.org/reference/functions.html
@@ -256,11 +191,7 @@ EXECUTE DBMS_STATS.GATHER_TABLE_STATS ('login_name','test2');
  * http://docs.oracle.com/cd/E11882_01/appdev.112/e25519/triggers.htm#g1043102
 
 
-<<<<<<< HEAD
-## Install ODI
-=======
 ### Install ODI
->>>>>>> 86cb8d518b2dd348b722053416eb44bec523baff
  * http://dwteam.in/odi-11-1-1-6-installation-on-windows-server-2008-64-bit/
  * http://dwteam.in/creating-repositories-in-odi-11-1-1-5/
  * http://dwteam.in/invoke-odi-scenario-using-web-service/ 
@@ -269,20 +200,12 @@ EXECUTE DBMS_STATS.GATHER_TABLE_STATS ('login_name','test2');
  * http://odiexperts.com/
  * http://www.oracle.com/technetwork/middleware/data-integrator/learnmore/index.html
 
-<<<<<<< HEAD
-## Install OWB
-=======
 ### Install OWB
->>>>>>> 86cb8d518b2dd348b722053416eb44bec523baff
  * http://www.oracle.com/webfolder/technetwork/tutorials/obe/db/11g/r2/prod/bidw/owb/setup/setting_owb_environment.htm
  * https://blogs.oracle.com/warehousebuilder/entry/how_to_start_oracle_warehouse_builder_repository_browser
  * http://everythingoracle.com/owbtutorials.htm
 
-<<<<<<< HEAD
-## HURTOWNIE DANYCH
-=======
 ### HURTOWNIE DANYCH
->>>>>>> 86cb8d518b2dd348b722053416eb44bec523baff
  * http://pl.wikipedia.org/wiki/Hurtownia_danych
  * http://www.b-eye-network.com/channels/1134/
  * http://www.kimballgroup.com/category/business-intelligence-and-data-warehouse-articles/
@@ -299,11 +222,7 @@ EXECUTE DBMS_STATS.GATHER_TABLE_STATS ('login_name','test2');
  * http://www.choudhari.net/downloads/Books/
  * http://www.bgoug.org/upload/events_files/169_ETL_presentation.ppt
 
-<<<<<<< HEAD
-## BLOGI OLAP:
-=======
 ### BLOGI OLAP:
->>>>>>> 86cb8d518b2dd348b722053416eb44bec523baff
  * http://www.orafaq.com/node/55
  * http://www.orafaq.com/node/56
  * http://psoug.org/reference/analytic_functions.html
@@ -323,11 +242,7 @@ EXECUTE DBMS_STATS.GATHER_TABLE_STATS ('login_name','test2');
  * http://www.oracle.com/technetwork/articles/sql/11g-partitioning-084209.html
  * http://docs.oracle.com/cd/E15276_01/doc.20/e13677/tut_data_modeling.htm
 
-<<<<<<< HEAD
-## INNE WYKLADY
-=======
 ### INNE WYKLADY
->>>>>>> 86cb8d518b2dd348b722053416eb44bec523baff
  * http://www.oracle.com/technetwork/middleware/data-integrator/overview/index.html
  * http://edu.pjwstk.edu.pl/wyklady/hur/scb/rW1.htm
  * http://www.cs.put.poznan.pl/rwrembel/dydaktykaPDF/dws.html
@@ -335,11 +250,8 @@ EXECUTE DBMS_STATS.GATHER_TABLE_STATS ('login_name','test2');
  * http://www.slideshare.net/mrm0/third-nature-open-source-data-warehousing
  * http://www.inf.unibz.it/dis/teaching/DWDM/
 
-<<<<<<< HEAD
-## Inne hurtownie
-=======
+
 ### Inne hurtownie
->>>>>>> 86cb8d518b2dd348b722053416eb44bec523baff
  * http://www.dbms2.com/
  * http://stackoverflow.com/questions/354231/20-billion-rows-month-hbase-hive-greenplum-what
  * http://www.duncansutcliffe.com/?paged=3
