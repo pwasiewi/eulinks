@@ -1,6 +1,7 @@
 ## ESP32
  - http://www.geekstips.com/esp32-review-idf-programming-tutorial/
 
+
 ## RTOS
  - https://en.wikipedia.org/wiki/Comparison_of_real-time_operating_systems
  - https://www.freertos.org
@@ -16,6 +17,9 @@
  - https://os.mbed.com/releases/
  - http://tinyos.stanford.edu/tinyos-wiki/index.php/TinyOS_Documentation_Wiki
  - https://github.com/tinyos/tinyos-main
+
+##RTOS info
+ - https://ep.com.pl/files/2434.pdf
 
 ## RTOS emu
  - https://www.freertos.org/FreeRTOS-simulator-for-Linux.html
