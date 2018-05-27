@@ -1,14 +1,8 @@
-<<<<<<< HEAD
-# Ranking baz online
+
+## Ranking baz online
  http://db-engines.com/en/ranking
 
-# NOSQL
-=======
-### Ranking baz online
- http://db-engines.com/en/ranking
-
-### NOSQL
->>>>>>> 86cb8d518b2dd348b722053416eb44bec523baff
+## NOSQL
  * https://www.javacodegeeks.com/2015/10/nosql-vs-sql.html
  * http://stackoverflow.com/questions/2285045/what-scalability-problems-have-you-solved-using-a-nosql-data-store?rq=1
  * http://nosql-database.org/
@@ -32,33 +26,18 @@
  * http://seldo.com/weblog/2010/07/12/in_defence_of_sql
  * http://dba.stackexchange.com/questions/607/what-is-a-key-value-store-database
 
-<<<<<<< HEAD
-# NOWE NOSQL DB
+## NOWE NOSQL DB
   - https://github.com/cockroachdb/cockroach
   - https://crate.io/
 
-# HYPERGRAPH
+## HYPERGRAPH
  * http://www.hypergraphdb.org/index
 
-# NOSQL tutors
+## NOSQL tutors
  * http://porcelli.com.br/2010/08/nosql-for-beginners/
  * http://bigdatauniversity.com/
  
-# COUCHDB
-=======
-### NOWE NOSQL DB
-  - https://github.com/cockroachdb/cockroach
-  - https://crate.io/
-
-### HYPERGRAPH
- * http://www.hypergraphdb.org/index
-
-### NOSQL tutors
- * http://porcelli.com.br/2010/08/nosql-for-beginners/
- * http://bigdatauniversity.com/
- 
-### COUCHDB
->>>>>>> 86cb8d518b2dd348b722053416eb44bec523baff
+## COUCHDB
  * http://www.couchbase.com/couchbase-vs-couchdb
  * http://guide.couchdb.org/editions/1/en/index.html
  * http://www.ibm.com/developerworks/opensource/library/os-couchdb/index.html
@@ -67,45 +46,25 @@
  * http://blog.mattwoodward.com/massive-couchdb-brain-dump
  * https://github.com/janl/jscouch
 
-<<<<<<< HEAD
-# TouchDB
+## TouchDB
  * https://github.com/couchbaselabs/TouchDB-Android
 
-# REDIS
-=======
-### TouchDB
- * https://github.com/couchbaselabs/TouchDB-Android
-
-### REDIS
->>>>>>> 86cb8d518b2dd348b722053416eb44bec523baff
+## REDIS
  * http://redis.io/commands
  * https://github.com/andymccurdy/redis-py
  * http://code.google.com/p/credis/
  * http://openmymind.net/redis.pdf
 
-<<<<<<< HEAD
-# RIAK
+## RIAK
  * http://basho.com/
 
-# MIDGARD
+## MIDGARD
  * http://www.midgard-project.org/
 
-# BIGDATA
+## BIGDATA
  * https://bigdata.svn.sourceforge.net/svnroot/bigdata/tags/BIGDATA_RELEASE_1_2_0/
 
-# CASANDRA
-=======
-### RIAK
- * http://basho.com/
-
-### MIDGARD
- * http://www.midgard-project.org/
-
-### BIGDATA
- * https://bigdata.svn.sourceforge.net/svnroot/bigdata/tags/BIGDATA_RELEASE_1_2_0/
-
-### CASANDRA
->>>>>>> 86cb8d518b2dd348b722053416eb44bec523baff
+## CASANDRA
  * http://www.divconq.com/2010/migrate-a-relational-database-structure-into-a-nosql-cassandra-structure-part-i/
  * http://www.datastax.com/search?q=cql3
  * http://www.divconq.com/category/cassandra/
@@ -141,11 +100,7 @@ ant
  * http://www.datastax.com/dev/blog/schema-in-cassandra-1-1
  * https://github.com/spring-projects/spring-data-cassandra
 
-<<<<<<< HEAD
-# MONGODB
-=======
-### MONGODB
->>>>>>> 86cb8d518b2dd348b722053416eb44bec523baff
+## MONGODB
  * http://www.mongodb.com/presentations
  * https://www.mongodb.com/presentations/mongodb-and-hadoop-driving-business-insights
  * https://www.mongodb.com/presentations/webinar-diagnostics-and-debugging-mongodb
@@ -226,11 +181,7 @@ ant
  * https://education.10gen.com/courses
 
 
-<<<<<<< HEAD
-# HADOOP HBASE
-=======
-### HADOOP HBASE
->>>>>>> 86cb8d518b2dd348b722053416eb44bec523baff
+## HADOOP HBASE
  * http://hbase.apache.org/book/book.html
  * http://hbase.apache.org/book/quickstart.html
  * http://ole-martin.net/hbase-tutorial-for-beginners/
@@ -246,11 +197,7 @@ ant
  * http://www.slideshare.net/cloudera/chicago-data-summit-apache-hbase-an-introduction
  * http://www.slideshare.net/gschmutz/nosql-for-data-services-data-virtualization-big-data
 
-<<<<<<< HEAD
-# HADOOP HIVE
-=======
-### HADOOP HIVE
->>>>>>> 86cb8d518b2dd348b722053416eb44bec523baff
+## HADOOP HIVE
  * https://cwiki.apache.org/confluence/display/Hive/GettingStarted
  * http://stackoverflow.com/questions/9626789/how-can-i-partition-a-table-with-hive
  * http://horicky.blogspot.com/2008/11/hadoop-mapreduce-implementation.html
@@ -260,11 +207,7 @@ ant
  * https://github.com/yc-huang/Hive-mongo
  * https://issues.apache.org/jira/browse/HIVE-3384
 
-<<<<<<< HEAD
-# HADOOP HADOOP
-=======
-### HADOOP HADOOP
->>>>>>> 86cb8d518b2dd348b722053416eb44bec523baff
+## HADOOP HADOOP
  * http://www.michael-noll.com/blog/2013/07/04/using-avro-in-mapreduce-jobs-with-hadoop-pig-hive/
  * http://www.crobak.org/2011/12/getting-started-with-apache-hadoop-0-23-0/
  * http://www.ibm.com/developerworks/linux/library/l-hadoop-1/
@@ -278,11 +221,7 @@ ant
  * http://www.michael-noll.com/tutorials/running-hadoop-on-ubuntu-linux-multi-node-cluster/
  * http://videolectures.net/kdd2010_papadimitriou_sun_yan_lsdm/
 
-<<<<<<< HEAD
-# HADOOP PIG
-=======
-### HADOOP PIG
->>>>>>> 86cb8d518b2dd348b722053416eb44bec523baff
+## HADOOP PIG
  * http://hortonworks.com/blog/new-features-in-apache-pig-0-10/
  * http://allthingshadoop.com/2010/05/31/hadoop-pig-yahoo-alan-gates/
  * http://www.ibm.com/developerworks/library/l-apachepigdataquery/index.html
@@ -292,17 +231,10 @@ ant
  * https://github.com/alanfgates/programmingpig
 
 
-<<<<<<< HEAD
-# HADOOP SQOOP
+## HADOOP SQOOP
  * https://www.facebook.com/note.php?note_id=86376592002
 
-# NODE.JS
-=======
-### HADOOP SQOOP
- * https://www.facebook.com/note.php?note_id=86376592002
-
-### NODE.JS
->>>>>>> 86cb8d518b2dd348b722053416eb44bec523baff
+## NODE.JS
  * http://ofps.oreilly.com/titles/9781449398583/
  * http://visionmedia.github.com/masteringnode/
  * http://www.readwriteweb.com/hack/2011/04/6-free-e-books-on-nodejs.php
@@ -312,11 +244,8 @@ ant
  * http://www.stoimen.com/blog/2010/12/02/diving-into-node-js-a-long-polling-example/
  * http://www.readwriteweb.com/hack/2010/12/6-free-javascript-e-books.php
 
-<<<<<<< HEAD
-# ORIENTDB
-=======
-### ORIENTDB
->>>>>>> 86cb8d518b2dd348b722053416eb44bec523baff
+
+## ORIENTDB
  * http://www.orientdb.org/index.htm
 svn checkout http://orient.googlecode.com/svn/ orient-read-only
 cd orient-read-only/trunk
@@ -346,40 +275,23 @@ ant release
  * http://code.google.com/p/orient/wiki/Production_deployments
 
 
-<<<<<<< HEAD
-# NEO4J
-=======
-### NEO4J
->>>>>>> 86cb8d518b2dd348b722053416eb44bec523baff
+
+## NEO4J
  * http://docs.neo4j.org/chunked/snapshot/tutorials.html
  * http://www.infoq.com/articles/graph-nosql-neo4j
  * http://neo4j.org/
  * https://github.com/kiyoya/kiyoya-overlay
 
-<<<<<<< HEAD
-# NUVOLABASE.COM
+## NUVOLABASE.COM
  * http://www.nuvolabase.com/site/
 
-# Zepto/jQuery
-=======
-### NUVOLABASE.COM
- * http://www.nuvolabase.com/site/
-
-### Zepto/jQuery
->>>>>>> 86cb8d518b2dd348b722053416eb44bec523baff
+## Zepto/jQuery
  * http://ofps.oreilly.com/titles/9781449316419
  * http://www.jqtouch.com/
  * https://build.phonegap.com/
 
-<<<<<<< HEAD
-# FREEEBOOKS
+## FREEEBOOKS
  * http://www.readwriteweb.com/hack/tag/ebooks/
 
-# SORT ALGORITHMS
-=======
-### FREEEBOOKS
- * http://www.readwriteweb.com/hack/tag/ebooks/
-
-### SORT ALGORITHMS
->>>>>>> 86cb8d518b2dd348b722053416eb44bec523baff
+## SORT ALGORITHMS
  * http://www.stoimen.com/blog/
