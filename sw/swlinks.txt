@@ -1,7 +1,3 @@
-## ESP32
- - http://www.geekstips.com/esp32-review-idf-programming-tutorial/
-
-
 ## RTOS
  - https://en.wikipedia.org/wiki/Comparison_of_real-time_operating_systems
  - https://www.freertos.org
@@ -38,3 +34,7 @@
  - http://micropython.org/
  - https://github.com/micropython/micropython
  - http://microbit.org/
+ 
+ ## ESP32
+ - http://www.geekstips.com/esp32-review-idf-programming-tutorial/
+
