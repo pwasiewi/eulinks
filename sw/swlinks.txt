@@ -18,11 +18,11 @@
  - http://tinyos.stanford.edu/tinyos-wiki/index.php/TinyOS_Documentation_Wiki
  - https://github.com/tinyos/tinyos-main
 
-##freeRTOS tutorials
+### freeRTOS tutorials
  - https://ep.com.pl/files/2434.pdf
  - http://socialledge.com/sjsu/index.php/FreeRTOS_Tutorial
 
-## RTOS emu
+### RTOS emu
  - https://www.freertos.org/FreeRTOS-simulator-for-Linux.html
  - https://www.freertos.org/FreeRTOS-Windows-Simulator-Emulator-for-Visual-Studio-and-Eclipse-MingW.html
  - https://sudani93.wordpress.com/2015/10/18/simulating-freertos-gem5-or-qemu/
