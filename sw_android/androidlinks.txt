@@ -66,6 +66,7 @@
  - https://blog.kotlin-academy.com/the-character-of-kotlin-a72193b822a8
  - [Kotlin video tutorial](https://www.youtube.com/watch?v=Org0vh-VSgA&list=PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh)
  - [Kurs Kotlina po polsku na youtube](https://www.youtube.com/watch?v=lPv0_Gc2wcc&index=2&list=PLCANL9WHTsiGeQzn72AUU6FH3p3aoAiMM)
+ - https://github.com/s1monw1/kotlin-samples
  
 #### Kotlin blogi
  - http://nilhcem.com/swift-is-like-kotlin/
