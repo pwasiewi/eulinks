@@ -2,6 +2,7 @@
  - https://thebookofshaders.com
 
 ## shadertoy glsl
+ * https://shadertoyunofficial.wordpress.com/
  * https://www.shadertoy.com
  * http://pirron.one/playingincanvas/texture-masks-using-shader
  * http://pirron.one/playingincanvas/color-palettes-using-shaders
