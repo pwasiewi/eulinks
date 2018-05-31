@@ -40,6 +40,7 @@
  - https://github.com/landley/mkroot
  - http://landley.net/aboriginal/about.html
  - https://github.com/landley/aboriginal
+ - http://landley.net/talks/celf-2013.txt
  
  ## ESP32
  - http://www.geekstips.com/esp32-review-idf-programming-tutorial/
