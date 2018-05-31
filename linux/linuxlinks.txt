@@ -8,6 +8,7 @@
  * https://vimeo.com/123035176
  * https://github.com/linuxkit/linuxkit
  * https://www.proxmox.com/en/
+ * https://www.sabayon.org/
 
 ### UBUNTU
  - https://thishosting.rocks/ubuntu-18-04-new-features-release-date/
