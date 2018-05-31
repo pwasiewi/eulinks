@@ -33,6 +33,7 @@
  - https://github.com/pwasiewi/dokerz/tree/master/rstudio
 
 ### GENTOO
+ - https://wiki.gentoo.org/wiki/Project:Prefix/Use_cases
  - https://github.com/InBetweenNames/gentooLTO
 
 ### GRY 
