@@ -10,6 +10,9 @@
  - [gcc cflags for raspberry123](https://gist.github.com/fm4dd/c663217935dc17f0fc73c9c81b0aa845)
  - https://wiki.osdev.org/Raspberry_Pi_Bare_Bones
  - http://mgalgs.github.io/2015/05/16/how-to-build-a-custom-linux-kernel-for-qemu-2015-edition.html
+ - https://wiki.gentoo.org/wiki/Raspberry_Pi_3_64_bit_Install
+ - https://github.com/sakaki-/gentoo-on-rpi3-64bit
+ - https://github.com/sakaki-/gentoo-on-rpi3-64bit/wiki
  
 ### tensorflow for rpi
  - https://petewarden.com/2017/08/20/cross-compiling-tensorflow-for-the-raspberry-pi/
