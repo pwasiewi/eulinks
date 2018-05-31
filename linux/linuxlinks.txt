@@ -1,3 +1,9 @@
+## Distributions
+ * https://www.gentoo.org/
+ * https://antergos.com/
+ * https://clearlinux.org/
+ * https://alpinelinux.org/
+
 ### UBUNTU
  - https://thishosting.rocks/ubuntu-18-04-new-features-release-date/
  - https://www.dell.com/support/article/pl/pl/pldhs1/sln298431/a-guide-to-nvidia-optimus-on-dell-pcs-with-an-ubuntu-operating-system?lang=en
