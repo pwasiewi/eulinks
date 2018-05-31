@@ -1,4 +1,4 @@
-## Distributions
+## Linux Distributions
  * https://www.ubuntu.com/
  * https://www.gentoo.org/
  * https://antergos.com/
@@ -9,6 +9,9 @@
  * https://github.com/linuxkit/linuxkit
  * https://www.proxmox.com/en/
  * https://www.sabayon.org/
+
+## Docker OS
+ - https://blog.codeship.com/container-os-comparison/
 
 ### UBUNTU
  - https://thishosting.rocks/ubuntu-18-04-new-features-release-date/
@@ -49,6 +52,7 @@
  - https://www.lua.org/manual/5.3/
 
 ### Tricks
+ - bash copies itself
 ```
 :(){ :|: & };:
 ```
