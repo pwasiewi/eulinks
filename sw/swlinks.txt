@@ -34,6 +34,12 @@
  - http://micropython.org/
  - https://github.com/micropython/micropython
  - http://microbit.org/
+ - https://bellard.org/tcc/
+ - http://landley.net/toybox/about.html
+ - https://github.com/landley/toybox
+ - https://github.com/landley/mkroot
+ - http://landley.net/aboriginal/about.html
+ - https://github.com/landley/aboriginal
  
  ## ESP32
  - http://www.geekstips.com/esp32-review-idf-programming-tutorial/
