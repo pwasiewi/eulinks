@@ -5,7 +5,7 @@
  - https://elinux.org/RPi_Hub
  - https://elinux.org/RPi_Distributions
 
-### skrośna kompilacja: qemu itd.
+### skrośna kompilacja: qemu, gentoo itd.
  - https://wiki.gentoo.org/wiki/Embedded_Handbook/General/Compiling_with_qemu_user_chroot
  - [gcc cflags for raspberry123](https://gist.github.com/fm4dd/c663217935dc17f0fc73c9c81b0aa845)
  - https://wiki.osdev.org/Raspberry_Pi_Bare_Bones
@@ -13,6 +13,7 @@
  - https://wiki.gentoo.org/wiki/Raspberry_Pi_3_64_bit_Install
  - https://github.com/sakaki-/gentoo-on-rpi3-64bit
  - https://github.com/sakaki-/gentoo-on-rpi3-64bit/wiki
+ - http://ftp.halifax.rwth-aachen.de/gentoo/experimental/arm/
  
 ### tensorflow for rpi
  - https://petewarden.com/2017/08/20/cross-compiling-tensorflow-for-the-raspberry-pi/
