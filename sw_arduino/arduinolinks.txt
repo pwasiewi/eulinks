@@ -16,6 +16,10 @@
  - https://github.com/feilipu/Arduino_FreeRTOS_Library
  - https://exploreembedded.com/wiki/Setting_Up_FreeRTOS_on_Arduino
  - http://microcontrollerslab.com/use-freertos-arduino/
+ 
+### crosscompile AVR
+ - https://aboyandhisgnu.org/2017/atmega128-on-gentoo-using-the-compiler/
+ - https://aboyandhisgnu.org/2017/atmega128-on-gentoo-toolchain/
 
 ### Fonty
  - http://omerk.github.io/lcdchargen/
