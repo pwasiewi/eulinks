@@ -1,5 +1,6 @@
 ## Intro
  - https://ep.com.pl/artykuly/10809-Nie_samym_Raspberry_Pi_czlowiek_zyje.html
+ - https://ep.com.pl/artykuly/12002-Komputery_jednoplytkowe.html
 
 ## RTOS
  - https://en.wikipedia.org/wiki/Comparison_of_real-time_operating_systems
