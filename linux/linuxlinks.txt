@@ -2,11 +2,11 @@
  - https://www.ubuntu.com/
  - https://www.gentoo.org/
  - https://antergos.com/
- - https://clearlinux.org/
+ * https://clearlinux.org/
  * https://github.com/clearlinux-pkgs/linux
  * https://github.com/clearlinux-pkgs/glibc
  - https://alpinelinux.org/
- - https://rancher.com/rancher-os/
+ * https://rancher.com/rancher-os/
  * https://vimeo.com/123035176
  * https://github.com/linuxkit/linuxkit
  - https://www.proxmox.com/en/
