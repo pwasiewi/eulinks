@@ -1,3 +1,6 @@
+## Intro
+ - https://ep.com.pl/artykuly/10809-Nie_samym_Raspberry_Pi_czlowiek_zyje.html
+
 ## RTOS
  - https://en.wikipedia.org/wiki/Comparison_of_real-time_operating_systems
  - https://www.freertos.org
