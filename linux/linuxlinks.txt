@@ -3,6 +3,7 @@
  * https://www.gentoo.org/
  * https://antergos.com/
  * https://clearlinux.org/
+ * https://github.com/clearlinux-pkgs/linux
  * https://alpinelinux.org/
  * https://rancher.com/rancher-os/
  * https://vimeo.com/123035176
@@ -10,7 +11,7 @@
  * https://www.proxmox.com/en/
  * https://www.sabayon.org/
  * https://distrowatch.com/table.php?distribution=tinycore
- - https://distrowatch.com/weekly.php?issue=20170102#smallest
+ * https://distrowatch.com/weekly.php?issue=20170102#smallest
 
 ## Docker OS
  - https://blog.codeship.com/container-os-comparison/
