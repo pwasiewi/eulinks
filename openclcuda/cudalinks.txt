@@ -9,6 +9,7 @@
  * https://github.com/smistad
  
 ### OpenCL Tutorials
+ - http://www.cmsoft.com.br/opencl-tutorial/
  - https://handsonopencl.github.io/
  - https://github.com/HandsOnOpenCL/Lecture-Slides
  - https://github.com/HandsOnOpenCL/Exercises-Solutions
