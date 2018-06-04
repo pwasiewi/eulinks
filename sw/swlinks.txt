@@ -2,6 +2,7 @@
  - https://ep.com.pl/artykuly/10809-Nie_samym_Raspberry_Pi_czlowiek_zyje.html
  - https://ep.com.pl/files/12158.pdf
  - https://wiki.gentoo.org/wiki/Embedded_systems/ARM_hardware_list
+ - https://www.elektroda.pl/rtvforum/forum202.html
 
 ## RTOS
  - https://en.wikipedia.org/wiki/Comparison_of_real-time_operating_systems
