@@ -3,6 +3,7 @@
  - https://wiki.openwrt.org/toh/raspberry_pi_foundation/raspberry_pi
  - https://github.com/nethunteros/rpi3-kalimon
  - https://build.nethunter.com/nexmon-pi-builds/
+ - https://github.com/seemoo-lab/nexmon
 
 ### Raspberry PI linux hub i dystrybucje
  - https://elinux.org/RPi_Hub
