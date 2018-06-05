@@ -5,6 +5,7 @@
  - https://www.elektroda.pl/rtvforum/forum202.html
  - https://blog.hackster.io/
  - https://wiki.odroid.com/start
+ - https://wiki.gentoo.org/wiki/Orange_Pi_Plus2
 
 ## RTOS
  - https://en.wikipedia.org/wiki/Comparison_of_real-time_operating_systems
