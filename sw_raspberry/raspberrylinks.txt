@@ -1,5 +1,8 @@
 ### Make sd card fro rpi3
  - http://blog.hypriot.com/post/how-to-get-docker-working-on-your-favourite-arm-board-with-hypriotos/
+ - https://wiki.openwrt.org/toh/raspberry_pi_foundation/raspberry_pi
+ - https://github.com/nethunteros/rpi3-kalimon
+ - https://build.nethunter.com/nexmon-pi-builds/
 
 ### Raspberry PI linux hub i dystrybucje
  - https://elinux.org/RPi_Hub
