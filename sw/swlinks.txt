@@ -8,6 +8,7 @@
  - https://wiki.gentoo.org/wiki/Orange_Pi_Plus2
 
 ## RTOS
+ - https://www.osrtos.com/
  - https://en.wikipedia.org/wiki/Comparison_of_real-time_operating_systems
  - https://www.freertos.org
  - http://ecos.sourceware.org
