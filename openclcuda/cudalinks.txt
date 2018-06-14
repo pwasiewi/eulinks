@@ -17,6 +17,7 @@
  - https://developer.apple.com/library/content/documentation/Performance/Conceptual/OpenCL_MacProgGuide/TuningPerformanceOntheGPU/TuningPerformanceOntheGPU.html
  - https://www.eriksmistad.no/getting-started-with-opencl-and-gpu-computing/
  - http://simpleopencl.blogspot.com/2013/06/tutorial-simple-start-with-opencl-and-c.html
+ - https://github.com/OpenCL/OpenCLCXXPortingGuidelines/blob/master/OpenCLCToOpenCLCppPortingGuidelines.md
  
 ### OpenCL examples
  - https://wiki.tiker.net/PyOpenCL/Examples/MedianFilter
