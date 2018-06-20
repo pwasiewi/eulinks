@@ -57,6 +57,7 @@
  - https://github.com/landley/aboriginal
 
  ## ESP32
+ - http://esp32.net/
  - http://www.geekstips.com/esp32-review-idf-programming-tutorial/
  - https://johan.kanflo.com/hacking-the-dps5005/
  - https://www.crowdsupply.com/johan-kanflo/aaduino-zero
