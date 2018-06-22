@@ -14,6 +14,9 @@
  - https://distrowatch.com/table.php?distribution=tinycore
  - https://distrowatch.com/weekly.php?issue=20170102#smallest
 
+## Win10 Linux Subsystem
+ - https://docs.microsoft.com/en-us/windows/wsl/install-win10
+
 ## Docker OS
  - https://blog.codeship.com/container-os-comparison/
 
