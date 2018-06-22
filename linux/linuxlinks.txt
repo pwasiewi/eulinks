@@ -17,6 +17,7 @@
 ## Win10 Linux Subsystem
  - https://docs.microsoft.com/en-us/windows/wsl/install-win10
  - https://virtualizationreview.com/articles/2017/02/08/graphical-programs-on-windows-subsystem-on-linux.aspx
+ - https://forums.gentoo.org/viewtopic-p-8195822.html?sid=ea9b4c8417d457ab62526b8ec915033f
 
 ## Docker OS
  - https://blog.codeship.com/container-os-comparison/
