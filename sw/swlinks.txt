@@ -57,7 +57,7 @@
  - https://github.com/landley/aboriginal
 
  ## ESP32
- - http://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-mac-and-linux-instructions/
+ - https://github.com/espressif/arduino-esp32/blob/master/docs/arduino-ide/debian_ubuntu.md
  - http://esp32.net/
  - http://www.geekstips.com/esp32-review-idf-programming-tutorial/
  - https://blog.pawelszabaciuk.pl/category/esp32/
