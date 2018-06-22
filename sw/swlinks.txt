@@ -58,6 +58,7 @@
 
  ## ESP32
  - http://esp32.net/
+ - https://www.wemos.cc/
  - http://www.geekstips.com/esp32-review-idf-programming-tutorial/
  - https://blog.pawelszabaciuk.pl/category/esp32/
  - https://github.com/espressif/arduino-esp32/blob/master/docs/arduino-ide/debian_ubuntu.md
