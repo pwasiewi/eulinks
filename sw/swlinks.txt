@@ -59,6 +59,7 @@
  ## ESP32
  - http://esp32.net/
  - http://www.geekstips.com/esp32-review-idf-programming-tutorial/
+ - https://blog.pawelszabaciuk.pl/category/esp32/
  
  ## STM32
  - https://johan.kanflo.com/hacking-the-dps5005/
