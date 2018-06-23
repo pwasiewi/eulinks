@@ -61,6 +61,7 @@
  - https://www.wemos.cc/
  - http://www.geekstips.com/esp32-review-idf-programming-tutorial/
  - https://blog.pawelszabaciuk.pl/category/esp32/
+ - http://uczymy.edu.pl/wp/blog/2016/09/25/wemos-d1-mini-esp8266-troche-inaczej/
  - https://github.com/espressif/arduino-esp32/blob/master/docs/arduino-ide/debian_ubuntu.md
  
  ## STM32
