@@ -20,6 +20,7 @@
  - https://github.com/OpenCL/OpenCLCXXPortingGuidelines/blob/master/OpenCLCToOpenCLCppPortingGuidelines.md
  
 ### OpenCL examples
+ - http://www.bealto.com/gpu-gemv_v1.html
  - https://wiki.tiker.net/PyOpenCL/Examples/MedianFilter
  - https://software.intel.com/en-us/articles/gpu-quicksort-in-opencl-20-using-nested-parallelism-and-work-group-scan-functions
  - http://arrayfire.com/quest-for-the-smallest-opencl-program/
