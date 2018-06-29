@@ -7,6 +7,10 @@
  - https://wiki.odroid.com/start
  - https://wiki.gentoo.org/wiki/Orange_Pi_Plus2
  
+## Kursy
+ - http://mikrokontroler.pl/kursy/
+ - https://forbot.pl/blog/kursy
+ 
 ## Inteligentny dom
  - https://www.openhab.org/
  - https://www.supla.org/
