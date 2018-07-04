@@ -19,6 +19,12 @@
  - https://virtualizationreview.com/articles/2017/02/08/graphical-programs-on-windows-subsystem-on-linux.aspx
  - https://forums.gentoo.org/viewtopic-p-8195822.html?sid=ea9b4c8417d457ab62526b8ec915033f
 
+## Passthrough VGA
+ - https://forum.level1techs.com/t/ubuntu-17-04-vfio-pcie-passthrough-kernel-update-4-14-rc1/119639
+ - https://pve.proxmox.com/wiki/Pci_passthrough
+ - https://wiki.archlinux.org/index.php/PCI_passthrough_via_OVMF
+ - https://wiki.installgentoo.com/index.php/PCI_passthrough
+ 
 ## Docker OS
  - https://blog.codeship.com/container-os-comparison/
 
