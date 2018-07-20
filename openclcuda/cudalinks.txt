@@ -13,6 +13,7 @@
  - https://handsonopencl.github.io/
  - https://github.com/HandsOnOpenCL/Lecture-Slides
  - https://github.com/HandsOnOpenCL/Exercises-Solutions
+ - https://www.codeproject.com/Articles/Rob-Farber#Article
  - https://streamhpc.com/knowledge/for-developers/tutorials/
  - https://developer.apple.com/library/content/documentation/Performance/Conceptual/OpenCL_MacProgGuide/TuningPerformanceOntheGPU/TuningPerformanceOntheGPU.html
  - https://www.eriksmistad.no/getting-started-with-opencl-and-gpu-computing/
