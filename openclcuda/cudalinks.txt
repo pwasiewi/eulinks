@@ -42,6 +42,9 @@
  * https://www.question-defense.com/2010/08/15/automated-password-cracking-use-oclhashcat-to-launch-a-fingerprint-attack
  * https://wiki.skullsecurity.org/Passwords
 
+### Appz
+ - https://luxcorerender.org/
+
 ### AMD ROCm only ubuntu 16.04 or centos, but Open Source (so maybe in future)
  - https://github.com/ROCmSoftwarePlatform/tensorflow
  - https://gpuopen.com/opencl-rocm1-6/
