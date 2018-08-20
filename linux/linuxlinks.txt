@@ -71,6 +71,9 @@
  - https://www.tutorialspoint.com/lua/index.htm
  - https://www.lua.org/manual/5.3/
 
+### Minetest mods
+ - https://wiki.minetest.net/Mods/basic_robot
+
 ### Tricks
  - bash copies itself
 ```

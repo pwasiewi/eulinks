@@ -4,6 +4,7 @@
  - https://deepmind.com/blog/deepmind-and-blizzard-open-starcraft-ii-ai-research-environment/
  - https://codesachin.wordpress.com/2015/11/28/self-organizing-maps-with-googles-tensorflow/
  - https://pythonprogramming.net/predictions-svm-machine-learning-tutorial/?completed=/svm-optimization-python-2-machine-learning-tutorial/
+ - http://www.wildml.com/
  
 ##### Python case study
  - https://elitedatascience.com/imbalanced-classes
@@ -22,6 +23,10 @@
 
 ##### Deep learning
  - http://www.deeplearningbook.org/
+ - http://www.wildml.com/2016/10/learning-reinforcement-learning/
+ - https://cran.r-project.org/web/packages/ReinforcementLearning/vignettes/ReinforcementLearning.html
+ - http://www.wildml.com/
+ - https://deepmind.com/blog/deepmind-and-blizzard-open-starcraft-ii-ai-research-environment/
  - https://github.com/tomepel/Technical_Book_DL
  - http://colah.github.io/posts/2015-08-Understanding-LSTMs/
  - http://ruder.io/#open
@@ -29,8 +34,8 @@
  - https://blog.pocketcluster.io/
  - http://caffe.berkeleyvision.org/
  - http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
- - http://www.wildml.com/2016/10/learning-reinforcement-learning/
  - http://deeplearning.net/software/libgpuarray/
+ - https://github.com/h2oai/h2o-3
 
 
 ### SVM in R
@@ -127,6 +132,7 @@
  - http://www.r-bloggers.com/learning-kernels-svm/
  - http://www.r-bloggers.com/the-5th-tribe-support-vector-machines-and-caret/
  - https://nsaunders.wordpress.com/2010/08/20/a-brief-introduction-to-apply-in-r/
+ - https://pythonprogramming.net/support-vector-machine-parameters-machine-learning-tutorial/?completed=/soft-margin-kernel-cvxopt-svm-machine-learning-tutorial/
  
 ##### R webinars
 - https://vimeo.com/89562453

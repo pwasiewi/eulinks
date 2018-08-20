@@ -1,10 +1,3 @@
-### Make sd card fro rpi3
- - http://blog.hypriot.com/post/how-to-get-docker-working-on-your-favourite-arm-board-with-hypriotos/
- - https://wiki.openwrt.org/toh/raspberry_pi_foundation/raspberry_pi
- - https://github.com/nethunteros/rpi3-kalimon
- - https://build.nethunter.com/nexmon-pi-builds/
- - https://github.com/seemoo-lab/nexmon
-
 ### Raspberry PI linux hub i dystrybucje
  - https://elinux.org/RPi_Hub
  - https://elinux.org/RPi_Distributions
@@ -18,6 +11,7 @@
  - https://github.com/sakaki-/gentoo-on-rpi3-64bit
  - https://github.com/sakaki-/gentoo-on-rpi3-64bit/wiki
  - http://ftp.halifax.rwth-aachen.de/gentoo/experimental/arm/
+ - https://github.com/sakaki-/gentoo-on-rpi3-64bit/wiki/Set-Up-Your-crossdev-PC-for-Distributed-Compilation-with-distcc
  
 ### tensorflow for rpi
  - https://petewarden.com/2017/08/20/cross-compiling-tensorflow-for-the-raspberry-pi/
@@ -33,12 +27,17 @@
 
 ### Hack mobile raspberry wifi
  - https://hackaday.com/2016/09/08/nexmon-turns-nexus-5-and-rpi3-into-wifi-toolkit/
- - https://build.nethunter.com/nightly/
  - https://github.com/seemoo-lab/nexmon
  - https://github.com/seemoo-lab/bcm-rpi3
+ - https://github.com/nethunteros/rpi3-kalimon
+ - https://build.nethunter.com/nexmon-pi-builds/
+ - https://build.nethunter.com/nightly/
+ - https://build.nethunter.com/nightly/2017.11-18-1618/
  
 ### RPI docker
+ - http://blog.hypriot.com/post/how-to-get-docker-working-on-your-favourite-arm-board-with-hypriotos/
  - http://blog.hypriot.com/getting-started-with-docker-on-your-arm-device/
+ - https://wiki.openwrt.org/toh/raspberry_pi_foundation/raspberry_pi
 
 ### Raspberry gpio
  - https://www.perkin.org.uk/posts/a-nodejs-powered-8-bit-cpu-part-one.html

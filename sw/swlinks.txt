@@ -1,4 +1,4 @@
-## Intro
+# Intro
  - https://ep.com.pl/artykuly/10809-Nie_samym_Raspberry_Pi_czlowiek_zyje.html
  - https://ep.com.pl/files/12158.pdf
  - https://wiki.gentoo.org/wiki/Embedded_systems/ARM_hardware_list

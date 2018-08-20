@@ -1,0 +1,5 @@
+# Music 4 guitar
+ - http://www.scalerator.com/?optionsDisp=yes&selLeft=950&menuTab=instructions&root=C&pattern=major&tuning=EADGBE&size=50
+
+#DAC
+ - https://www.audiofanatyk.pl/polecane-daci-i-karty-dzwiekowe/

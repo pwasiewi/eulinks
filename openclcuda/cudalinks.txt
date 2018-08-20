@@ -25,10 +25,11 @@
  - https://wiki.tiker.net/PyOpenCL/Examples/MedianFilter
  - https://software.intel.com/en-us/articles/gpu-quicksort-in-opencl-20-using-nested-parallelism-and-work-group-scan-functions
  - http://arrayfire.com/quest-for-the-smallest-opencl-program/
- - https://github.com/bgaster/opencl-book-samples
+ - https://github.com/bgaster/opencl-ook-samples
  - https://github.com/smistad/OpenCLUtilities
  - http://gpgpu-computing4.blogspot.com/2009/09/matrix-multiplication-2-opencl.html
  - https://github.com/Dakkers/OpenCL-examples
+ - https://github.com/victusfate/opencl-book-examples
 
 ### HASH PASS
  * http://whitepixel.zorinaq.com/
