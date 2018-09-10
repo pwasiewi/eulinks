@@ -23,6 +23,7 @@
 ### OpenCL examples
  - http://www.bealto.com/gpu-gemv_v1.html
  - https://wiki.tiker.net/PyOpenCL/Examples/MedianFilter
+ - https://github.com/ysh329/OpenCL-101
  - https://software.intel.com/en-us/articles/gpu-quicksort-in-opencl-20-using-nested-parallelism-and-work-group-scan-functions
  - http://arrayfire.com/quest-for-the-smallest-opencl-program/
  - https://github.com/bgaster/opencl-ook-samples
@@ -30,6 +31,7 @@
  - http://gpgpu-computing4.blogspot.com/2009/09/matrix-multiplication-2-opencl.html
  - https://github.com/Dakkers/OpenCL-examples
  - https://github.com/victusfate/opencl-book-examples
+ - https://gist.github.com/ddemidov/2925717
 
 ### HASH PASS
  * http://whitepixel.zorinaq.com/
@@ -45,6 +47,8 @@
 
 ### Appz
  - https://luxcorerender.org/
+ - https://arxiv.org/pdf/1703.06503.pdf
+ - https://github.com/CNugteren/CLTune
 
 ### AMD ROCm only ubuntu 16.04 or centos, but Open Source (so maybe in future)
  - https://github.com/ROCmSoftwarePlatform/tensorflow
@@ -96,6 +100,16 @@
 
 ### Tensorflow examples
  - https://www.tensorflow.org/versions/r0.11/how_tos/image_retraining/
+ 
+### To Opencl 1.1, logs, errors
+ - https://stackoverflow.com/questions/29621800/how-should-i-enable-cl-khr-fp64-in-opencl
+ - https://williamjshipman.wordpress.com/2014/06/24/correctly-enabling-cl_khr_fp64-in-both-opencl-1-1-and-1-2/
+ - https://github.com/Milkyway-at-home/milkywayathome_client/blob/master/separation/kernels/summarization_kernel.cl#L20
+ - https://www.e-learn.cn/content/wangluowenzhang/213138
+ - https://stackoverflow.com/questions/19405596/cannot-compile-opencl-application-using-1-2-headers-in-1-1-version
+ - https://streamhpc.com/blog/2013-04-28/opencl-error-codes/
+ - https://stackoverflow.com/questions/7852581/clbuildprogram-failed-with-error-code-11-and-without-build-log
+ - https://stackoverflow.com/questions/34662333/opencl-how-to-check-for-build-errors-using-the-c-wrapper
  
 # CUDA
  
