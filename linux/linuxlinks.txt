@@ -134,7 +134,8 @@ cd /usr/share/minetest/games/minetest_game/mods
 [ ! -d meshnode ] && git clone https://github.com/stujones11/meshnode.git
 #[ ! -f ByUjEdwinV2_space.zip ] && wget https://forum.minetest.net/download/file.php?id=7985 -O ByUjEdwinV2_space.zip
 #[ ! -f ByAiTechEye-juli-V7_1-marssurvive.zip ] && wget https://forum.minetest.net/download/file.php?id=9106 -O ByAiTechEye-juli-V7_1-marssurvive.zip
-[ ! -f ByUjEdwinV4r-smartshop.zip ] && wget https://forum.minetest.net/download/file.php?id=8630 -O ByUjEdwinV4r-smartshop.zip
+
+[ ! -f smartshop.zip ] && wget https://github.com/AiTechEye/smartshop/archive/master.zip -O smartshop.zip && unzip smartshop.zip
 [ ! -f aliveai-master.zip ] && wget https://github.com/AiTechEye/aliveai/archive/master.zip -O aliveai-master.zip && unzip aliveai-master.zip
 
 
