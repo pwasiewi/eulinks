@@ -140,7 +140,7 @@ cd /usr/share/minetest/games/minetest_game/mods
 [ ! -d orienteering ] && mv minetest_orienteering orienteering
 [ ! -d meshnode ] && git clone https://github.com/stujones11/meshnode.git
 #[ ! -f ByUjEdwinV2_space.zip ] && wget https://forum.minetest.net/download/file.php?id=7985 -O ByUjEdwinV2_space.zip
-#[ ! -f ByAiTechEye-juli-V7_1-marssurvive.zip ] && wget https://forum.minetest.net/download/file.php?id=9106 -O ByAiTechEye-juli-V7_1-marssurvive.zip
+#[ ! -f ByAiTechEye-juli-V9-marssurvive.zip ] && wget https://forum.minetest.net/download/file.php?id=12597 -O ByAiTechEye-juli-V9-marssurvive.zip
 
 
 
