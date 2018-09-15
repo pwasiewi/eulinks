@@ -82,9 +82,9 @@
 
 ### Minetest gry i mody
 
-#### instalacja minetest i podstawowej gry minetest_game
+#### INSTALACJA minetest i podstawowej gry minetest_game
 ```
-emerge minetest minetest_game #install minetest for Gentoo linux
+emerge minetest minetest_game 
 ```
 
 #### INNE GOTOWE GRY NA MINETEST: MINECLONE2 i RPGTEST
