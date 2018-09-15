@@ -135,8 +135,9 @@ cd /usr/share/minetest/games/minetest_game/mods
 #[ ! -f ByUjEdwinV2_space.zip ] && wget https://forum.minetest.net/download/file.php?id=7985 -O ByUjEdwinV2_space.zip
 #[ ! -f ByAiTechEye-juli-V7_1-marssurvive.zip ] && wget https://forum.minetest.net/download/file.php?id=9106 -O ByAiTechEye-juli-V7_1-marssurvive.zip
 
-[ ! -f smartshop.zip ] && wget https://github.com/AiTechEye/smartshop/archive/master.zip -O smartshop.zip && unzip smartshop.zip
-[ ! -f aliveai-master.zip ] && wget https://github.com/AiTechEye/aliveai/archive/master.zip -O aliveai-master.zip && unzip aliveai-master.zip
+[ ! -f mesecons.zip ] && wget https://github.com/minetest-mods/mesecons/zipball/master -O mesecons.zip && unzip mesecons.zip && rm mesecons.zip && mv minetest-mods-mesecons-* mesecons
+[ ! -f smartshop.zip ] && wget https://github.com/AiTechEye/smartshop/archive/master.zip -O smartshop.zip && unzip smartshop.zip && rm smartshop.zip 
+[ ! -f aliveai-master.zip ] && wget https://github.com/AiTechEye/aliveai/archive/master.zip -O aliveai-master.zip && unzip aliveai-master.zip && rm aliveai-master.zip && mv aliveai-master aliveai
 
 
 kpgmobs https://forum.minetest.net/download/file.php?id=384;
