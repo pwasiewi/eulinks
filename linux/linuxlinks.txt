@@ -83,7 +83,7 @@
 ### minetest plugins for linux
 
 ```
-emerge =minetest-9999 =minetest_game-9999 #install minetest for Gentoo linux
+emerge minetest minetest_game #install minetest for Gentoo linux
 
 cd /usr/share/minetest/games/minetest_game/mods
 
@@ -106,11 +106,10 @@ for i in animals_modpack; do [ ! -d $i ] && git clone https://github.com/sapier/
 for i in mobs_redo; do [ ! -d $i ] && git clone https://github.com/tenplus1/$i; done;
 
 cd /usr/share/minetest/games/minetest_game/mods
-[ ! -f ByAiTechEyeV10-2-aliveai_for_MT-0-4-16-dev_and_newer.zip ] && wget https://forum.minetest.net/download/file.php?id=12053 -O ByAiTechEyeV10-2-aliveai_for_MT-0-4-16-dev_and_newer.zip
-#[ ! -d smartshop ] && unzip ByUjEdwinV4r-smartshop.zip
-#[ ! -d aliveai ] && unzip ByAiTechEyeV9-aliveai_for_MT-0-4-16_and_older.zip
-[ ! -d aliveai ] && unzip ByAiTechEyeV10-2-aliveai_for_MT-0-4-16-dev_and_newer.zip
-mv aliveai/ aliveai.arch
+[ ! -f mesecons.zip ] && wget https://github.com/minetest-mods/mesecons/archive/master.zip -O mesecons-master.zip && unzip mesecons-master.zip && rm mesecons-master.zip && mv mesecons-master mesecons
+[ ! -f smartshop.zip ] && wget https://github.com/AiTechEye/smartshop/archive/master.zip -O smartshop-master.zip && unzip smartshop-master.zip && rm smartshop-master.zip && mv smartshop-master smartshop
+[ ! -f aliveai-master.zip ] && wget https://github.com/AiTechEye/aliveai/archive/master.zip -O aliveai-master.zip && unzip aliveai-master.zip && rm aliveai-master.zip
+mv aliveai-master aliveai.arch
 mv aliveai.arch/* .
 rm -rf aliveai.arch
 sed -i 's/status=false/status=true/g' aliveai/init.lua 
@@ -120,8 +119,10 @@ curl http://ix.io/zzV > aliveai_folk/init.lua
 minetest
 
 cd /usr/share/minetest/games
-[ ! -f MineClone2.zip ] && wget http://repo.or.cz/MineClone/MineClone2.git/snapshot/5e31db04d7f68c0da6e08fc273d3d3347da26e13.zip -O MineClone2.zip && unzip MineClone2.zip
-#to zbyt eksperymentalne!!! git clone http://repo.or.cz/MineClone/MineClone2.git
+[ ! -f MineClone2.zip ] && wget http://repo.or.cz/MineClone/MineClone2.git/snapshot/5e31db04d7f68c0da6e08fc273d3d3347da26e13.zip -O MineClone2.zip && unzip MineClone2.zip && mv MineClone2-5e31db0 MineClone2
+#to jednak zbyt eksperymentalne i może brakować plików!!! git clone http://repo.or.cz/MineClone/MineClone2.git
+
+cd /usr/share/minetest/games
 git clone https://github.com/cdqwertz/rpgtest.git
 cd /usr/share/minetest/games/minetest_game/mods
 [ ! -d ethereal ] && git clone https://github.com/tenplus1/ethereal
@@ -136,9 +137,7 @@ cd /usr/share/minetest/games/minetest_game/mods
 #[ ! -f ByUjEdwinV2_space.zip ] && wget https://forum.minetest.net/download/file.php?id=7985 -O ByUjEdwinV2_space.zip
 #[ ! -f ByAiTechEye-juli-V7_1-marssurvive.zip ] && wget https://forum.minetest.net/download/file.php?id=9106 -O ByAiTechEye-juli-V7_1-marssurvive.zip
 
-[ ! -f mesecons.zip ] && wget https://github.com/minetest-mods/mesecons/archive/master.zip -O mesecons-master.zip && unzip mesecons-master.zip && rm mesecons-master.zip && mv mesecons-master mesecons
-[ ! -f smartshop.zip ] && wget https://github.com/AiTechEye/smartshop/archive/master.zip -O smartshop-master.zip && unzip smartshop-master.zip && rm smartshop-master.zip && mv smartshop-master smartshop
-[ ! -f aliveai-master.zip ] && wget https://github.com/AiTechEye/aliveai/archive/master.zip -O aliveai-master.zip && unzip aliveai-master.zip && rm aliveai-master.zip && mv aliveai-master aliveai
+
 
 
 kpgmobs https://forum.minetest.net/download/file.php?id=384;
