@@ -119,7 +119,7 @@ curl http://ix.io/zzV > aliveai_folk/init.lua
 minetest
 
 cd /usr/share/minetest/games
-[ ! -f MineClone2.zip ] && wget http://repo.or.cz/MineClone/MineClone2.git/snapshot/5e31db04d7f68c0da6e08fc273d3d3347da26e13.zip -O MineClone2.zip && unzip MineClone2.zip && mv MineClone2-5e31db0 MineClone2
+[ ! -f MineClone2.zip ] && wget http://repo.or.cz/MineClone/MineClone2.git/snapshot/5e31db04d7f68c0da6e08fc273d3d3347da26e13.zip -O MineClone2.zip && unzip MineClone2.zip && mv MineClone2-5e31db0 MineClone2 && rm MineClone2.zip
 #to jednak zbyt eksperymentalne i może brakować plików!!! git clone http://repo.or.cz/MineClone/MineClone2.git
 
 cd /usr/share/minetest/games
