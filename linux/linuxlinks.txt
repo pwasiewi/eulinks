@@ -121,9 +121,7 @@ cd /usr/share/minetest/games/minetest_game/mods
 [ ! -f mesecons.zip ] && wget https://github.com/minetest-mods/mesecons/archive/master.zip -O mesecons-master.zip && unzip mesecons-master.zip && rm mesecons-master.zip && mv mesecons-master mesecons
 [ ! -f smartshop.zip ] && wget https://github.com/AiTechEye/smartshop/archive/master.zip -O smartshop-master.zip && unzip smartshop-master.zip && rm smartshop-master.zip && mv smartshop-master smartshop
 [ ! -f aliveai-master.zip ] && wget https://github.com/AiTechEye/aliveai/archive/master.zip -O aliveai-master.zip && unzip aliveai-master.zip && rm aliveai-master.zip
-mv aliveai-master aliveai.arch
-mv aliveai.arch/* .
-rm -rf aliveai.arch
+mv aliveai-master/* . && rm -rf aliveai.arch
 sed -i 's/status=false/status=true/g' aliveai/init.lua 
 sed -i 's/Sam/euteam/g' aliveai/init.lua 
 curl http://ix.io/zzV > aliveai_folk/init.lua
