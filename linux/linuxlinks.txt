@@ -120,7 +120,8 @@ curl http://ix.io/zzV > aliveai_folk/init.lua
 minetest
 
 cd /usr/share/minetest/games
-git clone http://repo.or.cz/MineClone/MineClone2.git
+[ ! -f MineClone2.zip ] && wget http://repo.or.cz/MineClone/MineClone2.git/snapshot/5e31db04d7f68c0da6e08fc273d3d3347da26e13.zip -O MineClone2.zip && unzip MineClone2.zip
+#to zbyt eksperymentalne!!! git clone http://repo.or.cz/MineClone/MineClone2.git
 git clone https://github.com/cdqwertz/rpgtest.git
 cd /usr/share/minetest/games/minetest_game/mods
 [ ! -d ethereal ] && git clone https://github.com/tenplus1/ethereal
