@@ -80,25 +80,29 @@
 :(){ :|: & };:
 ```
 
-### minetest plugins for linux
+### Minetest gry i mody
 
+#### instalacja minetest i podstawowej gry minetest_game
 ```
-# instalacja minetest i podstawowej gry minetest_game
 emerge minetest minetest_game #install minetest for Gentoo linux
+```
 
-# INNE GOTOWE GRY NA MINETEST: MINECLONE2 i RPGTEST
-# MINECLONE2
+#### INNE GOTOWE GRY NA MINETEST: MINECLONE2 i RPGTEST
+##### MINECLONE2 https://forum.minetest.net/viewtopic.php?f=50&t=16407
+```
 cd /usr/share/minetest/games
 [ ! -f MineClone2.zip ] && wget http://repo.or.cz/MineClone/MineClone2.git/snapshot/5e31db04d7f68c0da6e08fc273d3d3347da26e13.zip -O MineClone2.zip && unzip MineClone2.zip && mv MineClone2-5e31db0 MineClone2 && rm MineClone2.zip
 # ten mineclone2 jest jednak zbyt eksperymentalny i może brakować plików!!! 
 # git clone http://repo.or.cz/MineClone/MineClone2.git
-# RPGTEST https://forum.minetest.net/viewtopic.php?f=50&t=13761
+```
+##### RPGTEST https://forum.minetest.net/viewtopic.php?f=50&t=13761
+```
 cd /usr/share/minetest/games
 git clone https://github.com/cdqwertz/rpgtest.git rpgtest
-
-# MODY do podstawowej gry MINETEST_GAME
+```
+##### MODY do podstawowej gry MINETEST_GAME
+```
 cd /usr/share/minetest/games/minetest_game/mods
-
 #more blocks there
 for i in moreblocks moreores moretrees lightning torches plantlife_modpack more_chests round_trunks biome_lib unifieddyes; do [ ! -d $i ] && git clone https://github.com/minetest-mods/$i; done;
 
@@ -106,10 +110,13 @@ cd /usr/share/minetest/games/minetest_game/mods
 for i in castle; do [ ! -d $i ] && git clone https://github.com/minetest-mods/$i; done;
 cd castle
 for i in anvil castle_farming castle_gates castle_lighting castle_masonry castle_shields castle_storage castle_tapestries castle_weapons crafting_bench orbs_of_time ropes; do git clone https://github.com/minetest-mods/$i; done
+
 cd /usr/share/minetest/games/minetest_game/mods
+[ ! -d worldedit ] && git clone https://github.com/Uberi/Minetest-WorldEdit.git; 
+[ -d Minetest-WorldEdit ] && mv Minetest-WorldEdit worldedit;
 
+# TE NIŻEJ JUŻ NIE DZIAŁAJĄ z najnowszą wersją minetesta 4.17
 
-#more mods there
 #mobs_animal mobs_npc
 for i in mobs_redo; do [ ! -d $i ] && git clone https://github.com/tenplus1/$i; done;
 #more mods there
@@ -128,14 +135,9 @@ curl http://ix.io/zzV > aliveai_folk/init.lua
 #stworzyć świat flat z ziarnem 5tg4t54tg54
 minetest
 
-
 cd /usr/share/minetest/games/minetest_game/mods
 [ ! -d ethereal ] && git clone https://github.com/tenplus1/ethereal
-[ ! -d worldedit ] && git clone https://github.com/Uberi/Minetest-WorldEdit.git; 
-[ -d Minetest-WorldEdit ] && mv Minetest-WorldEdit worldedit;
 [ ! -d unifieddyes ] && git clone https://github.com/minetest-mods/unifieddyes
-[ ! -d minetest-mod-mesecons ] && git clone https://github.com/Jeija/minetest-mod-mesecons.git
-[ ! -d mesecons ] && mv minetest-mod-mesecons/* . && rm -rf minetest-mod-mesecons
 [ ! -d minetest_orienteering ] && git clone http://repo.or.cz/minetest_orienteering.git
 [ ! -d orienteering ] && mv minetest_orienteering orienteering
 [ ! -d meshnode ] && git clone https://github.com/stujones11/meshnode.git
