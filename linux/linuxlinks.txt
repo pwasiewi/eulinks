@@ -124,13 +124,12 @@ cd /usr/share/minetest/games/minetest_game/mods
 
 # TE NIŻEJ JUŻ NIE DZIAŁAJĄ LUB NIE PRZETESTOWANE z najnowszą wersją minetesta 4.17
 
+cd /usr/share/minetest/games/minetest_game/mods
 #https://forum.minetest.net/viewtopic.php?t=9917
-#mobs_animal mobs_npc
-for i in mobs_redo; do [ ! -d $i ] && git clone https://github.com/tenplus1/$i; done;
-#more mods there
-#mobf_core animalmaterials adv_spawning 
-for i in animals_modpack; do [ ! -d $i ] && git clone https://github.com/sapier/$i; done;
+for i in mobs_redo mobs_animal mobs_monster mobs_npc mob_horse; do [ ! -d $i ] && git clone https://notabug.org/TenPlus1/$i; done;
 
+#next mods to test
+#mobf_core animalmaterials adv_spawning animals_modpack
 
 cd /usr/share/minetest/games/minetest_game/mods
 #aliveai depends on mesecons and smartshop
