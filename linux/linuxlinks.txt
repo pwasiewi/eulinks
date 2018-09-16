@@ -109,8 +109,8 @@ git clone http://repo.or.cz/minetest_hades/hades_revisited.git hades_revisited
 ```
 cd /usr/share/minetest/games/minetest_game/mods
 #more blocks there
-for i in moreblocks moreores moretrees lightning torches plantlife_modpack more_chests round_trunks biome_lib unifieddyes; do [ ! -d $i ] && git clone https://github.com/minetest-mods/$i; done;
-for i in technic mesecons ; do [ ! -d $i ] && git clone https://github.com/minetest-mods/$i; done;
+for i in moreblocks moreores moretrees lightning torches plantlife_modpack more_chests round_trunks biome_lib unifieddyes unifiedbricks unified_inventory orbs_of_time gloopblocks towercrane maptools; do [ ! -d $i ] && git clone https://github.com/minetest-mods/$i; done;
+for i in technic mesecons MoreMesecons xdecor blox BobBlocks drawers playeranim steel digilines wielded_light digtron smartfs throwing_arrows throwing character_creator pipeworks skinsdb nether ts_furniture item_drop intllib; do [ ! -d $i ] && git clone https://github.com/minetest-mods/$i; done;
 cd /usr/share/minetest/games/minetest_game/mods
 for i in castle; do [ ! -d $i ] && git clone https://github.com/minetest-mods/$i; done;
 # cd castle
@@ -131,7 +131,7 @@ for i in mobs_redo mobs_animal mobs_monster mobs_npc mob_horse ethereal farming 
 
 #next mods to test
 #z kilku źródeł: nssm
-#custom zastępują te oryginalne: fire carts builtin_item doors stairs tnt boats moreores wool bucket creative dye
+#custom zastępują te oryginalne: fire carts builtin_item doors stairs tnt boats moreores wool bucket creative dye 
 #mobf_core animalmaterials adv_spawning animals_modpack
 
 cd /usr/share/minetest/games/minetest_game/mods
@@ -148,8 +148,6 @@ curl http://ix.io/zzV > aliveai_folk/init.lua
 minetest
 
 cd /usr/share/minetest/games/minetest_game/mods
-[ ! -d ethereal ] && git clone https://github.com/tenplus1/ethereal
-[ ! -d unifieddyes ] && git clone https://github.com/minetest-mods/unifieddyes
 [ ! -d minetest_orienteering ] && git clone http://repo.or.cz/minetest_orienteering.git
 [ ! -d orienteering ] && mv minetest_orienteering orienteering
 [ ! -d meshnode ] && git clone https://github.com/stujones11/meshnode.git
