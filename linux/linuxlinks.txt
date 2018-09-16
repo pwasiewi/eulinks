@@ -110,17 +110,16 @@ git clone http://repo.or.cz/minetest_hades/hades_revisited.git hades_revisited
 cd /usr/share/minetest/games/minetest_game/mods
 #more blocks there
 for i in moreblocks moreores moretrees lightning torches plantlife_modpack more_chests round_trunks biome_lib unifieddyes; do [ ! -d $i ] && git clone https://github.com/minetest-mods/$i; done;
-
+for i in technic mesecons ; do [ ! -d $i ] && git clone https://github.com/minetest-mods/$i; done;
 cd /usr/share/minetest/games/minetest_game/mods
 for i in castle; do [ ! -d $i ] && git clone https://github.com/minetest-mods/$i; done;
-cd castle
+# cd castle
 for i in anvil castle_farming castle_gates castle_lighting castle_masonry castle_shields castle_storage castle_tapestries castle_weapons crafting_bench orbs_of_time ropes; do git clone https://github.com/minetest-mods/$i; done
 
 cd /usr/share/minetest/games/minetest_game/mods
 [ ! -d worldedit ] && git clone https://github.com/Uberi/Minetest-WorldEdit.git; 
 [ -d Minetest-WorldEdit ] && mv Minetest-WorldEdit worldedit;
-[ ! -d technic ] && wget  https://github.com/minetest-mods/technic/archive/master.zip -O technic-master.zip && unzip technic-master.zip && rm technic-master.zip && mv technic-master technic
-[ ! -f mesecons.zip ] && wget https://github.com/minetest-mods/mesecons/archive/master.zip -O mesecons-master.zip && unzip mesecons-master.zip && rm mesecons-master.zip && mv mesecons-master mesecons
+
 
 # TE NIŻEJ JUŻ NIE DZIAŁAJĄ LUB NIE PRZETESTOWANE z najnowszą wersją minetesta 4.17
 
@@ -137,6 +136,8 @@ for i in mobs_redo mobs_animal mobs_monster mobs_npc mob_horse ethereal farming 
 
 cd /usr/share/minetest/games/minetest_game/mods
 #aliveai depends on mesecons and smartshop
+[ ! -d technic ] && wget  https://github.com/minetest-mods/technic/archive/master.zip -O technic-master.zip && unzip technic-master.zip && rm technic-master.zip && mv technic-master technic
+[ ! -f mesecons.zip ] && wget https://github.com/minetest-mods/mesecons/archive/master.zip -O mesecons-master.zip && unzip mesecons-master.zip && rm mesecons-master.zip && mv mesecons-master mesecons
 [ ! -f smartshop.zip ] && wget https://github.com/AiTechEye/smartshop/archive/master.zip -O smartshop-master.zip && unzip smartshop-master.zip && rm smartshop-master.zip && mv smartshop-master smartshop
 [ ! -f aliveai-master.zip ] && wget https://github.com/AiTechEye/aliveai/archive/master.zip -O aliveai-master.zip && unzip aliveai-master.zip && rm aliveai-master.zip
 mv aliveai-master/* . && rm -rf aliveai-master
