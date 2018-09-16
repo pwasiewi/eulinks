@@ -119,9 +119,12 @@ for i in anvil castle_farming castle_gates castle_lighting castle_masonry castle
 cd /usr/share/minetest/games/minetest_game/mods
 [ ! -d worldedit ] && git clone https://github.com/Uberi/Minetest-WorldEdit.git; 
 [ -d Minetest-WorldEdit ] && mv Minetest-WorldEdit worldedit;
+[ ! -d technic ] && wget  https://github.com/minetest-mods/technic/archive/master.zip -O technic-master.zip && unzip technic-master.zip && rm technic-master.zip && mv technic-master technic
+[ ! -f mesecons.zip ] && wget https://github.com/minetest-mods/mesecons/archive/master.zip -O mesecons-master.zip && unzip mesecons-master.zip && rm mesecons-master.zip && mv mesecons-master mesecons
 
-# TE NIŻEJ JUŻ NIE DZIAŁAJĄ z najnowszą wersją minetesta 4.17
+# TE NIŻEJ JUŻ NIE DZIAŁAJĄ LUB NIE PRZETESTOWANE z najnowszą wersją minetesta 4.17
 
+#https://forum.minetest.net/viewtopic.php?t=9917
 #mobs_animal mobs_npc
 for i in mobs_redo; do [ ! -d $i ] && git clone https://github.com/tenplus1/$i; done;
 #more mods there
@@ -130,7 +133,7 @@ for i in animals_modpack; do [ ! -d $i ] && git clone https://github.com/sapier/
 
 
 cd /usr/share/minetest/games/minetest_game/mods
-[ ! -f mesecons.zip ] && wget https://github.com/minetest-mods/mesecons/archive/master.zip -O mesecons-master.zip && unzip mesecons-master.zip && rm mesecons-master.zip && mv mesecons-master mesecons
+#aliveai depends on mesecons and smartshop
 [ ! -f smartshop.zip ] && wget https://github.com/AiTechEye/smartshop/archive/master.zip -O smartshop-master.zip && unzip smartshop-master.zip && rm smartshop-master.zip && mv smartshop-master smartshop
 [ ! -f aliveai-master.zip ] && wget https://github.com/AiTechEye/aliveai/archive/master.zip -O aliveai-master.zip && unzip aliveai-master.zip && rm aliveai-master.zip
 mv aliveai-master/* . && rm -rf aliveai-master
