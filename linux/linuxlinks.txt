@@ -71,7 +71,7 @@
  - https://www.tutorialspoint.com/lua/index.htm
  - https://www.lua.org/manual/5.3/
 
-### Minetest mods
+### Minetest wybrane mods
  - https://wiki.minetest.net/Mods/basic_robot
 
 ### Tricks
@@ -80,7 +80,7 @@
 :(){ :|: & };:
 ```
 
-### Minetest gry i mody
+### MINETEST GRY I MODY https://www.minetest.net/customize/
 
 #### INSTALACJA minetest i podstawowej gry minetest_game
 ```
@@ -106,7 +106,7 @@ cd /usr/share/minetest/games
 git clone http://repo.or.cz/minetest_hades/hades_revisited.git hades_revisited
 ```
 
-#### MODY do podstawowej gry MINETEST_GAME https://minecraft.curseforge.com/projects
+#### MODY do podstawowej gry MINETEST_GAME https://www.minetest.net/customize/ 
 ##### MOD ALIVEAI botów agentów do podstawowej gry MINETEST_GAME
 ```
 cd /usr/share/minetest/games/minetest_game/mods
@@ -123,9 +123,9 @@ sed -i 's/Sam/euteam/g' aliveai/init.lua
 #http://ix.io/zzV - konfiguracja botów dla poprzednich wersji - teraz już są skonfigurowane
 #stworzyć świat np. flat z ziarnem 5tg4t54tg54
 ```
-##### MOD WORLDEDIT - generowanie prostych figur 3d z dowolnych klocków http://wiki.sk89q.com/wiki/WorldEdit/Quick_start
+##### MOD WORLDEDIT - generowanie prostych figur 3d z dowolnych klocków https://forum.minetest.net/viewtopic.php?t=572
 ```
-# http://wiki.sk89q.com/wiki/WorldEdit#Usage
+# https://github.com/Uberi/Minetest-WorldEdit/blob/master/ChatCommands.md
 cd /usr/share/minetest/games/minetest_game/mods
 [ ! -d worldedit ] && git clone https://github.com/Uberi/Minetest-WorldEdit.git; 
 [ -d Minetest-WorldEdit ] && mv Minetest-WorldEdit worldedit;
