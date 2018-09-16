@@ -144,9 +144,8 @@ cd /usr/share/minetest/games/minetest_game/mods
 [ ! -d meshnode ] && git clone https://github.com/stujones11/meshnode.git
 
 # do testowania z TenPlus1: nssm playerplus itemframes inventory_plus protector invisibility hud_hunger bags
-# custom zastępują te oryginalne: fire carts builtin_item doors stairs tnt boats moreores wool bucket creative dye 
 # minetest-mods: skinsdb simple_skins breadcrumbs steel qa_block mob-engine hbsprint spawn_command simplecrafting_lib woodcutting 
-# mobf_core animalmaterials adv_spawning animals_modpack
+# custom z minetest-mods zastępują te oryginalne: fire carts builtin_item doors stairs tnt boats moreores wool bucket creative dye 
 
 cd /usr/share/minetest/games/minetest_game/mods
 [ ! -f ByUjEdwinV2_space.zip ] && wget https://forum.minetest.net/download/file.php?id=7985 -O ByUjEdwinV2_space.zip
@@ -158,6 +157,7 @@ cd /usr/share/minetest/games/minetest_game/mods
 # more swords
 # https://forum.minetest.net/viewtopic.php?f=9&t=11972
 # https://wiki.minetest.net/Mods/basic_robot
+# mobf_core animalmaterials adv_spawning animals_modpack
 ```
 ##### MINETEST INTERNALS
  - http://wiki.minetest.net/Server_commands
