@@ -105,6 +105,8 @@ git clone https://github.com/cdqwertz/rpgtest.git rpgtest
 cd /usr/share/minetest/games
 git clone http://repo.or.cz/minetest_hades/hades_revisited.git hades_revisited
 ```
+
+#### MODY do podstawowej gry MINETEST_GAME
 ##### MOD ALIVEAI botów agentów do podstawowej gry MINETEST_GAME
 ```
 cd /usr/share/minetest/games/minetest_game/mods
@@ -121,7 +123,13 @@ sed -i 's/Sam/euteam/g' aliveai/init.lua
 #http://ix.io/zzV - konfiguracja botów dla poprzednich wersji - teraz już są skongfigurowane
 #stworzyć świat np. flat z ziarnem 5tg4t54tg54
 ```
-##### POPULARNE MODY do podstawowej gry MINETEST_GAME (czasami nawzajem się wykluczają, trzeba testować)
+##### WORLDEDIT - generowanie prostych figur 3d z dowolnych klocków
+```
+cd /usr/share/minetest/games/minetest_game/mods
+[ ! -d worldedit ] && git clone https://github.com/Uberi/Minetest-WorldEdit.git; 
+[ -d Minetest-WorldEdit ] && mv Minetest-WorldEdit worldedit;
+```
+##### INNE POPULARNE MODY (czasami nawzajem się wykluczają np. z worldedit lub z aliveai, trzeba testować)
 ```
 cd /usr/share/minetest/games/minetest_game/mods
 #more blocks there
@@ -133,11 +141,7 @@ for i in framedglass drinks sling mymonths warps cake droplift flowerpot quartz 
 cd /usr/share/minetest/games/minetest_game/mods
 for i in castle; do [ ! -d $i ] && git clone https://github.com/minetest-mods/$i; done;
 # cd castle
-# for i in anvil castle_farming castle_gates castle_lighting castle_masonry castle_shields castle_storage castle_tapestries castle_weapons crafting_bench orbs_of_time ropes; do git clone https://github.com/minetest-mods/$i; done
-
-cd /usr/share/minetest/games/minetest_game/mods
-[ ! -d worldedit ] && git clone https://github.com/Uberi/Minetest-WorldEdit.git; 
-[ -d Minetest-WorldEdit ] && mv Minetest-WorldEdit worldedit;
+for i in anvil castle_farming castle_gates castle_lighting castle_masonry castle_shields castle_storage castle_tapestries castle_weapons crafting_bench orbs_of_time ropes; do git clone https://github.com/minetest-mods/$i; done
 
 cd /usr/share/minetest/games/minetest_game/mods
 #https://forum.minetest.net/viewtopic.php?t=9917
@@ -148,14 +152,10 @@ for i in dynamic_liquid signs_lib jumping frozenenergy subspacewalker nightandda
 
 ##### MODY NIE DZIAŁAJĄCE LUB NIE PRZETESTOWANE z najnowszą wersją minetesta 4.17
 ```
-
-
 #next mods to test#z TenPlus1: nssm playerplus itemframes inventory_plus protector invisibility hud_hunger bags
 #custom zastępują te oryginalne: fire carts builtin_item doors stairs tnt boats moreores wool bucket creative dye 
 #minetest-mods: skinsdb simple_skins breadcrumbs steel qa_block mob-engine hbsprint spawn_command simplecrafting_lib woodcutting 
 #mobf_core animalmaterials adv_spawning animals_modpack
-
-
 
 cd /usr/share/minetest/games/minetest_game/mods
 [ ! -d minetest_orienteering ] && git clone http://repo.or.cz/minetest_orienteering.git
