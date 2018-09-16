@@ -110,7 +110,7 @@ git clone http://repo.or.cz/minetest_hades/hades_revisited.git hades_revisited
 cd /usr/share/minetest/games/minetest_game/mods
 #more blocks there
 for i in biome_lib crops moreblocks moreores moretrees lightning torches plantlife_modpack more_chests round_trunks biome_lib unifieddyes unifiedbricks unified_inventory gloopblocks towercrane maptools mapfix technic mesecons MoreMesecons xdecor; do [ ! -d $i ] && git clone https://github.com/minetest-mods/$i; done;
-for i in blox BobBlocks drawers playeranim digilines wielded_light digtron smartfs throwing_arrows throwing character_creator pipeworks nether ts_furniture item_drop intllib prefab towercrane homedecor_modpack currency craftguide ccompass mychisel mymillwork mydoors subterrane woodcutting pontoons hopper airtanks; do [ ! -d $i ] && git clone https://github.com/minetest-mods/$i; done;
+for i in blox BobBlocks drawers playeranim digilines wielded_light digtron smartfs throwing_arrows throwing character_creator pipeworks nether ts_furniture item_drop intllib prefab towercrane homedecor_modpack currency craftguide ccompass mychisel mymillwork mydoors subterrane pontoons hopper airtanks; do [ ! -d $i ] && git clone https://github.com/minetest-mods/$i; done;
 
 for i in framedglass drinks sling mymonths warps cake droplift flowerpot quartz ts_doors more_chests workbench ilights worldedge myroofs mylights crafting_bench chat2 coloredwood trash_can ts_paper camera loot mydeck enchanting tnt_extras painting jump mysoundblocks mymulch round_trunks sedimentology mywoodslopes turtle ts_workshop; do [ ! -d $i ] && git clone https://github.com/minetest-mods/$i; done;
 
@@ -136,7 +136,7 @@ for i in dynamic_liquid signs_lib jumping frozenenergy subspacewalker nightandda
 
 #next mods to test#z TenPlus1: nssm playerplus itemframes inventory_plus protector invisibility hud_hunger bags
 #custom zastępują te oryginalne: fire carts builtin_item doors stairs tnt boats moreores wool bucket creative dye 
-#minetest-mods: skinsdb simple_skins breadcrumbs steel qa_block mob-engine hbsprint spawn_command simplecrafting_lib 
+#minetest-mods: skinsdb simple_skins breadcrumbs steel qa_block mob-engine hbsprint spawn_command simplecrafting_lib woodcutting 
 #mobf_core animalmaterials adv_spawning animals_modpack
 
 cd /usr/share/minetest/games/minetest_game/mods
