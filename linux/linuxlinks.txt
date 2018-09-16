@@ -106,7 +106,7 @@ cd /usr/share/minetest/games
 git clone http://repo.or.cz/minetest_hades/hades_revisited.git hades_revisited
 ```
 
-#### MODY do podstawowej gry MINETEST_GAME
+#### MODY do podstawowej gry MINETEST_GAME https://minecraft.curseforge.com/projects
 ##### MOD ALIVEAI botów agentów do podstawowej gry MINETEST_GAME
 ```
 cd /usr/share/minetest/games/minetest_game/mods
@@ -120,11 +120,12 @@ cd /usr/share/minetest/games/minetest_game/mods
 mv aliveai-master/* . && rm -rf aliveai-master
 sed -i 's/status=false/status=true/g' aliveai/init.lua 
 sed -i 's/Sam/euteam/g' aliveai/init.lua 
-#http://ix.io/zzV - konfiguracja botów dla poprzednich wersji - teraz już są skongfigurowane
+#http://ix.io/zzV - konfiguracja botów dla poprzednich wersji - teraz już są skonfigurowane
 #stworzyć świat np. flat z ziarnem 5tg4t54tg54
 ```
-##### WORLDEDIT - generowanie prostych figur 3d z dowolnych klocków
+##### MOD WORLDEDIT - generowanie prostych figur 3d z dowolnych klocków http://wiki.sk89q.com/wiki/WorldEdit/Quick_start
 ```
+# http://wiki.sk89q.com/wiki/WorldEdit#Usage
 cd /usr/share/minetest/games/minetest_game/mods
 [ ! -d worldedit ] && git clone https://github.com/Uberi/Minetest-WorldEdit.git; 
 [ -d Minetest-WorldEdit ] && mv Minetest-WorldEdit worldedit;
@@ -132,22 +133,21 @@ cd /usr/share/minetest/games/minetest_game/mods
 ##### INNE POPULARNE MODY (czasami nawzajem się wykluczają np. z worldedit lub z aliveai, trzeba testować)
 ```
 cd /usr/share/minetest/games/minetest_game/mods
-#more blocks there
-for i in biome_lib crops moreblocks moreores moretrees lightning torches plantlife_modpack more_chests round_trunks biome_lib unifieddyes unifiedbricks unified_inventory gloopblocks towercrane maptools mapfix technic mesecons MoreMesecons xdecor; do [ ! -d $i ] && git clone https://github.com/minetest-mods/$i; done;
-for i in blox BobBlocks drawers playeranim digilines wielded_light digtron smartfs throwing_arrows throwing character_creator pipeworks nether ts_furniture item_drop intllib prefab towercrane homedecor_modpack currency craftguide ccompass mychisel mymillwork mydoors subterrane pontoons hopper airtanks; do [ ! -d $i ] && git clone https://github.com/minetest-mods/$i; done;
-
-for i in framedglass drinks sling mymonths warps cake droplift flowerpot quartz ts_doors more_chests workbench ilights worldedge myroofs mylights crafting_bench chat2 coloredwood trash_can ts_paper camera loot mydeck enchanting tnt_extras painting jump mysoundblocks mymulch round_trunks sedimentology mywoodslopes turtle ts_workshop; do [ ! -d $i ] && git clone https://github.com/minetest-mods/$i; done;
-
-cd /usr/share/minetest/games/minetest_game/mods
 for i in castle; do [ ! -d $i ] && git clone https://github.com/minetest-mods/$i; done;
 # cd castle
 for i in anvil castle_farming castle_gates castle_lighting castle_masonry castle_shields castle_storage castle_tapestries castle_weapons crafting_bench orbs_of_time ropes; do git clone https://github.com/minetest-mods/$i; done
 
 cd /usr/share/minetest/games/minetest_game/mods
+#more blocks there
+for i in biome_lib crops moreblocks moreores moretrees lightning torches plantlife_modpack more_chests round_trunks biome_lib unifieddyes unifiedbricks unified_inventory gloopblocks towercrane maptools mapfix technic mesecons MoreMesecons xdecor; do [ ! -d $i ] && git clone https://github.com/minetest-mods/$i; done;
+for i in blox BobBlocks drawers playeranim digilines wielded_light digtron smartfs throwing_arrows throwing character_creator pipeworks nether ts_furniture item_drop intllib prefab towercrane homedecor_modpack currency craftguide ccompass mychisel mymillwork mydoors subterrane pontoons hopper airtanks; do [ ! -d $i ] && git clone https://github.com/minetest-mods/$i; done;
+for i in framedglass drinks sling mymonths warps cake droplift flowerpot quartz ts_doors more_chests workbench ilights worldedge myroofs mylights crafting_bench chat2 coloredwood trash_can ts_paper camera loot mydeck enchanting tnt_extras painting jump mysoundblocks mymulch round_trunks sedimentology mywoodslopes turtle ts_workshop; do [ ! -d $i ] && git clone https://github.com/minetest-mods/$i; done;
+for i in dynamic_liquid signs_lib jumping frozenenergy subspacewalker nightandday plantlife_modpack carpets mylandscaping mtg_i18n mg; do [ ! -d $i ] && git clone https://github.com/minetest-mods/$i; done;
+
+cd /usr/share/minetest/games/minetest_game/mods
 #https://forum.minetest.net/viewtopic.php?t=9917
 #ethereal does not work in v6
 for i in mobs_redo mobs_animal mobs_monster mobs_npc mob_horse ethereal farming lucky_block pigiron ambience real_torch bows pova pbj_pup cblocks teleport_potion pie  wine hopper bonemeal bakedclay money lapis signs_lib season falling_item stamina; do [ ! -d $i ] && git clone https://notabug.org/TenPlus1/$i; done;
-for i in dynamic_liquid signs_lib jumping frozenenergy subspacewalker nightandday plantlife_modpack carpets mylandscaping mtg_i18n mg; do [ ! -d $i ] && git clone https://github.com/minetest-mods/$i; done;
 ```
 
 ##### MODY NIE DZIAŁAJĄCE LUB NIE PRZETESTOWANE z najnowszą wersją minetesta 4.17
