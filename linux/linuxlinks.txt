@@ -98,8 +98,7 @@ cd /usr/share/minetest/games/minetest_game/mods
 #aliveai depends on technic, 3d_armor, mesecons and smartshop
 [ ! -d 3d_armor ] && wget  https://github.com/stujones11/minetest-3d_armor/archive/master.zip -O 3d_armor-master.zip && unzip 3d_armor-master.zip && rm 3d_armor-master.zip && mv minetest-3d_armor-master 3d_armor
 # można tez z: git clone https://github.com/stujones11/minetest-3d_armor 3d_armor
-[ ! -d technic ] && wget  https://github.com/minetest-mods/technic/archive/master.zip -O technic-master.zip && unzip technic-master.zip && rm technic-master.zip && mv technic-master technic
-[ ! -d mesecons ] && wget https://github.com/minetest-mods/mesecons/archive/master.zip -O mesecons-master.zip && unzip mesecons-master.zip && rm mesecons-master.zip && mv mesecons-master mesecons
+for i in moreblocks moreores pipeworks mesecons technic; do [ ! -d $i ] && git clone https://github.com/minetest-mods/$i; done;
 [ ! -d smartshop ] && wget https://github.com/AiTechEye/smartshop/archive/master.zip -O smartshop-master.zip && unzip smartshop-master.zip && rm smartshop-master.zip && mv smartshop-master smartshop
 [ ! -d aliveai ] && wget https://github.com/AiTechEye/aliveai/archive/master.zip -O aliveai-master.zip && unzip aliveai-master.zip && rm aliveai-master.zip
 mv aliveai-master/* . && rm -rf aliveai-master
