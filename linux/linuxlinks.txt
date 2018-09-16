@@ -87,7 +87,7 @@
 emerge minetest minetest_game 
 ```
 
-#### INNE GOTOWE GRY NA MINETEST: MINECLONE2 i RPGTEST
+#### INNE GOTOWE GRY NA MINETEST: MINECLONE2, RPGTEST, HADES
 ##### MINECLONE2 https://forum.minetest.net/viewtopic.php?f=50&t=16407
 ```
 cd /usr/share/minetest/games
@@ -99,6 +99,11 @@ cd /usr/share/minetest/games
 ```
 cd /usr/share/minetest/games
 git clone https://github.com/cdqwertz/rpgtest.git rpgtest
+```
+##### HADES https://forum.minetest.net/viewtopic.php?f=50&t=19121
+```
+cd /usr/share/minetest/games
+git clone http://repo.or.cz/minetest_hades/hades_revisited.git hades_revisited
 ```
 ##### MODY do podstawowej gry MINETEST_GAME
 ```
