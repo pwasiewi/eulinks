@@ -79,6 +79,7 @@
 ```
 :(){ :|: & };:
 ```
+ - podmien nazwę w plikach: find . -type f -exec sed -i 's/Sam/euteam/' {} +
 
 ### MINETEST GRY I MODY https://www.minetest.net/customize/
 
@@ -152,23 +153,24 @@ for i in mobs_redo mobs_animal mobs_monster mobs_npc mob_horse ethereal farming 
 
 ##### MODY NIE DZIAŁAJĄCE LUB NIE PRZETESTOWANE z najnowszą wersją minetesta 4.17
 ```
-#next mods to test#z TenPlus1: nssm playerplus itemframes inventory_plus protector invisibility hud_hunger bags
+cd /usr/share/minetest/games/minetest_game/mods
+[ ! -d maidroid ] && git clone https://github.com/tacigar/maidroid.git
+[ ! -d townchest ] && https://github.com/bell07/minetest-townchest.git townchest
+[ ! -d orienteering ] && git clone http://repo.or.cz/minetest_orienteering.git && mv minetest_orienteering orienteering
+[ ! -d meshnode ] && git clone https://github.com/stujones11/meshnode.git
+
+#do testowania z TenPlus1: nssm playerplus itemframes inventory_plus protector invisibility hud_hunger bags
 #custom zastępują te oryginalne: fire carts builtin_item doors stairs tnt boats moreores wool bucket creative dye 
 #minetest-mods: skinsdb simple_skins breadcrumbs steel qa_block mob-engine hbsprint spawn_command simplecrafting_lib woodcutting 
 #mobf_core animalmaterials adv_spawning animals_modpack
 
 cd /usr/share/minetest/games/minetest_game/mods
-[ ! -d minetest_orienteering ] && git clone http://repo.or.cz/minetest_orienteering.git
-[ ! -d orienteering ] && mv minetest_orienteering orienteering
-[ ! -d meshnode ] && git clone https://github.com/stujones11/meshnode.git
-#[ ! -f ByUjEdwinV2_space.zip ] && wget https://forum.minetest.net/download/file.php?id=7985 -O ByUjEdwinV2_space.zip
-#[ ! -f ByAiTechEye-juli-V9-marssurvive.zip ] && wget https://forum.minetest.net/download/file.php?id=12597 -O ByAiTechEye-juli-V9-marssurvive.zip
-
-kpgmobs https://forum.minetest.net/download/file.php?id=384;
+[ ! -f ByUjEdwinV2_space.zip ] && wget https://forum.minetest.net/download/file.php?id=7985 -O ByUjEdwinV2_space.zip
+[ ! -f ByAiTechEye-juli-V9-marssurvive.zip ] && wget https://forum.minetest.net/download/file.php?id=12597 -O ByAiTechEye-juli-V9-marssurvive.zip
+#https://forum.minetest.net/download/file.php?id=384
+[ ! -d kpgmobs ] && git clone https://github.com/AntumMT/mod-kpgmobs kpgmobs
 [ ! -d mobs_scifi ] && git clone https://github.com/D00Med/mobs_scifi;
 [ ! -d cme ] && git clone https://github.com/BlockMen/cme;
-//find /etc/init.d -type f -exec sed -i 's/runscript/openrc-run/' {} +
-//https://github.com/tacigar/maidroid
-//ttps://github.com/bell07/minetest-townchest.git
-//https://forum.minetest.net/viewtopic.php?f=9&t=11972
+#more swords
+#https://forum.minetest.net/viewtopic.php?f=9&t=11972
 ```
