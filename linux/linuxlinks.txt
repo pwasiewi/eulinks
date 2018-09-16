@@ -105,7 +105,23 @@ git clone https://github.com/cdqwertz/rpgtest.git rpgtest
 cd /usr/share/minetest/games
 git clone http://repo.or.cz/minetest_hades/hades_revisited.git hades_revisited
 ```
-##### MODY do podstawowej gry MINETEST_GAME
+##### MOD ALIVEAI botów agentów do podstawowej gry MINETEST_GAME
+```
+cd /usr/share/minetest/games/minetest_game/mods
+#aliveai depends on technic, 3d_armor, mesecons and smartshop
+[ ! -d 3d_armor ] && wget  https://github.com/stujones11/minetest-3d_armor/archive/master.zip -O 3d_armor-master.zip && unzip 3d_armor-master.zip && rm 3d_armor-master.zip && mv minetest-3d_armor-master 3d_armor
+# można tez z: git clone https://github.com/stujones11/minetest-3d_armor 3d_armor
+[ ! -d technic ] && wget  https://github.com/minetest-mods/technic/archive/master.zip -O technic-master.zip && unzip technic-master.zip && rm technic-master.zip && mv technic-master technic
+[ ! -d mesecons ] && wget https://github.com/minetest-mods/mesecons/archive/master.zip -O mesecons-master.zip && unzip mesecons-master.zip && rm mesecons-master.zip && mv mesecons-master mesecons
+[ ! -d smartshop ] && wget https://github.com/AiTechEye/smartshop/archive/master.zip -O smartshop-master.zip && unzip smartshop-master.zip && rm smartshop-master.zip && mv smartshop-master smartshop
+[ ! -d aliveai ] && wget https://github.com/AiTechEye/aliveai/archive/master.zip -O aliveai-master.zip && unzip aliveai-master.zip && rm aliveai-master.zip
+mv aliveai-master/* . && rm -rf aliveai-master
+sed -i 's/status=false/status=true/g' aliveai/init.lua 
+sed -i 's/Sam/euteam/g' aliveai/init.lua 
+#http://ix.io/zzV - konfiguracja botów dla poprzednich wersji - teraz już są skongfigurowane
+#stworzyć świat np. flat z ziarnem 5tg4t54tg54
+```
+##### POPULARNE MODY do podstawowej gry MINETEST_GAME (czasami nawzajem się wykluczają, trzeba testować)
 ```
 cd /usr/share/minetest/games/minetest_game/mods
 #more blocks there
@@ -139,18 +155,7 @@ for i in dynamic_liquid signs_lib jumping frozenenergy subspacewalker nightandda
 #minetest-mods: skinsdb simple_skins breadcrumbs steel qa_block mob-engine hbsprint spawn_command simplecrafting_lib woodcutting 
 #mobf_core animalmaterials adv_spawning animals_modpack
 
-cd /usr/share/minetest/games/minetest_game/mods
-#aliveai depends on mesecons and smartshop
-[ ! -d technic ] && wget  https://github.com/minetest-mods/technic/archive/master.zip -O technic-master.zip && unzip technic-master.zip && rm technic-master.zip && mv technic-master technic
-[ ! -f mesecons.zip ] && wget https://github.com/minetest-mods/mesecons/archive/master.zip -O mesecons-master.zip && unzip mesecons-master.zip && rm mesecons-master.zip && mv mesecons-master mesecons
-[ ! -f smartshop.zip ] && wget https://github.com/AiTechEye/smartshop/archive/master.zip -O smartshop-master.zip && unzip smartshop-master.zip && rm smartshop-master.zip && mv smartshop-master smartshop
-[ ! -f aliveai-master.zip ] && wget https://github.com/AiTechEye/aliveai/archive/master.zip -O aliveai-master.zip && unzip aliveai-master.zip && rm aliveai-master.zip
-mv aliveai-master/* . && rm -rf aliveai-master
-sed -i 's/status=false/status=true/g' aliveai/init.lua 
-sed -i 's/Sam/euteam/g' aliveai/init.lua 
-curl http://ix.io/zzV > aliveai_folk/init.lua
-#stworzyć świat flat z ziarnem 5tg4t54tg54
-minetest
+
 
 cd /usr/share/minetest/games/minetest_game/mods
 [ ! -d minetest_orienteering ] && git clone http://repo.or.cz/minetest_orienteering.git
