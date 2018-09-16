@@ -126,9 +126,13 @@ cd /usr/share/minetest/games/minetest_game/mods
 
 cd /usr/share/minetest/games/minetest_game/mods
 #https://forum.minetest.net/viewtopic.php?t=9917
-for i in mobs_redo mobs_animal mobs_monster mobs_npc mob_horse; do [ ! -d $i ] && git clone https://notabug.org/TenPlus1/$i; done;
+#ethereal does not work in v6
+for i in mobs_redo mobs_animal mobs_monster mobs_npc mob_horse ethereal farming lucky_block pigiron ambience real_torch; do [ ! -d $i ] && git clone https://notabug.org/TenPlus1/$i; done;
+
 
 #next mods to test
+#z kilku źródeł: nssm
+#custom zastępują te oryginalne: fire carts builtin_item stamina
 #mobf_core animalmaterials adv_spawning animals_modpack
 
 cd /usr/share/minetest/games/minetest_game/mods
