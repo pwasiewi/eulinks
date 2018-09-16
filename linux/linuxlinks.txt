@@ -109,17 +109,24 @@ git clone http://repo.or.cz/minetest_hades/hades_revisited.git hades_revisited
 ```
 cd /usr/share/minetest/games/minetest_game/mods
 #more blocks there
-for i in biome_lib crops moreblocks moreores moretrees lightning torches plantlife_modpack more_chests round_trunks biome_lib unifieddyes unifiedbricks unified_inventory orbs_of_time gloopblocks towercrane maptools mapfix technic mesecons MoreMesecons xdecor; do [ ! -d $i ] && git clone https://github.com/minetest-mods/$i; done;
-for i in blox BobBlocks drawers playeranim steel digilines wielded_light digtron smartfs throwing_arrows throwing character_creator pipeworks nether ts_furniture item_drop intllib prefab towercrane homedecor_modpack currency craftguide ccompass mychisel mymillwork mydoors subterrane woodcutting pontoons hopper ropes airtanks; do [ ! -d $i ] && git clone https://github.com/minetest-mods/$i; done;
+for i in biome_lib crops moreblocks moreores moretrees lightning torches plantlife_modpack more_chests round_trunks biome_lib unifieddyes unifiedbricks unified_inventory gloopblocks towercrane maptools mapfix technic mesecons MoreMesecons xdecor; do [ ! -d $i ] && git clone https://github.com/minetest-mods/$i; done;
+for i in blox BobBlocks drawers playeranim digilines wielded_light digtron smartfs throwing_arrows throwing character_creator pipeworks nether ts_furniture item_drop intllib prefab towercrane homedecor_modpack currency craftguide ccompass mychisel mymillwork mydoors subterrane woodcutting pontoons hopper airtanks; do [ ! -d $i ] && git clone https://github.com/minetest-mods/$i; done;
+for i in dynamic_liquid signs_lib; do [ ! -d $i ] && git clone https://github.com/minetest-mods/$i; done;
+
 cd /usr/share/minetest/games/minetest_game/mods
 for i in castle; do [ ! -d $i ] && git clone https://github.com/minetest-mods/$i; done;
 # cd castle
-for i in anvil castle_farming castle_gates castle_lighting castle_masonry castle_shields castle_storage castle_tapestries castle_weapons crafting_bench orbs_of_time ropes; do git clone https://github.com/minetest-mods/$i; done
+# for i in anvil castle_farming castle_gates castle_lighting castle_masonry castle_shields castle_storage castle_tapestries castle_weapons crafting_bench orbs_of_time ropes; do git clone https://github.com/minetest-mods/$i; done
 
 cd /usr/share/minetest/games/minetest_game/mods
 [ ! -d worldedit ] && git clone https://github.com/Uberi/Minetest-WorldEdit.git; 
 [ -d Minetest-WorldEdit ] && mv Minetest-WorldEdit worldedit;
 
+
+cd /usr/share/minetest/games/minetest_game/mods
+#https://forum.minetest.net/viewtopic.php?t=9917
+#ethereal does not work in v6
+for i in mobs_redo mobs_animal mobs_monster mobs_npc mob_horse ethereal farming lucky_block pigiron ambience real_torch bows pova pbj_pup cblocks teleport_potion pie  wine hopper bonemeal bakedclay money lapis signs_lib season falling_item stamina; do [ ! -d $i ] && git clone https://notabug.org/TenPlus1/$i; done;
 
 # TE NIŻEJ JUŻ NIE DZIAŁAJĄ LUB NIE PRZETESTOWANE z najnowszą wersją minetesta 4.17
 
@@ -129,10 +136,9 @@ cd /usr/share/minetest/games/minetest_game/mods
 for i in mobs_redo mobs_animal mobs_monster mobs_npc mob_horse ethereal farming lucky_block pigiron ambience real_torch bows pova pbj_pup cblocks teleport_potion pie  wine hopper bonemeal bakedclay money lapis signs_lib season falling_item stamina; do [ ! -d $i ] && git clone https://notabug.org/TenPlus1/$i; done;
 
 
-#next mods to test
-#z TenPlus1: nssm playerplus itemframes inventory_plus protector invisibility hud_hunger bags
+#next mods to test#z TenPlus1: nssm playerplus itemframes inventory_plus protector invisibility hud_hunger bags
 #custom zastępują te oryginalne: fire carts builtin_item doors stairs tnt boats moreores wool bucket creative dye 
-#minetest-mods: skinsdb simple_skins breadcrumbs 
+#minetest-mods: skinsdb simple_skins breadcrumbs steel qa_block
 #mobf_core animalmaterials adv_spawning animals_modpack
 
 cd /usr/share/minetest/games/minetest_game/mods
