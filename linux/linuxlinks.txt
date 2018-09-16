@@ -56,25 +56,9 @@
  - http://www.minetest.net/
  - http://wiki.minetest.net/List_of_Subgames
  - http://uberi.mesecons.net/
- - http://wiki.minetest.net/Mods/basic_robot
  - http://www.makeagamefree.com/
 
-### MINETEST INTERNALS
- - http://wiki.minetest.net/Server_commands
- - http://wiki.minetest.net/Main_Page
- - http://dev.minetest.net/Global_Minetest_object
- - http://dev.minetest.net/Intro
- - http://home.metrocast.net/~minetestmoddingtutorial/beginnerEN.html
- - http://rubenwardy.com/minetest_modding_book/index.html
- - http://sfan5.duckdns.org/minetest-modding-tutorial/html/englishEN.html
- - http://wiki.minetest.net/Using_Blender
- - https://www.tutorialspoint.com/lua/index.htm
- - https://www.lua.org/manual/5.3/
-
-### Minetest wybrane mods
- - https://wiki.minetest.net/Mods/basic_robot
-
-### Tricks
+### Linux Tricks
  - bash copies itself
 ```
 :(){ :|: & };:
@@ -121,8 +105,8 @@ cd /usr/share/minetest/games/minetest_game/mods
 mv aliveai-master/* . && rm -rf aliveai-master
 sed -i 's/status=false/status=true/g' aliveai/init.lua 
 sed -i 's/Sam/euteam/g' aliveai/init.lua 
-#http://ix.io/zzV - konfiguracja botów dla poprzednich wersji - teraz już są skonfigurowane
-#stworzyć świat np. flat z ziarnem 5tg4t54tg54
+# http://ix.io/zzV - konfiguracja botów dla poprzednich wersji - teraz już są skonfigurowane
+# stworzyć świat np. flat z ziarnem 5tg4t54tg54
 ```
 ##### MOD WORLDEDIT - generowanie prostych figur 3d z dowolnych klocków https://forum.minetest.net/viewtopic.php?t=572
 ```
@@ -146,8 +130,8 @@ for i in framedglass drinks sling mymonths warps cake droplift flowerpot quartz 
 for i in dynamic_liquid signs_lib jumping frozenenergy subspacewalker nightandday plantlife_modpack carpets mylandscaping mtg_i18n mg; do [ ! -d $i ] && git clone https://github.com/minetest-mods/$i; done;
 
 cd /usr/share/minetest/games/minetest_game/mods
-#https://forum.minetest.net/viewtopic.php?t=9917
-#ethereal does not work in v6
+# https://forum.minetest.net/viewtopic.php?t=9917
+# ethereal does not work in v6
 for i in mobs_redo mobs_animal mobs_monster mobs_npc mob_horse ethereal farming lucky_block pigiron ambience real_torch bows pova pbj_pup cblocks teleport_potion pie  wine hopper bonemeal bakedclay money lapis signs_lib season falling_item stamina; do [ ! -d $i ] && git clone https://notabug.org/TenPlus1/$i; done;
 ```
 
@@ -159,18 +143,30 @@ cd /usr/share/minetest/games/minetest_game/mods
 [ ! -d orienteering ] && git clone http://repo.or.cz/minetest_orienteering.git && mv minetest_orienteering orienteering
 [ ! -d meshnode ] && git clone https://github.com/stujones11/meshnode.git
 
-#do testowania z TenPlus1: nssm playerplus itemframes inventory_plus protector invisibility hud_hunger bags
-#custom zastępują te oryginalne: fire carts builtin_item doors stairs tnt boats moreores wool bucket creative dye 
-#minetest-mods: skinsdb simple_skins breadcrumbs steel qa_block mob-engine hbsprint spawn_command simplecrafting_lib woodcutting 
-#mobf_core animalmaterials adv_spawning animals_modpack
+# do testowania z TenPlus1: nssm playerplus itemframes inventory_plus protector invisibility hud_hunger bags
+# custom zastępują te oryginalne: fire carts builtin_item doors stairs tnt boats moreores wool bucket creative dye 
+# minetest-mods: skinsdb simple_skins breadcrumbs steel qa_block mob-engine hbsprint spawn_command simplecrafting_lib woodcutting 
+# mobf_core animalmaterials adv_spawning animals_modpack
 
 cd /usr/share/minetest/games/minetest_game/mods
 [ ! -f ByUjEdwinV2_space.zip ] && wget https://forum.minetest.net/download/file.php?id=7985 -O ByUjEdwinV2_space.zip
 [ ! -f ByAiTechEye-juli-V9-marssurvive.zip ] && wget https://forum.minetest.net/download/file.php?id=12597 -O ByAiTechEye-juli-V9-marssurvive.zip
-#https://forum.minetest.net/download/file.php?id=384
+# https://forum.minetest.net/download/file.php?id=384
 [ ! -d kpgmobs ] && git clone https://github.com/AntumMT/mod-kpgmobs kpgmobs
 [ ! -d mobs_scifi ] && git clone https://github.com/D00Med/mobs_scifi;
 [ ! -d cme ] && git clone https://github.com/BlockMen/cme;
-#more swords
-#https://forum.minetest.net/viewtopic.php?f=9&t=11972
+# more swords
+# https://forum.minetest.net/viewtopic.php?f=9&t=11972
+# https://wiki.minetest.net/Mods/basic_robot
 ```
+##### MINETEST INTERNALS
+ - http://wiki.minetest.net/Server_commands
+ - http://wiki.minetest.net/Main_Page
+ - http://dev.minetest.net/Global_Minetest_object
+ - http://dev.minetest.net/Intro
+ - http://home.metrocast.net/~minetestmoddingtutorial/beginnerEN.html
+ - http://rubenwardy.com/minetest_modding_book/index.html
+ - http://sfan5.duckdns.org/minetest-modding-tutorial/html/englishEN.html
+ - http://wiki.minetest.net/Using_Blender
+ - https://www.tutorialspoint.com/lua/index.htm
+ - https://www.lua.org/manual/5.3/
