@@ -112,6 +112,8 @@ cd /usr/share/minetest/games/minetest_game/mods
 for i in biome_lib crops moreblocks moreores moretrees lightning torches plantlife_modpack more_chests round_trunks biome_lib unifieddyes unifiedbricks unified_inventory gloopblocks towercrane maptools mapfix technic mesecons MoreMesecons xdecor; do [ ! -d $i ] && git clone https://github.com/minetest-mods/$i; done;
 for i in blox BobBlocks drawers playeranim digilines wielded_light digtron smartfs throwing_arrows throwing character_creator pipeworks nether ts_furniture item_drop intllib prefab towercrane homedecor_modpack currency craftguide ccompass mychisel mymillwork mydoors subterrane woodcutting pontoons hopper airtanks; do [ ! -d $i ] && git clone https://github.com/minetest-mods/$i; done;
 
+for i in framedglass drinks sling mymonths warps cake droplift flowerpot quartz ts_doors more_chests workbench ilights worldedge myroofs mylights crafting_bench chat2 coloredwood trash_can ts_paper camera loot mydeck enchanting tnt_extras painting jump mysoundblocks mymulch round_trunks sedimentology mywoodslopes turtle ts_workshop; do [ ! -d $i ] && git clone https://github.com/minetest-mods/$i; done;
+
 cd /usr/share/minetest/games/minetest_game/mods
 for i in castle; do [ ! -d $i ] && git clone https://github.com/minetest-mods/$i; done;
 # cd castle
@@ -126,12 +128,11 @@ cd /usr/share/minetest/games/minetest_game/mods
 #ethereal does not work in v6
 for i in mobs_redo mobs_animal mobs_monster mobs_npc mob_horse ethereal farming lucky_block pigiron ambience real_torch bows pova pbj_pup cblocks teleport_potion pie  wine hopper bonemeal bakedclay money lapis signs_lib season falling_item stamina; do [ ! -d $i ] && git clone https://notabug.org/TenPlus1/$i; done;
 for i in dynamic_liquid signs_lib jumping frozenenergy subspacewalker nightandday plantlife_modpack carpets mylandscaping mtg_i18n mg; do [ ! -d $i ] && git clone https://github.com/minetest-mods/$i; done;
-
 ```
 
 ##### MODY NIE DZIAŁAJĄCE LUB NIE PRZETESTOWANE z najnowszą wersją minetesta 4.17
 ```
-for i in framedglass drinks sling mymonths warps cake droplift flowerpot quartz ts_doors more_chests workbench ilights worldedge myroofs mylights crafting_bench chat2 coloredwood trash_can ts_paper camera loot mydeck enchanting tnt_extras painting jump mysoundblocks mymulch round_trunks sedimentology mywoodslopes turtle ts_workshop; do [ ! -d $i ] && git clone https://github.com/minetest-mods/$i; done;
+
 
 #next mods to test#z TenPlus1: nssm playerplus itemframes inventory_plus protector invisibility hud_hunger bags
 #custom zastępują te oryginalne: fire carts builtin_item doors stairs tnt boats moreores wool bucket creative dye 
