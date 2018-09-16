@@ -100,6 +100,7 @@ cd /usr/share/minetest/games/minetest_game/mods
 # można tez z: git clone https://github.com/stujones11/minetest-3d_armor 3d_armor
 for i in moreblocks moreores pipeworks mesecons technic; do [ ! -d $i ] && git clone https://github.com/minetest-mods/$i; done;
 for i in smartshop aliveai; do [ ! -d $i ] && git clone https://github.com/AiTechEye/$i; done;
+mv aliveai alive && mv alive/* . && rm -rf alive
 sed -i 's/status=false/status=true/g' aliveai/init.lua 
 sed -i 's/Sam/euteam/g' aliveai/init.lua 
 # http://ix.io/zzV - konfiguracja botów dla poprzednich wersji - teraz już są skonfigurowane
