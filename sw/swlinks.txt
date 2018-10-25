@@ -10,6 +10,7 @@
 ## Kursy
  - http://mikrokontroler.pl/kursy/
  - https://forbot.pl/blog/kursy
+ - https://www.elektormagazine.com/labs?tags=&q=&state%5B%5D=3
  
 ## Inteligentny dom
  - https://www.openhab.org/
