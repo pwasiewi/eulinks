@@ -19,6 +19,9 @@ obce, sprawdzić czy rozkład do postaci trzeciej normalnej jest optymalny np.
 analizę kolejnych kroków projektowania schematu relacyjnego bazy.
 ```
 
+### Bazy danych ranking
+ - https://db-engines.com/en/ranking
+
 ### PostgreSQL:
  - https://pgmodeler.io
  * http://blog.endpoint.com/2014/04/speeding-up-saving-millions-of-orm.html
