@@ -6,7 +6,6 @@
  * http://freescienceonline.blogspot.com/2008/03/more-computing-video-lecture-courses.html
  * http://videolectures.net
  * http://www.refseek.com/directory/educational_videos.html
-
  * http://en.wikipedia.org/wiki/Comparison_of_relational_database_management_systems
 
 ```
