@@ -1,6 +1,9 @@
 :cloud:
 ### Kursy sieciowe 
  - https://www.cybrary.it/
+ 
+### Bazy danych dla dockerów
+ - https://blog.yugabyte.com/docker-kubernetes-and-the-rise-of-cloud-native-databases/
 
 ### kontenery i inne
  - https://insights.ubuntu.com/2016/08/15/lunch-learn-with-openstack-containers
