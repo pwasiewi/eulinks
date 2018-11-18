@@ -37,7 +37,8 @@
 
 ### Wirtualizacja - instalacja VirtualBoxa
  * http://www.altcontroldelete.pl/artykuly/virtualbox-tutorial-tworzenie-konfiguracja-i-uzytkowanie-maszyn-wirtualnych/
-Wirtualizacja - instalacja linuxa na Virtualboxie:
+ 
+##### Wirtualizacja - instalacja linuxa na Virtualboxie:
  * http://darkend.pl/blog/?p=81
  * http://it-world.pl/2012/07/instalacja-linuxa-na-virtualbox/
  * http://bethesignal.org/blog/2011/01/05/how-to-mount-virtualbox-vdi-image/
@@ -323,6 +324,12 @@ wewnętrznych ebuildów:
  * http://gpo.zugaina.org/x11-libs/libSM
  * http://gentoobrowse.randomdan.homeip.net/package/x11-libs/libSM
  * https://bugs.gentoo.org/show_bug.cgi?id=487132
+
+### Boot UEFI
+ - https://wiki.gentoo.org/wiki/UEFI_Dual_boot_with_Windows_7/8
+ - https://wiki.gentoo.org/wiki/LiveUSB
+ - https://wiki.archlinux.org/index.php/Multiboot_USB_drive
+ - https://wiki.gentoo.org/wiki/GRUB2#UEFI_with_GPT
 
 ### ebuild
  * http://devmanual.gentoo.org/eclass-reference/git-2.eclass/index.html
