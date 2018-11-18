@@ -9,10 +9,11 @@
  - https://www.androidbrick.com/unbrick-recover-your-dead-lg-g3-g2-all-variants/
  - https://forum.xda-developers.com/lg-g3/help/lg-g3-unbricking-steps-clarification-t3119844
  
-### telefony z licznymi androidami z xda (do 400zł w promocji)
+### wybrane telefony z androidami z xda (jest ich więcej ;) )
  - https://forum.xda-developers.com/le-2/development/tool-tool-one-driversunlocktwrpfactory-t3669432
  - https://androidfilehost.com/?w=developers&did=1205&page=2
  - https://forum.xda-developers.com/le-2/development/tools-unbrick-thread-leeco-le-2-x52x-t3634609
+ - https://forum.xda-developers.com/lg-v30/how-to/wtf-lg-v30-t3790500
  
 # SOFTWARE
 ### GOOGLE CODELABS
