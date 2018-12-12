@@ -2,6 +2,9 @@
  - https://elinux.org/RPi_Hub
  - https://elinux.org/RPi_Distributions
 
+### Kurs zaawansowany za darmo
+ - https://forbot.pl/blog/kurs-raspberry-pi-projekty-wstep-spis-tresci-id27419
+ 
 ### skrośna kompilacja: qemu, gentoo itd.
  - https://wiki.gentoo.org/wiki/Embedded_Handbook/General/Compiling_with_qemu_user_chroot
  - [gcc cflags for raspberry123](https://gist.github.com/fm4dd/c663217935dc17f0fc73c9c81b0aa845)
