@@ -1,23 +1,15 @@
-# HARDWARE 
-### naprawa android soft LG G3 hard brick
- - http://forum.gsmhosting.com/vbb/f494/how-hard-unbricked-lg-g3-all-variants-fix-qhsusb-bulk-_-qualcomm-9008-a-2029025/
- - https://forum.xda-developers.com/lg-g3/help/lg-g3-bricked-load-qualcomm-9008-driver-t3601333
- - https://forum.xda-developers.com/showthread.php?t=2785089
- - https://forum.xda-developers.com/lg-g3/general/guide-how-to-install-lineag-os-t3558777
- - http://storagecow.eu/
- - https://www.youtube.com/watch?v=7N4t55LmGk0
- - https://www.androidbrick.com/unbrick-recover-your-dead-lg-g3-g2-all-variants/
- - https://forum.xda-developers.com/lg-g3/help/lg-g3-unbricking-steps-clarification-t3119844
- 
-### wybrane telefony z androidami z xda (jest ich więcej ;) )
- - https://forum.xda-developers.com/le-2/development/tool-tool-one-driversunlocktwrpfactory-t3669432
- - https://androidfilehost.com/?w=developers&did=1205&page=2
- - https://forum.xda-developers.com/le-2/development/tools-unbrick-thread-leeco-le-2-x52x-t3634609
- - https://forum.xda-developers.com/lg-v30/how-to/wtf-lg-v30-t3790500
- 
 # SOFTWARE
 ### GOOGLE CODELABS
  - https://g.co/codelabs
+
+### RXAndroid RXJAVA
+ - https://github.com/eugenp/tutorials/tree/master/rxjava
+ - https://www.baeldung.com/rx-java
+ - https://javastart.pl/b/java/rxjava-wprowadzenie/
+ - https://proandroiddev.com/modern-android-development-with-kotlin-part-3-8721fb843d1b
+ - https://github.com/klnusbaum/rxandroidexamples
+ - https://medium.com/@kurtisnusbaum/rxandroid-basics-part-1-c0d5edcf6850
+ 
 
 # Kotlin 
 
@@ -226,6 +218,23 @@
  - https://github.com/cping/LGame
  - https://github.com/Rajawali/Rajawali
  - https://github.com/portmobile/LAGP-Example-Code
+
+# HARDWARE 
+### naprawa android soft LG G3 hard brick
+ - http://forum.gsmhosting.com/vbb/f494/how-hard-unbricked-lg-g3-all-variants-fix-qhsusb-bulk-_-qualcomm-9008-a-2029025/
+ - https://forum.xda-developers.com/lg-g3/help/lg-g3-bricked-load-qualcomm-9008-driver-t3601333
+ - https://forum.xda-developers.com/showthread.php?t=2785089
+ - https://forum.xda-developers.com/lg-g3/general/guide-how-to-install-lineag-os-t3558777
+ - http://storagecow.eu/
+ - https://www.youtube.com/watch?v=7N4t55LmGk0
+ - https://www.androidbrick.com/unbrick-recover-your-dead-lg-g3-g2-all-variants/
+ - https://forum.xda-developers.com/lg-g3/help/lg-g3-unbricking-steps-clarification-t3119844
+ 
+### wybrane telefony z androidami z xda (jest ich więcej ;) )
+ - https://forum.xda-developers.com/le-2/development/tool-tool-one-driversunlocktwrpfactory-t3669432
+ - https://androidfilehost.com/?w=developers&did=1205&page=2
+ - https://forum.xda-developers.com/le-2/development/tools-unbrick-thread-leeco-le-2-x52x-t3634609
+ - https://forum.xda-developers.com/lg-v30/how-to/wtf-lg-v30-t3790500
 
 ### LIBGDX
 #### libgdx kurs po polsku - kółko i krzyżyk -
