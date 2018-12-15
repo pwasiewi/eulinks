@@ -46,6 +46,11 @@ preferencji.
  * http://www.opendatastructures.org/
  * http://www.mindviewinc.com/Books/
 
+### RXJAVA
+ - https://github.com/eugenp/tutorials/tree/master/rxjava
+ - https://www.baeldung.com/rx-java
+
+
 ### Wzorce projektowe (design patterns) Java
  * http://www.tutorialspoint.com/design_pattern/
  * http://en.wikipedia.org/wiki/Software_design_pattern
@@ -73,7 +78,7 @@ preferencji.
  * http://matt.might.net/articles/learning-scala-in-small-bites/
  * https://twitter.github.io/effectivescala/
  * http://scala-ide.org/docs/current-user-doc/gettingstarted/index.html
- * 
+ 
 
 ### JAVA
  * http://pl.wikipedia.org/wiki/Java
