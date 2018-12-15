@@ -1,4 +1,5 @@
 ## Darmowe wykłady i serwisy z odpowiedziami
+ - https://gist.github.com/augbog/d65f6600188fece854cb341734c5fd12
  * http://www.udacity.com/
  * https://education.10gen.com
  * http://www.uw-team.org/videoarty.html
