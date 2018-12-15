@@ -49,6 +49,8 @@ preferencji.
 ### RXJAVA
  - https://github.com/eugenp/tutorials/tree/master/rxjava
  - https://www.baeldung.com/rx-java
+ - https://github.com/Froussios/Intro-To-RxJava
+ - https://javastart.pl/b/java/rxjava-wprowadzenie/
 
 
 ### Wzorce projektowe (design patterns) Java
