@@ -25,6 +25,7 @@
  - https://www.slideshare.net/elizarov/deep-dive-into-coroutines-on-jvm-kotlinconf-2017
  - https://www.slideshare.net/elizarov/kotlin-coroutines-in-practice-kotlinconf-2018
  - https://proandroiddev.com/kotlin-coroutines-vs-rxjava-an-initial-performance-test-68160cfc6723
+ - https://github.com/elizarov/CoroutinesWorkshop
 
 #### Anko Android
  - https://github.com/kotlin/anko-example
@@ -69,7 +70,9 @@
  - http://nilhcem.com/swift-is-like-kotlin/
  - [Blog książki o Kotlin w Android](https://antonioleiva.com/category/blog/)
  - https://blog.jetbrains.com/kotlin/
-
+ - https://github.com/dbacinski/Design-Patterns-In-Kotlin
+ - https://proandroiddev.com/kotlin-design-patterns-8e152540ee2c
+ - https://blog.kotlin-academy.com/a-few-facts-about-companion-objects-37e18429b725
 
 #### Kotlin and libraries
  - http://docs.paralleluniverse.co/quasar/
