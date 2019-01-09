@@ -12,6 +12,7 @@
  - https://github.com/Tencent/ncnn
  - https://developer.qualcomm.com/blog/matrix-multiply-adreno-gpus-part-1-opencl-optimization
  - https://developer.qualcomm.com/blog/better-opencl-performance-qualcomm-adreno-gpu-memory-optimization
+ - https://www.csdn.net/article/a/2016-10-25/15841503
 
 ### OpenCL sites
  * https://hgpu.org/?tag=opencl
