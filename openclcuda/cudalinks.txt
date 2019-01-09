@@ -8,6 +8,8 @@
  - https://developer.arm.com/technologies/compute-library
  - https://github.com/arm-software/armnn
  - https://developer.qualcomm.com/software/qualcomm-neural-processing-sdk
+ - https://github.com/Tencent/ncnn
+ - https://github.com/Tencent/ncnn
 
 ### OpenCL sites
  * https://hgpu.org/?tag=opencl
