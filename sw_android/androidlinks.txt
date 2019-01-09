@@ -15,6 +15,7 @@
 # Kotlin 
 
 #### Kotlin coroutines
+ - https://geek.justjoin.it/kotlin-coroutine-pewno-kolejny-krok-dla-programisty-rxjava/
  - https://github.com/Kotlin/kotlinx.coroutines
  - https://github.com/Kotlin/kotlinx.coroutines/blob/master/ui/coroutines-guide-ui.md
  - https://akarnokd.blogspot.ru/2017/09/rxjava-vs-kotlin-coroutines-quick-look.html
@@ -22,6 +23,8 @@
  - https://fr.slideshare.net/elizarov/introduction-to-coroutines-kotlinconf-2017
  - https://www.youtube.com/watch?v=YrrUCSi72E8
  - https://www.slideshare.net/elizarov/deep-dive-into-coroutines-on-jvm-kotlinconf-2017
+ - https://www.slideshare.net/elizarov/kotlin-coroutines-in-practice-kotlinconf-2018
+ - https://proandroiddev.com/kotlin-coroutines-vs-rxjava-an-initial-performance-test-68160cfc6723
 
 #### Anko Android
  - https://github.com/kotlin/anko-example
