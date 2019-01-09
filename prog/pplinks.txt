@@ -1,3 +1,7 @@
+# Indeks popularności języków
+ - https://www.tiobe.com/tiobe-index/
+
+
 ## Darmowe wykłady i serwisy z odpowiedziami
  - https://gist.github.com/augbog/d65f6600188fece854cb341734c5fd12
  * http://www.udacity.com/
