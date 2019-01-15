@@ -44,10 +44,11 @@
  - http://www.planetarduino.org/?cat=1855
  - http://makezine.com/projects/bricktronics-mini-tank/
 
-### Sztuczna Inteligencja na Arduino - Fuzzy Logic
+### Sztuczna Inteligencja na Arduino - Fuzzy Logic, uLisp
  - http://www.zerokol.com/2012/09/arduinofuzzy-fuzzy-library-for-arduino.html
  - https://github.com/zerokol/eFLL
  - https://gist.github.com/zerokol/4110773
+ - https://forbot.pl/blog/ulisp-interpretowany-jezyk-programowania-dla-arduino-id31999
  
 ### Różności 
  * https://playground.arduino.cc/Main/LibraryList
