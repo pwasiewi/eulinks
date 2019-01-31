@@ -33,6 +33,7 @@
  - https://medium.com/@v.souhrada/introduction-to-anko-for-android-part-1-6178d536cbe6
 
 #### Rxkotlin i inne
+ - https://badootech.badoo.com/building-a-system-of-reactive-components-with-kotlin-ff56981e92cf
  - https://erikcaffrey.github.io/ANDROID-kotlin-arch-components/
  - https://github.com/ReactiveX/RxKotlin
  - https://www.raywenderlich.com/170233/reactive-programming-rxandroid-kotlin-introduction
