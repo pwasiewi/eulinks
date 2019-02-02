@@ -21,6 +21,7 @@
  - https://www.pyimagesearch.com/2018/02/12/getting-started-with-the-intel-movidius-neural-compute-stick/
 
 ### hardware units for rpi
+ - https://nextcloud.com/devices/
  - https://medium.com/@soobrosa/deep-learning-on-the-edge-first-impressions-of-the-movidius-neural-compute-stick-7de09eeca2d6
  - http://www.spincraft.com/hackers/harmony-remote-hacking/
  
