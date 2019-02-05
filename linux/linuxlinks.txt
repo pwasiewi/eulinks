@@ -14,6 +14,9 @@
  - https://distrowatch.com/table.php?distribution=tinycore
  - https://distrowatch.com/weekly.php?issue=20170102#smallest
 
+## Hardware gadgets
+ - http://shop.gag.com/random/chaoskey.html
+
 ## Win10 Linux Subsystem
  - https://docs.microsoft.com/en-us/windows/wsl/install-win10
  - https://virtualizationreview.com/articles/2017/02/08/graphical-programs-on-windows-subsystem-on-linux.aspx
