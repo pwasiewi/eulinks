@@ -2,6 +2,8 @@
  * https://www.freerainbowtables.com/articles/introduction_to_rainbow_tables/ 
  * http://project-rainbowcrack.com/table.htm
 
+### Strony z kluczami two phase
+ - https://twofactorauth.org
 
 ### Yubikey a2f u2f
  - https://nelenkov.blogspot.com/2014/03/unlocking-android-using-otp.html
