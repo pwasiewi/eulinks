@@ -4,6 +4,7 @@
 
 ### Strony z kluczami two phase
  - https://twofactorauth.org
+ - https://www.dongleauth.info/dongles/
 
 ### Yubikey a2f u2f
  - https://nelenkov.blogspot.com/2014/03/unlocking-android-using-otp.html
