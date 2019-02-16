@@ -13,6 +13,10 @@
  - https://www.sabayon.org/
  - https://distrowatch.com/table.php?distribution=tinycore
  - https://distrowatch.com/weekly.php?issue=20170102#smallest
+ 
+## RISC-V
+ - https://riscv.org/software-status/#simulators
+ - https://bellard.org/tinyemu/
 
 ## Hardware gadgets
  - http://shop.gag.com/random/chaoskey.html
