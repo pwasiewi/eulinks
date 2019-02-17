@@ -5,6 +5,7 @@
  - https://www.elektroda.pl/
  - https://blog.hackster.io/
  - https://hackaday.io
+ - https://www.crowdsupply.com/sifive/hifive1/
  - https://wiki.odroid.com/start
  - https://wiki.gentoo.org/wiki/Orange_Pi_Plus2
  
