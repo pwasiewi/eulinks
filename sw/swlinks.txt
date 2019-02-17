@@ -2,10 +2,6 @@
  - https://ep.com.pl/artykuly/10809-Nie_samym_Raspberry_Pi_czlowiek_zyje.html
  - https://ep.com.pl/files/12158.pdf
  - https://wiki.gentoo.org/wiki/Embedded_systems/ARM_hardware_list
- - https://www.elektroda.pl/
- - https://blog.hackster.io/
- - https://hackaday.io
- - https://www.crowdsupply.com/sifive/hifive1/
  - https://wiki.odroid.com/start
  - https://wiki.gentoo.org/wiki/Orange_Pi_Plus2
  
@@ -13,9 +9,14 @@
  - http://mikrokontroler.pl/kursy/
  - https://forbot.pl/blog/kursy
  
-## Projekty
+## Projekty SW IoT
  - https://www.elektormagazine.com/labs?tags=&q=&state%5B%5D=3
  - https://www.crowdsupply.com/
+ - https://www.crowdsupply.com/sifive/hifive1/
+ - https://www.cnx-software.com/2018/11/12/c-sky-linux-development-board-gx6605s-media-soc/
+ - https://hackaday.io
+ - https://www.elektroda.pl/
+ - https://blog.hackster.io/
  
 ## Inteligentny dom
  - https://www.openhab.org/
