@@ -13,6 +13,7 @@
  - https://www.elektormagazine.com/labs?tags=&q=&state%5B%5D=3
  - https://www.crowdsupply.com/
  - https://www.crowdsupply.com/sifive/hifive1/
+ - https://www.cnx-software.com/
  - https://www.cnx-software.com/2018/11/12/c-sky-linux-development-board-gx6605s-media-soc/
  - https://hackaday.io
  - https://www.elektroda.pl/
