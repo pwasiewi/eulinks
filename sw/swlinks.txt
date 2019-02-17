@@ -10,6 +10,7 @@
  - https://forbot.pl/blog/kursy
  
 ## Projekty SW IoT
+ - https://www.elektormagazine.com/
  - https://www.elektormagazine.com/labs?tags=&q=&state%5B%5D=3
  - https://www.crowdsupply.com/
  - https://www.crowdsupply.com/sifive/hifive1/
