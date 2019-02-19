@@ -20,6 +20,8 @@
 ##### Books and tutors about R 
  - https://msperlin.github.io/pafdR/
  - http://prokulski.net/index.php/2017/08/30/jak-nauczyc-sie-r-co-czytac/
+ - https://awesome-r.com/
+ - https://github.com/rstudio-education/rstats-ed
 
 ##### Deep learning
  - http://www.deeplearningbook.org/
@@ -79,6 +81,15 @@
  - https://github.com/cdeterman/gpuR
  - [tensorflow in R](https://github.com/tensorflow/tensorflow/issues/387)
  - http://www.raetschlab.org/suppl/shogun/RExamples
+
+### Microsoft R Python ML
+ - https://github.com/Microsoft/Recommenders
+ - https://www.r-bloggers.com/k-means-clustering-on-big-data/
+ - https://docs.microsoft.com/en-us/machine-learning-server/r/sample-microsoftml
+ - https://docs.microsoft.com/en-us/machine-learning-server/r/concept-what-is-xdf
+ - https://tomaztsql.wordpress.com/2017/02/03/revoscaler-package-for-microsoft-r/
+ - https://blogs.msdn.microsoft.com/mlserver/2017/04/12/image-featurization-with-a-pre-trained-deep-neural-network-model/
+ - https://github.com/ksalama/sqlbits-2017
 
 ### Kursy
 ##### kurs maszynowego uczenia w Octave 
