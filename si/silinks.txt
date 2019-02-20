@@ -86,6 +86,7 @@
  - http://www.raetschlab.org/suppl/shogun/RExamples
 
 ### Microsoft R Python ML
+ - https://blogs.msdn.microsoft.com/mlserver/2018/07/26/dockerizing-r-and-python-web-services/
  - https://github.com/Microsoft/Recommenders
  - https://www.r-bloggers.com/k-means-clustering-on-big-data/
  - https://docs.microsoft.com/en-us/machine-learning-server/r/sample-microsoftml
