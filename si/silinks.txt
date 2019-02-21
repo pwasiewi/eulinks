@@ -96,7 +96,7 @@
  - https://blogs.msdn.microsoft.com/mlserver/2017/04/12/image-featurization-with-a-pre-trained-deep-neural-network-model/
  - https://github.com/ksalama/sqlbits-2017
  - https://packages.revolutionanalytics.com/datasets/
-
+ - https://msropendata.com/
 
 ### Kursy
 ##### kurs maszynowego uczenia w Octave 
