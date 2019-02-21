@@ -19,7 +19,10 @@
  - https://hackaday.io
  - https://www.elektroda.pl/
  - https://blog.hackster.io/
- 
+
+## Kickstarter
+ - https://www.kickstarter.com/projects/sphero/sphero-rvr-the-go-anywhere-do-anything-programmabl/
+
 ## Inteligentny dom
  - https://www.openhab.org/
  - https://www.supla.org/
