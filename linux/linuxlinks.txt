@@ -9,12 +9,13 @@
  * https://github.com/clearlinux-pkgs/glibc
  - https://alpinelinux.org/
  - http://minimal.idzona.com/
+ - https://distrowatch.com/table.php?distribution=tinycore
+ - https://distrowatch.com/weekly.php?issue=20170102#smallest
  * https://rancher.com/rancher-os/
  * https://vimeo.com/123035176
  * https://github.com/linuxkit/linuxkit
  - https://www.proxmox.com/en/
- - https://distrowatch.com/table.php?distribution=tinycore
- - https://distrowatch.com/weekly.php?issue=20170102#smallest
+
  
 ## RISC-V
  - https://riscv.org/software-status/#simulators
