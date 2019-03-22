@@ -1,5 +1,8 @@
 # OpenCL
 
+### Python
+ - https://prickly-pythons.github.io/python_code/pricklies_speedops.html
+
 ### Opencl machine learning
  * https://www.datacamp.com/community/tutorials/deep-learning-python
  * https://github.com/plaidml
