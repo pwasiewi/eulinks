@@ -5,6 +5,9 @@
  - https://medium.freecodecamp.org/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0
  - https://awesome-r.com/
  - https://github.com/rstudio-education/rstats-ed
+ - https://www.udacity.com/course/intro-to-machine-learning--ud120 
+ - https://github.com/antran89/ud120-projects 
+ - https://github.com/zfz/ud120 
 
 ### Online Books, helpful manuals
  - https://www.msperlin.com/pafdR/
@@ -94,8 +97,6 @@
  - https://codesachin.wordpress.com/2015/11/28/self-organizing-maps-with-googles-tensorflow/
  * [Tensorflow in R](https://tensorflow.rstudio.com/)
 
-
-
 ### Microsoft R Python ML
  - https://blogs.msdn.microsoft.com/mlserver/2018/07/26/dockerizing-r-and-python-web-services/
  - https://github.com/Microsoft/Recommenders
@@ -123,11 +124,6 @@
 - http://www.r-bloggers.com/regularization-implementation-in-r-bais-and-variance-diagnosis/
 - https://nsaunders.wordpress.com/2010/08/20/a-brief-introduction-to-apply-in-r/
 - https://github.com/eddelbuettel/rcppexamples
-
-##### machine learning in python 
-- https://www.udacity.com/course/intro-to-machine-learning--ud120 
-- https://github.com/antran89/ud120-projects 
-- https://github.com/zfz/ud120 
 
 ##### machine learning in R 
 - https://www.datacamp.com/courses?utm_source=machine_learning_post 
