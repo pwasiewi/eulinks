@@ -9,6 +9,7 @@
 ### Online Books, helpful manuals
  - https://www.msperlin.com/pafdR/
  - http://www.deeplearningbook.org/
+ - https://github.com/tomepel/Technical_Book_DL
  - https://a-little-book-of-r-for-biomedical-statistics.readthedocs.io/en/latest/
  - https://a-little-book-of-r-for-time-series.readthedocs.io/en/latest/
  - https://little-book-of-r-for-multivariate-analysis.readthedocs.io/en/latest/
@@ -27,7 +28,9 @@
  - http://juliandewit.github.io/kaggle-ndsb2017/
  - https://rpubs.com/chengjiun/52658
  - https://elitedatascience.com/imbalanced-classes
-  
+ - http://vknight.org/unpeudemath/python/2017/09/16/using-python-in-R-to-study-the-ipd.html
+ - http://hydroecology.net/fun-with-reticulate-salib/
+ 
  ##### IPython Jupyter case studies, tutors, tools
   - https://ipython-books.github.io/
   - https://github.com/odewahn/ipynb-examples
@@ -45,6 +48,7 @@
  - [The site with R tutorials for regression and svm - a free ebook about svm!](https://www.svm-tutorial.com/2014/10/support-vector-regression-r/)
  - [Visualization of the svm square kernel transformation](https://www.r-bloggers.com/learning-kernels-svm/)
  - http://www.r-bloggers.com/the-5th-tribe-support-vector-machines-and-caret/
+ - http://www.raetschlab.org/suppl/shogun/RExamples
 
 ##### Reinforcement and similar case studies
  - http://www.wildml.com/
@@ -53,6 +57,7 @@
  - http://www.wildml.com/2016/10/learning-reinforcement-learning/
  - https://cran.r-project.org/web/packages/ReinforcementLearning/vignettes/ReinforcementLearning.html
  - https://deepmind.com/blog/deepmind-and-blizzard-open-starcraft-ii-ai-research-environment/
+ - http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
 
 ##### Caret multiclassifier package
  - [Short intro to the classifier library wrapper caret](https://cran.r-project.org/web/packages/caret/vignettes/caret.html)
@@ -61,17 +66,13 @@
  - [Coursera video tutorial about the classifier library wrapper caret](https://www.coursera.org/learn/practical-machine-learning/lecture/Bu9ns/caret-package)
  - [Extremely interesting video tutorial about the classifier library wrapper caret](https://www.youtube.com/watch?v=7Jbb2ItbTC4)
 
-##### Basics of Tensorflow 
- - https://medium.com/@d3lm/understand-tensorflow-by-mimicking-its-api-from-scratch-faa55787170d
- - https://codesachin.wordpress.com/2015/11/28/self-organizing-maps-with-googles-tensorflow/
-  
 ##### Colabs of Deep & Machine Learning
  - https://colab.research.google.com/drive/11qBrQrqlVrUccuAsMSNyrCQ_voiybn9X#scrollTo=tmkJAibYCzJg (in Polish)
  - https://github.com/lexfridman/mit-deep-learning
  - https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d
  - https://colab.research.google.com/gist/pwasiewi/4fc4923fbfa4239041fd66a3ee1d4133/mnist-in-keras.ipynb
 
-### Deep learning
+### Deep learning and neural net learning
  - http://www.deeplearningbook.org/
  - https://github.com/tomepel/Technical_Book_DL
  - http://colah.github.io/posts/2015-08-Understanding-LSTMs/
@@ -79,24 +80,21 @@
  - http://cs231n.github.io/convolutional-networks/
  - https://blog.pocketcluster.io/
  - http://caffe.berkeleyvision.org/
- - http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
  - http://deeplearning.net/software/libgpuarray/
  - https://github.com/h2oai/h2o-3
+ - https://cran.r-project.org/web/packages/h2o4gpu/vignettes/getting_started.html
+* http://datascienceplus.com/fitting-neural-network-in-r/
+* https://gist.github.com/mick001/49fad7f4c6112d954aff
+* http://www.r-bloggers.com/self-organising-maps-for-customer-segmentation-using-r-2/ 
+* http://www.r-bloggers.com/visualizing-neural-networks-in-r-update/
+* http://www.r-bloggers.com/visualizing-neural-networks-from-the-nnet-package/ 
 
-##### Standard neural nets examples (in R, Python)
-- http://vknight.org/unpeudemath/python/2017/09/16/using-python-in-R-to-study-the-ipd.html
-- https://cran.r-project.org/web/packages/h2o4gpu/vignettes/getting_started.html
-- http://hydroecology.net/fun-with-reticulate-salib/
-- http://datascienceplus.com/fitting-neural-network-in-r/
-- https://gist.github.com/mick001/49fad7f4c6112d954aff
-- http://www.r-bloggers.com/self-organising-maps-for-customer-segmentation-using-r-2/ 
-- http://www.r-bloggers.com/visualizing-neural-networks-in-r-update/
-- http://www.r-bloggers.com/visualizing-neural-networks-from-the-nnet-package/ 
+##### Basics of Tensorflow 
+ - https://medium.com/@d3lm/understand-tensorflow-by-mimicking-its-api-from-scratch-faa55787170d
+ - https://codesachin.wordpress.com/2015/11/28/self-organizing-maps-with-googles-tensorflow/
+ * [Tensorflow in R](https://tensorflow.rstudio.com/)
 
-### R gpu
- - https://github.com/cdeterman/gpuR
- - [tensorflow in R](https://github.com/tensorflow/tensorflow/issues/387)
- - http://www.raetschlab.org/suppl/shogun/RExamples
+
 
 ### Microsoft R Python ML
  - https://blogs.msdn.microsoft.com/mlserver/2018/07/26/dockerizing-r-and-python-web-services/
@@ -165,11 +163,6 @@
 ##### arules tutor
 - http://michael.hahsler.net/research/arules_RUG_2015/demo/R_arules_demo_SQF2012.R
 
-
-##### method descriptions
-
-
- - https://pythonprogramming.net/support-vector-machine-parameters-machine-learning-tutorial/?completed=/soft-margin-kernel-cvxopt-svm-machine-learning-tutorial/
  
 ##### R webinars
 - https://vimeo.com/89562453
@@ -184,10 +177,8 @@
 ##### szeregi czasowe w R (in Polish)
 - http://www.ioz.pwr.wroc.pl/Pracownicy/kaplon/R/R_szeregi.htm
 
-
-##### rbloggers 
-
-
+##### GPUGP libraries in R and Python
+ - https://github.com/cdeterman/gpuR
 
 ##### Books materials in machine learning, statistical learning
  - https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-r
