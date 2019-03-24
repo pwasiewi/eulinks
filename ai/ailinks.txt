@@ -1,4 +1,4 @@
-### Online Books, helpful manuals
+### Online Books
  - https://ipython-books.github.io/
  - https://www.msperlin.com/pafdR/
  - http://www.deeplearningbook.org/
