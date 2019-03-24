@@ -14,12 +14,14 @@
  - https://rpubs.com/chengjiun/52658
  
  ##### IPython Jupyter case studies, tutors, tools
- - https://ipython-books.github.io/
- - https://github.com/odewahn/ipynb-examples
- - https://medium.com/fundbox-engineering/overview-d3759e83969c
- - https://spark.apache.org/
- - https://github.com/apache/spark/tree/master/examples/src/main
- - http://nbviewer.ipython.org/github/ptwobrussell/Mining-the-Social-Web-2nd-Edition/tree/master/ipynb/
+  - https://ipython-books.github.io/
+  - https://github.com/odewahn/ipynb-examples
+  - http://nbviewer.ipython.org/github/ptwobrussell/Mining-the-Social-Web-2nd-Edition/tree/master/ipynb/
+  - https://github.com/apache/spark/tree/master/examples/src/main
+  - https://medium.com/fundbox-engineering/overview-d3759e83969c
+  - https://spark.apache.org/
+
+
  
  ##### Caret multiclassifier package
  - [Short intro to the classifier library wrapper caret](https://cran.r-project.org/web/packages/caret/vignettes/caret.html)
