@@ -2,7 +2,8 @@
  - [R leaflets](http://www.wekaleamstudios.co.uk/supplementary-material/)
  - https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/
   - https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks
-
+ - https://medium.freecodecamp.org/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0
+ 
 ### Data mining projects for case studies (in R, Python)
  - https://github.com/pwasiewi/earin/blob/master/scripts/00kaggle_projects_to_learn.R
  - https://www.kaggle.com/competitions
@@ -12,7 +13,8 @@
  - http://blog.kaggle.com/2017/06/29/2017-data-science-bowl-predicting-lung-cancer-2nd-place-solution-write-up-daniel-hammack-and-julian-de-wit/
  - http://juliandewit.github.io/kaggle-ndsb2017/
  - https://rpubs.com/chengjiun/52658
- 
+ - https://elitedatascience.com/imbalanced-classes
+  
  ##### IPython Jupyter case studies, tutors, tools
   - https://ipython-books.github.io/
   - https://github.com/odewahn/ipynb-examples
@@ -20,10 +22,12 @@
   - https://github.com/apache/spark/tree/master/examples/src/main
   - https://medium.com/fundbox-engineering/overview-d3759e83969c
   - https://spark.apache.org/
-
-
  
- ##### Caret multiclassifier package
+##### Reinforcement and similar case studies
+ - http://www.wildml.com/
+ - https://deepmind.com/blog/deepmind-and-blizzard-open-starcraft-ii-ai-research-environment/
+
+##### Caret multiclassifier package
  - [Short intro to the classifier library wrapper caret](https://cran.r-project.org/web/packages/caret/vignettes/caret.html)
  - [More advanced description of the classifier library wrapper caret](https://topepo.github.io/caret/model-training-and-tuning.html)
  - [Yet another tutorial about the classifier library wrapper caret](https://www.analyticsvidhya.com/blog/2016/12/practical-guide-to-implement-machine-learning-with-caret-package-in-r-with-practice-problem/")
@@ -32,38 +36,32 @@
 
 ##### Basics of Tensorflow 
  - https://medium.com/@d3lm/understand-tensorflow-by-mimicking-its-api-from-scratch-faa55787170d
- 
+ - https://codesachin.wordpress.com/2015/11/28/self-organizing-maps-with-googles-tensorflow/
+  
 ##### Colabs of Deep & Machine Learning
  - https://colab.research.google.com/drive/11qBrQrqlVrUccuAsMSNyrCQ_voiybn9X#scrollTo=tmkJAibYCzJg (in Polish)
  - https://github.com/lexfridman/mit-deep-learning
  - https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d
  - https://colab.research.google.com/gist/pwasiewi/4fc4923fbfa4239041fd66a3ee1d4133/mnist-in-keras.ipynb
  
-##### SVM Blogs
+##### SVM case studies & examples
  - http://blog.echen.me/2017/05/30/exploring-lstms/
  - http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+ - https://pythonprogramming.net/predictions-svm-machine-learning-tutorial/?completed=/svm-optimization-python-2-machine-learning-tutorial/
+ - https://en.wikibooks.org/wiki/Data_Mining_Algorithms_In_R/Classification/SVM
+ - http://dimensionless.in/rblog/SVM_blog.html
+ - [The site with R tutorials for regression and svm - a free ebook about svm!](https://www.svm-tutorial.com/2014/10/support-vector-regression-r/)
+ - [Visualization of the svm square kernel transformation](https://www.r-bloggers.com/learning-kernels-svm/)
 
 ##### Comparison of R with Python 
 - https://www.dataquest.io/blog/python-vs-r/
  
-##### Machine learning cources
- - https://medium.freecodecamp.org/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0
- - https://unsupervisedmethods.com/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78
- - https://deepmind.com/blog/deepmind-and-blizzard-open-starcraft-ii-ai-research-environment/
- - https://codesachin.wordpress.com/2015/11/28/self-organizing-maps-with-googles-tensorflow/
- - https://pythonprogramming.net/predictions-svm-machine-learning-tutorial/?completed=/svm-optimization-python-2-machine-learning-tutorial/
- - http://www.wildml.com/
- 
-##### Python case study
- - https://elitedatascience.com/imbalanced-classes
-
 ##### Prolog, Haskell
  - http://jmvanel.free.fr/ai/prolog-getting-started.html
  - https://www.cpp.edu/~jrfisher/www/prolog_tutorial/contents.html
  - http://propella.blogspot.com/2009/04/prolog-in-haskell.html
  - https://wiki.haskell.org/Logic_programming_example
  - http://ki.pwr.edu.pl/kobylanski/prolog/blog-3/files/42125af16d17524ffaa270c6c76eabce-2.html
- 
 
 ##### Books and tutors about R 
  - https://msperlin.github.io/pafdR/
@@ -87,12 +85,6 @@
  - http://deeplearning.net/software/libgpuarray/
  - https://github.com/h2oai/h2o-3
 
-
-### SVM in R
- - https://en.wikibooks.org/wiki/Data_Mining_Algorithms_In_R/Classification/SVM
- - http://dimensionless.in/rblog/SVM_blog.html
- - [The site with R tutorials for regression and svm - a free ebook about svm!](https://www.svm-tutorial.com/2014/10/support-vector-regression-r/)
- - [Visualization of the svm square kernel transformation](https://www.r-bloggers.com/learning-kernels-svm/)
 
 ### r python
 - http://vknight.org/unpeudemath/python/2017/09/16/using-python-in-R-to-study-the-ipd.html
@@ -242,3 +234,4 @@
 
 ##### Not working links
  - http://www.rmdk.ca/boosting_forests_bagging.html
+ - https://unsupervisedmethods.com/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78
