@@ -227,7 +227,7 @@
  - https://anteru.net/2013/07/23/2164/
  - https://github.com/Itseez/opencv/tree/master/samples/android 
 
-##### Prolog, Haskell, Logika
+##### Prolog, Haskell, Logic Systems
  - http://jmvanel.free.fr/ai/prolog-getting-started.html
  - https://www.cpp.edu/~jrfisher/www/prolog_tutorial/contents.html
  - http://propella.blogspot.com/2009/04/prolog-in-haskell.html
