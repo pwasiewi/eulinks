@@ -1,8 +1,11 @@
-### Tutorials
+### Tutorials, online Books
  - [R leaflets](http://www.wekaleamstudios.co.uk/supplementary-material/)
  - https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/
-  - https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks
+ - https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks
  - https://medium.freecodecamp.org/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0
+ - https://www.msperlin.com/pafdR/
+ - https://awesome-r.com/
+ - https://github.com/rstudio-education/rstats-ed
  
 ##### Comparison of R with Python 
 - https://www.dataquest.io/blog/python-vs-r/
@@ -55,12 +58,6 @@
  - https://github.com/lexfridman/mit-deep-learning
  - https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d
  - https://colab.research.google.com/gist/pwasiewi/4fc4923fbfa4239041fd66a3ee1d4133/mnist-in-keras.ipynb
-
-##### Books and tutors about R 
- - https://msperlin.github.io/pafdR/
- - http://prokulski.net/index.php/2017/08/30/jak-nauczyc-sie-r-co-czytac/
- - https://awesome-r.com/
- - https://github.com/rstudio-education/rstats-ed
 
 ##### Deep learning
  - http://www.deeplearningbook.org/
