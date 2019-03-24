@@ -121,9 +121,6 @@
  - https://msropendata.com/
  - http://htmlpreview.github.io/?https://github.com/lixzhang/R-MRO-MRS/blob/master/Introduction_to_MRO_and_MRS.html
  - https://github.com/nuest/docker-mro
- - http://htmlpreview.github.io/?https://github.com/lixzhang/R-MRO-MRS/blob/master/Introduction_to_MRO_and_MRS.html
- 
-
 
 ##### Basic R methods & analysis
 - https://beckmw.wordpress.com/2013/02/05/collinearity-and-stepwise-vif-selection/
@@ -132,26 +129,16 @@
 - https://nsaunders.wordpress.com/2010/08/20/a-brief-introduction-to-apply-in-r/
 - https://github.com/eddelbuettel/rcppexamples
 - http://www.jstatsoft.org/v40/i01
-- https://github.com/cdeterman/gpuR
+- https://github.com/cdeterman/gpuR [OpenCL kernels in R]
 - http://www.statmethods.net/management/reshape.html
 - http://michael.hahsler.net/research/arules_RUG_2015/demo/R_arules_demo_SQF2012.R
-
+- http://www.stevebronder.com/news/2014/8/3/8el0szzsaxhfiljvkf8f4uty2yiinh
  
 ##### R webinars
 - https://vimeo.com/89562453
 - https://www.youtube.com/watch?v=7Jbb2ItbTC4 #caretwebinar
 - http://www.r-bloggers.com/caret-webinar-materials/
-- https://cran.r-project.org/web/packages/RSelenium/vignettes/OCRUG-webinar.html
-
-##### maps and graphs
-- http://www.stevebronder.com/news/2014/8/3/8el0szzsaxhfiljvkf8f4uty2yiinh
-
-##### Books materials in machine learning, statistical learning
- - https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-r
- - https://github.com/dataspelunking/MLwR
- - https://www.packtpub.com/sites/default/files/downloads/Machine_Learning_With_R_Second_Edition_ColoredImages.pdf
- - http://www-bcf.usc.edu/~gareth/ISL/code.html 
- - https://github.com/asadoughi/stat-learning
+- https://cran.r-project.org/web/packages/RSelenium/vignettes/webinar.html
 
 ### Machine learning in Octave 
 - https://www.coursera.org/learn/machine-learning/home/welcome 
@@ -170,7 +157,14 @@
  - http://www.zerokol.com/2012/09/arduinofuzzy-fuzzy-library-for-arduino.html
  - https://github.com/zerokol/eFLL
  - https://gist.github.com/zerokol/4110773 
- 
+
+##### Books materials in machine learning, statistical learning
+ - https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-r
+ - https://github.com/dataspelunking/MLwR
+ - https://www.packtpub.com/sites/default/files/downloads/Machine_Learning_With_R_Second_Edition_ColoredImages.pdf
+ - http://www-bcf.usc.edu/~gareth/ISL/code.html 
+ - https://github.com/asadoughi/stat-learning
+
 ##### Not working links
  - http://www.rmdk.ca/boosting_forests_bagging.html
  - https://unsupervisedmethods.com/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78
