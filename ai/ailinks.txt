@@ -1,12 +1,15 @@
-### Tutorials, online Books
+### Tutorials
  - [R leaflets](http://www.wekaleamstudios.co.uk/supplementary-material/)
  - https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/
  - https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks
  - https://medium.freecodecamp.org/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0
- - https://www.msperlin.com/pafdR/
  - https://awesome-r.com/
  - https://github.com/rstudio-education/rstats-ed
- 
+
+### Online Books
+ - https://www.msperlin.com/pafdR/
+ - http://www.deeplearningbook.org/
+  
 ##### Comparison of R with Python 
 - https://www.dataquest.io/blog/python-vs-r/
  
@@ -41,6 +44,8 @@
 ##### Reinforcement and similar case studies
  - http://www.wildml.com/
  - https://deepmind.com/blog/deepmind-and-blizzard-open-starcraft-ii-ai-research-environment/
+ - http://hunch.net/~jl/projects/RL/RLTheoryTutorial.pdf
+
 
 ##### Caret multiclassifier package
  - [Short intro to the classifier library wrapper caret](https://cran.r-project.org/web/packages/caret/vignettes/caret.html)
@@ -198,7 +203,8 @@
  - http://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/
 
 ### Literature
-##### machine learning in R - Brett Lantz
+
+##### books or their materials in machine learning
 - https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-r
 - https://github.com/dataspelunking/MLwR
 - https://www.packtpub.com/sites/default/files/downloads/Machine_Learning_With_R_Second_Edition_ColoredImages.pdf
@@ -207,11 +213,8 @@
 - https://www.r-project.org/other-docs.html
 
 ##### Introduction to Statistical Learning
-- http://www-bcf.usc.edu/~gareth/ISL/code.html 
-
-### reinforcement theory
-- http://hunch.net/~jl/projects/RL/RLTheoryTutorial.pdf
-- https://github.com/asadoughi/stat-learning
+ - http://www-bcf.usc.edu/~gareth/ISL/code.html 
+ - https://github.com/asadoughi/stat-learning
 
 ##### neural net
  - http://datascienceplus.com/fitting-neural-network-in-r/
