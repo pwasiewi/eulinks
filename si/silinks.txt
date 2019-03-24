@@ -7,6 +7,7 @@
 
 ##### Machine learning in Python and not only
  - https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks
+ - https://ipython-books.github.io/
  - https://github.com/odewahn/ipynb-examples
  - https://medium.com/fundbox-engineering/overview-d3759e83969c
  - https://spark.apache.org/
