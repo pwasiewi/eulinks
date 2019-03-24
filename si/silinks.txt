@@ -1,5 +1,6 @@
 ##### Basic Tensorflow
  - https://medium.com/@d3lm/understand-tensorflow-by-mimicking-its-api-from-scratch-faa55787170d
+ - https://colab.research.google.com/drive/11qBrQrqlVrUccuAsMSNyrCQ_voiybn9X#scrollTo=tmkJAibYCzJg
 
 ##### Machine learning in Python and not only
  - https://medium.freecodecamp.org/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0
