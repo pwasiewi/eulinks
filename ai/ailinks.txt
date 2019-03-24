@@ -4,7 +4,6 @@
  - https://www.kaggle.com/kernels
  - http://blog.kaggle.com/category/winners-interviews/
  - http://blog.kaggle.com/author/kaggleteam/
-
  - http://blog.kaggle.com/2017/06/29/2017-data-science-bowl-predicting-lung-cancer-2nd-place-solution-write-up-daniel-hammack-and-julian-de-wit/
  - http://juliandewit.github.io/kaggle-ndsb2017/
  - http://www.rmdk.ca/boosting_forests_bagging.html
