@@ -115,20 +115,19 @@
  - https://packages.revolutionanalytics.com/datasets/
  - https://msropendata.com/
  - http://htmlpreview.github.io/?https://github.com/lixzhang/R-MRO-MRS/blob/master/Introduction_to_MRO_and_MRS.html
- - http://mqasim.me/?p=68545
  - https://github.com/nuest/docker-mro
+ - http://htmlpreview.github.io/?https://github.com/lixzhang/R-MRO-MRS/blob/master/Introduction_to_MRO_and_MRS.html
  
 ### Fuzzy Logic in Arduino
  - http://www.zerokol.com/2012/09/arduinofuzzy-fuzzy-library-for-arduino.html
  - https://github.com/zerokol/eFLL
  - https://gist.github.com/zerokol/4110773 
 
+##### Basic R analysis
+- https://beckmw.wordpress.com/2013/02/05/collinearity-and-stepwise-vif-selection/
+- http://www.sthda.com/english/wiki/visualize-correlation-matrix-using-correlogram
+
 ### Courses 
-##### machine learning in Octave 
-- https://www.coursera.org/learn/machine-learning/home/welcome 
-- http://www.holehouse.org/mlclass/index.html 
-- https://github.com/emersonmoretto/mlclass-ex1 
-- https://github.com/schneems/Octave
 
 ##### machine learning in python 
 - https://www.udacity.com/course/intro-to-machine-learning--ud120 
@@ -188,14 +187,6 @@
 ##### maps and graphs
 - http://www.stevebronder.com/news/2014/8/3/8el0szzsaxhfiljvkf8f4uty2yiinh
 
-##### regression and correlation
-- https://beckmw.wordpress.com/2013/02/05/collinearity-and-stepwise-vif-selection/
-- http://www.sthda.com/english/wiki/visualize-correlation-matrix-using-correlogram
-
-
-##### porównanie R Microsoft
-- http://htmlpreview.github.io/?https://github.com/lixzhang/R-MRO-MRS/blob/master/Introduction_to_MRO_and_MRS.html
-- http://mqasim.me/?p=68545
 
 ##### szeregi czasowe w R (in Polish)
 - http://www.ioz.pwr.wroc.pl/Pracownicy/kaplon/R/R_szeregi.htm
@@ -217,12 +208,11 @@
  - http://www-bcf.usc.edu/~gareth/ISL/code.html 
  - https://github.com/asadoughi/stat-learning
 
-
-
-##### Opencl Opencv
- - https://github.com/viennacl/viennacl-dev
- - https://anteru.net/2013/07/23/2164/
- - https://github.com/Itseez/opencv/tree/master/samples/android 
+### machine learning in Octave 
+- https://www.coursera.org/learn/machine-learning/home/welcome 
+- http://www.holehouse.org/mlclass/index.html 
+- https://github.com/emersonmoretto/mlclass-ex1 
+- https://github.com/schneems/Octave
 
 ##### Prolog, Haskell, Logic Systems
  - http://jmvanel.free.fr/ai/prolog-getting-started.html
