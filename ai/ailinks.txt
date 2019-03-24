@@ -4,6 +4,9 @@
   - https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks
  - https://medium.freecodecamp.org/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0
  
+##### Comparison of R with Python 
+- https://www.dataquest.io/blog/python-vs-r/
+ 
 ### Data mining projects for case studies (in R, Python)
  - https://github.com/pwasiewi/earin/blob/master/scripts/00kaggle_projects_to_learn.R
  - https://www.kaggle.com/competitions
@@ -22,7 +25,16 @@
   - https://github.com/apache/spark/tree/master/examples/src/main
   - https://medium.com/fundbox-engineering/overview-d3759e83969c
   - https://spark.apache.org/
- 
+  
+##### SVM case studies & examples
+ - http://blog.echen.me/2017/05/30/exploring-lstms/
+ - http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+ - https://pythonprogramming.net/predictions-svm-machine-learning-tutorial/?completed=/svm-optimization-python-2-machine-learning-tutorial/
+ - https://en.wikibooks.org/wiki/Data_Mining_Algorithms_In_R/Classification/SVM
+ - http://dimensionless.in/rblog/SVM_blog.html
+ - [The site with R tutorials for regression and svm - a free ebook about svm!](https://www.svm-tutorial.com/2014/10/support-vector-regression-r/)
+ - [Visualization of the svm square kernel transformation](https://www.r-bloggers.com/learning-kernels-svm/)
+
 ##### Reinforcement and similar case studies
  - http://www.wildml.com/
  - https://deepmind.com/blog/deepmind-and-blizzard-open-starcraft-ii-ai-research-environment/
@@ -43,20 +55,6 @@
  - https://github.com/lexfridman/mit-deep-learning
  - https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d
  - https://colab.research.google.com/gist/pwasiewi/4fc4923fbfa4239041fd66a3ee1d4133/mnist-in-keras.ipynb
- 
-##### SVM case studies & examples
- - http://blog.echen.me/2017/05/30/exploring-lstms/
- - http://karpathy.github.io/2015/05/21/rnn-effectiveness/
- - https://pythonprogramming.net/predictions-svm-machine-learning-tutorial/?completed=/svm-optimization-python-2-machine-learning-tutorial/
- - https://en.wikibooks.org/wiki/Data_Mining_Algorithms_In_R/Classification/SVM
- - http://dimensionless.in/rblog/SVM_blog.html
- - [The site with R tutorials for regression and svm - a free ebook about svm!](https://www.svm-tutorial.com/2014/10/support-vector-regression-r/)
- - [Visualization of the svm square kernel transformation](https://www.r-bloggers.com/learning-kernels-svm/)
-
-##### Comparison of R with Python 
-- https://www.dataquest.io/blog/python-vs-r/
- 
-
 
 ##### Books and tutors about R 
  - https://msperlin.github.io/pafdR/
