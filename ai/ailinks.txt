@@ -1,3 +1,6 @@
+### Tutorials
+ - [R leaflets](http://www.wekaleamstudios.co.uk/supplementary-material/)
+
 ### Data mining projects for case studies (in R, Python)
  - https://github.com/pwasiewi/earin/blob/master/scripts/00kaggle_projects_to_learn.R
  - https://www.kaggle.com/competitions
@@ -6,11 +9,9 @@
  - http://blog.kaggle.com/author/kaggleteam/
  - http://blog.kaggle.com/2017/06/29/2017-data-science-bowl-predicting-lung-cancer-2nd-place-solution-write-up-daniel-hammack-and-julian-de-wit/
  - http://juliandewit.github.io/kaggle-ndsb2017/
- - http://www.rmdk.ca/boosting_forests_bagging.html
  - https://rpubs.com/chengjiun/52658
- - [The site with R tutorials for regression and svm - a free ebook about svm!](https://www.svm-tutorial.com/2014/10/support-vector-regression-r/)
- - [Visualization of the svm square kernel transformation](https://www.r-bloggers.com/learning-kernels-svm/)
- - [R leaflets](http://www.wekaleamstudios.co.uk/supplementary-material/)
+ 
+ ##### Caret multiclassifier package
  - [Short intro to the classifier library wrapper caret](https://cran.r-project.org/web/packages/caret/vignettes/caret.pdf")
  - [More advanced description of the classifier library wrapper caret](https://topepo.github.io/caret/model-training-and-tuning.html")
  - [Yet another tutorial about the classifier library wrapper caret](https://www.analyticsvidhya.com/blog/2016/12/practical-guide-to-implement-machine-learning-with-caret-package-in-r-with-practice-problem/")
@@ -84,7 +85,8 @@
 ### SVM in R
  - https://en.wikibooks.org/wiki/Data_Mining_Algorithms_In_R/Classification/SVM
  - http://dimensionless.in/rblog/SVM_blog.html
-
+ - [The site with R tutorials for regression and svm - a free ebook about svm!](https://www.svm-tutorial.com/2014/10/support-vector-regression-r/)
+ - [Visualization of the svm square kernel transformation](https://www.r-bloggers.com/learning-kernels-svm/)
 
 ### r python
 - http://vknight.org/unpeudemath/python/2017/09/16/using-python-in-R-to-study-the-ipd.html
@@ -232,3 +234,5 @@
  - https://anteru.net/2013/07/23/2164/
  - https://github.com/Itseez/opencv/tree/master/samples/android 
 
+##### Not working links
+ - http://www.rmdk.ca/boosting_forests_bagging.html
