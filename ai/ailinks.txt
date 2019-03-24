@@ -1,5 +1,6 @@
 ### Tutorials
  - [R leaflets](http://www.wekaleamstudios.co.uk/supplementary-material/)
+ - https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/
 
 ### Data mining projects for case studies (in R, Python)
  - https://github.com/pwasiewi/earin/blob/master/scripts/00kaggle_projects_to_learn.R
@@ -12,12 +13,11 @@
  - https://rpubs.com/chengjiun/52658
  
  ##### Caret multiclassifier package
- - [Short intro to the classifier library wrapper caret](https://cran.r-project.org/web/packages/caret/vignettes/caret.pdf")
- - [More advanced description of the classifier library wrapper caret](https://topepo.github.io/caret/model-training-and-tuning.html")
+ - [Short intro to the classifier library wrapper caret](https://cran.r-project.org/web/packages/caret/vignettes/caret.html)
+ - [More advanced description of the classifier library wrapper caret](https://topepo.github.io/caret/model-training-and-tuning.html)
  - [Yet another tutorial about the classifier library wrapper caret](https://www.analyticsvidhya.com/blog/2016/12/practical-guide-to-implement-machine-learning-with-caret-package-in-r-with-practice-problem/")
  - [Coursera video tutorial about the classifier library wrapper caret](https://www.coursera.org/learn/practical-machine-learning/lecture/Bu9ns/caret-package)
  - [Extremely interesting video tutorial about the classifier library wrapper caret](https://www.youtube.com/watch?v=7Jbb2ItbTC4)
-- https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/
 
 ##### Basic Tensorflow colab & Deep Learning
  - https://medium.com/@d3lm/understand-tensorflow-by-mimicking-its-api-from-scratch-faa55787170d
