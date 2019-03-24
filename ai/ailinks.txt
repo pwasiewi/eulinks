@@ -13,6 +13,10 @@
  - http://www.rdatamining.com/examples 
  - https://github.com/pbiecek/DataMining/tree/master/MINI_2015/Lectures
  - http://www.r-bloggers.com/online-class-on-statistical-learning/
+ - http://www.statslectures.com/index.php/r-stats-videos-tutorials 
+ - http://www.r-bloggers.com/how-to-learn-r-2/
+ - http://www.statmethods.net/ 
+ - http://personality-project.org/r/r.guide.html
 
 ### Online Books, helpful manuals
  - https://www.msperlin.com/pafdR/
@@ -129,13 +133,6 @@
 - http://www.r-bloggers.com/regularization-implementation-in-r-bais-and-variance-diagnosis/
 - https://nsaunders.wordpress.com/2010/08/20/a-brief-introduction-to-apply-in-r/
 - https://github.com/eddelbuettel/rcppexamples
-
-##### other tutorials of R 
-- http://www.skilledup.com/articles/18-free-tutorials-learning-r-programming 
-- http://www.statslectures.com/index.php/r-stats-videos-tutorials 
-- http://www.r-bloggers.com/how-to-learn-r-2/
-- http://www.statmethods.net/ 
-- http://personality-project.org/r/r.guide.html 
 
 ### Blogs
 ##### Stata, SAS, R - examples
