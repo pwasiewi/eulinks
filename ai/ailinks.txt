@@ -1,6 +1,7 @@
 ### Tutorials
  - [R leaflets](http://www.wekaleamstudios.co.uk/supplementary-material/)
  - https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/
+  - https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks
 
 ### Data mining projects for case studies (in R, Python)
  - https://github.com/pwasiewi/earin/blob/master/scripts/00kaggle_projects_to_learn.R
@@ -11,6 +12,14 @@
  - http://blog.kaggle.com/2017/06/29/2017-data-science-bowl-predicting-lung-cancer-2nd-place-solution-write-up-daniel-hammack-and-julian-de-wit/
  - http://juliandewit.github.io/kaggle-ndsb2017/
  - https://rpubs.com/chengjiun/52658
+ 
+ ##### IPython Jupyter case studies, tutors, tools
+ - https://ipython-books.github.io/
+ - https://github.com/odewahn/ipynb-examples
+ - https://medium.com/fundbox-engineering/overview-d3759e83969c
+ - https://spark.apache.org/
+ - https://github.com/apache/spark/tree/master/examples/src/main
+ - http://nbviewer.ipython.org/github/ptwobrussell/Mining-the-Social-Web-2nd-Edition/tree/master/ipynb/
  
  ##### Caret multiclassifier package
  - [Short intro to the classifier library wrapper caret](https://cran.r-project.org/web/packages/caret/vignettes/caret.html)
@@ -34,15 +43,6 @@
 
 ##### Comparison of R with Python 
 - https://www.dataquest.io/blog/python-vs-r/
-
-##### Machine learning spark jupyter platform in Python and not only
- - https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks
- - https://ipython-books.github.io/
- - https://github.com/odewahn/ipynb-examples
- - https://medium.com/fundbox-engineering/overview-d3759e83969c
- - https://spark.apache.org/
- - https://github.com/apache/spark/tree/master/examples/src/main
- - http://nbviewer.ipython.org/github/ptwobrussell/Mining-the-Social-Web-2nd-Edition/tree/master/ipynb/
  
 ##### Machine learning cources
  - https://medium.freecodecamp.org/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0
