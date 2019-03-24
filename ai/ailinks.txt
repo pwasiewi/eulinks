@@ -20,6 +20,7 @@
  - http://www.datasciencecentral.com/m/blogpost?id=6448529:BlogPost:415828 
 
 ### Online Books, helpful manuals
+ - https://ipython-books.github.io/
  - https://www.msperlin.com/pafdR/
  - http://www.deeplearningbook.org/
  - https://github.com/tomepel/Technical_Book_DL
