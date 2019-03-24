@@ -1,9 +1,12 @@
-##### Basic Tensorflow & Deep Learning
+##### Basic Tensorflow colab & Deep Learning
  - https://medium.com/@d3lm/understand-tensorflow-by-mimicking-its-api-from-scratch-faa55787170d
  - https://colab.research.google.com/drive/11qBrQrqlVrUccuAsMSNyrCQ_voiybn9X#scrollTo=tmkJAibYCzJg
  - https://github.com/lexfridman/mit-deep-learning
  - https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d
  - https://colab.research.google.com/gist/pwasiewi/4fc4923fbfa4239041fd66a3ee1d4133/mnist-in-keras.ipynb
+
+##### Comparison of R with Python 
+- https://www.dataquest.io/blog/python-vs-r/
 
 ##### Machine learning spark jupyter platform in Python and not only
  - https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks
@@ -80,16 +83,20 @@
 - http://blog.kaggle.com/2017/06/29/2017-data-science-bowl-predicting-lung-cancer-2nd-place-solution-write-up-daniel-hammack-and-julian-de-wit/
 - http://juliandewit.github.io/kaggle-ndsb2017/
 
-### case study
+### Data mining projects for case studies (in R, Python)
+ - https://github.com/pwasiewi/earin/blob/master/scripts/00kaggle_projects_to_learn.R
+ - https://www.kaggle.com/competitions
  - http://www.rmdk.ca/boosting_forests_bagging.html
  - https://rpubs.com/chengjiun/52658
-
-### do projektu Sztuczna Inteligencja na Arduino - Fuzzy Logic
- - http://www.zerokol.com/2012/09/arduinofuzzy-fuzzy-library-for-arduino.html
- - https://github.com/zerokol/eFLL
- - https://gist.github.com/zerokol/4110773
-
-### online R pomoc - przykładowa funkcja mvrnorm
+ - [The site with R tutorials for regression and svm - a free ebook about svm!](https://www.svm-tutorial.com/2014/10/support-vector-regression-r/)
+ - [Visualization of the svm square kernel transformation](https://www.r-bloggers.com/learning-kernels-svm/)
+ - [R leaflets](http://www.wekaleamstudios.co.uk/supplementary-material/)
+ - [Short intro to the classifier library wrapper caret](https://cran.r-project.org/web/packages/caret/vignettes/caret.pdf")
+ - [More advanced description of the classifier library wrapper caret](https://topepo.github.io/caret/model-training-and-tuning.html")
+ - [Yet another tutorial about the classifier library wrapper caret](https://www.analyticsvidhya.com/blog/2016/12/practical-guide-to-implement-machine-learning-with-caret-package-in-r-with-practice-problem/")
+ - [Coursera video tutorial about the classifier library wrapper caret](https://www.coursera.org/learn/practical-machine-learning/lecture/Bu9ns/caret-package)
+ - [Extremely interesting video tutorial about the classifier library wrapper caret](https://www.youtube.com/watch?v=7Jbb2ItbTC4)
+### online R help e.g. mvrnorm
  - http://www.inside-r.org/packages/cran/rockchalk/docs/mvrnorm
  - http://mqasim.me/?p=159807
 
@@ -110,20 +117,28 @@
  - https://github.com/ksalama/sqlbits-2017
  - https://packages.revolutionanalytics.com/datasets/
  - https://msropendata.com/
+ - http://htmlpreview.github.io/?https://github.com/lixzhang/R-MRO-MRS/blob/master/Introduction_to_MRO_and_MRS.html
+ - http://mqasim.me/?p=68545
+ - https://github.com/nuest/docker-mro
+ 
+### Fuzzy Logic in Arduino
+ - http://www.zerokol.com/2012/09/arduinofuzzy-fuzzy-library-for-arduino.html
+ - https://github.com/zerokol/eFLL
+ - https://gist.github.com/zerokol/4110773 
 
-### Kursy
-##### kurs maszynowego uczenia w Octave 
+### Courses 
+##### machine learning in Octave 
 - https://www.coursera.org/learn/machine-learning/home/welcome 
 - http://www.holehouse.org/mlclass/index.html 
 - https://github.com/emersonmoretto/mlclass-ex1 
 - https://github.com/schneems/Octave
 
-##### kurs maszynowego uczenia - python 
+##### machine learning in python 
 - https://www.udacity.com/course/intro-to-machine-learning--ud120 
 - https://github.com/antran89/ud120-projects 
 - https://github.com/zfz/ud120 
 
-##### kurs maszynowego uczenia w R 
+##### machine learning in R 
 - https://www.datacamp.com/courses?utm_source=machine_learning_post 
 
 ##### DataMining in R 
@@ -131,33 +146,34 @@
 - http://www.rdatamining.com/examples 
 - https://github.com/pbiecek/DataMining/tree/master/MINI_2015/Lectures
 
-##### kursy statystycznego uczenia się 
+##### statistical learning  tutorial
 - http://www.r-bloggers.com/online-class-on-statistical-learning/
 
-##### Tutoriale języka R 
+##### other tutorials of R 
 - http://www.skilledup.com/articles/18-free-tutorials-learning-r-programming 
 - http://www.statslectures.com/index.php/r-stats-videos-tutorials 
 - http://www.r-bloggers.com/how-to-learn-r-2/
 - http://www.statmethods.net/ 
 - http://personality-project.org/r/r.guide.html 
 
-### Przykłady, blogi
-##### Stata, SAS, R - przykłady
+### Blogs
+##### Stata, SAS, R - examples
 - http://www.ats.ucla.edu/stat/dae/
 
-##### dplyr - operacje apply
+##### dplyr - operations apply
 - http://www.jstatsoft.org/v40/i01
 
-##### szybki wstęp 
+##### quick introduction
 - http://www.datasciencecentral.com/m/blogpost?id=6448529:BlogPost:415828 
 
-##### np. jedna z metod 
+##### e.g. one of the methods
 - http://www.statmethods.net/management/reshape.html
 
 ##### arules tutor
 - http://michael.hahsler.net/research/arules_RUG_2015/demo/R_arules_demo_SQF2012.R
 
-##### Opisy metod od postaw
+
+##### method descriptions
  - http://www.r-bloggers.com/regularization-implementation-in-r-bais-and-variance-diagnosis/
  - https://github.com/eddelbuettel/rcppexamples
  - http://www.svm-tutorial.com/2014/10/support-vector-regression-r/
@@ -172,26 +188,19 @@
 - http://www.r-bloggers.com/caret-webinar-materials/
 - https://cran.r-project.org/web/packages/RSelenium/vignettes/OCRUG-webinar.html
 
-##### grafy i mapy
+##### maps and graphs
 - http://www.stevebronder.com/news/2014/8/3/8el0szzsaxhfiljvkf8f4uty2yiinh
 
-##### wizualizacja macierzy korelacji
+##### regression and correlation
+- https://beckmw.wordpress.com/2013/02/05/collinearity-and-stepwise-vif-selection/
 - http://www.sthda.com/english/wiki/visualize-correlation-matrix-using-correlogram
 
-##### regresja i korelacja
-- https://beckmw.wordpress.com/2013/02/05/collinearity-and-stepwise-vif-selection/
-
-##### docker R microsoft
-- https://github.com/nuest/docker-mro
-
-##### orównanie R z pythonem 
-- https://www.dataquest.io/blog/python-vs-r/
 
 ##### porównanie R Microsoft
 - http://htmlpreview.github.io/?https://github.com/lixzhang/R-MRO-MRS/blob/master/Introduction_to_MRO_and_MRS.html
 - http://mqasim.me/?p=68545
 
-##### szeregi czasowe w R
+##### szeregi czasowe w R (in Polish)
 - http://www.ioz.pwr.wroc.pl/Pracownicy/kaplon/R/R_szeregi.htm
 
 ##### selforganizing 2-dim maps 
@@ -202,27 +211,27 @@
  - http://www.r-bloggers.com/visualizing-neural-networks-from-the-nnet-package/ 
  - http://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/
 
-### Literatura
-##### książka po angielsku o uczeniu się maszyn w R - Brett Lantz
- - https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-r
+### Literature
+##### machine learning in R - Brett Lantz
+- https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-r
+- https://github.com/dataspelunking/MLwR
+- https://www.packtpub.com/sites/default/files/downloads/Machine_Learning_With_R_Second_Edition_ColoredImages.pdf
 
-##### Dokumentacja R
- - https://www.r-project.org/other-docs.html
+##### R docs
+- https://www.r-project.org/other-docs.html
 
+##### Introduction to Statistical Learning
+- http://www-bcf.usc.edu/~gareth/ISL/code.html 
 
-##### książka Introduction to Statistical Learning
- - http://www-bcf.usc.edu/~gareth/ISL/code.html 
-
-
-### INNE np. reinforcement teoria ogólnie
- - http://hunch.net/~jl/projects/RL/RLTheoryTutorial.pdf
- - https://github.com/asadoughi/stat-learning
+### reinforcement theory
+- http://hunch.net/~jl/projects/RL/RLTheoryTutorial.pdf
+- https://github.com/asadoughi/stat-learning
 
 ##### neural net
  - http://datascienceplus.com/fitting-neural-network-in-r/
  - https://gist.github.com/mick001/49fad7f4c6112d954aff
 
-##### Opencl2.0 i inne
+##### Opencl Opencv
  - https://github.com/viennacl/viennacl-dev
  - https://anteru.net/2013/07/23/2164/
  - https://github.com/Itseez/opencv/tree/master/samples/android 
