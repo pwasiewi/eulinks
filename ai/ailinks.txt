@@ -63,15 +63,6 @@
  - http://www.r-bloggers.com/the-5th-tribe-support-vector-machines-and-caret/
  - http://www.raetschlab.org/suppl/shogun/RExamples
 
-##### Reinforcement and similar case studies
- - http://www.wildml.com/
- - https://deepmind.com/blog/deepmind-and-blizzard-open-starcraft-ii-ai-research-environment/
- - http://hunch.net/~jl/projects/RL/RLTheoryTutorial.pdf
- - http://www.wildml.com/2016/10/learning-reinforcement-learning/
- - https://cran.r-project.org/web/packages/ReinforcementLearning/vignettes/ReinforcementLearning.html
- - https://deepmind.com/blog/deepmind-and-blizzard-open-starcraft-ii-ai-research-environment/
- - http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
-
 ##### Caret multiclassifier package
  - [Short intro to the classifier library wrapper caret](https://cran.r-project.org/web/packages/caret/vignettes/caret.html)
  - [More advanced description of the classifier library wrapper caret](https://topepo.github.io/caret/model-training-and-tuning.html)
@@ -84,6 +75,15 @@
  - https://github.com/lexfridman/mit-deep-learning
  - https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d
  - https://colab.research.google.com/gist/pwasiewi/4fc4923fbfa4239041fd66a3ee1d4133/mnist-in-keras.ipynb
+
+##### Reinforcement and similar case studies
+ - http://www.wildml.com/
+ - https://deepmind.com/blog/deepmind-and-blizzard-open-starcraft-ii-ai-research-environment/
+ - http://hunch.net/~jl/projects/RL/RLTheoryTutorial.pdf
+ - http://www.wildml.com/2016/10/learning-reinforcement-learning/
+ - https://cran.r-project.org/web/packages/ReinforcementLearning/vignettes/ReinforcementLearning.html
+ - https://deepmind.com/blog/deepmind-and-blizzard-open-starcraft-ii-ai-research-environment/
+ - http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
 
 ### Deep learning and neural net learning
  - http://www.deeplearningbook.org/
