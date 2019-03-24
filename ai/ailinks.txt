@@ -1,4 +1,14 @@
-### Tutorials, courses
+### Online Books, helpful manuals
+ - https://ipython-books.github.io/
+ - https://www.msperlin.com/pafdR/
+ - http://www.deeplearningbook.org/
+ - https://github.com/tomepel/Technical_Book_DL
+ - https://a-little-book-of-r-for-biomedical-statistics.readthedocs.io/en/latest/
+ - https://a-little-book-of-r-for-time-series.readthedocs.io/en/latest/
+ - https://little-book-of-r-for-multivariate-analysis.readthedocs.io/en/latest/
+ - https://www.r-project.org/other-docs.html
+ 
+ ### Tutorials, courses
  - [R leaflets](http://www.wekaleamstudios.co.uk/supplementary-material/)
  - https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/
  - https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks
@@ -18,18 +28,8 @@
  - http://www.statmethods.net/ 
  - http://personality-project.org/r/r.guide.html
  - http://www.datasciencecentral.com/m/blogpost?id=6448529:BlogPost:415828 
-
-### Online Books, helpful manuals
- - https://ipython-books.github.io/
- - https://www.msperlin.com/pafdR/
- - http://www.deeplearningbook.org/
- - https://github.com/tomepel/Technical_Book_DL
- - https://a-little-book-of-r-for-biomedical-statistics.readthedocs.io/en/latest/
- - https://a-little-book-of-r-for-time-series.readthedocs.io/en/latest/
- - https://little-book-of-r-for-multivariate-analysis.readthedocs.io/en/latest/
- - https://www.r-project.org/other-docs.html
   
-### Comparison of R with Python 
+#### Comparison of R with Python 
 - https://www.dataquest.io/blog/python-vs-r/
  
 ### Data mining projects for case studies (in R, Python)
