@@ -28,7 +28,7 @@
  - https://little-book-of-r-for-multivariate-analysis.readthedocs.io/en/latest/
  - https://www.r-project.org/other-docs.html
   
-##### Comparison of R with Python 
+### Comparison of R with Python 
 - https://www.dataquest.io/blog/python-vs-r/
  
 ### Data mining projects for case studies (in R, Python)
@@ -122,7 +122,7 @@
  - http://htmlpreview.github.io/?https://github.com/lixzhang/R-MRO-MRS/blob/master/Introduction_to_MRO_and_MRS.html
  - https://github.com/nuest/docker-mro
 
-##### Basic R methods & analysis
+### Basic R methods & analysis
 - https://beckmw.wordpress.com/2013/02/05/collinearity-and-stepwise-vif-selection/
 - http://www.sthda.com/english/wiki/visualize-correlation-matrix-using-correlogram
 - http://www.r-bloggers.com/regularization-implementation-in-r-bais-and-variance-diagnosis/
@@ -158,6 +158,7 @@
  - https://github.com/zerokol/eFLL
  - https://gist.github.com/zerokol/4110773 
 
+### Some additional stuff
 ##### Books materials in machine learning, statistical learning
  - https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-r
  - https://github.com/dataspelunking/MLwR
