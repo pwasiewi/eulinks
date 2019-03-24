@@ -1,4 +1,4 @@
-### Online Books
+### Online books
  - https://ipython-books.github.io/
  - https://www.msperlin.com/pafdR/
  - http://www.deeplearningbook.org/
@@ -8,7 +8,7 @@
  - https://little-book-of-r-for-multivariate-analysis.readthedocs.io/en/latest/
  - https://www.r-project.org/other-docs.html
  
- ### Tutorials, courses
+ ### Tutorials & courses
  - [R leaflets](http://www.wekaleamstudios.co.uk/supplementary-material/)
  - https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/
  - https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks
