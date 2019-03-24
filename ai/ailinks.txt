@@ -8,6 +8,11 @@
  - https://www.udacity.com/course/intro-to-machine-learning--ud120 
  - https://github.com/antran89/ud120-projects 
  - https://github.com/zfz/ud120 
+ - https://www.datacamp.com/courses/q:ML
+ - http://www.rdatamining.com/ 
+ - http://www.rdatamining.com/examples 
+ - https://github.com/pbiecek/DataMining/tree/master/MINI_2015/Lectures
+ - http://www.r-bloggers.com/online-class-on-statistical-learning/
 
 ### Online Books, helpful manuals
  - https://www.msperlin.com/pafdR/
@@ -124,17 +129,6 @@
 - http://www.r-bloggers.com/regularization-implementation-in-r-bais-and-variance-diagnosis/
 - https://nsaunders.wordpress.com/2010/08/20/a-brief-introduction-to-apply-in-r/
 - https://github.com/eddelbuettel/rcppexamples
-
-##### machine learning in R 
-- https://www.datacamp.com/courses?utm_source=machine_learning_post 
-
-##### DataMining in R 
-- http://www.rdatamining.com/ 
-- http://www.rdatamining.com/examples 
-- https://github.com/pbiecek/DataMining/tree/master/MINI_2015/Lectures
-
-##### statistical learning  tutorial
-- http://www.r-bloggers.com/online-class-on-statistical-learning/
 
 ##### other tutorials of R 
 - http://www.skilledup.com/articles/18-free-tutorials-learning-r-programming 
