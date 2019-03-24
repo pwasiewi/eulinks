@@ -50,7 +50,6 @@
  - https://deepmind.com/blog/deepmind-and-blizzard-open-starcraft-ii-ai-research-environment/
  - http://hunch.net/~jl/projects/RL/RLTheoryTutorial.pdf
 
-
 ##### Caret multiclassifier package
  - [Short intro to the classifier library wrapper caret](https://cran.r-project.org/web/packages/caret/vignettes/caret.html)
  - [More advanced description of the classifier library wrapper caret](https://topepo.github.io/caret/model-training-and-tuning.html)
@@ -85,11 +84,12 @@
  - https://github.com/h2oai/h2o-3
 
 
-### r python
+##### neural nets
 - http://vknight.org/unpeudemath/python/2017/09/16/using-python-in-R-to-study-the-ipd.html
 - https://cran.r-project.org/web/packages/h2o4gpu/vignettes/getting_started.html
 - http://hydroecology.net/fun-with-reticulate-salib/
-
+ - http://datascienceplus.com/fitting-neural-network-in-r/
+ - https://gist.github.com/mick001/49fad7f4c6112d954aff
 
 ### online R help e.g. mvrnorm
  - http://www.inside-r.org/packages/cran/rockchalk/docs/mvrnorm
@@ -217,9 +217,7 @@
  - http://www-bcf.usc.edu/~gareth/ISL/code.html 
  - https://github.com/asadoughi/stat-learning
 
-##### neural net
- - http://datascienceplus.com/fitting-neural-network-in-r/
- - https://gist.github.com/mick001/49fad7f4c6112d954aff
+
 
 ##### Opencl Opencv
  - https://github.com/viennacl/viennacl-dev
