@@ -56,12 +56,7 @@
 ##### Comparison of R with Python 
 - https://www.dataquest.io/blog/python-vs-r/
  
-##### Prolog, Haskell
- - http://jmvanel.free.fr/ai/prolog-getting-started.html
- - https://www.cpp.edu/~jrfisher/www/prolog_tutorial/contents.html
- - http://propella.blogspot.com/2009/04/prolog-in-haskell.html
- - https://wiki.haskell.org/Logic_programming_example
- - http://ki.pwr.edu.pl/kobylanski/prolog/blog-3/files/42125af16d17524ffaa270c6c76eabce-2.html
+
 
 ##### Books and tutors about R 
  - https://msperlin.github.io/pafdR/
@@ -231,6 +226,13 @@
  - https://github.com/viennacl/viennacl-dev
  - https://anteru.net/2013/07/23/2164/
  - https://github.com/Itseez/opencv/tree/master/samples/android 
+
+##### Prolog, Haskell, Logika
+ - http://jmvanel.free.fr/ai/prolog-getting-started.html
+ - https://www.cpp.edu/~jrfisher/www/prolog_tutorial/contents.html
+ - http://propella.blogspot.com/2009/04/prolog-in-haskell.html
+ - https://wiki.haskell.org/Logic_programming_example
+ - http://ki.pwr.edu.pl/kobylanski/prolog/blog-3/files/42125af16d17524ffaa270c6c76eabce-2.html
 
 ##### Not working links
  - http://www.rmdk.ca/boosting_forests_bagging.html
