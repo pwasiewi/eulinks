@@ -17,6 +17,7 @@
  - http://www.r-bloggers.com/how-to-learn-r-2/
  - http://www.statmethods.net/ 
  - http://personality-project.org/r/r.guide.html
+ - http://www.datasciencecentral.com/m/blogpost?id=6448529:BlogPost:415828 
 
 ### Online Books, helpful manuals
  - https://www.msperlin.com/pafdR/
@@ -122,32 +123,17 @@
  - https://github.com/nuest/docker-mro
  - http://htmlpreview.github.io/?https://github.com/lixzhang/R-MRO-MRS/blob/master/Introduction_to_MRO_and_MRS.html
  
-### Fuzzy Logic in Arduino
- - http://www.zerokol.com/2012/09/arduinofuzzy-fuzzy-library-for-arduino.html
- - https://github.com/zerokol/eFLL
- - https://gist.github.com/zerokol/4110773 
 
-##### Basic R analysis
+
+##### Basic R methods & analysis
 - https://beckmw.wordpress.com/2013/02/05/collinearity-and-stepwise-vif-selection/
 - http://www.sthda.com/english/wiki/visualize-correlation-matrix-using-correlogram
 - http://www.r-bloggers.com/regularization-implementation-in-r-bais-and-variance-diagnosis/
 - https://nsaunders.wordpress.com/2010/08/20/a-brief-introduction-to-apply-in-r/
 - https://github.com/eddelbuettel/rcppexamples
-
-### Blogs
-##### Stata, SAS, R - examples
-- http://www.ats.ucla.edu/stat/dae/
-
-##### dplyr - operations apply
 - http://www.jstatsoft.org/v40/i01
-
-##### quick introduction
-- http://www.datasciencecentral.com/m/blogpost?id=6448529:BlogPost:415828 
-
-##### e.g. one of the methods
+- https://github.com/cdeterman/gpuR
 - http://www.statmethods.net/management/reshape.html
-
-##### arules tutor
 - http://michael.hahsler.net/research/arules_RUG_2015/demo/R_arules_demo_SQF2012.R
 
  
@@ -159,13 +145,6 @@
 
 ##### maps and graphs
 - http://www.stevebronder.com/news/2014/8/3/8el0szzsaxhfiljvkf8f4uty2yiinh
-
-
-##### szeregi czasowe w R (in Polish)
-- http://www.ioz.pwr.wroc.pl/Pracownicy/kaplon/R/R_szeregi.htm
-
-##### GPUGP libraries in R and Python
- - https://github.com/cdeterman/gpuR
 
 ##### Books materials in machine learning, statistical learning
  - https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-r
@@ -187,6 +166,11 @@
  - https://wiki.haskell.org/Logic_programming_example
  - http://ki.pwr.edu.pl/kobylanski/prolog/blog-3/files/42125af16d17524ffaa270c6c76eabce-2.html
 
+### Fuzzy Logic in Arduino
+ - http://www.zerokol.com/2012/09/arduinofuzzy-fuzzy-library-for-arduino.html
+ - https://github.com/zerokol/eFLL
+ - https://gist.github.com/zerokol/4110773 
+ 
 ##### Not working links
  - http://www.rmdk.ca/boosting_forests_bagging.html
  - https://unsupervisedmethods.com/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78
