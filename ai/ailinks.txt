@@ -1,4 +1,4 @@
-### Tutorials
+### Tutorials, courses
  - [R leaflets](http://www.wekaleamstudios.co.uk/supplementary-material/)
  - https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/
  - https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks
@@ -6,9 +6,13 @@
  - https://awesome-r.com/
  - https://github.com/rstudio-education/rstats-ed
 
-### Online Books
+### Online Books, helpful manuals
  - https://www.msperlin.com/pafdR/
  - http://www.deeplearningbook.org/
+ - https://a-little-book-of-r-for-biomedical-statistics.readthedocs.io/en/latest/
+ - https://a-little-book-of-r-for-time-series.readthedocs.io/en/latest/
+ - https://little-book-of-r-for-multivariate-analysis.readthedocs.io/en/latest/
+ - https://www.r-project.org/other-docs.html
   
 ##### Comparison of R with Python 
 - https://www.dataquest.io/blog/python-vs-r/
@@ -208,9 +212,6 @@
 - https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-r
 - https://github.com/dataspelunking/MLwR
 - https://www.packtpub.com/sites/default/files/downloads/Machine_Learning_With_R_Second_Edition_ColoredImages.pdf
-
-##### R docs
-- https://www.r-project.org/other-docs.html
 
 ##### Introduction to Statistical Learning
  - http://www-bcf.usc.edu/~gareth/ISL/code.html 
