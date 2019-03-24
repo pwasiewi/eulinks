@@ -7,6 +7,8 @@
 
 ##### Machine learning in Python and not only
  - https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks
+ - https://github.com/odewahn/ipynb-examples
+ - https://medium.com/fundbox-engineering/overview-d3759e83969c
  - https://medium.freecodecamp.org/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0
  - https://unsupervisedmethods.com/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78
  - https://deepmind.com/blog/deepmind-and-blizzard-open-starcraft-ii-ai-research-environment/
