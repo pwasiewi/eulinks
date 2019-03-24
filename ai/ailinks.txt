@@ -44,14 +44,15 @@
  - http://dimensionless.in/rblog/SVM_blog.html
  - [The site with R tutorials for regression and svm - a free ebook about svm!](https://www.svm-tutorial.com/2014/10/support-vector-regression-r/)
  - [Visualization of the svm square kernel transformation](https://www.r-bloggers.com/learning-kernels-svm/)
- - http://www.svm-tutorial.com/2014/10/support-vector-regression-r/
- - http://www.r-bloggers.com/learning-kernels-svm/
  - http://www.r-bloggers.com/the-5th-tribe-support-vector-machines-and-caret/
 
 ##### Reinforcement and similar case studies
  - http://www.wildml.com/
  - https://deepmind.com/blog/deepmind-and-blizzard-open-starcraft-ii-ai-research-environment/
  - http://hunch.net/~jl/projects/RL/RLTheoryTutorial.pdf
+ - http://www.wildml.com/2016/10/learning-reinforcement-learning/
+ - https://cran.r-project.org/web/packages/ReinforcementLearning/vignettes/ReinforcementLearning.html
+ - https://deepmind.com/blog/deepmind-and-blizzard-open-starcraft-ii-ai-research-environment/
 
 ##### Caret multiclassifier package
  - [Short intro to the classifier library wrapper caret](https://cran.r-project.org/web/packages/caret/vignettes/caret.html)
@@ -72,10 +73,6 @@
 
 ### Deep learning
  - http://www.deeplearningbook.org/
- - http://www.wildml.com/2016/10/learning-reinforcement-learning/
- - https://cran.r-project.org/web/packages/ReinforcementLearning/vignettes/ReinforcementLearning.html
- - http://www.wildml.com/
- - https://deepmind.com/blog/deepmind-and-blizzard-open-starcraft-ii-ai-research-environment/
  - https://github.com/tomepel/Technical_Book_DL
  - http://colah.github.io/posts/2015-08-Understanding-LSTMs/
  - http://ruder.io/#open
@@ -86,7 +83,7 @@
  - http://deeplearning.net/software/libgpuarray/
  - https://github.com/h2oai/h2o-3
 
-##### Deep and standard neural nets examples (in R, Python)
+##### Standard neural nets examples (in R, Python)
 - http://vknight.org/unpeudemath/python/2017/09/16/using-python-in-R-to-study-the-ipd.html
 - https://cran.r-project.org/web/packages/h2o4gpu/vignettes/getting_started.html
 - http://hydroecology.net/fun-with-reticulate-salib/
