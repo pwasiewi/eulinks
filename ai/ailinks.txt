@@ -44,6 +44,7 @@
  - https://elitedatascience.com/imbalanced-classes
  - http://vknight.org/unpeudemath/python/2017/09/16/using-python-in-R-to-study-the-ipd.html
  - http://hydroecology.net/fun-with-reticulate-salib/
+ - https://towardsdatascience.com/
  
  ##### IPython Jupyter case studies, tutors, tools
   - https://ipython-books.github.io/
