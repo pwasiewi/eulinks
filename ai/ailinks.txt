@@ -108,7 +108,9 @@
 ##### Basics of Tensorflow 
  - https://medium.com/@d3lm/understand-tensorflow-by-mimicking-its-api-from-scratch-faa55787170d
  - https://codesachin.wordpress.com/2015/11/28/self-organizing-maps-with-googles-tensorflow/
+ - https://github.com/nfmcclure/tensorflow_cookbook/blob/master/11_More_with_TensorFlow/02_Working_with_a_Genetic_Algorithm/02_genetic_algorithm.py
  * [Tensorflow in R](https://tensorflow.rstudio.com/)
+ 
 
 ### Microsoft R Python ML
  - https://blogs.msdn.microsoft.com/mlserver/2018/07/26/dockerizing-r-and-python-web-services/
