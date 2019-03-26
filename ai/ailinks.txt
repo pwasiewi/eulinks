@@ -104,6 +104,7 @@
 * http://www.r-bloggers.com/self-organising-maps-for-customer-segmentation-using-r-2/ 
 * http://www.r-bloggers.com/visualizing-neural-networks-in-r-update/
 * http://www.r-bloggers.com/visualizing-neural-networks-from-the-nnet-package/ 
+ - [Deep Learning introduction (in Polish)](https://pclab.pl/art79689.html)
 
 ##### Basics of Tensorflow 
  - https://medium.com/@d3lm/understand-tensorflow-by-mimicking-its-api-from-scratch-faa55787170d
