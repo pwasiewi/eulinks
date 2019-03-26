@@ -146,7 +146,7 @@
  
 ##### R webinars
 - https://vimeo.com/89562453
-- (https://www.youtube.com/watch?v=7Jbb2ItbTC4)[Caret webinar]
+- [Caret webinar](https://www.youtube.com/watch?v=7Jbb2ItbTC4)
 - http://www.r-bloggers.com/caret-webinar-materials/
 - https://cran.r-project.org/web/packages/RSelenium/vignettes/webinar.html
 
