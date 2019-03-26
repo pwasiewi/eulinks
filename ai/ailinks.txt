@@ -45,6 +45,7 @@
  - http://vknight.org/unpeudemath/python/2017/09/16/using-python-in-R-to-study-the-ipd.html
  - http://hydroecology.net/fun-with-reticulate-salib/
  - https://towardsdatascience.com/
+ - https://datascienceplus.com/using-mongodb-with-r/
  
  ##### IPython Jupyter case studies, tutors, tools
   - https://ipython-books.github.io/
@@ -123,6 +124,9 @@
  - https://msropendata.com/
  - http://htmlpreview.github.io/?https://github.com/lixzhang/R-MRO-MRS/blob/master/Introduction_to_MRO_and_MRS.html
  - https://github.com/nuest/docker-mro
+ - https://blog.revolutionanalytics.com/2011/04/new-functions-for-linear-model-inference-in-4-3.html
+ - https://github.com/mmparker-msft/intro_to_mrs
+ - https://github.com/Microsoft/MRSWorkshopStudent/tree/master/Labs
 
 ### Basic R methods & analysis
 - https://beckmw.wordpress.com/2013/02/05/collinearity-and-stepwise-vif-selection/
