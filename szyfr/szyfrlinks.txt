@@ -32,3 +32,9 @@
  - https://github.com/lucrussell/tiny-blockchain
  - https://medium.com/crypto-currently/lets-build-the-tiniest-blockchain-e70965a248b
 
+### Cryptsetup
+ - https://we.riseup.net/riseuphelp+en/disk-encryption-kde
+ - https://security.stackexchange.com/questions/5158/for-luks-the-most-preferable-and-safest-cipher
+ - https://superuser.com/questions/775200/how-do-i-determine-what-ciphers-cipher-modes-i-can-use-in-dm-crypt-luks/1407458#1407458
+ - https://wiki.gentoo.org/wiki/Dm-crypt_full_disk_encryption
+ - https://wiki.archlinux.org/index.php/dm-crypt/Device_encryption
