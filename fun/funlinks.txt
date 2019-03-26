@@ -20,3 +20,9 @@
 ## Komiksy muzealne
  - http://comicbookplus.com/
  - http://digitalcomicmuseum.com/
+ 
+## Factorio
+ - https://factorioprints.com/
+ - https://github.com/goofball222/factorio
+ - https://forums.factorio.com/viewtopic.php?f=53&p=397798#p397798
+ 
