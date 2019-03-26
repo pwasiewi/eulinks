@@ -38,3 +38,6 @@
  - https://superuser.com/questions/775200/how-do-i-determine-what-ciphers-cipher-modes-i-can-use-in-dm-crypt-luks/1407458#1407458
  - https://wiki.gentoo.org/wiki/Dm-crypt_full_disk_encryption
  - https://wiki.archlinux.org/index.php/dm-crypt/Device_encryption
+ 
+### Online key wallets
+ - https://www.reddit.com/r/homelab/comments/7yefth/what_to_replace_lastpass_with/?sort=new
