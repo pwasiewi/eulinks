@@ -139,6 +139,7 @@
 - http://www.statmethods.net/management/reshape.html
 - http://michael.hahsler.net/research/arules_RUG_2015/demo/R_arules_demo_SQF2012.R
 - http://www.stevebronder.com/news/2014/8/3/8el0szzsaxhfiljvkf8f4uty2yiinh
+- https://www.r-bloggers.com/pca-and-k-means-clustering-of-delta-aircraft/
  
 ##### R webinars
 - https://vimeo.com/89562453
