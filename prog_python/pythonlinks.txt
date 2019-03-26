@@ -12,6 +12,7 @@
 ## Ćwiczenia
  - https://www.reddit.com/r/dailyprogrammer/
  - https://www.reddit.com/r/todayilearned/
+ - https://prickly-pythons.github.io/python_code/pricklies_speedops.html
  
 ## Youtuberzy programiści - kursy!
  - https://www.youtube.com/user/koushks/playlists
