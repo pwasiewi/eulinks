@@ -138,7 +138,7 @@
 - https://nsaunders.wordpress.com/2010/08/20/a-brief-introduction-to-apply-in-r/
 - https://github.com/eddelbuettel/rcppexamples
 - http://www.jstatsoft.org/v40/i01
-- https://github.com/cdeterman/gpuR [OpenCL kernels in R]
+- [https://github.com/cdeterman/gpuR](OpenCL kernels directly in R)
 - http://www.statmethods.net/management/reshape.html
 - http://michael.hahsler.net/research/arules_RUG_2015/demo/R_arules_demo_SQF2012.R
 - http://www.stevebronder.com/news/2014/8/3/8el0szzsaxhfiljvkf8f4uty2yiinh
@@ -146,7 +146,7 @@
  
 ##### R webinars
 - https://vimeo.com/89562453
-- https://www.youtube.com/watch?v=7Jbb2ItbTC4 #caretwebinar
+- [https://www.youtube.com/watch?v=7Jbb2ItbTC4](Caret webinar)
 - http://www.r-bloggers.com/caret-webinar-materials/
 - https://cran.r-project.org/web/packages/RSelenium/vignettes/webinar.html
 
