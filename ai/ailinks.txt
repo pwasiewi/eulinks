@@ -54,6 +54,7 @@
   - https://github.com/apache/spark/tree/master/examples/src/main
   - https://medium.com/fundbox-engineering/overview-d3759e83969c
   - https://spark.apache.org/
+  - https://medium.com/@GaryStafford/getting-started-with-pyspark-for-big-data-analytics-using-jupyter-notebooks-and-docker-ba39d2e3d6c7
   
 ##### SVM case studies & examples
  - http://blog.echen.me/2017/05/30/exploring-lstms/
