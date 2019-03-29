@@ -2,6 +2,11 @@
 ### Kursy sieciowe 
  - https://www.cybrary.it/
  
+### Minikube 
+ - https://github.com/kubernetes/minikube
+ - https://kubernetes.io/docs/tutorials/hello-minikube/
+ - https://kubernetes.io/docs/reference/kubectl/docker-cli-to-kubectl/
+ 
 ### Bazy danych dla dockerów
  - https://blog.yugabyte.com/docker-kubernetes-and-the-rise-of-cloud-native-databases/
 
