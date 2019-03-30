@@ -1,5 +1,6 @@
 ### ATTINY25
  - https://sekurak.pl/pendrive-przejmujacy-komputer-za-30-zlotych/
+ - http://www.fourwalledcubicle.com/LUFA.php
 
 ### TABLICE TĘCZOWE 
  * https://www.freerainbowtables.com/articles/introduction_to_rainbow_tables/ 
