@@ -17,6 +17,7 @@
  - https://github.com/kubevirt/demo
  - https://github.com/zzOzz/minikube-gitlab-tutorial
  - https://github.com/jmccann/drone-in-minikube
+ - https://github.com/whindes/alpine-minikube
  - https://asciinema.org/a/134953
  - https://asciinema.org/a/98639
  - https://asciinema.org/a/210283
