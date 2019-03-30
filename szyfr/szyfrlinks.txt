@@ -9,6 +9,7 @@
  - https://medium.com/@EatonChips/building-a-usb-rubber-ducky-for-7-c851aae30a1d
  - https://github.com/beargun/Adafruit-Trinket-Gemma-Bootloader
  - https://shop.pimoroni.com/products/zero-stem-usb-otg-connector
+ - https://shop.hak5.org/products/usb-rubber-ducky-deluxe
  - https://rufus.ie/ 
 
 ### TABLICE TĘCZOWE 
