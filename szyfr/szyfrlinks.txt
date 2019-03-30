@@ -10,6 +10,7 @@
  - https://github.com/beargun/Adafruit-Trinket-Gemma-Bootloader
  - https://shop.pimoroni.com/products/zero-stem-usb-otg-connector
  - https://shop.hak5.org/products/usb-rubber-ducky-deluxe
+ - https://pl.aliexpress.com/item/ATTINY88-micro-development-board-16-Mhz-Digispark-ATTINY85-zmodernizowane-NANO-V3-0-ATmega328-rozszerzona-kompatybilny/32995174990.html
  - https://rufus.ie/ 
 
 ### TABLICE TĘCZOWE 
