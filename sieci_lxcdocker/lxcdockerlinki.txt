@@ -7,6 +7,7 @@
  - https://kubernetes.io/docs/tutorials/hello-minikube/
  - https://kubernetes.io/docs/setup/minikube/
  - https://kubecloud.io/minikube-workflows-d7166e1da290
+ - https://github.com/dysinger/learn-minikube
  - https://kubernetes.io/docs/reference/kubectl/docker-cli-to-kubectl/
  - https://docs.openstack.org/kolla-kubernetes/0.3.0/minikube-quickstart.html
  - https://github.com/dhiltgen/docker-machine-kvm
