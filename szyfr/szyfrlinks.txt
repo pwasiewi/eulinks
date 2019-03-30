@@ -5,6 +5,7 @@
  - https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Payloads
  - https://www.immunity-systems.com/hidude_doc/
  - https://github.com/immunity-systems/hidude
+ - https://shop.pimoroni.com/products/zero-stem-usb-otg-connector
  - https://rufus.ie/ 
 
 ### TABLICE TĘCZOWE 
