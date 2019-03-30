@@ -6,6 +6,7 @@
  - https://docs.openstack.org/devstack/latest/guides/single-machine.html
  - https://docs.openstack.org/devstack/latest/guides/single-vm.html
  - https://serenity-networks.com/install-openstack-on-one-virtual-machine-the-easy-way-on-ubuntu-16-04-lts/
+ - https://linuxhint.com/install_openstack_centos/
  
 ### Minikube 
  - https://github.com/kubernetes/minikube
