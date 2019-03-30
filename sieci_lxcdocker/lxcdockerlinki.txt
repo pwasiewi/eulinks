@@ -20,6 +20,7 @@
  - https://github.com/whindes/alpine-minikube
  - https://github.com/ryandawsonuk/minions
  - https://github.com/siphesande/magento2-minikube
+ - https://github.com/acinwinstack/minikube-intro-workshop
  - https://asciinema.org/a/134953
  - https://asciinema.org/a/98639
  - https://asciinema.org/a/210283
