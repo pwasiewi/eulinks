@@ -9,6 +9,10 @@
  - https://kubernetes.io/docs/reference/kubectl/docker-cli-to-kubectl/
  - https://docs.openstack.org/kolla-kubernetes/0.3.0/minikube-quickstart.html
  - https://github.com/dhiltgen/docker-machine-kvm
+ - https://github.com/janakiramm/minikube-demo
+ - https://microservices-demo.github.io/deployment/kubernetes-minikube.html
+ - https://asciinema.org/a/134953
+
  
 ### Bazy danych dla dockerów
  - https://blog.yugabyte.com/docker-kubernetes-and-the-rise-of-cloud-native-databases/
