@@ -4,6 +4,7 @@
  - https://hackaday.io/project/17598-diy-usb-rubber-ducky
  - https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Payloads
  - https://www.immunity-systems.com/hidude_doc/
+ - https://github.com/immunity-systems/hidude
  - https://rufus.ie/ 
 
 ### TABLICE TĘCZOWE 
