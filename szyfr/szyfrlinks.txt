@@ -1,4 +1,4 @@
-### ATTINY25
+### ATTINY25 & key loggers
  - https://sekurak.pl/pendrive-przejmujacy-komputer-za-30-zlotych/
  - http://www.fourwalledcubicle.com/LUFA.php
  - https://hackaday.io/project/17598-diy-usb-rubber-ducky
@@ -15,6 +15,8 @@
  - https://pl.aliexpress.com/item/Free-shipping-1pcs-Digispark-kickstarter-development-board-ATTINY85-module-for-Arduino-usb/32697283942.html
  - https://pl.aliexpress.com/item/ATTINY88-micro-development-board-16-Mhz-Digispark-ATTINY85-zmodernizowane-NANO-V3-0-ATmega328-rozszerzona-kompatybilny/32995174990.html
  - https://rufus.ie/ 
+ - https://github.com/spacehuhn/wifi_keylogger
+
 
 ### TABLICE TĘCZOWE 
  * https://www.freerainbowtables.com/articles/introduction_to_rainbow_tables/ 
