@@ -10,6 +10,8 @@
  - https://github.com/beargun/Adafruit-Trinket-Gemma-Bootloader
  - https://shop.pimoroni.com/products/zero-stem-usb-otg-connector
  - https://shop.hak5.org/products/usb-rubber-ducky-deluxe
+ - https://maker.pro/arduino/projects/how-to-build-a-rubber-ducky-usb-with-arduino-using-a-digispark-module
+ - https://pl.aliexpress.com/item/Free-shipping-1pcs-Digispark-kickstarter-development-board-ATTINY85-module-for-Arduino-usb/32697283942.html
  - https://pl.aliexpress.com/item/ATTINY88-micro-development-board-16-Mhz-Digispark-ATTINY85-zmodernizowane-NANO-V3-0-ATmega328-rozszerzona-kompatybilny/32995174990.html
  - https://rufus.ie/ 
 
