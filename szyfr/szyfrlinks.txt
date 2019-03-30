@@ -6,6 +6,8 @@
  - https://www.immunity-systems.com/hidude_doc/
  - https://github.com/immunity-systems/hidude
  - [Adafruit Trinket](https://www.adafruit.com/product/1501)
+ - https://medium.com/@EatonChips/building-a-usb-rubber-ducky-for-7-c851aae30a1d
+ - https://github.com/beargun/Adafruit-Trinket-Gemma-Bootloader
  - https://shop.pimoroni.com/products/zero-stem-usb-otg-connector
  - https://rufus.ie/ 
 
