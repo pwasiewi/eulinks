@@ -15,6 +15,7 @@
  - https://microservices-demo.github.io/deployment/kubernetes-minikube.html
  - https://github.com/pkdone/minikube-mongodb-demo
  - https://github.com/kubevirt/demo
+ - https://github.com/zzOzz/minikube-gitlab-tutorial
  - https://asciinema.org/a/134953
  - https://asciinema.org/a/98639
  - https://asciinema.org/a/210283
