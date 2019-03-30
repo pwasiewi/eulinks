@@ -1,6 +1,10 @@
 :cloud:
 ### Kursy sieciowe 
  - https://www.cybrary.it/
+
+### Openstack
+ - https://docs.openstack.org/devstack/latest/guides/single-machine.html
+ - https://docs.openstack.org/devstack/latest/guides/single-vm.html
  
 ### Minikube 
  - https://github.com/kubernetes/minikube
@@ -25,8 +29,6 @@
  - https://asciinema.org/a/134953
  - https://asciinema.org/a/98639
  - https://asciinema.org/a/210283
-
-
  
 ### Bazy danych dla dockerów
  - https://blog.yugabyte.com/docker-kubernetes-and-the-rise-of-cloud-native-databases/
