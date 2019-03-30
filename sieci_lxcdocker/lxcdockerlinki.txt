@@ -9,7 +9,7 @@
  - https://kubecloud.io/minikube-workflows-d7166e1da290
  - https://github.com/dysinger/learn-minikube
  - https://kubernetes.io/docs/reference/kubectl/docker-cli-to-kubectl/
- - https://docs.openstack.org/kolla-kubernetes/0.3.0/minikube-quickstart.html
+ - http://kubevirt.io/quickstart_minikube/
  - https://github.com/dhiltgen/docker-machine-kvm
  - https://github.com/janakiramm/minikube-demo
  - https://microservices-demo.github.io/deployment/kubernetes-minikube.html
@@ -21,6 +21,7 @@
  - https://github.com/ryandawsonuk/minions
  - https://github.com/siphesande/magento2-minikube
  - https://github.com/acinwinstack/minikube-intro-workshop
+ - https://docs.openstack.org/kolla-kubernetes/0.3.0/minikube-quickstart.html
  - https://asciinema.org/a/134953
  - https://asciinema.org/a/98639
  - https://asciinema.org/a/210283
