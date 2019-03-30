@@ -1,6 +1,7 @@
 ### ATTINY25
  - https://sekurak.pl/pendrive-przejmujacy-komputer-za-30-zlotych/
  - http://www.fourwalledcubicle.com/LUFA.php
+ - https://hackaday.io/project/17598-diy-usb-rubber-ducky
 
 ### TABLICE TĘCZOWE 
  * https://www.freerainbowtables.com/articles/introduction_to_rainbow_tables/ 
