@@ -28,6 +28,7 @@
  - https://github.com/oktadeveloper/jhipster-microservices-example
  - https://github.com/nahidulhasan/laravel-docker-k8s
  - https://github.com/reachlin/k8s0
+ - https://github.com/gkocur/minikube-workshop
  - https://docs.openstack.org/kolla-kubernetes/0.3.0/minikube-quickstart.html
  - https://asciinema.org/a/134953
  - https://asciinema.org/a/98639
