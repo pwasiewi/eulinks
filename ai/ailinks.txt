@@ -47,6 +47,7 @@
  - https://towardsdatascience.com/
  - https://datascienceplus.com/using-mongodb-with-r/
  - [Exploratory data analysis on Green Taxis](http://rstudio-pubs-static.s3.amazonaws.com/326454_0e4d6355b75a4578bebac6cd99cc319f.html)
+ - [NYC Taxi Duration Exploratory Data Analysis](https://rpubs.com/kimnewzealand/298073)
  
  ##### IPython Jupyter case studies, tutors, tools
   - https://ipython-books.github.io/
