@@ -5,6 +5,7 @@
 ### Openstack
  - https://superuser.openstack.org/articles/openstack-basics-beginner/
  - [Getting Started With OpenStack](https://www.youtube.com/watch?v=-xsvYo0_cZg)
+ - https://radez.fedorapeople.org/Vagrantfile
  - https://docs.openstack.org/devstack/latest/guides/single-machine.html
  - https://docs.openstack.org/devstack/latest/guides/single-vm.html
  - https://serenity-networks.com/install-openstack-on-one-virtual-machine-the-easy-way-on-ubuntu-16-04-lts/
