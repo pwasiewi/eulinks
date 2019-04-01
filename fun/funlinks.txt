@@ -29,4 +29,5 @@
 ## BrickPI
  - https://www.dexterindustries.com/product/brickpi-advanced-for-raspberry-pi/
  - https://www.ev3dev.org/
+ - https://www.dexterindustries.com/raspberry-pi-robot-software/
  
