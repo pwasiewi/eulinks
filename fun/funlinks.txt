@@ -37,3 +37,5 @@
  - https://mycroft.ai/
  - https://mycroft.ai/documentation/picroft
  - https://towardsdatascience.com/piexa-raspberry-pi-amazon-alexa-a-step-by-step-guide-to-build-your-own-hands-free-alexa-with-285c4bc73705
+ - https://www.hackster.io/amazon-alexa
+ - https://github.com/alexa/skill-sample-nodejs-fact
