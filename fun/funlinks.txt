@@ -26,7 +26,8 @@
  - https://github.com/goofball222/factorio
  - https://forums.factorio.com/viewtopic.php?f=53&p=397798#p397798
  
-## BrickPI
+## Lego BrickPI 
+ - http://pdwhomeautomation.blogspot.com/2012/11/raspberry-pi-powered-lego-car.html
  - https://www.dexterindustries.com/product/brickpi-advanced-for-raspberry-pi/
  - https://www.ev3dev.org/
  - https://www.dexterindustries.com/raspberry-pi-robot-software/
