@@ -110,6 +110,9 @@
 * http://www.r-bloggers.com/visualizing-neural-networks-in-r-update/
 * http://www.r-bloggers.com/visualizing-neural-networks-from-the-nnet-package/ 
  - [Deep Learning introduction (in Polish)](https://pclab.pl/art79689.html)
+* https://towardsdatascience.com/adam-latest-trends-in-deep-learning-optimization-6be9a291375c
+* https://towardsdatascience.com/https-medium-com-piotr-skalski92-deep-dive-into-deep-networks-math-17660bc376ba
+* https://github.com/SkalskiP/ILearnDeepLearning.py
 
 ##### Basics of Tensorflow 
  - https://medium.com/@d3lm/understand-tensorflow-by-mimicking-its-api-from-scratch-faa55787170d
