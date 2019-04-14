@@ -99,6 +99,7 @@
  - http://www.deeplearningbook.org/
  - https://github.com/tomepel/Technical_Book_DL
  - http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+ - [Deep Learning introduction (in Polish)](https://pclab.pl/art79689.html)
  - http://ruder.io/#open
  - http://cs231n.github.io/convolutional-networks/
  - https://blog.pocketcluster.io/
@@ -111,7 +112,6 @@
 * http://www.r-bloggers.com/self-organising-maps-for-customer-segmentation-using-r-2/ 
 * http://www.r-bloggers.com/visualizing-neural-networks-in-r-update/
 * http://www.r-bloggers.com/visualizing-neural-networks-from-the-nnet-package/ 
- - [Deep Learning introduction (in Polish)](https://pclab.pl/art79689.html)
 * https://towardsdatascience.com/adam-latest-trends-in-deep-learning-optimization-6be9a291375c
 * https://towardsdatascience.com/https-medium-com-piotr-skalski92-deep-dive-into-deep-networks-math-17660bc376ba
 * https://github.com/SkalskiP/ILearnDeepLearning.py
