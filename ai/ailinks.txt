@@ -28,6 +28,7 @@
  - http://www.statmethods.net/ 
  - http://personality-project.org/r/r.guide.html
  - http://www.datasciencecentral.com/m/blogpost?id=6448529:BlogPost:415828 
+ - https://towardsdatascience.com/https-medium-com-vishalmorde-xgboost-algorithm-long-she-may-rein-edd9f99be63d
   
 #### Comparison of R with Python 
 - https://www.dataquest.io/blog/python-vs-r/
