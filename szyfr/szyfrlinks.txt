@@ -1,3 +1,8 @@
+### Security
+ - https://www.freeipa.org/page/Using_Yubikey_4_Nano_to_authenticate_to_FreeIPA_enrolled_host
+ - http://www.keepassdroid.com/
+ - https://keepassxc.org/
+
 ### ATTINY25 & key loggers
  - https://sekurak.pl/pendrive-przejmujacy-komputer-za-30-zlotych/
  - http://www.fourwalledcubicle.com/LUFA.php
