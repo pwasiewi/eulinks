@@ -86,7 +86,7 @@ emerge minetest minetest_game
 ##### MINECLONE2 https://forum.minetest.net/viewtopic.php?f=50&t=16407
 ```
 cd /usr/share/minetest/games
-[ ! -f MineClone2.zip ] && wget http://repo.or.cz/MineClone/MineClone2.git/snapshot/5e31db04d7f68c0da6e08fc273d3d3347da26e13.zip -O MineClone2.zip && unzip MineClone2.zip && mv MineClone2-5e31db0 MineClone2 && rm MineClone2.zip
+[ ! -f MineClone2.zip ] && wget https://repo.or.cz/MineClone/MineClone2.git/snapshot/0.53.2.zip -O MineClone2.zip && unzip MineClone2.zip && mv MineClone2-0.53.2-d43caec MineClone2 && rm MineClone2.zip
 # ten mineclone2 jest jednak zbyt eksperymentalny i może brakować plików!!! 
 # git clone http://repo.or.cz/MineClone/MineClone2.git
 ```
