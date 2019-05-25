@@ -109,7 +109,8 @@ cd /usr/share/minetest/games/minetest_game/mods
 [ ! -d 3d_armor ] && wget  https://github.com/stujones11/minetest-3d_armor/archive/master.zip -O 3d_armor-master.zip && unzip 3d_armor-master.zip && rm 3d_armor-master.zip && mv minetest-3d_armor-master 3d_armor
 # można tez z: git clone https://github.com/stujones11/minetest-3d_armor 3d_armor
 for i in moreblocks moreores pipeworks mesecons technic; do [ ! -d $i ] && git clone https://github.com/minetest-mods/$i; done;
-for i in smartshop aliveai; do [ ! -d $i ] && git clone https://github.com/AiTechEye/$i; done;
+[ ! -d smartshop ] && git clone https://github.com/AiTechEye/smartshop
+[ ! -d aliveai ] && git clone https://github.com/AiTechEye/aliveai
 mv aliveai alive && mv alive/* . && rm -rf alive
 sed -i 's/status=false/status=true/g' aliveai/init.lua 
 sed -i 's/Sam/euteam/g' aliveai/init.lua 
