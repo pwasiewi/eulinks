@@ -49,13 +49,43 @@
  - https://www.question-defense.com/2010/08/15/automated-password-cracking-use-oclhashcat-to-launch-a-fingerprint-attack
  - 
 
-### MINING
- - https://www.bestvpn.com/ethereum-mining/
- - https://etherscan.io/ether-mining-calculator
+### Podstawy blockchaina i kryptowaluty
+- https://medium.com/@iwetalaskowska/darmowe-materia%C5%82y-do-nauki-o-kryptowalutach-oraz-blockchainie-3d252d0b2dfb
+- https://www.reddit.com/r/BlockchainSchool/comments/aewk4a/material_to_study/
+- https://blog.goodaudience.com/how-a-miner-adds-transactions-to-the-blockchain-in-seven-steps-856053271476
+- https://medium.com/coinmonks/what-is-a-51-attack-or-double-spend-attack-aa108db63474
+- https://medium.com/@iwetalaskowska/skalowalno%C5%9B%C4%87-blockchaina-zrozumie%C4%87-ethereum-2-o-d2db17125bcf
+
+### Zastosowania blockchaina
+- https://medium.com/@iwetalaskowska/hyperledger-fabric-w-pigu%C5%82ce-e01e7d3a3e2d
+- https://hyperledger-fabric.readthedocs.io/
+- https://filecoin.io/ #storage
+- https://www.iota.org/ #graphchains Tangle
+- https://medium.com/@iwetalaskowska/internet-rzeczy-iot-czyli-zastosowanie-kryptowaluty-iota-e7df044f61f3
+
+### Zabawa w kopanie słabych zagrożonych włamaniem 51% walut
+- https://themoneymongers.com/best-cryptocurrency-coin-to-mine-with-gpu/
+- https://www.coingecko.com/pl
+- https://trezor.io/coins/
+- https://github.com/ryo-currency/ryo-wallet
+- https://github.com/fireice-uk/xmr-stak
+- https://www.bestvpn.com/ethereum-mining/
+- https://etherscan.io/ether-mining-calculator
+- https://getnerva.org/
+- https://getmasari.org/index.html
+- https://github.com/turtlecoin/turtle-wallet-electron
+- https://turtlecoin.lol/
+- http://www.truechain.pro/en/
+- https://github.com/nanopool
+
+### Proste przykłady blockchaina
  - https://hackernoon.com/a-cryptocurrency-implementation-in-less-than-1500-lines-of-code-d3812bedb25c
  - https://lhartikk.github.io/
+ - https://github.com/lhartikk/naivecoin
  - https://github.com/lucrussell/tiny-blockchain
  - https://medium.com/crypto-currently/lets-build-the-tiniest-blockchain-e70965a248b
+ - https://github.com/Viraj3f/SimpleCoin
+ - https://github.com/cosme12/SimpleCoin
 
 ### Cryptsetup
  - https://we.riseup.net/riseuphelp+en/disk-encryption-kde
