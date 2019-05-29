@@ -65,6 +65,9 @@
 
 ### Zabawa w kopanie słabych zagrożonych włamaniem 51% walut
 - https://themoneymongers.com/best-cryptocurrency-coin-to-mine-with-gpu/
+- https://www.cryptunit.com/coin/RYO
+- https://coinpaprika.com/pl/
+- https://www.cryptomiso.com/
 - https://www.coingecko.com/pl
 - https://trezor.io/coins/
 - https://github.com/ryo-currency/ryo-wallet
