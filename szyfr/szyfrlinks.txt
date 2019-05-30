@@ -63,6 +63,9 @@
 - https://www.iota.org/ #graphchains Tangle
 - https://medium.com/@iwetalaskowska/internet-rzeczy-iot-czyli-zastosowanie-kryptowaluty-iota-e7df044f61f3
 
+### Teoria blockchaina
+- https://blog.ethereum.org/2014/11/25/proof-stake-learned-love-weak-subjectivity/
+
 ### Zabawa w kopanie słabych zagrożonych włamaniem 51% walut
 - https://themoneymongers.com/best-cryptocurrency-coin-to-mine-with-gpu/
 - https://www.cryptunit.com/coin/RYO
