@@ -83,6 +83,7 @@
 - https://turtlecoin.lol/
 - http://www.truechain.pro/en/
 - https://github.com/nanopool
+- https://bitcointalk.org/index.php?topic=1424132.0
 
 ### Proste przykłady blockchaina
  - https://hackernoon.com/a-cryptocurrency-implementation-in-less-than-1500-lines-of-code-d3812bedb25c
