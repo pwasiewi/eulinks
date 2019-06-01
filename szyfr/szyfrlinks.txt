@@ -62,6 +62,8 @@
 - https://filecoin.io/ #storage
 - https://www.iota.org/ #graphchains Tangle
 - https://medium.com/@iwetalaskowska/internet-rzeczy-iot-czyli-zastosowanie-kryptowaluty-iota-e7df044f61f3
+- https://cryptozombies.io
+- https://truffleframework.com/
 
 ### Teoria blockchaina
 - https://blog.ethereum.org/2014/11/25/proof-stake-learned-love-weak-subjectivity/
