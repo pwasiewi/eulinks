@@ -41,6 +41,8 @@
  - http://www.commandlinefu.com/commands/view/13718/mount-a-vmware-virtual-disk-.vmdk-file-on-a-linux-box
 
 #### pfSense, vpn ipsec i inne
+ - https://blog.vonhewitt.com/2017/08/pfsense-openvpn-setup-with-freeradius3p3/
+ - https://journeyofthegeek.com/2017/12/30/pfsense-squid-kerberos/
  - https://techknight.eu/tag/pfsense/
  - https://aikester.com/2016/09/load-balancing-with-pfsense/
  - https://community.spiceworks.com/topic/1247282-pfsense-carp-openvpn-not-working
