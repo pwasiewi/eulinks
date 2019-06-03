@@ -54,6 +54,7 @@
 - https://blog.goodaudience.com/how-a-miner-adds-transactions-to-the-blockchain-in-seven-steps-856053271476
 - https://medium.com/coinmonks/what-is-a-51-attack-or-double-spend-attack-aa108db63474
 - https://medium.com/@iwetalaskowska/skalowalno%C5%9B%C4%87-blockchaina-zrozumie%C4%87-ethereum-2-o-d2db17125bcf
+- http://www.sages.com.pl/blog/temat/blockchain/
 
 ### Zastosowania blockchaina
 - https://medium.com/@iwetalaskowska/hyperledger-fabric-w-pigu%C5%82ce-e01e7d3a3e2d
