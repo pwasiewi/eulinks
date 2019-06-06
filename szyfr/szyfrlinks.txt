@@ -110,6 +110,8 @@
  - https://medium.com/crypto-currently/lets-build-the-tiniest-blockchain-e70965a248b
  - https://github.com/Viraj3f/SimpleCoin
  - https://github.com/cosme12/SimpleCoin
+ - https://medium.com/coinmonks/implementing-proof-of-stake-e26fa5fb8716
+ - https://medium.com/coinmonks/implementing-blockchain-and-cryptocurrency-with-pow-consensus-algorithm-part-1-545fb32be0c2
  
 ### Online key wallets
  - https://www.reddit.com/r/homelab/comments/7yefth/what_to_replace_lastpass_with/?sort=new
