@@ -8,6 +8,7 @@
  - https://help.ubuntu.com/community/GnuPrivacyGuardHowto
  - https://riseup.net/en/security/message-security/openpgp/best-practices
  - https://www.jabberwocky.com/software/paperkey/
+ - https://ttmm.io/tech/yubikey/
  
  
 ### Cryptsetup
