@@ -4,7 +4,18 @@
  - https://keepassxc.org/
  - https://github.com/keepassxreboot/keepassxc/blob/develop/docs/QUICKSTART.md#using-sharing
  - https://www.hanselman.com/blog/HowToSetupSignedGitCommitsWithAYubiKeyNEOAndGPGAndKeybaseOnWindows.aspx
+ - https://github.com/drduh/YubiKey-Guide
+ - https://help.ubuntu.com/community/GnuPrivacyGuardHowto
+ - https://riseup.net/en/security/message-security/openpgp/best-practices
+ - https://www.jabberwocky.com/software/paperkey/
  
+ 
+### Cryptsetup
+ - https://we.riseup.net/riseuphelp+en/disk-encryption-kde
+ - https://security.stackexchange.com/questions/5158/for-luks-the-most-preferable-and-safest-cipher
+ - https://superuser.com/questions/775200/how-do-i-determine-what-ciphers-cipher-modes-i-can-use-in-dm-crypt-luks/1407458#1407458
+ - https://wiki.gentoo.org/wiki/Dm-crypt_full_disk_encryption
+ - https://wiki.archlinux.org/index.php/dm-crypt/Device_encryption
 
 ### ATTINY25 & key loggers
  - https://sekurak.pl/pendrive-przejmujacy-komputer-za-30-zlotych/
@@ -30,12 +41,11 @@
  * https://www.freerainbowtables.com/articles/introduction_to_rainbow_tables/ 
  * http://project-rainbowcrack.com/table.htm
 
-### Strony z kluczami two phase
+### Strony z kluczami two phase U2F i innymi
  - https://twofactorauth.org
  - https://www.dongleauth.info/dongles/
  - https://github.com/hillbrad/U2FReviews
-
-### Yubikey a2f u2f
+ - https://onlykey.io/
  - https://nelenkov.blogspot.com/2014/03/unlocking-android-using-otp.html
  - https://techfreak.pl/yubikey-klucz-do-bezpieczenstwa/
  - https://www.cnet.com/how-to/how-to-move-google-authenticator-to-a-new-device/
@@ -100,13 +110,6 @@
  - https://medium.com/crypto-currently/lets-build-the-tiniest-blockchain-e70965a248b
  - https://github.com/Viraj3f/SimpleCoin
  - https://github.com/cosme12/SimpleCoin
-
-### Cryptsetup
- - https://we.riseup.net/riseuphelp+en/disk-encryption-kde
- - https://security.stackexchange.com/questions/5158/for-luks-the-most-preferable-and-safest-cipher
- - https://superuser.com/questions/775200/how-do-i-determine-what-ciphers-cipher-modes-i-can-use-in-dm-crypt-luks/1407458#1407458
- - https://wiki.gentoo.org/wiki/Dm-crypt_full_disk_encryption
- - https://wiki.archlinux.org/index.php/dm-crypt/Device_encryption
  
 ### Online key wallets
  - https://www.reddit.com/r/homelab/comments/7yefth/what_to_replace_lastpass_with/?sort=new
