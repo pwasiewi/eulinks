@@ -69,6 +69,8 @@
 - https://medium.com/coinmonks/what-is-a-51-attack-or-double-spend-attack-aa108db63474
 - https://medium.com/@iwetalaskowska/skalowalno%C5%9B%C4%87-blockchaina-zrozumie%C4%87-ethereum-2-o-d2db17125bcf
 - http://www.sages.com.pl/blog/temat/blockchain/
+- https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ
+- https://www.youtube.com/watch?v=pzIl3vmEytY
 
 ### Zastosowania blockchaina
 - https://medium.com/@iwetalaskowska/hyperledger-fabric-w-pigu%C5%82ce-e01e7d3a3e2d
