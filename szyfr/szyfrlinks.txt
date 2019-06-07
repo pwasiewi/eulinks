@@ -63,6 +63,7 @@
  - https://www.question-defense.com/2010/08/15/automated-password-cracking-use-oclhashcat-to-launch-a-fingerprint-attack
 
 ### Podstawy blockchaina i kryptowaluty
+- https://www.youtube.com/watch?v=SSo_EIwHSd4
 - https://medium.com/@iwetalaskowska/darmowe-materia%C5%82y-do-nauki-o-kryptowalutach-oraz-blockchainie-3d252d0b2dfb
 - https://www.reddit.com/r/BlockchainSchool/comments/aewk4a/material_to_study/
 - https://blog.goodaudience.com/how-a-miner-adds-transactions-to-the-blockchain-in-seven-steps-856053271476
