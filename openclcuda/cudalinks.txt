@@ -7,16 +7,6 @@
  * https://www.datacamp.com/community/tutorials/deep-learning-python
  * https://github.com/plaidml
  
-### Mobile MM libraries with OpenCL (Mali)
- - https://developer.arm.com/technologies/compute-library
- - https://github.com/arm-software/armnn
- - https://developer.qualcomm.com/software/qualcomm-neural-processing-sdk
- - https://github.com/Tencent/ncnn
- - https://github.com/Tencent/ncnn
- - https://developer.qualcomm.com/blog/matrix-multiply-adreno-gpus-part-1-opencl-optimization
- - https://developer.qualcomm.com/blog/better-opencl-performance-qualcomm-adreno-gpu-memory-optimization
- - https://developer.qualcomm.com/software/adreno-gpu-sdk/tutorial-videos
-
 ### OpenCL sites
  * https://hgpu.org/?tag=opencl
  * https://github.com/smistad
@@ -26,6 +16,7 @@
  - https://handsonopencl.github.io/
  - https://github.com/HandsOnOpenCL/Lecture-Slides
  - https://github.com/HandsOnOpenCL/Exercises-Solutions
+ - https://conference.scipy.org/scipy2010/slides/tutorials/andreas_kloeckner_pyopencl.pdf
  - https://www.codeproject.com/Articles/Rob-Farber#Article
  - https://streamhpc.com/knowledge/for-developers/tutorials/
  - https://developer.apple.com/library/content/documentation/Performance/Conceptual/OpenCL_MacProgGuide/TuningPerformanceOntheGPU/TuningPerformanceOntheGPU.html
@@ -34,6 +25,7 @@
  - https://github.com/OpenCL/OpenCLCXXPortingGuidelines/blob/master/OpenCLCToOpenCLCppPortingGuidelines.md
  
 ### OpenCL examples
+ - https://github.com/oysstu/pyopencl-in-action
  - http://www.bealto.com/gpu-gemv_v1.html
  - https://wiki.tiker.net/PyOpenCL/Examples/MedianFilter
  - https://github.com/ysh329/OpenCL-101
@@ -49,22 +41,8 @@
  - https://github.com/victusfate/opencl-book-examples
  - https://gist.github.com/ddemidov/2925717
 
-### HASH PASS
- * http://whitepixel.zorinaq.com/
- * http://blog.zorinaq.com/?e=43
- * http://hashcat.net/oclhashcat-plus/
-
-### MD5 and opencl
- * https://blog.jfo.click/advent-of-learning-about-md5-and-opencl/
- * https://www.mscs.dal.ca/~selinger/md5collision/
- * https://blog.thireus.com/cracking-story-how-i-cracked-over-122-million-sha1-and-md5-hashed-passwords/
- * https://www.question-defense.com/2010/08/15/automated-password-cracking-use-oclhashcat-to-launch-a-fingerprint-attack
- * https://wiki.skullsecurity.org/Passwords
-
-### Appz
- - https://luxcorerender.org/
- - https://arxiv.org/pdf/1703.06503.pdf
- - https://github.com/CNugteren/CLTune
+### Raspberry OpenCL
+ - https://abhitronix.github.io/2019/01/15/VC4CL-1/
 
 ### AMD ROCm only ubuntu 16.04 or centos, but Open Source (so maybe in future)
  - https://github.com/ROCmSoftwarePlatform/tensorflow
@@ -72,6 +50,39 @@
  - https://radeonopencompute.github.io/
  - https://github.com/RadeonOpenCompute/ROCm
  - https://radeonopencompute.github.io/documentation.html
+
+### Tensorflow with OpenCL 
+ - https://github.com/ROCmSoftwarePlatform/tensorflow
+ - https://github.com/hughperkins/tf-coriander
+ - https://github.com/benoitsteiner/tensorflow-opencl/issues/30
+ - https://github.com/tensorflow/tensorflow/issues/22
+ - https://github.com/lukeiwanski/tensorflow-opencl/blob/cd5861c4defe3182122276fdbbb371f60ea5b708/tensorflow/g3doc/get_started/os_setup.md#create-the-pip-package-and-install
+ 
+```
+docker run -it --device=/dev/kfd --device=/dev/dri --group-add video rocm/rocm-terminal
+docker run -it --network=host --device=/dev/kfd --device=/dev/dri --group-add video --cap-add=SYS_PTRACE --security-opt seccomp=unconfined -v $HOME/dockerx:/dockerx rocm/tensorflow:rocm2.5-tf1.13-python3
+docker run -it --network=host --device=/dev/kfd --device=/dev/dri --group-add video --cap-add=SYS_PTRACE --security-opt seccomp=unconfined -v $HOME/dockerx:/dockerx rocm/tensorflow:rocm2.5-tf1.13-python3 python3 -c "import tensorflow as tf; tf.enable_eager_execution(); print(tf.reduce_sum(tf.random_normal([1000, 1000])))"
+```
+
+### Tensorflow examples
+ - https://www.tensorflow.org/versions/r0.11/how_tos/image_retraining/
+
+### HASH PASS
+ * http://whitepixel.zorinaq.com/
+ * http://blog.zorinaq.com/?e=43
+ * http://hashcat.net/oclhashcat-plus/
+
+### MD5 and OpenCL
+ * https://blog.jfo.click/advent-of-learning-about-md5-and-opencl/
+ * https://www.mscs.dal.ca/~selinger/md5collision/
+ * https://blog.thireus.com/cracking-story-how-i-cracked-over-122-million-sha1-and-md5-hashed-passwords/
+ * https://www.question-defense.com/2010/08/15/automated-password-cracking-use-oclhashcat-to-launch-a-fingerprint-attack
+ * https://wiki.skullsecurity.org/Passwords
+
+### Appz with OpenCL
+ - https://luxcorerender.org/
+ - https://arxiv.org/pdf/1703.06503.pdf
+ - https://github.com/CNugteren/CLTune
 
 ### Lectures about Opencl
  - http://web.engr.oregonstate.edu/~mjb/cs575/
@@ -81,6 +92,8 @@
  
 ### OpenCL Books
  - https://us.fixstars.com/opencl/book/OpenCLProgrammingBook/contents/
+ - https://github.com/oysstu/pyopencl-in-action
+ - https://streamhpc.com/knowledge/for-developers/books/
 
 ### Libraries with OpenCL
  - https://streamhpc.com/knowledge/for-developers/opencl-wrappers/
@@ -89,6 +102,16 @@
  - https://github.com/hughperkins/EasyCL
  * https://github.com/ddemidov/vexcl
  * http://vexcl.readthedocs.io/en/latest/
+
+### Mobile MM libraries with OpenCL (Mali)
+ - https://developer.arm.com/technologies/compute-library
+ - https://github.com/arm-software/armnn
+ - https://developer.qualcomm.com/software/qualcomm-neural-processing-sdk
+ - https://github.com/Tencent/ncnn
+ - https://github.com/Tencent/ncnn
+ - https://developer.qualcomm.com/blog/matrix-multiply-adreno-gpus-part-1-opencl-optimization
+ - https://developer.qualcomm.com/blog/better-opencl-performance-qualcomm-adreno-gpu-memory-optimization
+ - https://developer.qualcomm.com/software/adreno-gpu-sdk/tutorial-videos
 
 ### SYCL Opencl machine learning (maybe not so quick, so not popular)
  * https://blog.tartanllama.xyz/sycl/
@@ -107,16 +130,6 @@
  * http://streamcomputing.eu/blog/2013-12-27/opencl-spir-by-example/
  - https://www.khronos.org/conformance/adopters/conformant-products#opencl
  
-### Tensorflow with OpenCL 
- - https://github.com/ROCmSoftwarePlatform/tensorflow
- - https://github.com/hughperkins/tf-coriander
- - https://github.com/benoitsteiner/tensorflow-opencl/issues/30
- - https://github.com/tensorflow/tensorflow/issues/22
- - https://github.com/lukeiwanski/tensorflow-opencl/blob/cd5861c4defe3182122276fdbbb371f60ea5b708/tensorflow/g3doc/get_started/os_setup.md#create-the-pip-package-and-install
-
-### Tensorflow examples
- - https://www.tensorflow.org/versions/r0.11/how_tos/image_retraining/
- 
 ### To Opencl 1.1, logs, errors
  - https://stackoverflow.com/questions/29621800/how-should-i-enable-cl-khr-fp64-in-opencl
  - https://williamjshipman.wordpress.com/2014/06/24/correctly-enabling-cl_khr_fp64-in-both-opencl-1-1-and-1-2/
@@ -127,10 +140,6 @@
  - https://stackoverflow.com/questions/7852581/clbuildprogram-failed-with-error-code-11-and-without-build-log
  - https://stackoverflow.com/questions/34662333/opencl-how-to-check-for-build-errors-using-the-c-wrapper
  
-```
-docker run -it --device=/dev/kfd --device=/dev/dri --group-add video rocm/rocm-terminal
-docker run -it --network=host --device=/dev/kfd --device=/dev/dri --group-add video --cap-add=SYS_PTRACE --security-opt seccomp=unconfined -v $HOME/dockerx:/dockerx rocm/tensorflow:rocm2.5-tf1.13-python3
-```
  
 # CUDA
  
@@ -143,6 +152,7 @@ docker run -it --network=host --device=/dev/kfd --device=/dev/dri --group-add vi
  
 ### CUDA examples
  * https://github.com/parallel-forall/code-samples
+ - https://github.com/PacktPublishing/Hands-On-GPU-Programming-with-Python-and-CUDA
  
 ### CUDA sites
  * http://www.nvidia.com/object/cuda-newsletter.html
