@@ -2,6 +2,7 @@
 
 ### Python
  - https://prickly-pythons.github.io/python_code/pricklies_speedops.html
+ - https://www.programcreek.com/python/example/105706/pyopencl.get_platforms
 
 ### Opencl machine learning
  * https://www.datacamp.com/community/tutorials/deep-learning-python
