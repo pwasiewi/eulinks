@@ -41,6 +41,7 @@
  - https://github.com/Dakkers/OpenCL-examples
  - https://github.com/victusfate/opencl-book-examples
  - https://gist.github.com/ddemidov/2925717
+ - https://www.mql5.com/en/articles/407
 
 ### Raspberry OpenCL
  - https://abhitronix.github.io/2019/01/15/VC4CL-1/
