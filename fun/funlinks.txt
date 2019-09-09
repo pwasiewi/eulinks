@@ -87,13 +87,12 @@ cd /usr/share/minetest/games/minetest_game/mods
 #mesecons
 for i in dreambuilder_modpack ; do [ ! -d $i ] && git clone https://gitlab.com/VanessaE/$i; done;
 #aliveai depends on technic, 3d_armor, mesecons and smartshop
-[ ! -d 3d_armor ] && wget  https://github.com/stujones11/minetest-3d_armor/archive/master.zip -O 3d_armor-master.zip && unzip 3d_armor-master.zip && rm 3d_armor-master.zip && mv minetest-3d_armor-master 3d_armor
-# można tez z: git clone https://github.com/stujones11/minetest-3d_armor 3d_armor
+[ ! -d 3d_armor ] && git clone https://github.com/stujones11/minetest-3d_armor 3d_armor
 [ ! -d smartshop ] && git clone https://github.com/AiTechEye/smartshop
 [ ! -d aliveai ] && git clone https://github.com/AiTechEye/aliveai
-mv aliveai alive && mv alive/* . && rm -rf alive
-sed -i 's/status=false/status=true/g' aliveai/init.lua 
-sed -i 's/Sam/euteam/g' aliveai/init.lua 
+# cd aliveai
+# sed -i 's/status=false/status=true/g' aliveai/init.lua 
+# sed -i 's/Sam/euteam/g' aliveai/init.lua 
 # http://ix.io/zzV - konfiguracja botów dla poprzednich wersji - teraz już są skonfigurowane
 # stworzyć świat np. flat z ziarnem 5tg4t54tg54
 ```
