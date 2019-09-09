@@ -84,7 +84,7 @@ git clone http://repo.or.cz/minetest_hades/hades_revisited.git hades_revisited
 ##### MOD ALIVEAI botów agentów do podstawowej gry MINETEST_GAME https://forum.minetest.net/viewtopic.php?f=11&t=16083
 ```
 cd /usr/share/minetest/games/minetest_game/mods
-#mesecons
+#mesecons.net
 for i in dreambuilder_modpack ; do [ ! -d $i ] && git clone https://gitlab.com/VanessaE/$i; done;
 #aliveai depends on technic, 3d_armor, mesecons and smartshop
 #[ ! -d 3d_armor ] && git clone https://github.com/stujones11/minetest-3d_armor 3d_armor
