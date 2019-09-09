@@ -53,3 +53,111 @@ WINEPREFIX=/mnt/db1/wine wine /mnt/db1/wine/drive_c/Program\ Files\ \(x86\)/Batt
  - https://towardsdatascience.com/piexa-raspberry-pi-amazon-alexa-a-step-by-step-guide-to-build-your-own-hands-free-alexa-with-285c4bc73705
  - https://www.hackster.io/amazon-alexa
  - https://github.com/alexa/skill-sample-nodejs-fact
+ 
+ ### MINETEST GRY I MODY https://www.minetest.net/customize/
+
+#### INSTALACJA minetest i podstawowej gry minetest_game
+```
+emerge minetest minetest_game 
+```
+
+#### INNE GOTOWE GRY NA MINETEST: MINECLONE2, RPGTEST, HADES
+##### MINECLONE2 https://forum.minetest.net/viewtopic.php?f=50&t=16407
+```
+cd /usr/share/minetest/games
+[ ! -f MineClone2.zip ] && wget https://repo.or.cz/MineClone/MineClone2.git/snapshot/f67c302c3d983bee21195c650fbac46e8567c2d3.zip -O MineClone2.zip && unzip MineClone2.zip && mv MineClone2-f67c302 MineClone2 && rm MineClone2.zip
+# ten mineclone2 jest jednak zbyt eksperymentalny i może brakować plików!!! 
+# git clone http://repo.or.cz/MineClone/MineClone2.git
+```
+##### RPGTEST https://forum.minetest.net/viewtopic.php?f=50&t=13761
+```
+cd /usr/share/minetest/games
+git clone https://github.com/cdqwertz/rpgtest.git rpgtest
+```
+##### HADES https://forum.minetest.net/viewtopic.php?f=50&t=19121
+```
+cd /usr/share/minetest/games
+git clone http://repo.or.cz/minetest_hades/hades_revisited.git hades_revisited
+```
+
+#### MODY do podstawowej gry MINETEST_GAME https://www.minetest.net/customize/ 
+##### MOD ALIVEAI botów agentów do podstawowej gry MINETEST_GAME https://forum.minetest.net/viewtopic.php?f=11&t=16083
+```
+cd /usr/share/minetest/games/minetest_game/mods
+#aliveai depends on technic, 3d_armor, mesecons and smartshop
+[ ! -d 3d_armor ] && wget  https://github.com/stujones11/minetest-3d_armor/archive/master.zip -O 3d_armor-master.zip && unzip 3d_armor-master.zip && rm 3d_armor-master.zip && mv minetest-3d_armor-master 3d_armor
+# można tez z: git clone https://github.com/stujones11/minetest-3d_armor 3d_armor
+for i in moreblocks moreores mesecons technic; do [ ! -d $i ] && git clone https://github.com/minetest-mods/$i; done;
+for i in pipeworks biome_lib moretrees; do [ ! -d $i ] && git clone https://gitlab.com/VanessaE/$i; done;
+[ ! -d smartshop ] && git clone https://github.com/AiTechEye/smartshop
+[ ! -d aliveai ] && git clone https://github.com/AiTechEye/aliveai
+mv aliveai alive && mv alive/* . && rm -rf alive
+sed -i 's/status=false/status=true/g' aliveai/init.lua 
+sed -i 's/Sam/euteam/g' aliveai/init.lua 
+# http://ix.io/zzV - konfiguracja botów dla poprzednich wersji - teraz już są skonfigurowane
+# stworzyć świat np. flat z ziarnem 5tg4t54tg54
+```
+##### MOD WORLDEDIT - generowanie prostych figur 3d z dowolnych klocków https://forum.minetest.net/viewtopic.php?t=572
+```
+# https://github.com/Uberi/Minetest-WorldEdit/blob/master/ChatCommands.md
+cd /usr/share/minetest/games/minetest_game/mods
+[ ! -d worldedit ] && git clone https://github.com/Uberi/Minetest-WorldEdit.git; 
+[ -d Minetest-WorldEdit ] && mv Minetest-WorldEdit worldedit;
+```
+##### INNE POPULARNE MODY (czasami nawzajem się wykluczają np. z worldedit lub z aliveai, trzeba testować)
+```
+cd /usr/share/minetest/games/minetest_game/mods
+for i in dreambuilder_modpack ; do [ ! -d $i ] && git clone https://gitlab.com/VanessaE/$i; done;
+for i in castle; do [ ! -d $i ] && git clone https://github.com/minetest-mods/$i; done;
+# cd castle
+for i in anvil castle_farming castle_gates castle_lighting castle_masonry castle_shields castle_storage castle_tapestries castle_weapons crafting_bench orbs_of_time ropes; do git clone https://github.com/minetest-mods/$i; done
+
+cd /usr/share/minetest/games/minetest_game/mods
+#more blocks there
+for i in biome_lib crops moreblocks moreores moretrees lightning torches plantlife_modpack more_chests round_trunks biome_lib unifieddyes unifiedbricks unified_inventory gloopblocks towercrane maptools mapfix technic mesecons MoreMesecons xdecor; do [ ! -d $i ] && git clone https://github.com/minetest-mods/$i; done;
+for i in blox BobBlocks drawers playeranim digilines wielded_light digtron smartfs throwing_arrows throwing character_creator pipeworks nether ts_furniture item_drop intllib prefab towercrane homedecor_modpack currency craftguide ccompass mychisel mymillwork mydoors subterrane pontoons hopper airtanks; do [ ! -d $i ] && git clone https://github.com/minetest-mods/$i; done;
+for i in framedglass drinks sling mymonths warps cake droplift flowerpot quartz ts_doors more_chests workbench ilights worldedge myroofs mylights crafting_bench chat2 coloredwood trash_can ts_paper camera loot mydeck enchanting tnt_extras painting jump mysoundblocks mymulch round_trunks sedimentology mywoodslopes turtle ts_workshop; do [ ! -d $i ] && git clone https://github.com/minetest-mods/$i; done;
+for i in dynamic_liquid signs_lib jumping frozenenergy subspacewalker nightandday plantlife_modpack carpets mylandscaping mtg_i18n mg; do [ ! -d $i ] && git clone https://github.com/minetest-mods/$i; done;
+
+cd /usr/share/minetest/games/minetest_game/mods
+# https://forum.minetest.net/viewtopic.php?t=9917
+# ethereal does not work in v6
+for i in mobs_redo mobs_animal mobs_monster mobs_npc mob_horse ethereal farming lucky_block pigiron ambience real_torch bows pova pbj_pup cblocks teleport_potion pie  wine hopper bonemeal bakedclay money lapis signs_lib season falling_item stamina; do [ ! -d $i ] && git clone https://notabug.org/TenPlus1/$i; done;
+```
+
+##### MODY NIE DZIAŁAJĄCE LUB NIE PRZETESTOWANE z najnowszą wersją minetesta 4.17
+```
+cd /usr/share/minetest/games/minetest_game/mods
+[ ! -d maidroid ] && git clone https://github.com/tacigar/maidroid.git
+[ ! -d townchest ] && https://github.com/bell07/minetest-townchest.git townchest
+[ ! -d orienteering ] && git clone http://repo.or.cz/minetest_orienteering.git && mv minetest_orienteering orienteering
+[ ! -d meshnode ] && git clone https://github.com/stujones11/meshnode.git
+
+# do testowania z TenPlus1: nssm playerplus itemframes inventory_plus protector invisibility hud_hunger bags
+# minetest-mods: skinsdb simple_skins breadcrumbs steel qa_block mob-engine hbsprint spawn_command simplecrafting_lib woodcutting 
+# custom z minetest-mods zastępują te oryginalne: fire carts builtin_item doors stairs tnt boats moreores wool bucket creative dye 
+
+cd /usr/share/minetest/games/minetest_game/mods
+[ ! -f ByUjEdwinV2_space.zip ] && wget https://forum.minetest.net/download/file.php?id=7985 -O ByUjEdwinV2_space.zip
+[ ! -f ByAiTechEye-juli-V9-marssurvive.zip ] && wget https://forum.minetest.net/download/file.php?id=12597 -O ByAiTechEye-juli-V9-marssurvive.zip
+# https://forum.minetest.net/download/file.php?id=384
+[ ! -d kpgmobs ] && git clone https://github.com/AntumMT/mod-kpgmobs kpgmobs
+[ ! -d mobs_scifi ] && git clone https://github.com/D00Med/mobs_scifi;
+[ ! -d cme ] && git clone https://github.com/BlockMen/cme;
+# more swords
+# https://forum.minetest.net/viewtopic.php?f=9&t=11972
+# https://wiki.minetest.net/Mods/basic_robot
+# mobf_core animalmaterials adv_spawning animals_modpack
+```
+##### MINETEST INTERNALS
+ - http://wiki.minetest.net/Server_commands
+ - http://wiki.minetest.net/Main_Page
+ - http://dev.minetest.net/Global_Minetest_object
+ - http://dev.minetest.net/Intro
+ - http://home.metrocast.net/~minetestmoddingtutorial/beginnerEN.html
+ - http://rubenwardy.com/minetest_modding_book/index.html
+ - http://sfan5.duckdns.org/minetest-modding-tutorial/html/englishEN.html
+ - http://wiki.minetest.net/Using_Blender
+ - https://www.tutorialspoint.com/lua/index.htm
+ - https://www.lua.org/manual/5.3/
+
