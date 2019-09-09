@@ -84,11 +84,11 @@ git clone http://repo.or.cz/minetest_hades/hades_revisited.git hades_revisited
 ##### MOD ALIVEAI botów agentów do podstawowej gry MINETEST_GAME https://forum.minetest.net/viewtopic.php?f=11&t=16083
 ```
 cd /usr/share/minetest/games/minetest_game/mods
+#mesecons
+for i in dreambuilder_modpack ; do [ ! -d $i ] && git clone https://gitlab.com/VanessaE/$i; done;
 #aliveai depends on technic, 3d_armor, mesecons and smartshop
 [ ! -d 3d_armor ] && wget  https://github.com/stujones11/minetest-3d_armor/archive/master.zip -O 3d_armor-master.zip && unzip 3d_armor-master.zip && rm 3d_armor-master.zip && mv minetest-3d_armor-master 3d_armor
 # można tez z: git clone https://github.com/stujones11/minetest-3d_armor 3d_armor
-for i in moreblocks moreores mesecons technic; do [ ! -d $i ] && git clone https://github.com/minetest-mods/$i; done;
-for i in pipeworks biome_lib moretrees; do [ ! -d $i ] && git clone https://gitlab.com/VanessaE/$i; done;
 [ ! -d smartshop ] && git clone https://github.com/AiTechEye/smartshop
 [ ! -d aliveai ] && git clone https://github.com/AiTechEye/aliveai
 mv aliveai alive && mv alive/* . && rm -rf alive
@@ -107,7 +107,8 @@ cd /usr/share/minetest/games/minetest_game/mods
 ##### INNE POPULARNE MODY (czasami nawzajem się wykluczają np. z worldedit lub z aliveai, trzeba testować)
 ```
 cd /usr/share/minetest/games/minetest_game/mods
-for i in dreambuilder_modpack ; do [ ! -d $i ] && git clone https://gitlab.com/VanessaE/$i; done;
+for i in moreblocks moreores mesecons technic; do [ ! -d $i ] && git clone https://github.com/minetest-mods/$i; done;
+for i in pipeworks biome_lib moretrees; do [ ! -d $i ] && git clone https://gitlab.com/VanessaE/$i; done;
 for i in castle; do [ ! -d $i ] && git clone https://github.com/minetest-mods/$i; done;
 # cd castle
 for i in anvil castle_farming castle_gates castle_lighting castle_masonry castle_shields castle_storage castle_tapestries castle_weapons crafting_bench orbs_of_time ropes; do git clone https://github.com/minetest-mods/$i; done
