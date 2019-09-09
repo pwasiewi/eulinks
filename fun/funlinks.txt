@@ -87,7 +87,7 @@ cd /usr/share/minetest/games/minetest_game/mods
 #mesecons
 for i in dreambuilder_modpack ; do [ ! -d $i ] && git clone https://gitlab.com/VanessaE/$i; done;
 #aliveai depends on technic, 3d_armor, mesecons and smartshop
-[ ! -d 3d_armor ] && git clone https://github.com/stujones11/minetest-3d_armor 3d_armor
+#[ ! -d 3d_armor ] && git clone https://github.com/stujones11/minetest-3d_armor 3d_armor
 [ ! -d smartshop ] && git clone https://github.com/AiTechEye/smartshop
 [ ! -d aliveai ] && git clone https://github.com/AiTechEye/aliveai
 # cd aliveai
