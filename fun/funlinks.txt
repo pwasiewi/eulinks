@@ -90,7 +90,7 @@ for i in dreambuilder_modpack ; do [ ! -d $i ] && git clone https://gitlab.com/V
 #[ ! -d 3d_armor ] && git clone https://github.com/stujones11/minetest-3d_armor 3d_armor
 [ ! -d smartshop ] && git clone https://github.com/AiTechEye/smartshop
 [ ! -d aliveai ] && git clone https://github.com/AiTechEye/aliveai
-for i in intllib loot orbs_of_time; do [ ! -d $i ] && git clone https://github.com/minetest-mods/$i; done;
+for i in loot orbs_of_time; do [ ! -d $i ] && git clone https://github.com/minetest-mods/$i; done;
 # cd aliveai
 # sed -i 's/status=false/status=true/g' aliveai/init.lua 
 # sed -i 's/Sam/euteam/g' aliveai/init.lua 
