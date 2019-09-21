@@ -17,30 +17,34 @@
 
 #### Ciekawe materiały idla hackerów w pdf
  - http://www.phenoelit.org/stuff/papers.html
+ - http://standards-oui.ieee.org/oui.txt
 
 ### OpenVSwitch
  - https://blog.scottlowe.org/2015/02/17/vagrant-box-ovs/
  - https://www.relaxdiego.com/2014/09/ovs-lab.html
 
+### HP ILO
+ - https://blog.sleeplessbeastie.eu/2017/03/06/how-to-use-hp-command-line-array-configuration-utility/
+ - https://wiki.phoenixlzx.com/page/ssacli/
 
 ### Hyper-v
  - https://docs.microsoft.com/en-us/windows-server/virtualization/hyper-v/get-started/create-a-virtual-machine-in-hyper-v
  
-### Różności
+### Linux w sieci
  - https://www.cyberciti.biz/faq/unix-network-service-restart-stop/
- - http://standards-oui.ieee.org/oui.txt
- - https://www.hellion.org.uk/cgi-bin/randmac.pl?scope=local&type=unicast
+ - https://www.hellion.org.uk/cgi-bin/randmac.pl?scope=local&type=unicast #random MAC address
  - https://github.com/novnc/noVNC
  - http://centoshowtos.org/commands/sysbench/
  - https://www.ansible.com/ansible-roles-by-acquia
  - https://dug.net.pl/tekst/296/przerabianie_debiana_pod_wifi_access_point/
+ - http://www.tutorialspoint.com/unix_commands/numactl.htm
 
-#### Virtualbox
+### Virtualbox
  - http://download.virtualbox.org/virtualbox/
  - http://www.brianlinkletter.com/how-to-use-virtualbox-to-emulate-a-network/
  - http://www.commandlinefu.com/commands/view/13718/mount-a-vmware-virtual-disk-.vmdk-file-on-a-linux-box
 
-#### pfSense, vpn ipsec i inne
+### pfSense, vpn ipsec i inne
  - https://blog.vonhewitt.com/2017/08/pfsense-openvpn-setup-with-freeradius3p3/
  - https://journeyofthegeek.com/2017/12/30/pfsense-squid-kerberos/
  - https://techknight.eu/tag/pfsense/
@@ -55,7 +59,7 @@
  - https://www.reddit.com/r/networking/comments/6upchy/can_a_bsd_system_replicate_the_performance_of/dlvdq2e/ 
  - https://ashbyte.com/ashbyte/wiki/pfSense/Tuning
  
-#### Switche
+### Switche
  - http://www.dell.com/downloads/global/products/pwcnt/en/pwcnt_stacking_switches.pdf
  - http://en.community.dell.com/support-forums/network-switches/f/866/t/19370806
  - http://brezular.com/2013/12/17/connecting-open-vswitch-running-on-debian-to-cisco-catalyst-3550-via-trunk/
@@ -63,11 +67,8 @@
  - https://pve.proxmox.com/wiki/Open_vSwitch
  - https://z900collector.wordpress.com/2015/03/09/dell-powerconnect-62xx80248024f-general-switch-configuration-topics/
  
-#### DRBD 
+### DRBD 
  - https://www.drbd.org/en/doc/users-guide-90/s-configure-split-brain-behavior
-
-### źródła dla linku powyżej
-  - http://www.tutorialspoint.com/unix_commands/numactl.htm
   
 ## Sieciowe systemy plików:
 ### ZFS:
@@ -98,11 +99,14 @@
   - https://opensource.com/business/14/5/top-4-open-source-ldap-implementations
   - https://jumpcloud.com/blog/cloud-directory-as-a-service-daas/
 
-### Sieciowe bazy inne niż mongodb, couchdb itp.
+### Linuksowy raid
+  - https://psylogical.org/node/198
+
+## Sieciowe bazy inne niż mongodb, couchdb itp.
   - https://github.com/cockroachdb/cockroach
   - https://crate.io/
   
-### Untangle
+## Untangle
   - https://forums.untangle.com/openvpn/34512-export-import-openvpn-client-certificates.html
 
 ## Inne pomocne linki:
