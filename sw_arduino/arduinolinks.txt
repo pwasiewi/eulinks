@@ -2,6 +2,9 @@
  - http://forbot.pl/blog/
  - http://feriar-lab.pl/kurs-arduino/
  
+### Projekty elektroniczne online z Arduino
+ - https://www.tinkercad.com
+ 
 ### Blogi
  - http://www.instructables.com/technology/arduino/
  - https://www.theengineeringprojects.com/category/arduino-projects
