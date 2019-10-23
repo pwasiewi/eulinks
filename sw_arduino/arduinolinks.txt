@@ -5,6 +5,9 @@
 ### Projekty elektroniczne online z Arduino
  - https://www.tinkercad.com
  
+### Projekty sprzętowe
+ - https://www.instructables.com/id/Wipy-the-Overly-Motivated-Whiteboard-Cleaner/
+ 
 ### Blogi
  - http://www.instructables.com/technology/arduino/
  - https://www.theengineeringprojects.com/category/arduino-projects
