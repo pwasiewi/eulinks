@@ -25,6 +25,11 @@
  - https://medium.com/@soobrosa/deep-learning-on-the-edge-first-impressions-of-the-movidius-neural-compute-stick-7de09eeca2d6
  - http://www.spincraft.com/hackers/harmony-remote-hacking/
  
+### minetest for rpi
+ - http://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/wip-mods/2311713-real-robots
+ - http://www.piface.org.uk/guides/Install_PiFace_Software/First_steps_with_PiFace_Digital_Python/
+ - https://github.com/minetest4edu/edutest_minetest-education
+ 
 ### hardware blogs
  - https://techfreak.pl/
  - http://hobbyspace.pl/category/raspberry-pi/
