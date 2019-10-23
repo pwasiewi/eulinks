@@ -10,6 +10,7 @@
  
 ### Blogi
  - http://www.instructables.com/technology/arduino/
+ - https://www.instructables.com/id/Wipy-the-Overly-Motivated-Whiteboard-Cleaner/
  - https://www.theengineeringprojects.com/category/arduino-projects
  - http://hobbyspace.pl/category/arduino/
  - https://majsterkowo.pl/elektronika/arduino/
