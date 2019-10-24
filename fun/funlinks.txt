@@ -79,6 +79,13 @@ git clone https://github.com/cdqwertz/rpgtest.git rpgtest
 cd /usr/share/minetest/games
 git clone http://repo.or.cz/minetest_hades/hades_revisited.git hades_revisited
 ```
+##### MINETEST_GAME https://github.com/minetest/minetest_game
+```
+cd /usr/share/minetest/games
+wget https://github.com/minetest/minetest_game/archive/5.1.0.tar.gz -O minetest_game.tar.gz
+tar zxvf minetest_game.tar.gz
+mv minetest_game-5.1.0 minetest_game
+```
 
 #### MODY do podstawowej gry MINETEST_GAME https://www.minetest.net/customize/ 
 ##### MOD ALIVEAI botów agentów do podstawowej gry MINETEST_GAME https://forum.minetest.net/viewtopic.php?f=11&t=16083
