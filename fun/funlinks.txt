@@ -58,7 +58,8 @@ WINEPREFIX=/mnt/db1/wine wine /mnt/db1/wine/drive_c/Program\ Files\ \(x86\)/Batt
 
 #### INSTALACJA minetest i podstawowej gry minetest_game
 ```
-emerge minetest minetest_game 
+emerge minetest #gentoo
+apt install minetest #ubuntu
 ```
 
 #### INNE GOTOWE GRY NA MINETEST: MINECLONE2, RPGTEST, HADES
@@ -79,14 +80,12 @@ git clone https://github.com/cdqwertz/rpgtest.git rpgtest
 cd /usr/share/minetest/games
 git clone http://repo.or.cz/minetest_hades/hades_revisited.git hades_revisited
 ```
-
 ##### XAENVIRONMENT https://forum.minetest.net/viewtopic.php?f=50&t=22340#p345953
 ```
 cd /usr/share/minetest/games
 git clone https://github.com/AiTechEye/xaenvironment.git 
 ```
-
-##### MINETEST_GAME https://github.com/minetest/minetest_game
+##### MINETEST_GAME default game https://github.com/minetest/minetest_game
 ```
 cd /usr/share/minetest/games
 wget https://github.com/minetest/minetest_game/archive/5.1.0.tar.gz -O minetest_game.tar.gz
@@ -111,7 +110,8 @@ for i in loot orbs_of_time; do [ ! -d $i ] && git clone https://github.com/minet
 # http://ix.io/zzV - konfiguracja botów dla poprzednich wersji - teraz już są skonfigurowane
 # stworzyć świat np. flat z ziarnem 5tg4t54tg54
 ```
-##### MOD WORLDEDIT - generowanie prostych figur 3d z dowolnych klocków https://forum.minetest.net/viewtopic.php?t=572
+## Sprawdź czy mody są w dreambuild_modpack powyżej
+##### MOD WORLDEDIT (istnieje w dreambuild_modpack) - generowanie prostych figur 3d z dowolnych klocków https://forum.minetest.net/viewtopic.php?t=572
 ```
 # https://github.com/Uberi/Minetest-WorldEdit/blob/master/ChatCommands.md
 cd /usr/share/minetest/games/minetest_game/mods
