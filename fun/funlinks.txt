@@ -63,6 +63,8 @@ apt install minetest #ubuntu
 ```
 
 #### INNE GOTOWE GRY NA MINETEST: MINECLONE2, RPGTEST, HADES
+ - https://content.minetest.net/packages/?type=game
+
 ##### MINECLONE2 https://forum.minetest.net/viewtopic.php?f=50&t=16407
 ```
 cd /usr/share/minetest/games
