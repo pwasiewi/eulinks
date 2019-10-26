@@ -79,6 +79,13 @@ git clone https://github.com/cdqwertz/rpgtest.git rpgtest
 cd /usr/share/minetest/games
 git clone http://repo.or.cz/minetest_hades/hades_revisited.git hades_revisited
 ```
+
+##### XAENVIRONMENT https://forum.minetest.net/viewtopic.php?f=50&t=22340#p345953
+```
+cd /usr/share/minetest/games
+git clone https://github.com/AiTechEye/xaenvironment.git 
+```
+
 ##### MINETEST_GAME https://github.com/minetest/minetest_game
 ```
 cd /usr/share/minetest/games
