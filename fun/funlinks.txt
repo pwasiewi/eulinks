@@ -1,3 +1,6 @@
+## Fun programming games
+ - https://bulldogjob.pl/news/79-przyjemne-z-pozytecznym-7-gier-ktore-pomoga-w-nauce-kodu
+
 ## DirectX11 on Linux
  - https://wiki.gentoo.org/wiki/DXVK
 
