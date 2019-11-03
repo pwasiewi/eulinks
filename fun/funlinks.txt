@@ -114,6 +114,12 @@ for i in loot orbs_of_time; do [ ! -d $i ] && git clone https://github.com/minet
 # http://ix.io/zzV - konfiguracja botów dla poprzednich wersji - teraz już są skonfigurowane
 # stworzyć świat np. flat z ziarnem 5tg4t54tg54
 ```
+##### Schemedit https://forum.minetest.net/viewtopic.php?t=18515
+```
+cd /usr/share/minetest/games/minetest_game/mods
+git clone https://repo.or.cz/minetest_schemedit.git
+```
+
 ## Sprawdź czy mody są w dreambuild_modpack powyżej
 ##### MOD WORLDEDIT (istnieje w dreambuild_modpack) - generowanie prostych figur 3d z dowolnych klocków https://forum.minetest.net/viewtopic.php?t=572
 ```
