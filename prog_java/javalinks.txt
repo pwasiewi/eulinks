@@ -10,6 +10,9 @@
  * http://www.digilife.be/quickreferences/indexe.html
  * http://sdjournal.org/kursy-video
 
+## Java memory
+ - https://www.stefankrause.net/wp/?p=14
+
 ## Java biblioteki i inne
  * https://github.com/akullpp/awesome-java
  * https://github.com/google/FreeBuilder
