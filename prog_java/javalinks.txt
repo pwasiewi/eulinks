@@ -11,6 +11,7 @@
  * http://sdjournal.org/kursy-video
 
 ## Java memory
+ - https://www.baeldung.com/java-memory-leaks
  - https://www.stefankrause.net/wp/?p=14
  - https://www.javacodegeeks.com/2017/11/minimize-java-memory-usage-right-garbage-collector.html
 
