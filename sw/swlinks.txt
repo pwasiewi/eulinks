@@ -26,6 +26,7 @@
 ## Inteligentny dom
  - https://www.openhab.org/
  - https://www.supla.org/
+ - https://www.domoticz.com/ ### xiaomi 
 
 ## RTOS
  - https://www.osrtos.com/
