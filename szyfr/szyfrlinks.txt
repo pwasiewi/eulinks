@@ -12,6 +12,8 @@
  - https://www.jabberwocky.com/software/paperkey/
  - https://ttmm.io/tech/yubikey/
  
+### Yubikey
+ - https://nickmooney.com/keybase-pgp-yubikey/
  
 ### Cryptsetup
  - https://we.riseup.net/riseuphelp+en/disk-encryption-kde
