@@ -8,6 +8,7 @@
 ### Projekty sprzętowe
  - https://www.instructables.com/id/Wipy-the-Overly-Motivated-Whiteboard-Cleaner/
  - https://www.thingiverse.com/thing:2872978
+ - https://www.makeuseof.com/tag/dont-spend-money-on-an-arduino-build-your-own-for-much-less/
  
 ### Blogi
  - http://www.instructables.com/technology/arduino/
