@@ -4,7 +4,10 @@
  * http://thenextweb.com/dd/2012/10/21/so-you-want-to-be-a-programmer-huh-heres-25-ways-to-learn-online/
  * http://www.tutorialspoint.com/codingground.htm
  * http://www.commandlinefu.com/commands/browse
- 
+
+### Użyteczne strony
+ - https://www.cleancss.com/strip-xml/
+
 ### Teoria sprzętu komputerowego, emulacje retro
  * http://2x-1.net/ob/gray1/
  * http://hackaday.com/2015/09/28/roundup-retro-computers-in-your-browser/
