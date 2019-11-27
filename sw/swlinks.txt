@@ -82,6 +82,8 @@
  - http://uczymy.edu.pl/wp/blog/2016/09/25/wemos-d1-mini-esp8266-troche-inaczej/
  - https://github.com/espressif/arduino-esp32/blob/master/docs/arduino-ide/debian_ubuntu.md
  - https://www.instructables.com/id/ESP32-and-DC-Motors-Tutorial-Part-1/
+ - http://wiki.seeedstudio.com/Seeeduino_GPRS/
+ - https://www.elektroda.pl/rtvforum/topic3596203.html
  
  ## STM32
  - https://johan.kanflo.com/hacking-the-dps5005/
