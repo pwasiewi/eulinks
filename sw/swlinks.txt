@@ -22,6 +22,7 @@
 
 ## ML micro unit
  - https://www.arrow.com/en/research-and-events/articles/google-coral-demo-flashing-the-google-coral-tpu-dev-board
+ - https://www.tensorflow.org/lite/microcontrollers/get_started
 
 
 ## Kickstarter
