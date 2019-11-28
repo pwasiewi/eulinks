@@ -20,6 +20,10 @@
  - https://www.elektroda.pl/
  - https://blog.hackster.io/
 
+## ML micro unit
+ - https://www.arrow.com/en/research-and-events/articles/google-coral-demo-flashing-the-google-coral-tpu-dev-board
+
+
 ## Kickstarter
  - https://www.kickstarter.com/projects/sphero/sphero-rvr-the-go-anywhere-do-anything-programmabl/
 
