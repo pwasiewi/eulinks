@@ -19,6 +19,7 @@
  - https://hackaday.io
  - https://www.elektroda.pl/
  - https://blog.hackster.io/
+ - https://w4krl.com/iot-kits/
  - https://majsterkowo.pl/solarna-stacja-meteo-z-wykorzystaniem-wemos-d1-mini-pro-oraz-raspberry-pi-3-b-czesc-1/
 
 ## ML micro unit
