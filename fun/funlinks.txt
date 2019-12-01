@@ -2,6 +2,7 @@
  - https://majsterkowo.pl/gdzie-szukac-i-skad-pobierac-modele-do-druku-3d/
  - http://desktophero3d.com
  - https://www.thingiverse.com/thing:3054701
+ - https://w4krl.com/iot-kits/
 
 ## Fun programming games
  - https://bulldogjob.pl/news/79-przyjemne-z-pozytecznym-7-gier-ktore-pomoga-w-nauce-kodu
