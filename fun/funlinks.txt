@@ -79,7 +79,7 @@ apt install minetest #ubuntu
 ```
 cd /usr/share/minetest/games
 #[ ! -f MineClone2.zip ] && wget https://repo.or.cz/MineClone/MineClone2.git/snapshot/f67c302c3d983bee21195c650fbac46e8567c2d3.zip -O MineClone2.zip && unzip MineClone2.zip && mv MineClone2-f67c302 MineClone2 && rm MineClone2.zip
-[ ! -f MineClone2.zip ] && wget https://git.minetest.land/Wuzzy/MineClone2/archive/0.55.0.tar.gz -O Mineclone2.tar.gz && tar zxvf Mineclone2.tar.gz && rm Mineclone2.tar.gz && mv mineclone2 MineClone2
+[ ! -f MineClone2.zip ] && wget https://git.minetest.land/Wuzzy/MineClone2/archive/0.55.1.tar.gz -O Mineclone2.tar.gz && tar zxvf Mineclone2.tar.gz && rm Mineclone2.tar.gz && mv mineclone2 MineClone2
 ```
 ##### RPGTEST https://forum.minetest.net/viewtopic.php?f=50&t=13761
 ```
