@@ -1,3 +1,7 @@
+## Linux Electronics
+ - http://www.gpleda.org/
+ - http://opencircuitdesign.com/
+
 ## Druk 3D
  - https://majsterkowo.pl/gdzie-szukac-i-skad-pobierac-modele-do-druku-3d/
  - http://desktophero3d.com
