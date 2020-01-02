@@ -10,6 +10,9 @@
  * http://www.digilife.be/quickreferences/indexe.html
  * http://sdjournal.org/kursy-video
 
+## JavaFX
+ - https://www.jrebel.com/blog/best-javafx-libraries
+
 ## Java memory
  - https://www.baeldung.com/java-memory-leaks
  - https://www.stefankrause.net/wp/?p=14
