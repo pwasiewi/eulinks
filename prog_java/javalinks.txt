@@ -17,6 +17,7 @@
  - https://www.baeldung.com/java-memory-leaks
  - https://www.stefankrause.net/wp/?p=14
  - https://www.javacodegeeks.com/2017/11/minimize-java-memory-usage-right-garbage-collector.html
+ - https://medium.com/@hoan.nguyen.it/how-did-g1gc-tuning-flags-affect-our-back-end-web-app-c121d38dfe56
 
 ## Java biblioteki i inne
  * https://github.com/akullpp/awesome-java
