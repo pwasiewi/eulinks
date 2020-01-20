@@ -8,6 +8,14 @@
  - https://little-book-of-r-for-multivariate-analysis.readthedocs.io/en/latest/
  - https://www.r-project.org/other-docs.html
  
+ ### NLP
+  - https://colah.github.io/posts/2015-09-Visual-Information/
+  - https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/
+  - https://github.com/tensorflow/nmt
+  - http://nlp.seas.harvard.edu/2018/04/03/attention.html
+  - http://jalammar.github.io/illustrated-transformer/
+  - http://jalammar.github.io/illustrated-bert/
+ 
  ### Tutorials & courses
  - https://course.elementsofai.com/
  - [R leaflets](http://www.wekaleamstudios.co.uk/supplementary-material/)
