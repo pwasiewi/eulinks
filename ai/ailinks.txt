@@ -15,6 +15,7 @@
   - http://nlp.seas.harvard.edu/2018/04/03/attention.html
   - http://jalammar.github.io/illustrated-transformer/
   - http://jalammar.github.io/illustrated-bert/
+  - https://medium.com/@_init_/why-bert-has-3-embedding-layers-and-their-implementation-details-9c261108e28a
  
  ### Tutorials & courses
  - https://course.elementsofai.com/
