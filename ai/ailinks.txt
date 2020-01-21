@@ -106,6 +106,7 @@
  - https://cran.r-project.org/web/packages/ReinforcementLearning/vignettes/ReinforcementLearning.html
  - https://deepmind.com/blog/deepmind-and-blizzard-open-starcraft-ii-ai-research-environment/
  - http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
+ - http://mnemstudio.org/path-finding-q-learning-tutorial.htm
 
 ### Deep learning and neural net learning
  * https://towardsdatascience.com/self-learning-ai-agents-part-ii-deep-q-learning-b5ac60c3f47
