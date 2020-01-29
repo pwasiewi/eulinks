@@ -10,6 +10,12 @@
  
  ### Python Spark
   - https://hackersandslackers.com/working-with-pyspark-rdds/
+  
+ ### DICOM
+  - https://pyradiomics.readthedocs.io/en/latest/labs.html
+  - https://www.researchgate.net/post/Does_anybody_know_any_free_tools_to_convert_a_3D_DICOM_dataset_into_a_surface_representation_file_such_as_STL_for_example
+  - https://pyradiomics.readthedocs.io/en/latest/usage.html#example
+  - https://pyscience.wordpress.com/2014/09/08/dicom-in-python-importing-medical-image-data-into-numpy-with-pydicom-and-vtk/
  
  ### NLP
   - https://colah.github.io/posts/2015-09-Visual-Information/
