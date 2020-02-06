@@ -1,4 +1,8 @@
 # SOFTWARE
+
+### XDA
+ - https://zackptg5.com/
+
 ### GOOGLE CODELABS
  - https://g.co/codelabs
 
