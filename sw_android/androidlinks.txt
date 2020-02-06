@@ -2,6 +2,8 @@
 
 ### XDA
  - https://zackptg5.com/
+ - https://forum.xda-developers.com/android/apps-games/app-viper4android-fx-2-6-0-0-t3774651
+ 
 
 ### GOOGLE CODELABS
  - https://g.co/codelabs
