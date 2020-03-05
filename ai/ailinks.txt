@@ -8,6 +8,9 @@
  - https://little-book-of-r-for-multivariate-analysis.readthedocs.io/en/latest/
  - https://www.r-project.org/other-docs.html
  
+ ### Fundamentals
+  - https://towardsdatascience.com/optimization-loss-function-under-the-hood-part-ii-d20a239cde11
+ 
  ### Python Spark
   - https://hackersandslackers.com/working-with-pyspark-rdds/
   
