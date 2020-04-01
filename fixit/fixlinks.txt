@@ -1,0 +1,3 @@
+#### reset chip clt-r406 from the sl-c460 samsung printer 
+ - https://www.instructables.com/id/Samsung-CLP-365-Laser-Printer-DIY-Imaging-Drum-Uni/
+ - https://www.ukotka.com/2017/05/reset-licznika-dot-bebna-swiatoczuego-w.html
