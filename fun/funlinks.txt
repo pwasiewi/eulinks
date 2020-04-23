@@ -31,7 +31,7 @@ WINEPREFIX=/mnt/db/wine winetricks corefonts
 WINEPREFIX=/mnt/db/wine /usr/bin/setup_dxvk.sh install
 WINEPREFIX=/mnt/db/wine wine StarCraft-II-Setup.exe
 WINEPREFIX=/mnt/db/wine wine /mnt/db/wine/drive_c/Program\ Files\ \(x86\)/Battle.net/Battle.net.exe
-WINEPREFIX=/mnt/db/wine wine /mnt/db/winesteam/drive_c/Program\ Files\ \(x86\)/Steam/steam.exe
+WINEPREFIX=/mnt/db/wine wine /mnt/db/wine/drive_c/Program\ Files\ \(x86\)/Steam/steam.exe
 ```
 
 ## Music 4 guitar
