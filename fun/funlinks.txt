@@ -23,13 +23,15 @@
 
 ## DirectX11 on Linux
  - https://wiki.gentoo.org/wiki/DXVK
+ - https://blog.christiansegundo.com/eng/2018-8-1-dxvk-gentoo/
 
 ```
 #install the latest wine-staging, winetricks and dxvk
-WINEPREFIX=/mnt/db1/wine winetricks corefonts
-WINEPREFIX=/mnt/db1/wine /usr/bin/setup_dxvk.sh install
-WINEPREFIX=/mnt/db1/wine wine StarCraft-II-Setup.exe
-WINEPREFIX=/mnt/db1/wine wine /mnt/db1/wine/drive_c/Program\ Files\ \(x86\)/Battle.net/Battle.net.exe
+WINEPREFIX=/mnt/db/wine winetricks corefonts
+WINEPREFIX=/mnt/db/wine /usr/bin/setup_dxvk.sh install
+WINEPREFIX=/mnt/db/wine wine StarCraft-II-Setup.exe
+WINEPREFIX=/mnt/db/wine wine /mnt/db/wine/drive_c/Program\ Files\ \(x86\)/Battle.net/Battle.net.exe
+WINEPREFIX=/mnt/db/wine wine /mnt/db/winesteam/drive_c/Program\ Files\ \(x86\)/Steam/steam.exe
 ```
 
 ## Music 4 guitar
