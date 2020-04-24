@@ -1,3 +1,18 @@
+## DirectX11 on Linux
+ - https://wiki.gentoo.org/wiki/DXVK
+ - https://blog.christiansegundo.com/eng/2018-8-1-dxvk-gentoo/
+ - https://github.com/Matoking/protontricks
+ - https://github.com/DadSchoorse/vkBasalt
+
+```
+#install the latest wine-staging, winetricks and dxvk
+WINEPREFIX=/mnt/db/wine winetricks corefonts
+WINEPREFIX=/mnt/db/wine /usr/bin/setup_dxvk.sh install
+WINEPREFIX=/mnt/db/wine wine StarCraft-II-Setup.exe
+WINEPREFIX=/mnt/db/wine wine /mnt/db/wine/drive_c/Program\ Files\ \(x86\)/Battle.net/Battle.net.exe
+WINEPREFIX=/mnt/db/wine wine /mnt/db/wine/drive_c/Program\ Files\ \(x86\)/Steam/steam.exe
+```
+
 ## SF & NASA
  - https://www.outerplaces.com/xfiles-timeline/
  - http://niniwa22.cba.pl/ufo-topsecret.html
@@ -21,19 +36,6 @@
 ## Fun programming games
  - https://bulldogjob.pl/news/79-przyjemne-z-pozytecznym-7-gier-ktore-pomoga-w-nauce-kodu
 
-## DirectX11 on Linux
- - https://wiki.gentoo.org/wiki/DXVK
- - https://blog.christiansegundo.com/eng/2018-8-1-dxvk-gentoo/
- - https://github.com/Matoking/protontricks
-
-```
-#install the latest wine-staging, winetricks and dxvk
-WINEPREFIX=/mnt/db/wine winetricks corefonts
-WINEPREFIX=/mnt/db/wine /usr/bin/setup_dxvk.sh install
-WINEPREFIX=/mnt/db/wine wine StarCraft-II-Setup.exe
-WINEPREFIX=/mnt/db/wine wine /mnt/db/wine/drive_c/Program\ Files\ \(x86\)/Battle.net/Battle.net.exe
-WINEPREFIX=/mnt/db/wine wine /mnt/db/wine/drive_c/Program\ Files\ \(x86\)/Steam/steam.exe
-```
 
 ## Music 4 guitar
  - http://www.scalerator.com/?optionsDisp=yes&selLeft=950&menuTab=instructions&root=C&pattern=major&tuning=EADGBE&size=50
