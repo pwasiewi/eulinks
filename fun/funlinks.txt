@@ -24,6 +24,7 @@
 ## DirectX11 on Linux
  - https://wiki.gentoo.org/wiki/DXVK
  - https://blog.christiansegundo.com/eng/2018-8-1-dxvk-gentoo/
+ - https://github.com/Matoking/protontricks
 
 ```
 #install the latest wine-staging, winetricks and dxvk
