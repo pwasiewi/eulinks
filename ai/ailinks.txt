@@ -22,6 +22,7 @@
   - https://github.com/jadianes/spark-py-notebooks
   - https://github.com/jlyang1990/Spark_Python_Do_Big_Data_Analytics
   - https://hackersandslackers.com/working-with-pyspark-rdds/
+  - https://community.cloudera.com/t5/Community-Articles/Using-Vagrant-and-Virtualbox-to-create-a-local-instance-of/ta-p/248439
   
  ### DICOM
   - https://pyradiomics.readthedocs.io/en/latest/labs.html
