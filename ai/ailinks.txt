@@ -12,6 +12,15 @@
   - https://towardsdatascience.com/optimization-loss-function-under-the-hood-part-ii-d20a239cde11
  
  ### Python Spark
+  - https://towardsdatascience.com/a-neanderthals-guide-to-apache-spark-in-python-9ef1f156d427
+  - https://mapr.com/blog/5-minute-guide-understanding-significance-apache-spark/
+  - https://mapr.com/blog/tips-and-best-practices-to-take-advantage-of-spark-2-x/¶
+  - https://towardsdatascience.com/pyspark-and-sparksql-basics-6cb4bf967e53
+  - https://github.com/pinarersoy/PySpark_SparkSQL_MLib/blob/master/PySpark%20and%20SparkSQL.ipynb
+  - https://rsandstroem.github.io/sparkkmeans.html
+  - https://datascience-enthusiast.com/Python/ml_RDD_DataFrames.html
+  - https://github.com/jadianes/spark-py-notebooks
+  - https://github.com/jlyang1990/Spark_Python_Do_Big_Data_Analytics
   - https://hackersandslackers.com/working-with-pyspark-rdds/
   
  ### DICOM
