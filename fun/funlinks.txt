@@ -1,5 +1,5 @@
 ## Fun Blog (in Polish)
- - https://rk.edu.pl/pl/walka-z-kurzem-i-pylem-w-domu-i-w-obudowie-komputera/
+ - https://rk.edu.pl/pl/budowa-komputerow-dla-programistow-w-oparciu-o-ryzena-7-1700/
 
 ## DirectX11 on Linux
  - https://wiki.gentoo.org/wiki/DXVK
