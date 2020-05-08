@@ -237,17 +237,6 @@
  - https://github.com/Rajawali/Rajawali
  - https://github.com/portmobile/LAGP-Example-Code
 
-# HARDWARE 
-### naprawa android soft LG G3 hard brick
- - http://forum.gsmhosting.com/vbb/f494/how-hard-unbricked-lg-g3-all-variants-fix-qhsusb-bulk-_-qualcomm-9008-a-2029025/
- - https://forum.xda-developers.com/lg-g3/help/lg-g3-bricked-load-qualcomm-9008-driver-t3601333
- - https://forum.xda-developers.com/showthread.php?t=2785089
- - https://forum.xda-developers.com/lg-g3/general/guide-how-to-install-lineag-os-t3558777
- - http://storagecow.eu/
- - https://www.youtube.com/watch?v=7N4t55LmGk0
- - https://www.androidbrick.com/unbrick-recover-your-dead-lg-g3-g2-all-variants/
- - https://forum.xda-developers.com/lg-g3/help/lg-g3-unbricking-steps-clarification-t3119844
- 
 ### wybrane telefony z androidami z xda (jest ich więcej ;) )
  - https://forum.xda-developers.com/le-2/development/tool-tool-one-driversunlocktwrpfactory-t3669432
  - https://androidfilehost.com/?w=developers&did=1205&page=2
