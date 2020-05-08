@@ -9,4 +9,7 @@
  - http://www.kontestator.eu/produkty-sojowe-%E2%80%93-obietnice-i-zagrozenia.html
  - https://www.theguardian.com/world/datablog/ng-interactive/2020/apr/22/see-how-coronavirus-can-spread-through-a-population-and-how-countries-flatten-the-curve
  
+# tuning
+ - https://docs.google.com/spreadsheets/d/1d9_E3h8bLp-TXr-0zTJFqqVxdCR9daIVNyMatydkpFA/htmlview
+ 
 
