@@ -1,18 +1,20 @@
+#### HEALTH
+#### take care
+ - https://rk.edu.pl/pl/walka-z-kurzem-i-pylem-w-domu-i-w-obudowie-komputera/
+ - http://www.kontestator.eu/produkty-sojowe-%E2%80%93-obietnice-i-zagrozenia.html
+ - https://www.theguardian.com/world/datablog/ng-interactive/2020/apr/22/see-how-coronavirus-can-spread-through-a-population-and-how-countries-flatten-the-curve
+ 
+#### HARDWARE 
 #### reset chip clt-r406 from the sl-c460 samsung printer 
  - https://www.instructables.com/id/Samsung-CLP-365-Laser-Printer-DIY-Imaging-Drum-Uni/
  - https://www.ukotka.com/2017/05/reset-licznika-dot-bebna-swiatoczuego-w.html
 
 #### set your monitor
  - https://testufo.com/ghosting
-
-#### FIX HEALTH
- - http://www.kontestator.eu/produkty-sojowe-%E2%80%93-obietnice-i-zagrozenia.html
- - https://www.theguardian.com/world/datablog/ng-interactive/2020/apr/22/see-how-coronavirus-can-spread-through-a-population-and-how-countries-flatten-the-curve
  
 #### OC tuning - AMD AM4 power VRM (sekcje zasilania)
  - https://docs.google.com/spreadsheets/d/1d9_E3h8bLp-TXr-0zTJFqqVxdCR9daIVNyMatydkpFA/htmlview
- 
-#### HARDWARE 
+
 #### naprawa android soft LG G3 hard brick
  - http://forum.gsmhosting.com/vbb/f494/how-hard-unbricked-lg-g3-all-variants-fix-qhsusb-bulk-_-qualcomm-9008-a-2029025/
  - https://forum.xda-developers.com/lg-g3/help/lg-g3-bricked-load-qualcomm-9008-driver-t3601333
