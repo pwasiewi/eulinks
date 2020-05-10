@@ -28,6 +28,7 @@ WINEPREFIX=/mnt/db/wine wine /mnt/db/wine/drive_c/Program\ Files\ \(x86\)/Steam/
 ## History of Games and not only
  - https://www.smithsonianmag.com/science-nature/best-board-games-ancient-world-180974094
  - https://joemonster.org/art/28745/Historia_brytyjskiego_oreza
+ - http://www.wojciechglac.com/infekcja/
 
 ## Linux Electronics
  - http://www.gpleda.org/
