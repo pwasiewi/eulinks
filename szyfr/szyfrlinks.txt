@@ -14,6 +14,7 @@
  
 ### Yubikey
  - https://nickmooney.com/keybase-pgp-yubikey/
+ - https://www.emsec.rub.de/media/crypto/veroeffentlichungen/2014/02/04/paper_yubikey_sca.pdf 
  
 ### Cryptsetup
  - https://we.riseup.net/riseuphelp+en/disk-encryption-kde
