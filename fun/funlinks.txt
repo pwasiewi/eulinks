@@ -8,6 +8,7 @@
 
 ## Alternative soft
  - https://sites.google.com/site/altfirmware/
+ - https://www.cyrius.com/debian/
 
 ## DirectX11 on Linux
  - https://wiki.gentoo.org/wiki/DXVK
