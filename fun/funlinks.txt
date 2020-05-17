@@ -6,6 +6,9 @@
  - https://www.reddit.com/r/Amd/comments/bvfo57/list_of_b350_b450_x370_and_x470_motherboards_with/
  - https://www.crowdsupply.com/mnt/reform
 
+## Alternative soft
+ - https://sites.google.com/site/altfirmware/
+
 ## DirectX11 on Linux
  - https://wiki.gentoo.org/wiki/DXVK
  - https://blog.christiansegundo.com/eng/2018-8-1-dxvk-gentoo/
