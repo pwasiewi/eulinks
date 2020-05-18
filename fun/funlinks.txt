@@ -19,6 +19,7 @@
 
 ```
 #install the latest wine-staging, winetricks and dxvk
+WINEPREFIX=/mnt/db/wine winetricks mspatcha
 WINEPREFIX=/mnt/db/wine winetricks corefonts
 WINEPREFIX=/mnt/db/wine /usr/bin/setup_dxvk.sh install
 WINEPREFIX=/mnt/db/wine wine StarCraft-II-Setup.exe
