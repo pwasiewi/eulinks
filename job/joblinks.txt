@@ -7,10 +7,13 @@
  - https://it-leaders.com.pl/czytaj-i-negocjuj-na-co-zwrocic-uwage-w-uop-i-b2b-w-branzy-it/
  - https://developerlife.pl/umowa-b2b-czyli-swiadczenie-uslug-w-oparciu-o-samozatrudnienie/
  - https://www.biznes.gov.pl/pl/firma/zakladanie-firmy/chce-zalozyc-firme-jednoosobowa-samozatrudnienie/jak-zarejestrowac-jednoosobowa-dzialalnosc-gospodarcza-przez-internet-krok-po-kroku/jak-zarejestrowac-jednoosobowa-dzialalnosc-gospodarcza-przez-internet-krok-po-kroku
+  - https://www.mala-firma.pl/dla-poczatkujacych/jak-wypelnic-druk/463-ceidg-1
+  
+## Kalkulatory B2B
  - https://samozatrudnienie.kalkulator-plac.eu/ile-zaoszczedze-kupujac-na-firme-kalkulator
  - https://zarobki.pracuj.pl/kalkulator-wynagrodzen
  - https://www.kalkulatorb2b.pl/
- - https://www.mala-firma.pl/dla-poczatkujacych/jak-wypelnic-druk/463-ceidg-1
+
  
 ## OC IT
  - https://www.pb.pl/oc-dostepne-tak-ze-dla-malych-firm-it-858427
@@ -19,6 +22,9 @@
  
 ## VAT
  - https://poradnikprzedsiebiorcy.pl/-vat-7-kogo-dotyczy-obowiazek-skladania-deklaracji
+
+## ZUS
+ - https://www.biznes.gov.pl/pl/firma/zus/chce-rozliczac-zus/co-powinienes-wiedziec-zanim-zaczniesz-placic-zus/ulga-na-start-wlasna-firma-przez-6-miesiecy-bez-zus
  
 ## Grupy facebookowe
  - https://www.facebook.com/groups/ProgramistaNaSwoim
