@@ -1,3 +1,10 @@
+### Instalacja
+ - https://www.balena.io/etcher/
+ - https://www.raspberrypi.org/downloads/raspbian/
+ - https://forum.openmediavault.org/index.php/Thread/28789-Installing-OMV5-on-Raspberry-PI-s-Armbian-Supported-SBC-s/
+ - https://pclab.pl/art82828.html #install rpi NAS in Polish
+ - https://magpi.raspberrypi.org/articles/build-a-raspberry-pi-nas
+ 
 ### Raspberry PI linux hub i dystrybucje
  - https://elinux.org/RPi_Hub
  - https://elinux.org/RPi_Distributions
