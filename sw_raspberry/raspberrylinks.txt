@@ -6,6 +6,7 @@
  - https://magpi.raspberrypi.org/articles/build-a-raspberry-pi-nas
  - https://foldforcovid.io
  - https://www.amazon.com/review/R3CGCFPLQ232W2/
+ - https://medium.com/swlh/3-5-spi-lcd-experiments-on-raspberry-pi-zero-b09fa8adb5c
  
 ### Raspberry PI linux hub i dystrybucje
  - https://elinux.org/RPi_Hub
