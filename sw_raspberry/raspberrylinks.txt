@@ -8,6 +8,8 @@
  - https://www.amazon.com/review/R3CGCFPLQ232W2/
  - https://medium.com/swlh/3-5-spi-lcd-experiments-on-raspberry-pi-zero-b09fa8adb5c
  - https://github.com/notro/fbtft-spindle/wiki/Appendix
+ - https://www.raspberrypi.org/forums/viewtopic.php?t=81150
+ - https://raspberrypi.stackexchange.com/questions/34347/how-to-make-an-external-monitor-working-while-lcd-display-is-connected
  
 ### Raspberry PI linux hub i dystrybucje
  - https://elinux.org/RPi_Hub
