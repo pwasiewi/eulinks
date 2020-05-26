@@ -5,6 +5,7 @@
  - https://pclab.pl/art82828.html #install rpi NAS in Polish
  - https://magpi.raspberrypi.org/articles/build-a-raspberry-pi-nas
  - https://foldforcovid.io
+ - https://www.amazon.com/review/R3CGCFPLQ232W2/
  
 ### Raspberry PI linux hub i dystrybucje
  - https://elinux.org/RPi_Hub
