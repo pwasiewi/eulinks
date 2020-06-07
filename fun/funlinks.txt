@@ -1,5 +1,6 @@
 ## PC Builds
  - https://rk.edu.pl/pl/budowa-komputerow-dla-programistow-w-oparciu-o-ryzena-7-1700/
+ - https://rk.edu.pl/pl/nowy-desktop-z-thredripperem-vega-64-i-podwojnym-chlodzeniem-wodnym/
  - https://builds.gg/croyalore/pluto-mini-itx-chopin-gpu-mod-607
  - https://www.dobreprogramy.pl/marcinw2/Najwieksza-niewiadoma-to-AMD-pelne-case-study-budowy-mocnego-systemu-ITX,105453.html
  - https://www.reddit.com/r/Amd/comments/c7qj5e/am4_vcore_vrm_ratings_to_help_you_decide_on_a/
