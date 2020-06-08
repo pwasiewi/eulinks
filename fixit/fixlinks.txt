@@ -11,6 +11,7 @@
 
 #### set your monitor
  - https://testufo.com/ghosting
+ - http://lcdtech.info/en/tests/dead.pixel.htm
  
 #### OC tuning - AMD AM4 power VRM (sekcje zasilania)
  - https://docs.google.com/spreadsheets/d/1d9_E3h8bLp-TXr-0zTJFqqVxdCR9daIVNyMatydkpFA/htmlview
