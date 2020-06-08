@@ -16,6 +16,9 @@
  * https://github.com/linuxkit/linuxkit
  - https://www.proxmox.com/en/
 
+## ddc
+ - https://blog.tcharles.fr/ddc-ci-screen-control-on-linux/
+
 ## Debian
  - https://www.linuxuprising.com/2019/06/new-oracle-java-11-installer-for-ubuntu.html
  
