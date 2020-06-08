@@ -13,6 +13,9 @@
  - https://testufo.com/ghosting
  - http://lcdtech.info/en/tests/dead.pixel.htm
  
+#### uefi
+ - https://www.ubackup.com/windows-10/restore-efi-partition-windows-10-8523.html
+ 
 #### OC tuning - AMD AM4 power VRM (sekcje zasilania)
  - https://docs.google.com/spreadsheets/d/1d9_E3h8bLp-TXr-0zTJFqqVxdCR9daIVNyMatydkpFA/htmlview
 
