@@ -22,7 +22,7 @@
 ## teams
  - https://packages.microsoft.com/repos/ms-teams/pool/main/t/teams-insiders/
 
-## Debian
+## java
  - https://www.linuxuprising.com/2019/06/new-oracle-java-11-installer-for-ubuntu.html
  
 ## RISC-V
