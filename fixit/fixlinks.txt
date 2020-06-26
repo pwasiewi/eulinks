@@ -5,6 +5,10 @@
  - https://www.theguardian.com/world/datablog/ng-interactive/2020/apr/22/see-how-coronavirus-can-spread-through-a-population-and-how-countries-flatten-the-curve
  
 #### HARDWARE 
+#### debloat your phone without any root
+ - https://www.xda-developers.com/disable-system-app-bloatware-android/
+ - https://forum.xda-developers.com/galaxy-a50/how-to/heavy-debloat-ui-lag-ota-t3929189
+ 
 #### reset chip clt-r406 from the sl-c460 samsung printer 
  - https://www.instructables.com/id/Samsung-CLP-365-Laser-Printer-DIY-Imaging-Drum-Uni/
  - https://www.ukotka.com/2017/05/reset-licznika-dot-bebna-swiatoczuego-w.html
