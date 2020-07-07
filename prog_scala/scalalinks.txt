@@ -21,6 +21,7 @@
 - https://underscore.io/training/courses/essential-scala/
 - http://matt.might.net/articles/learning-scala-in-small-bites/
 - http://twitter.github.io/effectivescala/
+- https://github.com/lampepfl/progfun-wiki/blob/gh-pages/CheatSheet.md
 ```
 find . -name target -type d -exec rm -rf {} \;
 sbt clean clean-files
