@@ -1,0 +1,69 @@
+### Functional programming
+- https://degoes.net/articles/fp-glossary
+- https://www.reddit.com/r/hascalator/
+- https://github.com/winitzki/sofp/blob/master/sofp-src/sofp-draft.pdf
+- https://github.com/winitzki/sofp
+- https://www.youtube.com/playlist?list=PLcoadSpY7rHXJWbUkjQ3P9MXBbXxLP8kV
+- https://www.youtube.com/watch?v=mkSHhsJXjdc&list=PLjkHSzY9VuL9u4VNO7FEx0rvT8OGathj_
+- https://www.youtube.com/watch?time_continue=2329&v=8JLprl34xEw
+
+### Scala
+- https://www.reddit.com/r/hascalator/
+- https://www.scala-exercises.org
+- https://www.artima.com/pins1ed/
+- https://www.scala-lang.org/old/sites/default/files/linuxsoft_archives/docu/files/ScalaByExample.pdf
+- http://twitter.github.io/scala_school/
+- https://stackoverflow.com/tags/scala/info
+- https://github.com/lampepfl/progfun-wiki/blob/gh-pages/CheatSheet.md
+- https://docs.scala-lang.org/cheatsheets/index.html
+- https://docs.scala-lang.org/overviews/scala-book/
+- https://docs.scala-lang.org/tour/tour-of-scala.html
+- https://underscore.io/training/courses/essential-scala/
+- http://matt.might.net/articles/learning-scala-in-small-bites/
+- http://twitter.github.io/effectivescala/
+```
+find . -name target -type d -exec rm -rf {} \;
+sbt clean clean-files
+```
+
+### Design patterns in Scala
+- https://medium.com/@supermanue/gof-design-patterns-in-scala-visitor-f3b8c91e0488
+- https://www.scala-lang.org/old/sites/default/files/FrederikThesis.pdf
+- https://www.lihaoyi.com/post/ImplicitDesignPatternsinScala.html
+- https://alvinalexander.com/scala/how-scala-killed-oop-strategy-design-pattern/
+- http://allaboutscala.com/big-data/spark/
+
+#### Scala Gui
+- https://stackoverflow.com/questions/10497118/suitable-gui-framework-for-scala
+- https://github.com/scalafx/ProScalaFX
+- https://github.com/scalafx/scalafx-ensemble
+
+#### Scala DB
+- https://underscore.io/books/essential-slick/
+```
+Query is a monad. It implements the methods map, flatMap, filter, and withFilter, making it compatible with Scala for comprehensions.
+```
+- https://softwaremill.com/comparing-scala-relational-database-access-libraries/
+- https://tpolecat.github.io/doobie/
+- https://www.squeryl.org
+
+#### Advanced features
+- https://github.com/typelevel/kind-projector
+- https://medium.com/@abu_nadhr/scala-cats-library-for-dummies-part-1-8ec47af7a144
+- http://eed3si9n.com/herding-cats/
+- https://jto.github.io/articles/getting-started-with-shapeless/
+- https://jto.github.io/articles/type-all-the-things/
+- https://scalac.io/write-command-line-application-with-zio/
+
+#### Scala Fun
+- https://jto.github.io/articles/typelevel_quicksort/
+
+## Courses
+- https://www.pluralsight.com/courses/scala-specific-design-patterns
+- Functional Design Patterns - Scott Wlaschin (2017) from NDC Conferences
+- https://www.youtube.com/watch?v=srQt1NAHYC0
+- The Functional Programmer's Toolkit - Scott Wlaschin (2019)
+- https://www.youtube.com/watch?v=Nrp_LZ-XGsY
+
+## Blogs
+- https://degoes.net/
