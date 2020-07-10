@@ -55,6 +55,7 @@ Query is a monad. It implements the methods map, flatMap, filter, and withFilter
 - https://jto.github.io/articles/getting-started-with-shapeless/
 - https://jto.github.io/articles/type-all-the-things/
 - https://scalac.io/write-command-line-application-with-zio/
+- https://underscore.io/books/scala-with-cats/
 
 #### Scala Fun
 - https://jto.github.io/articles/typelevel_quicksort/
