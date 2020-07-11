@@ -27,6 +27,16 @@ find . -name target -type d -exec rm -rf {} \;
 sbt clean clean-files
 ```
 
+#### Advanced features of Scala
+- https://github.com/typelevel/kind-projector
+- https://medium.com/@abu_nadhr/scala-cats-library-for-dummies-part-1-8ec47af7a144
+- http://eed3si9n.com/herding-cats/
+- https://jto.github.io/articles/getting-started-with-shapeless/
+- https://jto.github.io/articles/type-all-the-things/
+- https://scalac.io/write-command-line-application-with-zio/
+- https://underscore.io/books/scala-with-cats/
+- https://scalalandio.github.io/
+
 ### Design patterns in Scala
 - https://medium.com/@supermanue/gof-design-patterns-in-scala-visitor-f3b8c91e0488
 - https://www.scala-lang.org/old/sites/default/files/FrederikThesis.pdf
@@ -42,20 +52,11 @@ sbt clean clean-files
 #### Scala DB
 - https://underscore.io/books/essential-slick/
 ```
-Query is a monad. It implements the methods map, flatMap, filter, and withFilter, making it compatible with Scala for comprehensions.
+Query is a monad. It implements the methods map, flatMap, filter, and withFilter, mhttps://scalalandio.github.io/aking it compatible with Scala for comprehensions.
 ```
 - https://softwaremill.com/comparing-scala-relational-database-access-libraries/
 - https://tpolecat.github.io/doobie/
 - https://www.squeryl.org
-
-#### Advanced features
-- https://github.com/typelevel/kind-projector
-- https://medium.com/@abu_nadhr/scala-cats-library-for-dummies-part-1-8ec47af7a144
-- http://eed3si9n.com/herding-cats/
-- https://jto.github.io/articles/getting-started-with-shapeless/
-- https://jto.github.io/articles/type-all-the-things/
-- https://scalac.io/write-command-line-application-with-zio/
-- https://underscore.io/books/scala-with-cats/
 
 #### Scala Fun
 - https://jto.github.io/articles/typelevel_quicksort/
