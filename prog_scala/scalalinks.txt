@@ -74,5 +74,6 @@ Query is a monad. It implements the methods map, flatMap, filter, and withFilter
 - https://www.youtube.com/watch?v=srQt1NAHYC0
 - The Functional Programmer's Toolkit - Scott Wlaschin (2019)
 - https://www.youtube.com/watch?v=Nrp_LZ-XGsY
+- https://www.youtube.com/watch?v=EOfq1x1gA6k 
 
 
