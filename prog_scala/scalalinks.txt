@@ -44,6 +44,11 @@ sbt clean clean-files
 - https://alvinalexander.com/scala/how-scala-killed-oop-strategy-design-pattern/
 - http://allaboutscala.com/big-data/spark/
 
+## Blogs
+- https://degoes.net/
+- http://eed3si9n.com/implicit-parameter-precedence-again
+- https://dwgeek.com/category/apache-spark/
+
 #### Scala Gui
 - https://stackoverflow.com/questions/10497118/suitable-gui-framework-for-scala
 - https://github.com/scalafx/ProScalaFX
@@ -68,6 +73,4 @@ Query is a monad. It implements the methods map, flatMap, filter, and withFilter
 - The Functional Programmer's Toolkit - Scott Wlaschin (2019)
 - https://www.youtube.com/watch?v=Nrp_LZ-XGsY
 
-## Blogs
-- https://degoes.net/
-- http://eed3si9n.com/implicit-parameter-precedence-again
+
