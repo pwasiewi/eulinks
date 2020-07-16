@@ -48,6 +48,7 @@ sbt clean clean-files
 - https://degoes.net/
 - http://eed3si9n.com/implicit-parameter-precedence-again
 - https://dwgeek.com/category/apache-spark/
+- https://github.com/big-data-europe/docker-spark
 
 #### Scala Gui
 - https://stackoverflow.com/questions/10497118/suitable-gui-framework-for-scala
