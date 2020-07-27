@@ -1,3 +1,7 @@
+### Open Source
+ - https://blog.dan.drown.org/gnuk-open-source-gpg-ssh-hardware-key-storage/
+ - https://shop.nitrokey.com/shop/product/nk-sta-nitrokey-start-6
+
 ### Security
  - https://niebezpiecznik.pl/post/keepass-jak-zaczac-swoja-przygode-z-managerem-hasel/
  - https://zaufanatrzeciastrona.pl/post/yubikey-dobry-na-wszystko-czyli-sprzetowe-wsparcie-logowania-po-ssh/
