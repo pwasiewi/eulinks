@@ -25,8 +25,9 @@
 #### uefi
  - https://www.ubackup.com/windows-10/restore-efi-partition-windows-10-8523.html
  
-#### OC tuning - AMD AM4 power VRM (sekcje zasilania)
+#### OC tuning - AMD AM4 power VRM (sekcje zasilania) Intel z490 power limits
  - https://docs.google.com/spreadsheets/d/1d9_E3h8bLp-TXr-0zTJFqqVxdCR9daIVNyMatydkpFA/htmlview
+ - https://www.gamersnexus.net/guides/3590-dont-run-z490-motherboards-with-default-settings-for-your-build
 
 #### naprawa android soft LG G3 hard brick
  - http://forum.gsmhosting.com/vbb/f494/how-hard-unbricked-lg-g3-all-variants-fix-qhsusb-bulk-_-qualcomm-9008-a-2029025/
