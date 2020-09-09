@@ -66,6 +66,7 @@ WINEPREFIX=/mnt/db/wine wine /mnt/db/wine/drive_c/Program\ Files\ \(x86\)/Steam/
 
 ## DAC
  - https://www.audiofanatyk.pl/polecane-daci-i-karty-dzwiekowe/
+ - http://archimago.blogspot.com/2016/10/measurements-hifiberry-dac-pro-pcm5122.html
  
 ## Mody słuchawkowe
  - https://www.head-fi.org/threads/akg-k240-studio-owners-please-share-your-experience.630058/
