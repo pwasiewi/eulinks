@@ -68,6 +68,7 @@
 ### GENTOO
  - https://wiki.gentoo.org/wiki/Project:Prefix/Use_cases
  - https://github.com/InBetweenNames/gentooLTO
+ - https://blechtog.wordpress.com/gentoo-first-ebuild-from-scratch/
 
 ### GRY 
  - https://www.voxelands.com/
