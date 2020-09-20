@@ -63,6 +63,7 @@ WINEPREFIX=/mnt/db/wine wine /mnt/db/wine/drive_c/Program\ Files\ \(x86\)/Steam/
 
 ## Music 4 guitar
  - http://www.scalerator.com/?optionsDisp=yes&selLeft=950&menuTab=instructions&root=C&pattern=major&tuning=EADGBE&size=50
+ - https://www.thegearpage.net/board/index.php?threads/the-official-fender-mustang-gtx-amp-thread-2020.2113060/page-58
 
 ## DAC
  - https://www.audiofanatyk.pl/polecane-daci-i-karty-dzwiekowe/
