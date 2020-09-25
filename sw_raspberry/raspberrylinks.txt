@@ -19,6 +19,10 @@
 ### Raspberry PI linux hub i dystrybucje
  - https://elinux.org/RPi_Hub
  - https://elinux.org/RPi_Distributions
+ - https://dietpi.com/
+ - https://www.max2play.com
+ - https://volumio.org/
+ - https://moodeaudio.org/
 
 ### Kurs zaawansowany za darmo
  - https://forbot.pl/blog/kurs-raspberry-pi-projekty-wstep-spis-tresci-id27419
