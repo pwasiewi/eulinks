@@ -15,6 +15,7 @@
 ### hardware 
  - https://www.raspberrypi.org/forums/viewtopic.php?f=28&t=243500&sid=2933354032243da664239b6428b47976&start=575#p1717646
  - https://www.raspberrypi-spy.co.uk/2018/04/i2c-oled-display-module-with-raspberry-pi/
+ - https://rataks.com/blog/justboom-digi-hat-for-ubuntu-mate-on-raspberry-pi.html
 
 ### Raspberry PI linux hub i dystrybucje
  - https://elinux.org/RPi_Hub
