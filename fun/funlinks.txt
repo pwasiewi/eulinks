@@ -39,6 +39,9 @@ WINEPREFIX=/mnt/db/wine wine /mnt/db/wine/drive_c/Program\ Files\ \(x86\)/Steam/
  - https://radiolise.gitlab.io
  - https://moodeaudio.org/
  - https://volumio.org/
+ - https://github.com/segler-alex/RadioDroid
+ - https://gitlab.gnome.org/World/Shortwave
+ - https://github.com/cwahlmann/radiopi
 
 ## SF & NASA
  - https://www.outerplaces.com/xfiles-timeline/
