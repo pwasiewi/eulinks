@@ -18,6 +18,7 @@
  - https://www.cyrius.com/debian/kirkwood/qnap/
 
 ## DirectX11 on Linux
+ - https://lutris.net/ #use plugins for epic, battle.net - steam has its own proton
  - https://wiki.gentoo.org/wiki/DXVK
  - https://blog.christiansegundo.com/eng/2018-8-1-dxvk-gentoo/
  - https://github.com/Matoking/protontricks
