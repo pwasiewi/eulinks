@@ -21,6 +21,7 @@
   - https://iceberg.apache.org/
   - https://www.youtube.com/watch?v=nWwQMlrjhy0
   - https://medium.com/datakaresolutions/key-factors-to-consider-when-optimizing-spark-jobs-72b1a0dc22bf
+  - https://medium.com/wbaa/using-scala-udfs-in-pyspark-b70033dd69b9
  
  ### Python Spark
   - https://towardsdatascience.com/a-neanderthals-guide-to-apache-spark-in-python-9ef1f156d427
