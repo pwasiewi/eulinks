@@ -14,6 +14,7 @@
  ### Scala Spark
   - https://mungingdata.com/apache-spark/partitionby/
   - http://spark.apache.org/docs/2.2.1/tuning.html
+  - https://developer.hpe.com/blog/Ql2DXNL4rmhWB8AEDMQz/tips-and-best-practices-to-take-advantage-of-spark-2x
  
  ### Python Spark
   - https://towardsdatascience.com/a-neanderthals-guide-to-apache-spark-in-python-9ef1f156d427
