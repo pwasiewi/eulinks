@@ -18,6 +18,7 @@
   - https://blog.cloudera.com/how-to-tune-your-apache-spark-jobs-part-2/
   - https://databricks.com/session/spark-autotuning
   - https://medium.com/teads-engineering/spark-performance-tuning-from-the-trenches-7cbde521cf60
+  - https://iceberg.apache.org/
  
  ### Python Spark
   - https://towardsdatascience.com/a-neanderthals-guide-to-apache-spark-in-python-9ef1f156d427
