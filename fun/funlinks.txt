@@ -169,6 +169,7 @@ cd /usr/share/minetest/games
 wget https://codeload.github.com/minetest/minetest_game/zip/master -O minetest_game.zip
 unzip minetest_game.zip
 mv minetest_game-master minetest_game
+rm minetest_game.zip
 ```
 
 #### MODY do podstawowej gry MINETEST_GAME https://www.minetest.net/customize/ 
