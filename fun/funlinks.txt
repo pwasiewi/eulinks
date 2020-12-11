@@ -163,9 +163,9 @@ git clone https://github.com/AiTechEye/xaenvironment.git
 ##### MINETEST_GAME default game https://github.com/minetest/minetest_game
 ```
 cd /usr/share/minetest/games
-#wget https://github.com/minetest/minetest_game/archive/5.1.0.tar.gz -O minetest_game.tar.gz
+#wget https://github.com/minetest/minetest_game/archive/5.3.0.tar.gz -O minetest_game.tar.gz
 #tar zxvf minetest_game.tar.gz
-#mv minetest_game-5.1.0 minetest_game
+#mv minetest_game-5.3.0 minetest_game
 wget https://codeload.github.com/minetest/minetest_game/zip/master -O minetest_game.zip
 unzip minetest_game.zip
 mv minetest_game-master minetest_game
