@@ -39,6 +39,10 @@ serverless remove --stage dev1234; time serverless deploy -v --stage dev1234
 - https://medium.com/@sdmandrell/aws-lambda-how-to-automate-your-spark-jobs-on-aws-elastic-map-reduce-emr-4fb71369ac48
 - https://medium.com/swlh/running-spark-application-in-the-emr-cluster-through-aws-lambda-function-20ff598e63fe
 - https://aws.amazon.com/blogs/big-data/orchestrate-apache-spark-applications-using-aws-step-functions-and-apache-livy/
+#### aws step functions
+- https://www.youtube.com/playlist?list=PLGyRwGktEFqcVoQkgq3vE1GeN3oY39btv #step functions videos
+- https://github.com/serverless-operations/serverless-step-functions
+- https://aws.amazon.com/blogs/big-data/aws-glue-now-supports-scala-scripts/
  
  ### Scala Spark
   - https://mungingdata.com/apache-spark/partitionby/
