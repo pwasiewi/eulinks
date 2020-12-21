@@ -47,6 +47,7 @@ serverless remove --stage dev1234; time serverless deploy -v --stage dev1234
 - https://datacarpentry.org/python-socialsci/07-json/index.html
  
  ### Scala Spark
+  - https://www.pgs-soft.com/blog/spark-memory-management-part-1-push-it-to-the-limits/
   - https://mungingdata.com/apache-spark/partitionby/
   - http://spark.apache.org/docs/2.2.1/tuning.html
   - https://developer.hpe.com/blog/Ql2DXNL4rmhWB8AEDMQz/tips-and-best-practices-to-take-advantage-of-spark-2x
