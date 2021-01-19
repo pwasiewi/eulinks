@@ -10,7 +10,9 @@
 
 ### Fundamentals
   - https://towardsdatascience.com/optimization-loss-function-under-the-hood-part-ii-d20a239cde11
-
+  
+### Small AI 
+  - http://junyelee.blogspot.com/2019/05/the-coral-usb-accelerator-with.html
  
  ### DICOM
   - https://pyradiomics.readthedocs.io/en/latest/labs.html
