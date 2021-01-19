@@ -1,0 +1,43 @@
+# AWS
+- https://aws.amazon.com/blogs/big-data/aws-serverless-data-analytics-pipeline-reference-architecture/
+
+### AWS PySpark 
+#### Create Rule for Glue
+- https://medium.com/@vincentclaes_43752/create-a-role-on-aws-for-the-serverless-framework-for-any-resource-c49712a5eee0
+- https://aws.amazon.com/blogs/big-data/aws-glue-now-supports-scala-scripts/
+#### Make lambda glue
+- https://towardsdatascience.com/build-a-serverless-data-pipeline-on-aws-7c7d498d9707
+#### large file in lambda
+- https://www.reddit.com/r/aws/comments/b73lis/processing_a_large_csv_file_with_a_lambda_line_by/
+#### Variables in pipelines
+- https://confluence.atlassian.com/bitbucket/environment-variables-in-bitbucket-pipelines-794502608.html
+#### Lambda in bitbucket pipelines
+- https://bitbucket.org/blog/aws-lambda-deployments-using-bitbucket-pipelines-and-pipes
+#### bitbucket pipelines serverless
+- https://bitbucket.org/blog/automating-serverless-framework-deployments-using-bitbucket-pipelines
+serverless remove --stage dev1234; time serverless deploy -v --stage dev1234
+#### AWS S3 bitbucket
+- https://bitbucket.org/bitbucketpipelines/example-aws-s3-deploy/src/master/bitbucket-pipelines.yml
+#### VPC
+- https://docs.aws.amazon.com/vpc/latest/userguide/default-vpc.html
+- https://docs.aws.amazon.com/lambda/latest/dg/configuration-vpc.html
+#### serverless app sam init
+- https://github.com/aws/serverless-application-model/blob/master/HOWTO.md
+- https://github.com/grantcooksey/aws-lambda-python-examples
+#### aws glue python
+- https://docs.aws.amazon.com/glue/latest/dg/aws-glue-programming-python-samples-medicaid.html
+- https://aws.amazon.com/blogs/big-data/building-an-aws-glue-etl-pipeline-locally-without-an-aws-account/
+- https://aws.amazon.com/blogs/big-data/developing-aws-glue-etl-jobs-locally-using-a-container/
+- https://docs.aws.amazon.com/glue/latest/dg/aws-glue-programming-etl-libraries.html
+- https://jensenmo.github.io/posts/install-glue-on-ubuntu-20.04/
+- https://pypi.org/project/awsglue-local/
+- 
+#### aws lambda emr
+- https://medium.com/@sdmandrell/aws-lambda-how-to-automate-your-spark-jobs-on-aws-elastic-map-reduce-emr-4fb71369ac48
+- https://medium.com/swlh/running-spark-application-in-the-emr-cluster-through-aws-lambda-function-20ff598e63fe
+- https://aws.amazon.com/blogs/big-data/orchestrate-apache-spark-applications-using-aws-step-functions-and-apache-livy/
+#### aws step functions
+- https://www.youtube.com/playlist?list=PLGyRwGktEFqcVoQkgq3vE1GeN3oY39btv #step functions videos
+- https://github.com/serverless-operations/serverless-step-functions
+#### json spark
+- https://datacarpentry.org/python-socialsci/07-json/index.html

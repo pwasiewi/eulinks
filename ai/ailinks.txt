@@ -11,67 +11,7 @@
 ### Fundamentals
   - https://towardsdatascience.com/optimization-loss-function-under-the-hood-part-ii-d20a239cde11
 
-### AWS PySpark 
-#### Create Rule for Glue
-- https://medium.com/@vincentclaes_43752/create-a-role-on-aws-for-the-serverless-framework-for-any-resource-c49712a5eee0
-- https://aws.amazon.com/blogs/big-data/aws-glue-now-supports-scala-scripts/
-#### Make lambda glue
-- https://towardsdatascience.com/build-a-serverless-data-pipeline-on-aws-7c7d498d9707
-#### large file in lambda
-- https://www.reddit.com/r/aws/comments/b73lis/processing_a_large_csv_file_with_a_lambda_line_by/
-#### Variables in pipelines
-- https://confluence.atlassian.com/bitbucket/environment-variables-in-bitbucket-pipelines-794502608.html
-#### Lambda in bitbucket pipelines
-- https://bitbucket.org/blog/aws-lambda-deployments-using-bitbucket-pipelines-and-pipes
-#### bitbucket pipelines serverless
-- https://bitbucket.org/blog/automating-serverless-framework-deployments-using-bitbucket-pipelines
-serverless remove --stage dev1234; time serverless deploy -v --stage dev1234
-#### AWS S3 bitbucket
-- https://bitbucket.org/bitbucketpipelines/example-aws-s3-deploy/src/master/bitbucket-pipelines.yml
-#### VPC
-- https://docs.aws.amazon.com/vpc/latest/userguide/default-vpc.html
-- https://docs.aws.amazon.com/lambda/latest/dg/configuration-vpc.html
-#### serverless app sam init
-- https://github.com/aws/serverless-application-model/blob/master/HOWTO.md
-- https://github.com/grantcooksey/aws-lambda-python-examples
-#### aws glue python
-- https://docs.aws.amazon.com/glue/latest/dg/aws-glue-programming-python-samples-medicaid.html
-#### aws lambda emr
-- https://medium.com/@sdmandrell/aws-lambda-how-to-automate-your-spark-jobs-on-aws-elastic-map-reduce-emr-4fb71369ac48
-- https://medium.com/swlh/running-spark-application-in-the-emr-cluster-through-aws-lambda-function-20ff598e63fe
-- https://aws.amazon.com/blogs/big-data/orchestrate-apache-spark-applications-using-aws-step-functions-and-apache-livy/
-#### aws step functions
-- https://www.youtube.com/playlist?list=PLGyRwGktEFqcVoQkgq3vE1GeN3oY39btv #step functions videos
-- https://github.com/serverless-operations/serverless-step-functions
-#### json spark
-- https://datacarpentry.org/python-socialsci/07-json/index.html
  
- ### Scala Spark
-  - https://www.pgs-soft.com/blog/spark-memory-management-part-1-push-it-to-the-limits/
-  - https://mungingdata.com/apache-spark/partitionby/
-  - http://spark.apache.org/docs/2.2.1/tuning.html
-  - https://developer.hpe.com/blog/Ql2DXNL4rmhWB8AEDMQz/tips-and-best-practices-to-take-advantage-of-spark-2x
-  - https://blog.cloudera.com/how-to-tune-your-apache-spark-jobs-part-2/
-  - https://databricks.com/session/spark-autotuning
-  - https://medium.com/teads-engineering/spark-performance-tuning-from-the-trenches-7cbde521cf60
-  - https://iceberg.apache.org/
-  - https://www.youtube.com/watch?v=nWwQMlrjhy0
-  - https://medium.com/datakaresolutions/key-factors-to-consider-when-optimizing-spark-jobs-72b1a0dc22bf
-  - https://medium.com/wbaa/using-scala-udfs-in-pyspark-b70033dd69b9
- 
- ### Python Spark
-  - https://towardsdatascience.com/a-neanderthals-guide-to-apache-spark-in-python-9ef1f156d427
-  - https://mapr.com/blog/5-minute-guide-understanding-significance-apache-spark/
-  - https://mapr.com/blog/tips-and-best-practices-to-take-advantage-of-spark-2-x/¶
-  - https://towardsdatascience.com/pyspark-and-sparksql-basics-6cb4bf967e53
-  - https://github.com/pinarersoy/PySpark_SparkSQL_MLib/blob/master/PySpark%20and%20SparkSQL.ipynb
-  - https://rsandstroem.github.io/sparkkmeans.html
-  - https://datascience-enthusiast.com/Python/ml_RDD_DataFrames.html
-  - https://github.com/jadianes/spark-py-notebooks
-  - https://github.com/jlyang1990/Spark_Python_Do_Big_Data_Analytics
-  - https://hackersandslackers.com/working-with-pyspark-rdds/
-  - https://community.cloudera.com/t5/Community-Articles/Using-Vagrant-and-Virtualbox-to-create-a-local-instance-of/ta-p/248439
-  
  ### DICOM
   - https://pyradiomics.readthedocs.io/en/latest/labs.html
   - https://www.researchgate.net/post/Does_anybody_know_any_free_tools_to_convert_a_3D_DICOM_dataset_into_a_surface_representation_file_such_as_STL_for_example
@@ -162,12 +102,6 @@ serverless remove --stage dev1234; time serverless deploy -v --stage dev1234
  - [Coursera video tutorial about the classifier library wrapper caret](https://www.coursera.org/learn/practical-machine-learning/lecture/Bu9ns/caret-package)
  - [Extremely interesting video tutorial about the classifier library wrapper caret](https://www.youtube.com/watch?v=7Jbb2ItbTC4)
 
-##### Colabs of Deep & Machine Learning
- - https://colab.research.google.com/drive/11qBrQrqlVrUccuAsMSNyrCQ_voiybn9X#scrollTo=tmkJAibYCzJg (in Polish)
- - https://github.com/lexfridman/mit-deep-learning
- - https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d
- - https://colab.research.google.com/gist/pwasiewi/4fc4923fbfa4239041fd66a3ee1d4133/mnist-in-keras.ipynb
-
 ##### Reinforcement and similar case studies
  - http://www.wildml.com/
  - https://deepmind.com/blog/deepmind-and-blizzard-open-starcraft-ii-ai-research-environment/
@@ -178,36 +112,6 @@ serverless remove --stage dev1234; time serverless deploy -v --stage dev1234
  - http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
  - http://mnemstudio.org/path-finding-q-learning-tutorial.htm
 
-### Deep learning and neural net learning
- * https://towardsdatascience.com/self-learning-ai-agents-part-ii-deep-q-learning-b5ac60c3f47
- * https://towardsdatascience.com/battle-of-the-deep-learning-frameworks-part-i-cff0e3841750
- - http://www.deeplearningbook.org/
- - https://github.com/tomepel/Technical_Book_DL
- - http://colah.github.io/posts/2015-08-Understanding-LSTMs/
- - [Deep Learning introduction (in Polish)](https://pclab.pl/art79689.html)
- - http://ruder.io/#open
- - http://cs231n.github.io/convolutional-networks/
- - https://blog.pocketcluster.io/
- - http://caffe.berkeleyvision.org/
- - http://deeplearning.net/software/libgpuarray/
- - https://github.com/h2oai/h2o-3
- - https://cran.r-project.org/web/packages/h2o4gpu/vignettes/getting_started.html
-* http://datascienceplus.com/fitting-neural-network-in-r/
-* https://gist.github.com/mick001/49fad7f4c6112d954aff
-* http://www.r-bloggers.com/self-organising-maps-for-customer-segmentation-using-r-2/ 
-* http://www.r-bloggers.com/visualizing-neural-networks-in-r-update/
-* http://www.r-bloggers.com/visualizing-neural-networks-from-the-nnet-package/ 
-* https://towardsdatascience.com/adam-latest-trends-in-deep-learning-optimization-6be9a291375c
-* https://towardsdatascience.com/https-medium-com-piotr-skalski92-deep-dive-into-deep-networks-math-17660bc376ba
-* https://github.com/SkalskiP/ILearnDeepLearning.py
-* https://github.com/plaidml/plaidml
-
-##### Basics of Tensorflow 
- - https://medium.com/@d3lm/understand-tensorflow-by-mimicking-its-api-from-scratch-faa55787170d
- - https://codesachin.wordpress.com/2015/11/28/self-organizing-maps-with-googles-tensorflow/
- - https://github.com/nfmcclure/tensorflow_cookbook/blob/master/11_More_with_TensorFlow/02_Working_with_a_Genetic_Algorithm/02_genetic_algorithm.py
- * [Tensorflow in R](https://tensorflow.rstudio.com/)
- 
 
 ### Microsoft R Python ML
  - https://blogs.msdn.microsoft.com/mlserver/2018/07/26/dockerizing-r-and-python-web-services/

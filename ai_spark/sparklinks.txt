@@ -1,0 +1,27 @@
+ # Spark SQL parallel engine
+ ### Scala Spark
+  - https://www.pgs-soft.com/blog/spark-memory-management-part-1-push-it-to-the-limits/
+  - https://mungingdata.com/apache-spark/partitionby/
+  - http://spark.apache.org/docs/2.2.1/tuning.html
+  - https://developer.hpe.com/blog/Ql2DXNL4rmhWB8AEDMQz/tips-and-best-practices-to-take-advantage-of-spark-2x
+  - https://blog.cloudera.com/how-to-tune-your-apache-spark-jobs-part-2/
+  - https://databricks.com/session/spark-autotuning
+  - https://medium.com/teads-engineering/spark-performance-tuning-from-the-trenches-7cbde521cf60
+  - https://iceberg.apache.org/
+  - https://www.youtube.com/watch?v=nWwQMlrjhy0
+  - https://medium.com/datakaresolutions/key-factors-to-consider-when-optimizing-spark-jobs-72b1a0dc22bf
+  - https://medium.com/wbaa/using-scala-udfs-in-pyspark-b70033dd69b9
+ 
+ ### Python Spark
+  - https://towardsdatascience.com/a-neanderthals-guide-to-apache-spark-in-python-9ef1f156d427
+  - https://mapr.com/blog/5-minute-guide-understanding-significance-apache-spark/
+  - https://mapr.com/blog/tips-and-best-practices-to-take-advantage-of-spark-2-x/¶
+  - https://towardsdatascience.com/pyspark-and-sparksql-basics-6cb4bf967e53
+  - https://github.com/pinarersoy/PySpark_SparkSQL_MLib/blob/master/PySpark%20and%20SparkSQL.ipynb
+  - https://rsandstroem.github.io/sparkkmeans.html
+  - https://datascience-enthusiast.com/Python/ml_RDD_DataFrames.html
+  - https://github.com/jadianes/spark-py-notebooks
+  - https://github.com/jlyang1990/Spark_Python_Do_Big_Data_Analytics
+  - https://hackersandslackers.com/working-with-pyspark-rdds/
+  - https://community.cloudera.com/t5/Community-Articles/Using-Vagrant-and-Virtualbox-to-create-a-local-instance-of/ta-p/248439
+  
