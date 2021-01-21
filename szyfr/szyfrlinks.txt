@@ -21,6 +21,7 @@
  - https://nickmooney.com/keybase-pgp-yubikey/
  - https://www.emsec.rub.de/media/crypto/veroeffentlichungen/2014/02/04/paper_yubikey_sca.pdf 
  - https://laptrinhx.com/guide-to-setup-a-yubikey-for-fedora-kde-as-2fa-using-u2f-for-the-sddm-login-screen-lock-screen-sudo-and-su-2686335012/
+ - https://gist.github.com/SunboX/d45b3e6edd691e7f0ec79dd7a9c82997
  
 ### Cryptsetup
  - https://we.riseup.net/riseuphelp+en/disk-encryption-kde
