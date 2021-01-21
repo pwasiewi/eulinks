@@ -24,4 +24,6 @@
   - https://github.com/jlyang1990/Spark_Python_Do_Big_Data_Analytics
   - https://hackersandslackers.com/working-with-pyspark-rdds/
   - https://community.cloudera.com/t5/Community-Articles/Using-Vagrant-and-Virtualbox-to-create-a-local-instance-of/ta-p/248439
-  
+
+### Spark configs
+  - https://www.c2fo.io/c2fo/spark/aws/emr/2016/07/06/apache-spark-config-cheatsheet/
