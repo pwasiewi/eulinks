@@ -1,6 +1,9 @@
 # AWS
 - https://aws.amazon.com/blogs/big-data/aws-serverless-data-analytics-pipeline-reference-architecture/
 
+### Local PySpark
+- https://jensenmo.github.io/posts/install-glue-on-ubuntu-20.04/
+
 ### AWS PySpark 
 #### Create Rule for Glue
 - https://medium.com/@vincentclaes_43752/create-a-role-on-aws-for-the-serverless-framework-for-any-resource-c49712a5eee0
