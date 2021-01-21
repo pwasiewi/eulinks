@@ -2,13 +2,14 @@
 - https://aws.amazon.com/blogs/big-data/aws-serverless-data-analytics-pipeline-reference-architecture/
 
 ### Local PySpark Glue
-- https://jensenmo.github.io/posts/install-glue-on-ubuntu-20.04/
+- https://support.wharton.upenn.edu/help/glue-debugging
+- https://aws.amazon.com/blogs/big-data/developing-aws-glue-etl-jobs-locally-using-a-container/
 - https://docs.aws.amazon.com/glue/latest/dg/aws-glue-programming-python-samples-medicaid.html
 - https://aws.amazon.com/blogs/big-data/building-an-aws-glue-etl-pipeline-locally-without-an-aws-account/
-- https://aws.amazon.com/blogs/big-data/developing-aws-glue-etl-jobs-locally-using-a-container/
 - https://docs.aws.amazon.com/glue/latest/dg/aws-glue-programming-etl-libraries.html
+- https://jensenmo.github.io/posts/install-glue-on-ubuntu-20.04/
 - https://pypi.org/project/awsglue-local/
-- https://support.wharton.upenn.edu/help/glue-debugging
+
 
 ### Dev endpoints
 - https://docs.aws.amazon.com/glue/latest/dg/dev-endpoint.html
