@@ -1,8 +1,13 @@
 # AWS
 - https://aws.amazon.com/blogs/big-data/aws-serverless-data-analytics-pipeline-reference-architecture/
 
-### Local PySpark
+### Local PySpark Glue
 - https://jensenmo.github.io/posts/install-glue-on-ubuntu-20.04/
+- https://docs.aws.amazon.com/glue/latest/dg/aws-glue-programming-python-samples-medicaid.html
+- https://aws.amazon.com/blogs/big-data/building-an-aws-glue-etl-pipeline-locally-without-an-aws-account/
+- https://aws.amazon.com/blogs/big-data/developing-aws-glue-etl-jobs-locally-using-a-container/
+- https://docs.aws.amazon.com/glue/latest/dg/aws-glue-programming-etl-libraries.html
+- https://pypi.org/project/awsglue-local/
 
 ### AWS PySpark 
 #### Create Rule for Glue
@@ -27,14 +32,7 @@ serverless remove --stage dev1234; time serverless deploy -v --stage dev1234
 #### serverless app sam init
 - https://github.com/aws/serverless-application-model/blob/master/HOWTO.md
 - https://github.com/grantcooksey/aws-lambda-python-examples
-#### aws glue python
-- https://docs.aws.amazon.com/glue/latest/dg/aws-glue-programming-python-samples-medicaid.html
-- https://aws.amazon.com/blogs/big-data/building-an-aws-glue-etl-pipeline-locally-without-an-aws-account/
-- https://aws.amazon.com/blogs/big-data/developing-aws-glue-etl-jobs-locally-using-a-container/
-- https://docs.aws.amazon.com/glue/latest/dg/aws-glue-programming-etl-libraries.html
-- https://jensenmo.github.io/posts/install-glue-on-ubuntu-20.04/
-- https://pypi.org/project/awsglue-local/
-- 
+
 #### aws lambda emr
 - https://medium.com/@sdmandrell/aws-lambda-how-to-automate-your-spark-jobs-on-aws-elastic-map-reduce-emr-4fb71369ac48
 - https://medium.com/swlh/running-spark-application-in-the-emr-cluster-through-aws-lambda-function-20ff598e63fe
