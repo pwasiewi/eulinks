@@ -9,6 +9,9 @@
 - https://docs.aws.amazon.com/glue/latest/dg/aws-glue-programming-etl-libraries.html
 - https://pypi.org/project/awsglue-local/
 
+### Dev endpoints
+- https://docs.aws.amazon.com/glue/latest/dg/dev-endpoint.html
+
 ### AWS PySpark 
 #### Create Rule for Glue
 - https://medium.com/@vincentclaes_43752/create-a-role-on-aws-for-the-serverless-framework-for-any-resource-c49712a5eee0
