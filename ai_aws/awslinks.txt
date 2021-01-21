@@ -8,6 +8,7 @@
 - https://aws.amazon.com/blogs/big-data/developing-aws-glue-etl-jobs-locally-using-a-container/
 - https://docs.aws.amazon.com/glue/latest/dg/aws-glue-programming-etl-libraries.html
 - https://pypi.org/project/awsglue-local/
+- https://support.wharton.upenn.edu/help/glue-debugging
 
 ### Dev endpoints
 - https://docs.aws.amazon.com/glue/latest/dg/dev-endpoint.html
