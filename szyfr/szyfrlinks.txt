@@ -1,6 +1,8 @@
 ### Open Source
  - https://blog.dan.drown.org/gnuk-open-source-gpg-ssh-hardware-key-storage/
  - https://shop.nitrokey.com/shop/product/nk-sta-nitrokey-start-6
+ - https://rbridge.inlab.net/manual/trngs/
+
 
 ### Security
  - https://niebezpiecznik.pl/post/keepass-jak-zaczac-swoja-przygode-z-managerem-hasel/
