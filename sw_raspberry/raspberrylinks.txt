@@ -1,4 +1,5 @@
 ### Instalacja
+ - https://ubuntu.com/download/raspberry-pi
  - https://www.balena.io/etcher/
  - https://www.raspberrypi.org/downloads/raspbian/
  - https://forum.openmediavault.org/index.php/Thread/28789-Installing-OMV5-on-Raspberry-PI-s-Armbian-Supported-SBC-s/
