@@ -2,6 +2,19 @@
 ### Kursy sieciowe 
  - https://www.cybrary.it/
 
+### Router tomato
+ - https://marocjournal.net/cat-blog/7-najlepszych-routerow-pomidorowych-w-2020-roku/
+ - https://www.reddit.com/r/TomatoFTW/comments/8cr8hn/so_shibby_tomato_is_basically_dead_right/
+ - https://wiki.freshtomato.org/doku.php/hardware_compatibility
+ - https://www.asus.com/support/FAQ/1000814/
+ - https://www.tme.eu/pl/details/zsi-50081.30w/zasilacze-wtyczkowe/qoltec/50081/
+ - https://bitbucket.org/pedro311/freshtomato-mips/src/mips-master/
+ 
+ 
+### Router OpenWRT
+ - https://openwrt.org/toh/views/toh_available_16128
+ - 
+
 ### QOS
  - https://www.linksysinfo.org/index.php?threads/qos-tutorial.68795/
  - https://www.linksysinfo.org/index.php?threads/the-best-qos-for-gaming-and-everything-else-tomato.73927/
