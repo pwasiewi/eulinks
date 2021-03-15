@@ -65,6 +65,9 @@ preferencji.
 
 #Inne języki niż PHP, JAVA, CPP
 
+# C
+ - https://www.freecodecamp.org/news/boost-programming-skills-read-git-code/
+
 ## Objective-C
  * http://www.niresh.co/hackintosh-downloads/file/75-niresh-mac-os-x-mavericks-109-with-amd-intel-usb/
  * http://tryobjectivec.codeschool.com
