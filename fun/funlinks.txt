@@ -1,4 +1,5 @@
 ## Gloomhaven
+- https://johreh.github.io/gloomycompanion/
 - https://boardgamegeek.com/geeklist/234575/gloomhaven-rules-quiz
 - https://raw.githubusercontent.com/Sadgit-HL/Gloomhaven-2nd-printing-assets/master/rules/GH_basic_questions.pdf
 
