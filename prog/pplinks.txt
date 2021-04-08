@@ -46,6 +46,8 @@ angielsku (choć może nie w każdym przypadku). A ta z kolei jest wstępem
 do dalszych pozycji, można też zacząć od czytania książek, zależy od
 preferencji.
 
+## RUST
+ - https://os.phil-opp.com/minimal-rust-kernel/
 
 ## OBIEKTOWE
  * http://pl.wikipedia.org/wiki/Programowanie_obiektowe
