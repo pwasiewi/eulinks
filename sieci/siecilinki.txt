@@ -3,6 +3,7 @@
  - https://www.cybrary.it/
 
 ### Router tomato
+ - https://learntomato.flashrouters.com/wifi-not-working-fix-slow-wifi-problems/
  - https://marocjournal.net/cat-blog/7-najlepszych-routerow-pomidorowych-w-2020-roku/
  - https://www.reddit.com/r/TomatoFTW/comments/8cr8hn/so_shibby_tomato_is_basically_dead_right/
  - https://wiki.freshtomato.org/doku.php/hardware_compatibility
