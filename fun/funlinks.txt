@@ -120,6 +120,9 @@ WINEPREFIX=/mnt/db/wine wine /mnt/db/wine/drive_c/Program\ Files\ \(x86\)/Steam/
  - https://github.com/goofball222/factorio
  - https://forums.factorio.com/viewtopic.php?f=53&p=397798#p397798
  
+## StarCraft
+ - http://starcraft2calculator.appspot.com/guide/826001/Protoss-Macro
+ 
 ## Lego BrickPI 
  - http://pdwhomeautomation.blogspot.com/2012/11/raspberry-pi-powered-lego-car.html
  - https://www.dexterindustries.com/product/brickpi-advanced-for-raspberry-pi/
