@@ -1,6 +1,9 @@
 # AWS
 - https://aws.amazon.com/blogs/big-data/aws-serverless-data-analytics-pipeline-reference-architecture/
 
+### AWS Aurora Postgres
+- http://blog.rizvn.com/2018/07/postgres-aurora-table-partitioning.html
+
 ### Local PySpark Glue
 - https://support.wharton.upenn.edu/help/glue-debugging
 - https://aws.amazon.com/blogs/big-data/developing-aws-glue-etl-jobs-locally-using-a-container/
