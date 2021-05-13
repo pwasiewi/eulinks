@@ -18,6 +18,8 @@
 - https://docs.aws.amazon.com/glue/latest/dg/dev-endpoint.html
 
 ### AWS PySpark 
+ - https://luminousmen.com/?tag=spark
+
 #### Create Rule for Glue
 - https://medium.com/@vincentclaes_43752/create-a-role-on-aws-for-the-serverless-framework-for-any-resource-c49712a5eee0
 - https://aws.amazon.com/blogs/big-data/aws-glue-now-supports-scala-scripts/
