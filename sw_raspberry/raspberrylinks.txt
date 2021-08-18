@@ -1,3 +1,6 @@
+### radio pi
+ - https://bobrathbone.com/raspberrypi/pi_internet_radio.html
+
 ### Instalacja
  - https://ubuntu.com/download/raspberry-pi
  - https://www.balena.io/etcher/
