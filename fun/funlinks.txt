@@ -30,6 +30,7 @@
  - https://www.cyrius.com/debian/
  - https://weekly-geekly.github.io/articles/244921/index.html
  - https://www.cyrius.com/debian/kirkwood/qnap/
+ - https://www.snbforums.com/threads/fork-asuswrt-merlin-374-lts-release-49e4.72269/
 
 ## DirectX11 on Linux
  - https://lutris.net/ #use plugins for epic, battle.net - steam has its own proton
