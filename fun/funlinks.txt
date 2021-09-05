@@ -5,12 +5,15 @@
 - https://www.tangentsoft.net/audio/opamps.html
 - https://www.head-fi.org/threads/opamp-round-up-measurements-opa2604-opa637-ad823-lme49860-jr4556-muses8820-and-8920-burson-v6-classic.870832/
 - https://nwavguy.blogspot.com/2011/08/op-amp-measurements.html
+- https://forum.audiofanatyk.pl/topic/24-opa-muses-jak-rozpozna%C4%87-podrobione-opa/
 - https://forum.audio.com.pl/topic/67394-pytanie-odno%C5%9Bnie-muzyki-przez-raspberry-pi-3/
 - https://www.audiostereo.pl/topic/121319-raspberry-pi-malinka-z-daciem-hifi-swietny-odtwarzacz-sieciowy/
 - https://avcorp.pl/product-pol-4721-Sparkos-Labs-SS3602-Dual-DIP8-podwojny-dyskretny-wzmacniacz-operacyjny.html
+- https://www.audiofanatyk.pl/recenzja-opampa-audiofeel-opa301b/
 - https://www.audiostereo.pl/topic/130666-burson-audio-supreme-sound-v5i-dual/#comments
 - https://www.lucartoaudio.pl/produkty/Zasilacz-liniowy-mocy-LPS
 - https://www.diyaudio.com/forums/parts/280990-ti-discontinue-ics.html
+- https://www.head-fi.org/threads/lm4562-vs-opa2134-vs.867623/
 
 ## Lampy
 - https://audiofool.reviews/tube-rolling-the-xduoo-ta-30/
