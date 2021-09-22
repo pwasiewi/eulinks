@@ -36,6 +36,7 @@
 
 ### ATTINY25 & key loggers
  - https://sekurak.pl/pendrive-przejmujacy-komputer-za-30-zlotych/
+ - https://www.driverentry.com/node/104
  - http://www.fourwalledcubicle.com/LUFA.php
  - https://hackaday.io/project/17598-diy-usb-rubber-ducky
  - https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Payloads
