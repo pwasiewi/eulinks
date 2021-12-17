@@ -8,7 +8,9 @@
 
 
 ### Security
+ - https://github.com/drduh/YubiKey-Guide
  - https://upload.yubico.com/
+ - https://demo.yubico.com/otp/verify
  - https://niebezpiecznik.pl/post/keepass-jak-zaczac-swoja-przygode-z-managerem-hasel/
  - https://zaufanatrzeciastrona.pl/post/yubikey-dobry-na-wszystko-czyli-sprzetowe-wsparcie-logowania-po-ssh/
  - https://www.freeipa.org/page/Using_Yubikey_4_Nano_to_authenticate_to_FreeIPA_enrolled_host
@@ -16,7 +18,6 @@
  - https://keepassxc.org/
  - https://github.com/keepassxreboot/keepassxc/blob/develop/docs/QUICKSTART.md#using-sharing
  - https://www.hanselman.com/blog/HowToSetupSignedGitCommitsWithAYubiKeyNEOAndGPGAndKeybaseOnWindows.aspx
- - https://github.com/drduh/YubiKey-Guide
  - https://help.ubuntu.com/community/GnuPrivacyGuardHowto
  - https://riseup.net/en/security/message-security/openpgp/best-practices
  - https://www.jabberwocky.com/software/paperkey/
