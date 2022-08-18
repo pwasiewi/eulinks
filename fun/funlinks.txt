@@ -9,6 +9,7 @@
 ## Steam Deck
 - https://www.jsaux.com/collections/steam-deck-accessory
 - https://www.gamingonlinux.com/2022/07/devs-are-discovering-the-steam-deck-is-good-for-making-games-too/
+- https://support.system76.com/articles/use-amd-fsr/
 
 ## Knive steel kinds (in Polish)
 - https://www.militaria.pl/porady/noze/glownie.xml
