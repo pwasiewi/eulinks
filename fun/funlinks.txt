@@ -1,3 +1,9 @@
+## Test słuchawek
+ - https://aptx.com/music
+ - https://www.youtube.com/watch?v=J0a2Prc_MQo
+ - https://www.youtube.com/watch?v=OUZv4B9cvaM
+ - https://www.head-fi.org/showcase/sennheiser-hd-580.12036/reviews
+
 ## Rowery
 - https://roweroweporady.pl/rozmiar-ramy-rowerowej/
 - https://www.redbull.com/pl-pl/poradnik-rowerowy-najlepsze-aplikacje-mobilne-dla-rowerzystow
@@ -162,11 +168,6 @@ WINEPREFIX=/mnt/db/wine wine /mnt/db/wine/drive_c/Program\ Files\ \(x86\)/Steam/
  
 ## OC cpu
  - http://forum.pclab.pl/topic/1254383-29-modeli-Ranking-p%C5%82yt-g%C5%82%C3%B3wnych-Z370-i-Z390-dla-Coffee-Lake-LGA-1151-o-ich-OC/
- 
-## Test słuchawek
- - https://www.youtube.com/watch?v=J0a2Prc_MQo
- - https://www.youtube.com/watch?v=OUZv4B9cvaM
- - https://www.head-fi.org/showcase/sennheiser-hd-580.12036/reviews
 
 ## Komiksy muzealne
  - http://comicbookplus.com/
