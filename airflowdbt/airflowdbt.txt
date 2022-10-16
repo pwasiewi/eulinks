@@ -1,6 +1,48 @@
-
 ### AIRFLOW
-##### dependencies between tasks
+- https://refactorfirst.com/apache-airflow-2-0-practical-jump-start
+- https://docs.aws.amazon.com/mwaa/latest/userguide/quick-start.html
+- https://github.com/aws/aws-mwaa-local-runner/tree/v2.2.2
+- https://www.projectpro.io/recipes/use-postgresql-airflow-dag
+- https://soitgoes511.github.io/rpi/postgres/dbt/airflow/2021/07/20/dbt_install_transform.html
+- https://www.astronomer.io/blog/airflow-dbt-1
+- https://www.astronomer.io/blog/airflow-dbt-2
+- https://analyticsmayhem.com/dbt/schedule-dbt-models-with-apache-airflow/
+- https://github.com/konosp/dbt-on-airflow
+
+##### Airflow dependencies between tasks
 - https://docs.astronomer.io/learn/managing-dependencies
 - https://airflow.apache.org/docs/apache-airflow/2.2.2/tutorial.html#setting-up-dependencies
 - https://splunktool.com/airflow-how-to-set-task-dependencies-between-iterations-of-a-for-loop
+
+### DBT
+- https://about.gitlab.com/handbook/business-technology/data-team/platform/dbt-guide/
+- https://docs.getdbt.com/guides/getting-started
+- https://towardsdatascience.com/how-to-write-dbt-macros-using-jinja2-ff021d535bf3
+- https://www.entechlog.com/blog/kafka/exploring-dbt-with-snowflake/
+- https://medium.com/hashmapinc/housekeeping-in-snowflake-with-sql-and-dbt-a50d7448d4b1
+- https://blog.fal.ai/sentiment-analysis-on-your-dbt-models/
+- https://openlineage.io/blog/dbt-with-marquez/
+
+### DBT to local postgres
+pip3 install --user dbt-core dbt-postgres dbt-redshift dbt-snowflake
+dbt init dbt
+### make profile/profiles.yml
+export DBT_PROFILES_DIR=`pwd`/profile
+dbt debug
+
+### Airflow in AWS cloud
+- https://docs.aws.amazon.com/mwaa/latest/userguide/quick-start.html
+'''
+aws sts get-caller-identity
+aws cloudformation create-stack --stack-name mwaa-environment-public-network --template-body file://mwaa-public-network.yml --capabilities CAPABILITY_IAM
+aws s3 cp tutorial.py s3://mwaa-environment-public-network-environmentbucket-wgqd7r1ha02h/dags/
+aws cloudformation delete-stack --stack-name mwaa-environment-public-network
+aws cloudformation wait stack-delete-complete --stack-name mwaa-environment-public-network
+'''
+
+### SNOWFLAKE
+- https://guides.snowflake.com/
+- https://www.snowflake.com/virtual-hands-on-lab/
+
+##### "HANDS-ON LAB GUIDE FOR Build Agile Modern Data Applications with Snowflake and AWS" demo directory
+- https://quickstarts.snowflake.com/guide/getting_started_with_snowsql/index.html?index=..%2F..index#3
