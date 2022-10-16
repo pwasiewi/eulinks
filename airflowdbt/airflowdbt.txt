@@ -1,0 +1,6 @@
+
+### AIRFLOW
+##### dependencies between tasks
+- https://docs.astronomer.io/learn/managing-dependencies
+- https://airflow.apache.org/docs/apache-airflow/2.2.2/tutorial.html#setting-up-dependencies
+- https://splunktool.com/airflow-how-to-set-task-dependencies-between-iterations-of-a-for-loop
