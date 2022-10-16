@@ -24,21 +24,25 @@
 - https://openlineage.io/blog/dbt-with-marquez/
 
 ### DBT to local postgres
+``
 pip3 install --user dbt-core dbt-postgres dbt-redshift dbt-snowflake
 dbt init dbt
+``
 ### make profile/profiles.yml
+``
 export DBT_PROFILES_DIR=`pwd`/profile
 dbt debug
+``
 
 ### Airflow in AWS cloud
 - https://docs.aws.amazon.com/mwaa/latest/userguide/quick-start.html
-'''
+``
 aws sts get-caller-identity
 aws cloudformation create-stack --stack-name mwaa-environment-public-network --template-body file://mwaa-public-network.yml --capabilities CAPABILITY_IAM
 aws s3 cp tutorial.py s3://mwaa-environment-public-network-environmentbucket-wgqd7r1ha02h/dags/
 aws cloudformation delete-stack --stack-name mwaa-environment-public-network
 aws cloudformation wait stack-delete-complete --stack-name mwaa-environment-public-network
-'''
+``
 
 ### SNOWFLAKE
 - https://guides.snowflake.com/
