@@ -16,6 +16,7 @@
 
 ##### Airflow subdags
 - https://www.cloudwalker.io/2019/07/29/airflow-sub-dags/
+- https://gist.github.com/semihsezer/87bdd6991415d883e37c8040f08d2238
 
 ##### Airflow branching
 - https://docs.astronomer.io/learn/airflow-branch-operator
