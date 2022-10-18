@@ -11,6 +11,9 @@
 - https://analyticsmayhem.com/dbt/schedule-dbt-models-with-apache-airflow/
 - https://github.com/konosp/dbt-on-airflow
 
+##### Airflow subdags
+- https://www.cloudwalker.io/2019/07/29/airflow-sub-dags/
+
 ##### Airflow branching
 - https://docs.astronomer.io/learn/airflow-branch-operator
 
