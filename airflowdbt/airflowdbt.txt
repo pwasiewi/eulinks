@@ -54,13 +54,13 @@ aws cloudformation wait stack-delete-complete --stack-name mwaa-environment-publ
 - https://blog.fal.ai/sentiment-analysis-on-your-dbt-models/
 - https://openlineage.io/blog/dbt-with-marquez/
 
-### DBT to local postgres
+##### DBT postgres
 ```
-pip3 install --user dbt-core dbt-postgres dbt-redshift dbt-snowflake
+pip3 install --user dbt-core dbt-postgres # some alternatives: dbt-redshift dbt-snowflake
 dbt init dbt
-```
-### make profile/profiles.yml
-```
+
+# edit profile/profiles.yml
+
 export DBT_PROFILES_DIR=`pwd`/profile
 dbt debug
 ```
