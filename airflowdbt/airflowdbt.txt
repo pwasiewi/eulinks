@@ -26,8 +26,9 @@
 
 ##### Airflow dependencies between tasks
 - https://docs.astronomer.io/learn/managing-dependencies
-- https://airflow.apache.org/docs/apache-airflow/2.2.2/tutorial.html#setting-up-dependencies
+- https://stackoverflow.com/questions/41517798/proper-way-to-create-dynamic-workflows-in-airflow
 - https://splunktool.com/airflow-how-to-set-task-dependencies-between-iterations-of-a-for-loop
+- https://airflow.apache.org/docs/apache-airflow/2.2.2/tutorial.html#setting-up-dependencies
 
 ### DBT
 - https://about.gitlab.com/handbook/business-technology/data-team/platform/dbt-guide/
