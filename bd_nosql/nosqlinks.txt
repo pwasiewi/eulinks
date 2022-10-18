@@ -2,6 +2,14 @@
 ## Ranking baz online
  http://db-engines.com/en/ranking
 
+
+## SNOWFLAKE
+- https://guides.snowflake.com/
+- https://www.snowflake.com/virtual-hands-on-lab/
+
+##### SNOWFLAKE "HANDS-ON LAB GUIDE FOR Build Agile Modern Data Applications with Snowflake and AWS" demo
+- https://quickstarts.snowflake.com/guide/getting_started_with_snowsql/index.html?index=..%2F..index#3
+
 ## NOSQL
  * https://www.javacodegeeks.com/2015/10/nosql-vs-sql.html
  * http://stackoverflow.com/questions/2285045/what-scalability-problems-have-you-solved-using-a-nosql-data-store?rq=1
