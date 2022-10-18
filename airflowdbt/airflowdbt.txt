@@ -56,7 +56,7 @@ aws cloudformation wait stack-delete-complete --stack-name mwaa-environment-publ
 
 ##### DBT postgres
 ```
-pip3 install --user dbt-core dbt-postgres # some alternatives: dbt-redshift dbt-snowflake
+pip3 install --user dbt-core dbt-postgres dbt-redshift dbt-snowflake
 dbt init dbt
 cd dbt
 mkdir profile
