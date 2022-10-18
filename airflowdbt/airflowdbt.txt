@@ -60,7 +60,19 @@ pip3 install --user dbt-core dbt-postgres # some alternatives: dbt-redshift dbt-
 dbt init dbt
 
 # edit profile/profiles.yml
-
+# edit dbt_project.yml - change to profile: 'local'
+local:
+  target: dev
+  outputs:
+    dev:
+      type: postgres
+      threads: 1
+      host: localhost
+      port: 5432
+      user: postgres
+      pass: ""
+      dbname: postgres
+      schema: public
 export DBT_PROFILES_DIR=`pwd`/profile
 dbt debug
 ```
