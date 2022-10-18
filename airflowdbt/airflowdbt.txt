@@ -1,6 +1,7 @@
 ### AIRFLOW
 - https://www.integrate.io/blog/apache-airflow-explained/
 - https://refactorfirst.com/apache-airflow-2-0-practical-jump-start
+- https://fares.codes/posts/everything-you-probably-need-to-know-about-airflow/
 - https://docs.aws.amazon.com/mwaa/latest/userguide/quick-start.html
 - https://github.com/aws/aws-mwaa-local-runner/tree/v2.2.2
 - https://www.projectpro.io/recipes/use-postgresql-airflow-dag
