@@ -59,8 +59,8 @@ aws cloudformation wait stack-delete-complete --stack-name mwaa-environment-publ
 pip3 install --user dbt-core dbt-postgres # some alternatives: dbt-redshift dbt-snowflake
 dbt init dbt
 cd dbt
+mkdir profile
 # edit profile/profiles.yml
-# edit dbt_project.yml - change to profile: 'local'
 local:
   target: dev
   outputs:
@@ -74,5 +74,6 @@ local:
       dbname: postgres
       schema: public
 export DBT_PROFILES_DIR=`pwd`/profile
+# edit dbt_project.yml - change to profile: 'local'
 dbt debug
 ```
