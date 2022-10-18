@@ -58,7 +58,7 @@ aws cloudformation wait stack-delete-complete --stack-name mwaa-environment-publ
 ```
 pip3 install --user dbt-core dbt-postgres # some alternatives: dbt-redshift dbt-snowflake
 dbt init dbt
-
+cd dbt
 # edit profile/profiles.yml
 # edit dbt_project.yml - change to profile: 'local'
 local:
