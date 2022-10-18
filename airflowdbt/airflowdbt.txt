@@ -10,6 +10,9 @@
 - https://analyticsmayhem.com/dbt/schedule-dbt-models-with-apache-airflow/
 - https://github.com/konosp/dbt-on-airflow
 
+##### Airflow Parameters
+- https://dev.to/aws/working-with-parameters-and-variables-in-amazon-managed-workflows-for-apache-airflow-4f5h
+
 ##### Airflow dependencies between tasks
 - https://docs.astronomer.io/learn/managing-dependencies
 - https://airflow.apache.org/docs/apache-airflow/2.2.2/tutorial.html#setting-up-dependencies
