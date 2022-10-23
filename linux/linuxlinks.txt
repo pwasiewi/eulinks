@@ -43,6 +43,7 @@
  - https://wiki.archlinux.org/index.php/PCI_passthrough_via_OVMF
  - https://wiki.installgentoo.com/index.php/PCI_passthrough
  - https://wiki.gentoo.org/wiki/GPU_passthrough_with_libvirt_qemu_kvm
+ - https://www.reddit.com/r/VFIO/
  
 ## Docker OS
  - https://blog.codeship.com/container-os-comparison/
