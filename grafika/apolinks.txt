@@ -1,3 +1,7 @@
+## color profiling
+ - https://encrypted.pcode.nl/blog/2013/11/24/display-color-profiling-on-linux/
+ - https://discuss.pixls.us/t/using-datacolor-spyderx-pro-calibrator-under-linux/20937/2
+
 ## shader book
  - https://thebookofshaders.com
 
