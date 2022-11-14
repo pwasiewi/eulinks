@@ -1,4 +1,9 @@
 # AWS
+
+### Yubikey
+- https://aws.amazon.com/blogs/security/enhance-programmatic-access-for-iam-users-using-yubikey-for-multi-factor-authentication/
+
+### AWS main
 - https://aws.amazon.com/blogs/big-data/aws-serverless-data-analytics-pipeline-reference-architecture/
 - https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Security.html#CHAP_Security.IAMPermissions
 - https://docs.aws.amazon.com/AWSCloudFormation/latest/APIReference/Welcome.html
