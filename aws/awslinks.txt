@@ -1,5 +1,10 @@
 # AWS
 
+### AWS batch
+- https://github.com/ryerkerk/aws-batch-python-tutorial
+- https://www.geeksforgeeks.org/introduction-to-aws-batch/
+- https://medium.com/birdie-ai/getting-started-with-aws-batch-and-serverless-framework-b08305a47491
+
 ### Yubikey
 - https://aws.amazon.com/blogs/security/enhance-programmatic-access-for-iam-users-using-yubikey-for-multi-factor-authentication/
 
