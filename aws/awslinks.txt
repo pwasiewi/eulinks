@@ -1,10 +1,13 @@
 # AWS
 
 ### AWS batch
+- https://github.com/dejonghe/aws-batch-example
 - https://github.com/ryerkerk/aws-batch-python-tutorial
 - https://www.geeksforgeeks.org/introduction-to-aws-batch/
 - https://medium.com/birdie-ai/getting-started-with-aws-batch-and-serverless-framework-b08305a47491
 - https://aws.amazon.com/blogs/aws/new-fully-serverless-batch-computing-with-aws-batch-support-for-aws-fargate/
+- https://dev.classmethod.jp/articles/cloudformation-template-for-vpc-with-ec2-and-alb/
+
 
 ### Yubikey
 - https://aws.amazon.com/blogs/security/enhance-programmatic-access-for-iam-users-using-yubikey-for-multi-factor-authentication/
