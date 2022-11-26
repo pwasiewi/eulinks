@@ -8,6 +8,9 @@
 - https://steamdeckhq.com/
 - https://steamcommunity.com/sharedfiles/filedetails/?id=2804823261
 
+### Steam Desktop
+- https://davidotek.github.io/protonup-qt/
+
 ## Test słuchawek
  - https://aptx.com/music
  - https://www.youtube.com/watch?v=J0a2Prc_MQo
