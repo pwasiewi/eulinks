@@ -3,6 +3,7 @@
 ### AWS batch
 - https://github.com/dejonghe/aws-batch-example
 - https://github.com/jeffscottlevine/aws-vpc-amzn2
+- https://github.com/aws-samples/aws-batch-processing-job-repo
 - https://github.com/ryerkerk/aws-batch-python-tutorial
 - https://www.geeksforgeeks.org/introduction-to-aws-batch/
 - https://medium.com/birdie-ai/getting-started-with-aws-batch-and-serverless-framework-b08305a47491
