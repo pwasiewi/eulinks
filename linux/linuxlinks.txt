@@ -38,6 +38,7 @@
  - https://forums.gentoo.org/viewtopic-p-8195822.html?sid=ea9b4c8417d457ab62526b8ec915033f
 
 ## Passthrough VGA
+ - https://www.reddit.com/r/VFIO/comments/zwuvxh/cannot_passthrough_after_upgrade/
  - https://forum.level1techs.com/t/ubuntu-17-04-vfio-pcie-passthrough-kernel-update-4-14-rc1/119639
  - https://pve.proxmox.com/wiki/Pci_passthrough
  - https://wiki.archlinux.org/index.php/PCI_passthrough_via_OVMF
