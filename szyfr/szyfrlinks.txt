@@ -8,6 +8,7 @@
 
 
 ### Security
+ - https://words.filippo.io/dispatches/passage/
  - https://github.com/drduh/YubiKey-Guide
  - https://upload.yubico.com/
  - https://demo.yubico.com/otp/verify
