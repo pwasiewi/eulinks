@@ -1,6 +1,7 @@
 ## minecraft python
  - https://jeremypedersen.com/posts/2022-03-28-mcpi-macos/
  - https://stoneskin.github.io/python-minecraft/
+ - https://python.hotexamples.com/examples/mcpi.minecraft/Minecraft/-/python-minecraft-class-examples.html
 
 ## Your year progress
 - https://yearcompass.com/
