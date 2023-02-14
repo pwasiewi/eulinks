@@ -17,7 +17,9 @@
  - https://downloads.raspberrypi.org/raspios_arm64/images/raspios_arm64-2020-08-24/
  
 ### Raspberry Pi 400
+ - https://wiki.gentoo.org/wiki/User:Jens3/Installing_Gentoo_on_a_Raspberry_Pi_400
  - https://www.youtube.com/watch?v=3k7tpSyT5DE
+ - https://wiki.gentoo.org/wiki/Embedded_Handbook/General/Creating_a_cross-compiler
  
 ### hardware 
  - https://www.raspberrypi.org/forums/viewtopic.php?f=28&t=243500&sid=2933354032243da664239b6428b47976&start=575#p1717646
