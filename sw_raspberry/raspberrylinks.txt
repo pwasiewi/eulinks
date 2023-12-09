@@ -84,6 +84,7 @@
  - https://www.perkin.org.uk/posts/a-nodejs-powered-8-bit-cpu-part-one.html
 
 ### Gentoo raspberry
+ * https://wiki.gentoo.org/wiki/Category:Raspberry_Pi
  * https://wiki.gentoo.org/wiki/Raspberry_Pi
  * https://wiki.gentoo.org/wiki/Raspberry_Pi/Minimal_musl%2Bbusybox_cross_building
  * http://www.funtoo.org/Raspberry_Pi_2
