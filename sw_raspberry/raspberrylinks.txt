@@ -19,6 +19,8 @@
 ### Raspberry Pi 400
  - https://wiki.gentoo.org/wiki/User:Jens3/Installing_Gentoo_on_a_Raspberry_Pi_400
  - https://github.com/GenPi64
+ - https://wiki.gentoo.org/wiki/Raspberry_Pi/Cross_building
+ - https://wiki.gentoo.org/wiki/Raspberry_Pi#64-bit_from_GenPi64
  - https://www.youtube.com/watch?v=3k7tpSyT5DE
  - https://wiki.gentoo.org/wiki/Embedded_Handbook/General/Creating_a_cross-compiler
 
