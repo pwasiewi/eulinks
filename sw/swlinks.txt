@@ -11,6 +11,7 @@
  - https://forbot.pl/blog/kursy
  
 ## Projekty SW IoT
+ - https://tasmota.github.io/
  - https://pypi.org/project/tinytuya/
  - https://www.elektormagazine.com/
  - https://www.elektormagazine.com/labs?tags=&q=&state%5B%5D=3
