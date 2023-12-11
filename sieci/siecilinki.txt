@@ -2,6 +2,9 @@
 ### Kursy sieciowe 
  - https://www.cybrary.it/
 
+### Update SSL from 1 to 3
+ - https://bbs.archlinux.org/viewtopic.php?id=280970
+
 ### Router tomato
  - https://learntomato.flashrouters.com/wifi-not-working-fix-slow-wifi-problems/
  - https://marocjournal.net/cat-blog/7-najlepszych-routerow-pomidorowych-w-2020-roku/
