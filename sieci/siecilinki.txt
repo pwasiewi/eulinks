@@ -2,7 +2,7 @@
 ### Kursy sieciowe 
  - https://www.cybrary.it/
 
-### Update SSL from 1 to 3
+### OpenVPN Update SSL from 1 to 3
  - https://bbs.archlinux.org/viewtopic.php?id=280970
 
 ### Router tomato
