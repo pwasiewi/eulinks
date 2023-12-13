@@ -27,11 +27,11 @@
  - https://wiki.gentoo.org/wiki/Embedded_Handbook/General/Creating_a_cross-compiler
 
 ### Gentoo raspberry
- * https://wiki.gentoo.org/wiki/Category:Raspberry_Pi
- * https://wiki.gentoo.org/wiki/Raspberry_Pi
- * https://wiki.gentoo.org/wiki/Raspberry_Pi/Minimal_musl%2Bbusybox_cross_building
- * http://www.funtoo.org/Raspberry_Pi_2
- * https://sites.google.com/site/mobileapesindustries/gentoo/raspberry-pi
+ - https://wiki.gentoo.org/wiki/Category:Raspberry_Pi
+ - https://wiki.gentoo.org/wiki/Raspberry_Pi
+ - https://wiki.gentoo.org/wiki/Raspberry_Pi/Minimal_musl%2Bbusybox_cross_building
+ - http://www.funtoo.org/Raspberry_Pi_2
+ - https://sites.google.com/site/mobileapesindustries/gentoo/raspberry-pi
  * https://sites.google.com/site/mobileapesindustries/gentoo
  * https://wiki.gentoo.org/wiki/Raspberry_Pi/Quick_Install_Guide
  * https://wiki.gentoo.org/wiki/Raspberry_Pi/Kernel_Compilation
