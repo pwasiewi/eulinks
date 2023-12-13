@@ -9,6 +9,7 @@
 ## Kursy
  - http://mikrokontroler.pl/kursy/
  - https://forbot.pl/blog/kursy
+ - https://mikrokontrolery.blogspot.com/
  
 ## Projekty SW IoT
  - https://tasmota.github.io/
