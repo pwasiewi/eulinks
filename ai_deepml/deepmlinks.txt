@@ -1,11 +1,10 @@
 #### Snowflake ML
 - https://blog.infostrux.com/mastering-snowflake-fine-tuning-llms-using-snowpark-optimised-warehouses-b0ccec3fafd4
 - https://medium.com/snowflake/deploying-pre-trained-llms-in-snowflake-75a0d07ef03d
+
+### LLMS, Transformers
 - https://towardsdatascience.com/a-practical-introduction-to-llms-65194dda1148
 - https://towardsdatascience.com/cracking-open-the-hugging-face-transformers-library-350aa0ef0161
-
-#### Colabs of Deep & Machine Learning
-
 
 ### Deep learning and neural net learning
 - https://medium.com/geekculture/a-2021-guide-to-improving-cnns-optimizers-adam-vs-sgd-495848ac6008
