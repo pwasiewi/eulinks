@@ -5,10 +5,8 @@
 - https://towardsdatascience.com/cracking-open-the-hugging-face-transformers-library-350aa0ef0161
 
 #### Colabs of Deep & Machine Learning
- - https://colab.research.google.com/drive/11qBrQrqlVrUccuAsMSNyrCQ_voiybn9X#scrollTo=tmkJAibYCzJg (in Polish)
- - https://github.com/lexfridman/mit-deep-learning
- - https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d
- - https://colab.research.google.com/gist/pwasiewi/4fc4923fbfa4239041fd66a3ee1d4133/mnist-in-keras.ipynb
+- https://github.com/lexfridman/mit-deep-learning
+- https://colab.research.google.com/gist/pwasiewi/4fc4923fbfa4239041fd66a3ee1d4133/mnist-in-keras.ipynb
 
 ### Deep learning and neural net learning
  - https://medium.com/geekculture/a-2021-guide-to-improving-cnns-optimizers-adam-vs-sgd-495848ac6008
