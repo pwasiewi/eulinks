@@ -1,3 +1,6 @@
+#### Snowflake ML
+ - https://blog.infostrux.com/mastering-snowflake-fine-tuning-llms-using-snowpark-optimised-warehouses-b0ccec3fafd4
+
 #### Colabs of Deep & Machine Learning
  - https://colab.research.google.com/drive/11qBrQrqlVrUccuAsMSNyrCQ_voiybn9X#scrollTo=tmkJAibYCzJg (in Polish)
  - https://github.com/lexfridman/mit-deep-learning
