@@ -5,7 +5,10 @@
  - https://wiki.odroid.com/start
  - https://wiki.gentoo.org/wiki/Orange_Pi_Plus2
  - http://linuxgizmos.com/ringing-in-the-new-year-with-136-open-spec-linux-sbcs-under-200/
- 
+
+## Historia komputerów
+ - https://spidersweb.pl/2023/11/najciekawsze-komputery-historia.html
+
 ## Kursy
  - http://mikrokontroler.pl/kursy/
  - https://forbot.pl/blog/kursy
