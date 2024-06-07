@@ -1,3 +1,7 @@
+### Windows bitlocker and Linux
+ - https://itsfoss.com/dual-boot-ubuntu-windows-bitlocker/
+ - https://superuser.com/questions/376533/how-to-access-a-bitlocker-encrypted-drive-in-linux
+
 ### Open Source
  - https://blog.dan.drown.org/gnuk-open-source-gpg-ssh-hardware-key-storage/
  - https://shop.nitrokey.com/shop/product/nk-sta-nitrokey-start-6
