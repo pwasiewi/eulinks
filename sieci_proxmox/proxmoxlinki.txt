@@ -15,7 +15,9 @@
  - https://www.cyberciti.biz/faq/debian-ubuntu-linux-setting-wireless-access-point/
  - https://www.cyberciti.biz/faq/howto-ubuntu-debian-squeeze-dhcp-server-setup-tutorial/
  - http://blog.sjas.de/posts/Proxmox-user-account.html
- 
+
+#### Proxmox windows guest
+ - https://kb.blockbridge.com/technote/proxmox-optimizing-windows-server/part-1.html
 
 #### Proxmox Ceph
  - https://pve.proxmox.com/wiki/Ceph_Server
