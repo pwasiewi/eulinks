@@ -5,8 +5,9 @@
  - https://discuss.pixls.us/t/using-datacolor-spyderx-pro-calibrator-under-linux/20937/2
  - Datacolor SpyderX PRO - kalibrator (SXP100)
 
-## shader book
+## shader book and library
  - https://thebookofshaders.com
+ * https://lygia.xyz/
 
 ## shadertoy glsl
  * https://arugl.medium.com/into-shadertoy-and-shaders-useful-links-and-tips-7f3e2f192275
