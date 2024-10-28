@@ -1,3 +1,7 @@
+## cats in Polish
+ - http://swiatkotow.pl/strefa-wiedzy/artykuly/genetyka/art,234,znaczenia-syjamskie-geny-i-srodowisko.html
+ - https://jennifer.nazwa.pl/o-rasie-ragdoll-piekne-futro-niezwykle-umaszczenie-i-blyszczace-niebieskie-oczy/
+
 ## minecraft python
  - https://jeremypedersen.com/posts/2022-03-28-mcpi-macos/
  - https://stoneskin.github.io/python-minecraft/
