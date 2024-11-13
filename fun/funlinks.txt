@@ -1,3 +1,6 @@
+## OLED font fringing 
+ - https://github.com/microsoft/PowerToys/issues/25595
+
 ## cats in Polish
  - http://swiatkotow.pl/strefa-wiedzy/artykuly/genetyka/art,234,znaczenia-syjamskie-geny-i-srodowisko.html
  - https://jennifer.nazwa.pl/o-rasie-ragdoll-piekne-futro-niezwykle-umaszczenie-i-blyszczace-niebieskie-oczy/
