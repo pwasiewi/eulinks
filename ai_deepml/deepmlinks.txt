@@ -12,6 +12,7 @@
 - https://towardsdatascience.com/cracking-open-the-hugging-face-transformers-library-350aa0ef0161
 
 ### Deep learning and neural net learning
+- https://colah.github.io/
 - https://miroslawmamczur.pl/category/projekty/
 - https://medium.com/geekculture/a-2021-guide-to-improving-cnns-optimizers-adam-vs-sgd-495848ac6008
 - https://towardsdatascience.com/self-learning-ai-agents-part-ii-deep-q-learning-b5ac60c3f47
