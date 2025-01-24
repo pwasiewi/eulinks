@@ -10,6 +10,7 @@
 ### LLMS, Transformers
 - https://towardsdatascience.com/a-practical-introduction-to-llms-65194dda1148
 - https://towardsdatascience.com/cracking-open-the-hugging-face-transformers-library-350aa0ef0161
+- https://medium.com/@mahernaija/the-best-rag-frameworks-for-llms-2025-a-complete-comparison-guide-bfbc5e939685
 
 ### Deep learning and neural net learning
 - https://colah.github.io/
