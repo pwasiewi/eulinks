@@ -3,6 +3,7 @@
 ### Android os rom
  - https://axionaosp.github.io/
  - https://axpos.org/devices/
+ - https://calyxos.org/install/
 
 ### XDA
  - https://zackptg5.com/
