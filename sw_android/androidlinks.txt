@@ -1,5 +1,9 @@
 # SOFTWARE
 
+### Android os rom
+ - https://axionaosp.github.io/
+ - https://axpos.org/devices/
+
 ### XDA
  - https://zackptg5.com/
  - https://forum.xda-developers.com/android/apps-games/app-viper4android-fx-2-6-0-0-t3774651
