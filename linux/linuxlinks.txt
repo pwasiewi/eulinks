@@ -1,3 +1,7 @@
+## Admin
+ - https://www.golinuxcloud.com/how-to-create-custom-tuned-profile-in-linux-rhel-centos-7/
+ - https://www.golinuxcloud.com/how-to-change-io-scheduler-permanently-linux/
+
 ## Linux Distributions
  - https://www.ubuntu.com/
  - https://antergos.com/
