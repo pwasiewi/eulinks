@@ -1,3 +1,7 @@
+### LLMs
+#### Prompt engineering
+- https://www.kaggle.com/whitepaper-prompt-engineering
+
 #### Neural Networks
 - https://colah.github.io/
 - https://www.quora.com/What-are-the-best-artificial-intelligence-blogs-newsletters
