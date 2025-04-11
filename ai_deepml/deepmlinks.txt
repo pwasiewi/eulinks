@@ -1,6 +1,7 @@
 ### LLMs
 #### Prompt engineering
 - https://www.kaggle.com/whitepaper-prompt-engineering
+- https://www.kaggle.com/code/marawanxmamdouh/mastering-prompt-engineering-with-generative-ai
 
 #### Neural Networks
 - https://colah.github.io/
