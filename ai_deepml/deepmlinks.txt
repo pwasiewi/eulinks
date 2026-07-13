@@ -1,0 +1,54 @@
+### LLMs
+#### Prompt engineering
+
+#### Neural Networks
+- https://www.datacamp.com/blog/how-to-learn-deep-learning  # 2026
+- https://www.coursera.org/articles/how-do-neural-networks-work  # 2026
+- https://colah.github.io/
+- https://www.quora.com/What-are-the-best-artificial-intelligence-blogs-newsletters
+- https://dataaspirant.com/loss-functions-in-deep-learning/#t-1681314407677
+
+#### Snowflake ML
+- https://docs.snowflake.com/en/user-guide/snowflake-cortex/cortex-finetuning  # 2026
+- https://atlan.com/know/snowflake/snowflake-cortex-training/  # 2026
+- https://blog.infostrux.com/mastering-snowflake-fine-tuning-llms-using-snowpark-optimised-warehouses-b0ccec3fafd4
+- https://medium.com/snowflake/deploying-pre-trained-llms-in-snowflake-75a0d07ef03d
+
+### LLMS, Transformers
+- https://dev.to/jintukumardas/transformer-architecture-in-2026-from-attention-to-mixture-of-experts-moe-3d46  # 2026
+- https://www.truefoundry.com/blog/transformer-architecture  # 2026
+- https://towardsdatascience.com/a-practical-introduction-to-llms-65194dda1148
+- https://towardsdatascience.com/cracking-open-the-hugging-face-transformers-library-350aa0ef0161
+- https://medium.com/@mahernaija/the-best-rag-frameworks-for-llms-2025-a-complete-comparison-guide-bfbc5e939685
+
+### Deep learning and neural net learning
+- https://www.scaler.com/blog/deep-learning-roadmap/  # 2026
+- https://brollyai.com/neural-networks-for-generative-ai/  # 2026
+- https://colah.github.io/
+- https://miroslawmamczur.pl/category/projekty/
+- https://medium.com/geekculture/a-2021-guide-to-improving-cnns-optimizers-adam-vs-sgd-495848ac6008
+- http://www.deeplearningbook.org/
+- https://github.com/lexfridman/mit-deep-learning
+- https://colab.research.google.com/gist/pwasiewi/4fc4923fbfa4239041fd66a3ee1d4133/mnist-in-keras.ipynb - https://github.com/tomepel/Technical_Book_DL
+- http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+- http://cs231n.github.io/convolutional-networks/
+- http://caffe.berkeleyvision.org/
+- https://github.com/h2oai/h2o-3
+- https://cran.r-project.org/web/packages/h2o4gpu/vignettes/getting_started.html
+- http://datascienceplus.com/fitting-neural-network-in-r/
+- https://gist.github.com/mick001/49fad7f4c6112d954aff
+- http://www.r-bloggers.com/self-organising-maps-for-customer-segmentation-using-r-2/ 
+- http://www.r-bloggers.com/visualizing-neural-networks-in-r-update/
+- http://www.r-bloggers.com/visualizing-neural-networks-from-the-nnet-package/ 
+- https://towardsdatascience.com/https-medium-com-piotr-skalski92-deep-dive-into-deep-networks-math-17660bc376ba
+- https://github.com/SkalskiP/ILearnDeepLearning.py
+- https://github.com/plaidml/plaidml
+
+##### Basics of Tensorflow 
+ - https://www.tensorflow.org/tutorials  # 2026
+ - https://nerdleveltech.com/tensorflow-2026-tutorial-mastering-tensorflow-219-with-gpus-and-beyond  # 2026
+ - https://medium.com/@d3lm/understand-tensorflow-by-mimicking-its-api-from-scratch-faa55787170d
+ - https://codesachin.wordpress.com/2015/11/28/self-organizing-maps-with-googles-tensorflow/
+ - https://github.com/nfmcclure/tensorflow_cookbook/blob/master/11_More_with_TensorFlow/02_Working_with_a_Genetic_Algorithm/02_genetic_algorithm.py
+ * [Tensorflow in R](https://tensorflow.rstudio.com/)
+ 

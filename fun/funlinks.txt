@@ -1,0 +1,331 @@
+## OLED font fringing 
+ - https://github.com/microsoft/PowerToys/issues/25595
+
+## cats in Polish
+ - http://swiatkotow.pl/strefa-wiedzy/artykuly/genetyka/art,234,znaczenia-syjamskie-geny-i-srodowisko.html
+
+## minecraft python
+ - https://jeremypedersen.com/posts/2022-03-28-mcpi-macos/
+ - https://stoneskin.github.io/python-minecraft/
+
+## Your year progress
+- https://yearcompass.com/
+
+## Steam Deck
+- https://www.switchbladegaming.com/game-settings/steam-deck-beginners-guide-2026/  # 2026
+- https://www.protondb.com/  # 2026
+- https://www.gamingonlinux.com/2022/07/devs-are-discovering-the-steam-deck-is-good-for-making-games-too/
+- https://support.system76.com/articles/use-amd-fsr/
+- https://github.com/theVakhovskeIsTaken/holoiso
+- https://deckbrew.xyz/
+- https://github.com/PhilipK/BoilR
+- https://steamdeckhq.com/
+- https://steamcommunity.com/sharedfiles/filedetails/?id=2804823261
+
+### Steam Desktop
+- https://davidotek.github.io/protonup-qt/
+
+## Test słuchawek
+ - https://aptx.com/music
+ - https://www.youtube.com/watch?v=J0a2Prc_MQo
+ - https://www.youtube.com/watch?v=OUZv4B9cvaM
+ - https://www.head-fi.org/showcase/sennheiser-hd-580.12036/reviews
+
+## Rowery
+- https://roweroweporady.pl/rozmiar-ramy-rowerowej/
+- https://www.forumrowerowe.org/topic/128950-kompendium-kompatybilno%C5%9B%C4%87-nap%C4%99d%C3%B3w-6-11s/
+- https://cycling.waymarkedtrails.org/
+- https://pl.mapy.cz/
+- https://tapiriik.com/
+- https://www.syncmytracks.com/
+
+## Knive steel kinds (in Polish)
+- https://knives.pl/article/materialy-na-glownie-nozy
+- https://knives.pl/leksykon
+- https://forum.knives.pl/index.php/topic,190497.0/all.html
+- https://forum.knives.pl/index.php/topic,59170.0.html
+- https://ratujesz.pl/public/assets/katalogi/tabela_stali_boker.pdf
+
+
+## Op amps & small amps
+- https://forum.audio.com.pl/topic/78095-kompaktowe-wzmacniacze-stereo/
+- https://www.tangentsoft.net/audio/opamps.html
+- https://www.head-fi.org/threads/opamp-round-up-measurements-opa2604-opa637-ad823-lme49860-jr4556-muses8820-and-8920-burson-v6-classic.870832/
+- https://nwavguy.blogspot.com/2011/08/op-amp-measurements.html
+- https://forum.audio.com.pl/topic/67394-pytanie-odno%C5%9Bnie-muzyki-przez-raspberry-pi-3/
+- https://www.audiostereo.pl/topic/121319-raspberry-pi-malinka-z-daciem-hifi-swietny-odtwarzacz-sieciowy/
+- https://avcorp.pl/product-pol-4721-Sparkos-Labs-SS3602-Dual-DIP8-podwojny-dyskretny-wzmacniacz-operacyjny.html
+- https://www.audiofanatyk.pl/recenzja-opampa-audiofeel-opa301b/
+- https://www.audiofanatyk.pl/test-przykladowych-opampow-pod-xonarem-stx/
+- https://www.audiostereo.pl/topic/130666-burson-audio-supreme-sound-v5i-dual/#comments
+- https://www.lucartoaudio.pl/produkty/Zasilacz-liniowy-mocy-LPS
+- https://www.diyaudio.com/forums/parts/280990-ti-discontinue-ics.html
+- https://www.head-fi.org/threads/lm4562-vs-opa2134-vs.867623/
+- https://www.diyaudio.com/forums/chip-amps/223200-experience-muse-opamps-8.html
+
+## Lampy
+- https://audiofool.reviews/tube-rolling-the-xduoo-ta-30/
+- https://www.audiostereo.pl/topic/93930-moje-subiektywne-testy-r%C3%B3%C5%BCnych-ecc82-12au7/
+- https://www.audiostereo.pl/topic/122567-lampy-nosczy-wartoczy-w-og%C3%B3le-mo%C5%BCna-jeszcze-kupi%C4%87-nosy/
+- http://www.jacmusic.com/nos/images/Fakes/
+- http://www.jacmusic.com/nos/ECC83.htm
+- https://www.audiostereo.pl/topic/128124-ad797anz-fake-or-not
+- http://audiomaniacy.pl/index.php?topic=594.0
+- https://audiomaniacy.pl/index.php?topic=1401.0
+- https://audiomaniacy.pl/index.php?topic=567.0
+- https://www.nostubestore.com/search/label/ECC82%2F12AU7%20-%20EUROPEAN%20BRANDS
+
+## Gloomhaven i inne planszówki
+- https://johreh.github.io/gloomycompanion/
+- https://boardgamegeek.com/geeklist/234575/gloomhaven-rules-quiz
+- https://raw.githubusercontent.com/Sadgit-HL/Gloomhaven-2nd-printing-assets/master/rules/GH_basic_questions.pdf
+
+## PC Builds
+ - https://graphicscardhub.com/best-rgb-fan/
+ - https://www.youtube.com/c/GGFEvents/playlists
+ - https://rk.edu.pl/pl/budowa-komputerow-dla-programistow-w-oparciu-o-ryzena-7-1700/
+ - https://rk.edu.pl/pl/nowy-desktop-z-thredripperem-vega-64-i-podwojnym-chlodzeniem-wodnym/
+ - https://builds.gg/croyalore/pluto-mini-itx-chopin-gpu-mod-607
+ - https://www.dobreprogramy.pl/marcinw2/Najwieksza-niewiadoma-to-AMD-pelne-case-study-budowy-mocnego-systemu-ITX,105453.html
+ - https://www.reddit.com/r/Amd/comments/c7qj5e/am4_vcore_vrm_ratings_to_help_you_decide_on_a/
+ - https://www.reddit.com/r/Amd/comments/bvfo57/list_of_b350_b450_x370_and_x470_motherboards_with/
+ - https://www.crowdsupply.com/mnt/reform
+ - https://butterwhat.com/2019/06/16/brians-top-three-diy-nas-cases-as-of-2019.html
+ - https://www.freenas.org/our-community/
+ 
+#### GPU block conf
+ - https://www.hwconfig.com/waterblock-finder
+ 
+#### OC tuning - AMD AM4 power VRM (sekcje zasilania) Intel z490 power limits
+ - https://docs.google.com/spreadsheets/d/1d9_E3h8bLp-TXr-0zTJFqqVxdCR9daIVNyMatydkpFA/htmlview
+ - https://forums.tomshardware.com/threads/xeon-v3-full-turbo-unlock-how-to-for-x99-motherboards.3573627/
+
+
+## Alternative soft
+ - https://sites.google.com/site/altfirmware/
+ - https://www.cyrius.com/debian/
+ - https://www.cyrius.com/debian/kirkwood/qnap/
+ - https://eko.one.pl/forum/viewtopic.php?id=17736
+
+## DirectX11 on Linux
+ - https://botmonster.com/self-hosting/run-windows-apps-linux-bottles-proton-2026/  # 2026
+ - https://linux-xp.com/blog/windows-migration/linux-gaming/  # 2026
+ - https://lutris.net/ #use plugins for epic, battle.net - steam has its own proton
+ - https://wiki.gentoo.org/wiki/DXVK
+ - https://github.com/Matoking/protontricks
+ - https://github.com/DadSchoorse/vkBasalt
+
+```
+#install the latest wine-staging, winetricks and dxvk
+WINEPREFIX=/mnt/db/wine winetricks mspatcha
+WINEPREFIX=/mnt/db/wine winetricks corefonts
+WINEPREFIX=/mnt/db/wine /usr/bin/setup_dxvk.sh install
+WINEPREFIX=/mnt/db/wine wine StarCraft-II-Setup.exe
+WINEPREFIX=/mnt/db/wine wine /mnt/db/wine/drive_c/Program\ Files\ \(x86\)/Battle.net/Battle.net.exe
+WINEPREFIX=/mnt/db/wine wine /mnt/db/wine/drive_c/Program\ Files\ \(x86\)/Steam/steam.exe
+```
+
+## InternetRadio
+ - https://radio.garden/  # 2026
+ - https://www.radio-browser.info/  # 2026
+ - http://www.radio-browser.info
+ - http://www.radio-browser.info/gui/#!/users
+ - https://radiolise.gitlab.io
+ - https://moodeaudio.org/
+ - https://volumio.org/
+ - https://github.com/segler-alex/RadioDroid
+ - https://github.com/cwahlmann/radiopi
+
+## SF & NASA
+ - http://niniwa22.cba.pl/ufo-topsecret.html
+ - https://www.nasa.gov/mission_pages/station/main/suni_iss_tour.html
+
+## History of Games and not only
+ - https://www.smithsonianmag.com/science-nature/best-board-games-ancient-world-180974094
+ - https://joemonster.org/art/28745/Historia_brytyjskiego_oreza
+ - http://www.wojciechglac.com/infekcja/
+
+## Linux Electronics
+ - http://www.gpleda.org/
+ - http://opencircuitdesign.com/
+
+## Druk 3D
+ - https://makerworld.com/  # 2026
+ - https://electronicsforyou.com/blog/3d-printing-for-beginners-the-complete-starter-guide-2026/  # 2026
+ - https://majsterkowo.pl/gdzie-szukac-i-skad-pobierac-modele-do-druku-3d/
+ - https://www.thingiverse.com/thing:3054701
+
+
+## Fun programming games
+ - https://checkio.org/  # 2026
+ - https://hackr.io/blog/coding-games  # 2026
+ - https://bulldogjob.pl/news/79-przyjemne-z-pozytecznym-7-gier-ktore-pomoga-w-nauce-kodu
+
+## Real maps
+ - https://thetruesize.com
+
+
+## Music 4 guitar
+ - https://www.thegearpage.net/board/index.php?threads/the-official-fender-mustang-gtx-amp-thread-2020.2113060/page-58
+ - https://www.youtube.com/watch?time_continue=432&v=vvRH9YEPCqM&feature=emb_logo
+
+## DAC
+ - https://www.audiofanatyk.pl/polecane-daci-i-karty-dzwiekowe/
+ - http://archimago.blogspot.com/2016/10/measurements-hifiberry-dac-pro-pcm5122.html
+ 
+## Mody słuchawkowe
+ - https://www.head-fi.org/threads/akg-k240-studio-owners-please-share-your-experience.630058/
+ - https://www.youtube.com/watch?v=GH3rfDnw0Zg
+ 
+## Mody kart, daców
+ - https://www.head-fi.org/threads/the-xonar-essence-stx-q-a-tweaking-impressions-thread.421890/
+ 
+## OC cpu
+
+## Komiksy muzealne
+ - http://comicbookplus.com/
+ - http://digitalcomicmuseum.com/
+ 
+## Factorio
+ - https://factorioprints.com/
+ - https://github.com/goofball222/factorio
+ - https://forums.factorio.com/viewtopic.php?f=53&p=397798#p397798
+ 
+## StarCraft
+ 
+## Lego BrickPI 
+ - http://pdwhomeautomation.blogspot.com/2012/11/raspberry-pi-powered-lego-car.html
+ - https://www.dexterindustries.com/product/brickpi-advanced-for-raspberry-pi/
+ - https://www.ev3dev.org/
+ - https://www.dexterindustries.com/raspberry-pi-robot-software/
+ - https://github.com/DexterInd/BrickPi3
+ 
+## Mycroft Picroft Alexa
+ - https://mycroft.ai/
+ - https://www.hackster.io/amazon-alexa
+ - https://github.com/alexa/skill-sample-nodejs-fact
+ 
+ ### MINETEST GRY I MODY https://www.minetest.net/customize/
+
+#### INSTALACJA minetest i podstawowej gry minetest_game
+```
+emerge minetest #gentoo
+apt install minetest #ubuntu
+```
+
+#### INNE GOTOWE GRY NA MINETEST: MINECLONE2, RPGTEST, HADES
+ - https://content.minetest.net/packages/?type=game
+
+##### MINECLONE2 https://forum.minetest.net/viewtopic.php?f=50&t=16407
+```
+cd /usr/share/minetest/games
+[ ! -f MineClone2.zip ] && wget https://git.minetest.land/Wuzzy/MineClone2/archive/0.68.0.tar.gz -O Mineclone2.tar.gz && tar zxvf Mineclone2.tar.gz && rm Mineclone2.tar.gz && mv mineclone2 MineClone2
+```
+##### RPGTEST https://forum.minetest.net/viewtopic.php?f=50&t=13761
+```
+cd /usr/share/minetest/games
+git clone https://github.com/cdqwertz/rpgtest.git rpgtest
+```
+```
+cd /usr/share/minetest/games
+git clone http://repo.or.cz/minetest_hades/hades_revisited.git hades_revisited
+```
+```
+cd /usr/share/minetest/games
+git clone https://github.com/AiTechEye/xaenvironment.git 
+```
+##### MINETEST_GAME default game https://github.com/minetest/minetest_game
+```
+cd /usr/share/minetest/games
+#wget https://github.com/minetest/minetest_game/archive/5.3.0.tar.gz -O minetest_game.tar.gz
+#tar zxvf minetest_game.tar.gz
+#mv minetest_game-5.3.0 minetest_game
+wget https://codeload.github.com/minetest/minetest_game/zip/master -O minetest_game.zip
+unzip minetest_game.zip
+mv minetest_game-master minetest_game
+rm minetest_game.zip
+```
+
+#### MODY do podstawowej gry MINETEST_GAME https://www.minetest.net/customize/ 
+##### MOD ALIVEAI botów agentów do podstawowej gry MINETEST_GAME https://forum.minetest.net/viewtopic.php?f=11&t=16083
+```
+cd /usr/share/minetest/games/minetest_game/mods
+#mesecons.net
+for i in dreambuilder_modpack ; do [ ! -d $i ] && git clone https://gitlab.com/VanessaE/$i; done;
+#aliveai depends on technic, 3d_armor, mesecons and smartshop
+#[ ! -d 3d_armor ] && git clone https://github.com/stujones11/minetest-3d_armor 3d_armor
+[ ! -d smartshop ] && git clone https://github.com/AiTechEye/smartshop
+[ ! -d aliveai ] && git clone https://github.com/AiTechEye/aliveai
+for i in loot orbs_of_time; do [ ! -d $i ] && git clone https://github.com/minetest-mods/$i; done;
+# cd aliveai
+# sed -i 's/status=false/status=true/g' aliveai/init.lua 
+# sed -i 's/Sam/euteam/g' aliveai/init.lua 
+# http://ix.io/zzV - konfiguracja botów dla poprzednich wersji - teraz już są skonfigurowane
+# stworzyć świat np. flat z ziarnem 5tg4t54tg54
+```
+```
+cd /usr/share/minetest/games/minetest_game/mods
+git clone https://repo.or.cz/minetest_schemedit.git
+```
+
+## Sprawdź czy mody są w dreambuild_modpack powyżej
+```
+# https://github.com/Uberi/Minetest-WorldEdit/blob/master/ChatCommands.md
+cd /usr/share/minetest/games/minetest_game/mods
+[ ! -d worldedit ] && git clone https://github.com/Uberi/Minetest-WorldEdit.git; 
+[ -d Minetest-WorldEdit ] && mv Minetest-WorldEdit worldedit;
+```
+##### INNE POPULARNE MODY (czasami nawzajem się wykluczają np. z worldedit lub z aliveai, trzeba testować)
+```
+cd /usr/share/minetest/games/minetest_game/mods
+for i in moreblocks moreores mesecons technic; do [ ! -d $i ] && git clone https://github.com/minetest-mods/$i; done;
+for i in pipeworks biome_lib moretrees; do [ ! -d $i ] && git clone https://gitlab.com/VanessaE/$i; done;
+for i in castle; do [ ! -d $i ] && git clone https://github.com/minetest-mods/$i; done;
+# cd castle
+for i in anvil castle_farming castle_gates castle_lighting castle_masonry castle_shields castle_storage castle_tapestries castle_weapons crafting_bench orbs_of_time ropes; do git clone https://github.com/minetest-mods/$i; done
+
+cd /usr/share/minetest/games/minetest_game/mods
+#more blocks there
+for i in biome_lib crops moreblocks moreores moretrees lightning torches plantlife_modpack more_chests round_trunks biome_lib unifieddyes unifiedbricks unified_inventory gloopblocks towercrane maptools mapfix technic mesecons MoreMesecons xdecor; do [ ! -d $i ] && git clone https://github.com/minetest-mods/$i; done;
+for i in blox BobBlocks drawers playeranim digilines wielded_light digtron smartfs throwing_arrows throwing character_creator pipeworks nether ts_furniture item_drop intllib prefab towercrane homedecor_modpack currency craftguide ccompass mychisel mymillwork mydoors subterrane pontoons hopper airtanks; do [ ! -d $i ] && git clone https://github.com/minetest-mods/$i; done;
+for i in framedglass drinks sling mymonths warps cake droplift flowerpot quartz ts_doors more_chests workbench ilights worldedge myroofs mylights crafting_bench chat2 coloredwood trash_can ts_paper camera loot mydeck enchanting tnt_extras painting jump mysoundblocks mymulch round_trunks sedimentology mywoodslopes turtle ts_workshop; do [ ! -d $i ] && git clone https://github.com/minetest-mods/$i; done;
+for i in dynamic_liquid signs_lib jumping frozenenergy subspacewalker nightandday plantlife_modpack carpets mylandscaping mtg_i18n mg; do [ ! -d $i ] && git clone https://github.com/minetest-mods/$i; done;
+
+cd /usr/share/minetest/games/minetest_game/mods
+# https://forum.minetest.net/viewtopic.php?t=9917
+# ethereal does not work in v6
+for i in mobs_redo mobs_animal mobs_monster mobs_npc mob_horse ethereal farming lucky_block pigiron ambience real_torch bows pova pbj_pup cblocks teleport_potion pie  wine hopper bonemeal bakedclay money lapis signs_lib season falling_item stamina; do [ ! -d $i ] && git clone https://notabug.org/TenPlus1/$i; done;
+```
+
+##### MODY NIE DZIAŁAJĄCE LUB NIE PRZETESTOWANE z najnowszą wersją minetesta 4.17
+```
+cd /usr/share/minetest/games/minetest_game/mods
+[ ! -d maidroid ] && git clone https://github.com/tacigar/maidroid.git
+[ ! -d townchest ] && https://github.com/bell07/minetest-townchest.git townchest
+[ ! -d orienteering ] && git clone http://repo.or.cz/minetest_orienteering.git && mv minetest_orienteering orienteering
+[ ! -d meshnode ] && git clone https://github.com/stujones11/meshnode.git
+
+# do testowania z TenPlus1: nssm playerplus itemframes inventory_plus protector invisibility hud_hunger bags
+# minetest-mods: skinsdb simple_skins breadcrumbs steel qa_block mob-engine hbsprint spawn_command simplecrafting_lib woodcutting 
+# custom z minetest-mods zastępują te oryginalne: fire carts builtin_item doors stairs tnt boats moreores wool bucket creative dye 
+
+cd /usr/share/minetest/games/minetest_game/mods
+[ ! -f ByUjEdwinV2_space.zip ] && wget https://forum.minetest.net/download/file.php?id=7985 -O ByUjEdwinV2_space.zip
+[ ! -f ByAiTechEye-juli-V9-marssurvive.zip ] && wget https://forum.minetest.net/download/file.php?id=12597 -O ByAiTechEye-juli-V9-marssurvive.zip
+# https://forum.minetest.net/download/file.php?id=384
+[ ! -d kpgmobs ] && git clone https://github.com/AntumMT/mod-kpgmobs kpgmobs
+[ ! -d mobs_scifi ] && git clone https://github.com/D00Med/mobs_scifi;
+[ ! -d cme ] && git clone https://github.com/BlockMen/cme;
+# more swords
+# https://forum.minetest.net/viewtopic.php?f=9&t=11972
+# https://wiki.minetest.net/Mods/basic_robot
+# mobf_core animalmaterials adv_spawning animals_modpack
+```
+##### MINETEST INTERNALS
+ - http://wiki.minetest.net/Server_commands
+ - http://wiki.minetest.net/Main_Page
+ - http://rubenwardy.com/minetest_modding_book/index.html
+ - http://wiki.minetest.net/Using_Blender
+ - https://www.tutorialspoint.com/lua/index.htm
+ - https://www.lua.org/manual/5.3/
+

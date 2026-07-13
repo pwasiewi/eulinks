@@ -1,0 +1,53 @@
+:cloud:
+### Kursy sieciowe 
+ - https://www.cybrary.it/
+
+### XenServer
+ - https://www.g2.com/products/xenserver/competitors/alternatives  # 2026
+ - https://www.rklesolutions.com/blog/vsphere-alternatives-to-vmware-citrix-hypervisor  # 2026
+ - http://xenserver.org/blog.html
+
+#### xenserver glusterfs można poprzeć rozwój technologii po zalogowaniu się
+ 
+#### keepalived 
+ - https://raymii.org/s/tutorials/Keepalived-Simple-IP-failover-on-Ubuntu.html
+ - https://github.com/fcwu/glusterfs-keepalived
+
+#### xenserver i ceph
+ - https://github.com/rposudnevskiy/RBDSR
+
+#### Openstack + HA + ansible
+ - https://raymii.org/s/articles/Building_HA_Clusters_With_Ansible_and_Openstack.html
+
+#### xenserver i docker windows 2016
+ - https://msandbu.wordpress.com/2016/05/26/xenserver-7-and-docker-managment-of-netscaler-cpx-and-windows-server-2016/
+
+#### halizard - xenserver ha na dwóch maszynach z DRDB
+ - http://www.halizard.com/
+ - http://www.halizard.com/forum/suggestion-box/148-dundee-upgrade
+
+#### DRBD 
+ - https://linbit.com/drbd-user-guide/drbd-guide-9_0-en/  # 2026
+ - https://www.drbd.org/en/doc/users-guide-91/  # 2026
+ - https://www.drbd.org/en/doc/users-guide-90/s-configure-split-brain-behavior
+
+#### xenserver ha
+ - http://docs.citrix.com/de-de/xencenter/6-1/xs-xc-protection/xs-xc-pools-ha/xs-xc-pools-ha-about.html
+ - http://xapi-project.github.io/features/HA/HA.html
+ - https://support.citrix.com/servlet/KbServlet/download/21018-102-664364/High%20Availability%20for%20Citrix%20XenServer.pdf
+ - https://xen-orchestra.com/blog/xenserver-and-vm-high-availability/
+
+#### xenserver failure ha restart
+ - http://support.citrix.com/article/CTX128275
+
+#### xenserver multipath
+ - http://docs.citrix.com/content/dam/docs/en-us/xenserver/xenserver-61/xs-design-multipathing-config.pdf
+ 
+#### xenserver docker
+ 
+#### xenserver i ilo
+ - http://www.experts-exchange.com/questions/26331244/XenServer-5-6-iLO-Power-on-not-working.html
+
+#### eksperymentalne 
+ - https://github.com/FlorianHeigl/xen-ceph-rbd
+

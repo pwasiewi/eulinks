@@ -1,0 +1,130 @@
+# AWS
+
+### AWS batch
+- https://docs.aws.amazon.com/batch/latest/userguide/what-is-batch.html  # 2026
+- https://docs.aws.amazon.com/batch/latest/userguide/get-set-up-for-aws-batch.html  # 2026
+- https://github.com/dejonghe/aws-batch-example
+- https://github.com/jeffscottlevine/aws-vpc-amzn2
+- https://github.com/aws-samples/aws-batch-processing-job-repo
+- https://github.com/ryerkerk/aws-batch-python-tutorial
+- https://www.geeksforgeeks.org/introduction-to-aws-batch/
+- https://medium.com/birdie-ai/getting-started-with-aws-batch-and-serverless-framework-b08305a47491
+- https://aws.amazon.com/blogs/aws/new-fully-serverless-batch-computing-with-aws-batch-support-for-aws-fargate/
+- https://dev.classmethod.jp/articles/cloudformation-template-for-vpc-with-ec2-and-alb/
+
+
+### Yubikey
+- https://aws.amazon.com/blogs/security/enhance-programmatic-access-for-iam-users-using-yubikey-for-multi-factor-authentication/
+
+### AWS main
+- https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_create_for-user_externalid.html  # 2026
+- https://docs.aws.amazon.com/AWSCloudFormation/latest/APIReference/Welcome.html  # 2026
+- https://aws.amazon.com/blogs/big-data/aws-serverless-data-analytics-pipeline-reference-architecture/
+- https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Security.html#CHAP_Security.IAMPermissions
+- https://docs.aws.amazon.com/AWSCloudFormation/latest/APIReference/Welcome.html
+- https://medium.com/tensult/copy-s3-bucket-objects-across-aws-accounts-e46c15c4b9e1
+- https://www.devopshint.com/aws-create-ec2-instance-from-snapshot/
+- https://serverfault.com/questions/591533/can-ec2-instances-dynamically-add-ram-while-running
+- https://console.aws.amazon.com/servicequotas/ 
+- https://support.atlassian.com/bitbucket-cloud/docs/deploy-to-aws-with-s3/
+- https://forums.aws.amazon.com/thread.jspa?threadID=249143
+- https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_create_for-user_externalid.html
+- https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_create_for-user.html
+- https://rclone.org/s3/
+#### AWS Glue
+- https://aws.amazon.com/about-aws/whats-new/2026/04/aws-glue-5-1-all-govcloud-commercial-regions/  # 2026
+- https://docs.aws.amazon.com/glue/latest/dg/aws-glue-release-notes.rss  # 2026
+- https://aws.amazon.com/blogs/big-data/aws-glue-now-supports-scala-scripts/
+- https://aws.amazon.com/blogs/big-data/developing-aws-glue-etl-jobs-locally-using-a-container/
+- https://aws.amazon.com/blogs/big-data/building-aws-glue-spark-etl-jobs-using-amazon-documentdb-with-mongodb-compatibility-and-mongodb/
+###### AWS Local Debug PySpark Glue
+- https://aws.amazon.com/blogs/big-data/developing-aws-glue-etl-jobs-locally-using-a-container/
+- https://docs.aws.amazon.com/glue/latest/dg/aws-glue-programming-python-samples-medicaid.html
+- https://aws.amazon.com/blogs/big-data/building-an-aws-glue-etl-pipeline-locally-without-an-aws-account/
+- https://docs.aws.amazon.com/glue/latest/dg/aws-glue-programming-etl-libraries.html
+- https://jensenmo.github.io/posts/install-glue-on-ubuntu-20.04/
+- https://pypi.org/project/awsglue-local/
+#### AWS Lambda
+- https://docs.aws.amazon.com/lambda/latest/dg/lambda-managed-instances-best-practices.html  # 2026
+- https://docs.aws.amazon.com/lambda/latest/dg/configuration-vpc.html  # 2026
+- https://www.reddit.com/r/aws/comments/b73lis/processing_a_large_csv_file_with_a_lambda_line_by/
+- https://www.reddit.com/r/aws/comments/5m07x9/mongodb_backup_aws_lambda_function/
+- https://medium.com/@sdmandrell/aws-lambda-how-to-automate-your-spark-jobs-on-aws-elastic-map-reduce-emr-4fb71369ac48
+- https://bitbucket.org/blog/aws-lambda-deployments-using-bitbucket-pipelines-and-pipes
+- https://medium.com/swlh/processing-large-s3-files-with-aws-lambda-2c5840ae5c91
+- https://github.com/m90/mongo-lambda-backup/blob/master/mongo_lambda_backup/handler.py
+- https://docs.aws.amazon.com/pinpoint/latest/developerguide/tutorials-importing-data-lambda-function-input-split.html
+- https://camillovisini.com/article/deploy-serverless-python-functions-aws-lambda-pycharm/
+- https://aws.amazon.com/premiumsupport/knowledge-center/start-stop-lambda-cloudwatch/
+- https://github.com/alexcasalboni/aws-lambda-developer-guide/blob/master/doc_source/index.md
+#### VPC, endpoints
+- https://docs.aws.amazon.com/vpc/latest/privatelink/vpc-endpoints-access.html  # 2026
+- https://docs.aws.amazon.com/vpc/latest/privatelink/create-interface-endpoint.html  # 2026
+- https://docs.aws.amazon.com/vpc/latest/userguide/default-vpc.html
+- https://docs.aws.amazon.com/lambda/latest/dg/configuration-vpc.html
+- https://www.mongodb.com/blog/post/introducing-vpc-peering-for-mongodb-atlas
+- https://docs.aws.amazon.com/glue/latest/dg/dev-endpoint.html
+#### AWS EMR
+- https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-emr-apache-spark/  # 2026
+- https://docs.aws.amazon.com/emr/latest/ReleaseGuide/emr-spark-application.html  # 2026
+- https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-instance-fleet.html
+- https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-manage-resize.html#emr-manage-resizeSuspended
+- https://medium.com/swlh/running-spark-application-in-the-emr-cluster-through-aws-lambda-function-20ff598e63fe
+#### AWS Spark
+- https://docs.aws.amazon.com/emr/latest/ReleaseGuide/emr-spark-configure.html  # 2026
+- https://oneuptime.com/blog/post/2026-02-12-run-apache-spark-jobs-on-amazon-emr/view  # 2026
+- https://luminousmen.com/?tag=spark
+- https://aws.amazon.com/blogs/big-data/orchestrate-apache-spark-applications-using-aws-step-functions-and-apache-livy/
+- https://jira.mongodb.org/browse/SPARK-252
+- https://mungingdata.com/apache-spark/deduplicating-and-collapsing
+- https://stackoverflow.com/questions/58676909/how-to-speed-up-spark-df-write-jdbc-to-postgres-database
+- https://mungingdata.com/pyspark/dict-map-to-multiple-columns/
+- https://stackoverflow.com/questions/59395496/pyspark-task-is-taking-too-long-to-run-with-three-explode-functions
+- http://nadbordrozd.github.io/blog/2016/05/22/one-weird-trick-that-will-fix-your-pyspark-schemas/
+- https://medium.com/swlh/pyspark-how-to-modify-a-nested-struct-field-8105ebe83d09
+- https://docs.ovh.com/gb/en/data-processing/pi-spark/
+- https://blog.exxactcorp.com/the-benefits-examples-of-using-apache-spark-with-pyspark-using-python/
+- https://medium.com/@mrpowers/adding-structtype-columns-to-spark-dataframes-b44125409803
+#### AWS Bitbucket Pipelines
+- https://bitbucket.org/bitbucketpipelines/example-aws-s3-deploy/src/master/bitbucket-pipelines.yml
+- https://confluence.atlassian.com/bitbucket/environment-variables-in-bitbucket-pipelines-794502608.html
+- https://bitbucket.org/blog/automating-serverless-framework-deployments-using-bitbucket-pipelines
+#### AWS Serverless, Step Functions, SAM
+- https://medium.com/@vincentclaes_43752/create-a-role-on-aws-for-the-serverless-framework-for-any-resource-c49712a5eee0
+- https://www.youtube.com/playlist?list=PLGyRwGktEFqcVoQkgq3vE1GeN3oY39btv #step functions videos
+- https://github.com/serverless-operations/serverless-step-functions
+- https://www.serverless.com/blog/serverless-python-packaging
+- https://github.com/grantcooksey/aws-lambda-python-examples
+- serverless remove --stage dev1234; time serverless deploy -v --stage dev1234
+#### AWS Boto3
+- https://docs.aws.amazon.com/pythonsdk/  # 2026
+- https://boto3.amazonaws.com/v1/documentation/api/latest/guide/quickstart.html  # 2026
+- https://gist.github.com/jasonrdsouza/f2c77dedb8d80faebcf9
+- https://dzone.com/articles/boto3-amazon-s3-as-python-object-store
+- https://boto3.amazonaws.com/v1/documentation/api/latest/guide/s3-example-download-file.html
+#### AWS Aurora Postgres Redshift
+- https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/AuroraPostgreSQL.BestPractices.html  # 2026
+- https://docs.aws.amazon.com/AmazonRDS/latest/AuroraPostgreSQLReleaseNotes/AuroraPostgreSQL.Updates.html  # 2026
+- https://sadalage.com/post/ssl-aws-aurora/ 
+- https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/PostgreSQL.Procedural.Importing.html
+- https://aws.amazon.com/blogs/database/export-and-import-data-from-amazon-s3-to-amazon-aurora-postgresql/
+- https://stackoverflow.com/questions/58616005/import-postgres-data-into-rds-using-s3-and-aws-s3
+- http://www.silota.com/docs/recipes/redshift-sequential-generate-series-numbers-time.html
+- https://aws.amazon.com/blogs/database/managing-postgresql-users-and-roles/
+#### AWS Sagemaker Jupyter
+- https://docs.aws.amazon.com/sagemaker-unified-studio/latest/userguide/notebooks.html  # 2026
+- https://github.com/aws/amazon-sagemaker-examples  # 2026
+- https://medium.com/@shadidc/installing-custom-python-package-to-sagemaker-notebook-b7b897f4f655
+- https://www.mongodb.com/blog/post/getting-started-with-mongodb-pyspark-and-jupyter-notebook
+#### AWS Atlas
+- https://aws.amazon.com/blogs/apn/connecting-applications-securely-to-a-mongodb-atlas-data-plane-with-aws-privatelink/
+
+
+# Snowflake
+
+# Jenkins
+- https://www.jenkins.io/doc/book/using/using-credentials/  # 2026
+- https://www.jenkins.io/security/advisory/2026-05-27/  # 2026
+- https://www.techrepublic.com/article/how-to-add-new-authorization-credentials-to-jenkins/
+- https://dumbitdude.com/jenkins-reset-user-password/
+

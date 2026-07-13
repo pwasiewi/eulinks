@@ -1,0 +1,128 @@
+### Windows bitlocker and Linux
+ - https://itsfoss.com/dual-boot-ubuntu-windows-bitlocker/
+ - https://superuser.com/questions/376533/how-to-access-a-bitlocker-encrypted-drive-in-linux
+
+### Open Source
+ - https://blog.dan.drown.org/gnuk-open-source-gpg-ssh-hardware-key-storage/
+ - https://shop.nitrokey.com/shop/product/nk-sta-nitrokey-start-6
+ 
+### Yubikey hacking
+ - https://arstechnica.com/information-technology/2021/01/hackers-can-clone-google-titan-2fa-keys-using-a-side-channel-in-nxp-chips/
+
+
+### Security
+ - https://linuxvox.com/blog/yubikey-linux/  # 2026
+ - https://scorchingtech.com/yubikey-setup-guide-hardware-2fa/  # 2026
+ - https://words.filippo.io/dispatches/passage/
+ - https://github.com/drduh/YubiKey-Guide
+ - https://upload.yubico.com/
+ - https://demo.yubico.com/otp/verify
+ - https://niebezpiecznik.pl/post/keepass-jak-zaczac-swoja-przygode-z-managerem-hasel/
+ - https://zaufanatrzeciastrona.pl/post/yubikey-dobry-na-wszystko-czyli-sprzetowe-wsparcie-logowania-po-ssh/
+ - https://www.freeipa.org/page/Using_Yubikey_4_Nano_to_authenticate_to_FreeIPA_enrolled_host
+ - http://www.keepassdroid.com/
+ - https://keepassxc.org/
+ - https://www.hanselman.com/blog/HowToSetupSignedGitCommitsWithAYubiKeyNEOAndGPGAndKeybaseOnWindows.aspx
+ - https://help.ubuntu.com/community/GnuPrivacyGuardHowto
+ - https://riseup.net/en/security/message-security/openpgp/best-practices
+ - https://www.jabberwocky.com/software/paperkey/
+ - https://ttmm.io/tech/yubikey/
+ - https://www.devever.net/~hl/smartcards
+ 
+### Yubikey
+ - https://gist.github.com/SunboX/d45b3e6edd691e7f0ec79dd7a9c82997
+ 
+### Cryptsetup
+ - https://wiki.gentoo.org/wiki/Dm-crypt  # 2026
+ - https://wiki.gentoo.org/wiki/Full_Encrypted_System_Root_with_Dracut_USB_Stick  # 2026
+ - https://we.riseup.net/riseuphelp+en/disk-encryption-kde
+ - https://security.stackexchange.com/questions/5158/for-luks-the-most-preferable-and-safest-cipher
+ - https://superuser.com/questions/775200/how-do-i-determine-what-ciphers-cipher-modes-i-can-use-in-dm-crypt-luks/1407458#1407458
+ - https://wiki.gentoo.org/wiki/Dm-crypt_full_disk_encryption
+ - https://wiki.archlinux.org/index.php/dm-crypt/Device_encryption
+
+### ATTINY25 & key loggers
+ - https://sekurak.pl/pendrive-przejmujacy-komputer-za-30-zlotych/
+ - https://hackaday.io/project/17598-diy-usb-rubber-ducky
+ - https://github.com/immunity-systems/hidude
+ - [Adafruit Trinket](https://www.adafruit.com/product/1501)
+ - https://medium.com/@EatonChips/building-a-usb-rubber-ducky-for-7-c851aae30a1d
+ - https://github.com/beargun/Adafruit-Trinket-Gemma-Bootloader
+ - https://shop.pimoroni.com/products/zero-stem-usb-otg-connector
+ - https://maltronics.com/collections/malduinos
+ - https://shop.hak5.org/products/usb-rubber-ducky-deluxe
+ - https://maker.pro/arduino/projects/how-to-build-a-rubber-ducky-usb-with-arduino-using-a-digispark-module
+ - https://pl.aliexpress.com/item/Free-shipping-1pcs-Digispark-kickstarter-development-board-ATTINY85-module-for-Arduino-usb/32697283942.html
+ - https://pl.aliexpress.com/item/ATTINY88-micro-development-board-16-Mhz-Digispark-ATTINY85-zmodernizowane-NANO-V3-0-ATmega328-rozszerzona-kompatybilny/32995174990.html
+ - https://rufus.ie/ 
+ - https://github.com/spacehuhn/wifi_keylogger
+
+
+### TABLICE TĘCZOWE 
+
+### Strony z kluczami two phase U2F i innymi
+ - https://wiki.archlinux.org/title/YubiKey  # 2026
+ - https://cyberciti.biz/security/how-to-set-up-ssh-keys-with-yubikey-as-two-factor-authentication-u2f-fido2/  # 2026
+ - https://github.com/hillbrad/U2FReviews
+ - https://onlykey.io/
+ - https://nelenkov.blogspot.com/2014/03/unlocking-android-using-otp.html
+ - https://techfreak.pl/yubikey-klucz-do-bezpieczenstwa/
+ - https://www.cnet.com/how-to/how-to-move-google-authenticator-to-a-new-device/
+ - https://www.sigilance.com/
+ - https://www.nitrokey.com/
+ - https://github.com/hillbrad/U2FReviews
+
+### MD5 SHA1
+ - https://www.mscs.dal.ca/~selinger/md5collision/
+
+### Podstawy blockchaina i kryptowaluty
+- https://www.simplilearn.com/tutorials/blockchain-tutorial  # 2026
+- https://www.blockchain-council.org/blockchain/blockchain-guide-everything-you-need-to-know/  # 2026
+- https://www.youtube.com/watch?v=SSo_EIwHSd4
+- https://medium.com/@iwetalaskowska/darmowe-materia%C5%82y-do-nauki-o-kryptowalutach-oraz-blockchainie-3d252d0b2dfb
+- https://www.reddit.com/r/BlockchainSchool/comments/aewk4a/material_to_study/
+- https://medium.com/coinmonks/what-is-a-51-attack-or-double-spend-attack-aa108db63474
+- https://medium.com/@iwetalaskowska/skalowalno%C5%9B%C4%87-blockchaina-zrozumie%C4%87-ethereum-2-o-d2db17125bcf
+- https://www.youtube.com/watch?v=pzIl3vmEytY
+
+### Zastosowania blockchaina
+- https://medium.com/@iwetalaskowska/hyperledger-fabric-w-pigu%C5%82ce-e01e7d3a3e2d
+- https://hyperledger-fabric.readthedocs.io/
+- https://filecoin.io/ #storage
+- https://www.iota.org/ #graphchains Tangle
+- https://medium.com/@iwetalaskowska/internet-rzeczy-iot-czyli-zastosowanie-kryptowaluty-iota-e7df044f61f3
+- https://cryptozombies.io
+- http://etherscripter.com
+
+### Teoria blockchaina
+- https://blog.ethereum.org/2014/11/25/proof-stake-learned-love-weak-subjectivity/
+
+### Zabawa w kopanie słabych zagrożonych włamaniem 51% walut
+- https://www.cryptunit.com/coin/RYO
+- https://coinpaprika.com/pl/
+- https://www.cryptomiso.com/
+- https://www.coingecko.com/pl
+- https://trezor.io/coins/
+- https://github.com/ryo-currency/ryo-wallet
+- https://github.com/fireice-uk/xmr-stak
+- https://www.bestvpn.com/ethereum-mining/
+- https://etherscan.io/ether-mining-calculator
+- https://getnerva.org/
+- https://turtlecoin.lol/
+- https://github.com/nanopool
+- https://bitcointalk.org/index.php?topic=1424132.0
+- https://1stminingrig.com/best-mining-hardware/
+
+### Proste przykłady blockchaina
+ - https://hackernoon.com/a-cryptocurrency-implementation-in-less-than-1500-lines-of-code-d3812bedb25c
+ - https://lhartikk.github.io/
+ - https://github.com/lhartikk/naivecoin
+ - https://github.com/lucrussell/tiny-blockchain
+ - https://medium.com/crypto-currently/lets-build-the-tiniest-blockchain-e70965a248b
+ - https://github.com/Viraj3f/SimpleCoin
+ - https://github.com/cosme12/SimpleCoin
+ - https://medium.com/coinmonks/implementing-proof-of-stake-e26fa5fb8716
+ - https://medium.com/coinmonks/implementing-blockchain-and-cryptocurrency-with-pow-consensus-algorithm-part-1-545fb32be0c2
+ 
+### Online key wallets
+ - https://www.reddit.com/r/homelab/comments/7yefth/what_to_replace_lastpass_with/?sort=new

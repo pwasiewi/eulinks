@@ -1,0 +1,95 @@
+### Functional programming
+- https://www.baeldung.com/scala/functional-programming-series  # 2026
+- https://github.com/fpinscala/fpinscala  # 2026
+- https://degoes.net/articles/fp-glossary
+- https://www.reddit.com/r/hascalator/
+- https://github.com/winitzki/sofp
+- https://www.youtube.com/playlist?list=PLcoadSpY7rHXJWbUkjQ3P9MXBbXxLP8kV
+- https://www.youtube.com/watch?v=mkSHhsJXjdc&list=PLjkHSzY9VuL9u4VNO7FEx0rvT8OGathj_
+- https://www.youtube.com/watch?time_continue=2329&v=8JLprl34xEw
+
+### Scala
+- https://www.classcentral.com/report/best-free-scala-courses/  # 2026
+- https://docs.scala-lang.org/scala3/book/taste-repl.html  # 2026
+- https://www.reddit.com/r/hascalator/
+- https://www.scala-exercises.org
+- https://www.artima.com/pins1ed/
+- https://www.scala-lang.org/old/sites/default/files/linuxsoft_archives/docu/files/ScalaByExample.pdf
+- http://twitter.github.io/scala_school/
+- https://stackoverflow.com/tags/scala/info
+- https://github.com/lampepfl/progfun-wiki/blob/gh-pages/CheatSheet.md
+- https://docs.scala-lang.org/cheatsheets/index.html
+- https://docs.scala-lang.org/overviews/scala-book/
+- https://docs.scala-lang.org/tour/tour-of-scala.html
+- https://underscore.io/training/courses/essential-scala/
+- http://matt.might.net/articles/learning-scala-in-small-bites/
+- http://twitter.github.io/effectivescala/
+- https://github.com/lampepfl/progfun-wiki/blob/gh-pages/CheatSheet.md
+```
+find . -name target -type d -exec rm -rf {} \;
+sbt clean clean-files
+```
+
+#### Online editors
+- https://onecompiler.com/scala  # 2026
+- https://www.programiz.com/scala/online-compiler/  # 2026
+- https://scastie.scala-lang.org
+
+#### Advanced features of Scala
+- https://typelevel.org/cats/  # 2026
+- https://zio.dev/  # 2026
+- https://scalalandio.github.io/
+- https://github.com/typelevel/kind-projector
+- https://medium.com/@abu_nadhr/scala-cats-library-for-dummies-part-1-8ec47af7a144
+- http://eed3si9n.com/herding-cats/
+- https://jto.github.io/articles/getting-started-with-shapeless/
+- https://jto.github.io/articles/type-all-the-things/
+- https://scalac.io/write-command-line-application-with-zio/
+- https://underscore.io/books/scala-with-cats/
+- https://scalalandio.github.io/
+
+### Design patterns in Scala
+- https://codesignal.com/learn/courses/applying-design-patterns-for-real-world-problems-using-scala  # 2026
+- https://www.pluralsight.com/courses/scala-specific-design-patterns  # 2026
+- https://medium.com/@supermanue/gof-design-patterns-in-scala-visitor-f3b8c91e0488
+- https://www.scala-lang.org/old/sites/default/files/FrederikThesis.pdf
+- https://www.lihaoyi.com/post/ImplicitDesignPatternsinScala.html
+- https://alvinalexander.com/scala/how-scala-killed-oop-strategy-design-pattern/
+- http://allaboutscala.com/big-data/spark/
+
+## Blogs
+- https://www.baeldung.com/scala  # 2026
+- https://www.scalateams.com/blog/recommended-scala-functional-programming-books  # 2026
+- https://degoes.net/
+- http://eed3si9n.com/implicit-parameter-precedence-again
+- https://dwgeek.com/category/apache-spark/
+- https://github.com/big-data-europe/docker-spark
+
+#### Scala Gui
+- https://stackoverflow.com/questions/10497118/suitable-gui-framework-for-scala
+- https://github.com/scalafx/ProScalaFX
+- https://github.com/scalafx/scalafx-ensemble
+
+#### Scala DB
+- https://underscore.io/books/essential-slick/
+```
+Query is a monad. It implements the methods map, flatMap, filter, and withFilter, mhttps://scalalandio.github.io/aking it compatible with Scala for comprehensions.
+```
+- https://softwaremill.com/comparing-scala-relational-database-access-libraries/
+- https://tpolecat.github.io/doobie/
+- https://www.squeryl.org
+
+#### Scala Fun
+- https://jto.github.io/articles/typelevel_quicksort/
+
+## Courses
+- https://www.udemy.com/course/rock-the-jvm-scala-for-beginners/  # 2026
+- https://www.classcentral.com/report/best-free-scala-courses/  # 2026
+- https://www.pluralsight.com/courses/scala-specific-design-patterns
+- Functional Design Patterns - Scott Wlaschin (2017) from NDC Conferences
+- https://www.youtube.com/watch?v=srQt1NAHYC0
+- The Functional Programmer's Toolkit - Scott Wlaschin (2019)
+- https://www.youtube.com/watch?v=Nrp_LZ-XGsY
+- https://www.youtube.com/watch?v=EOfq1x1gA6k 
+
+

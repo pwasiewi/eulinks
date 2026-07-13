@@ -1,0 +1,4 @@
+### SWEAVE R latex
+ - https://support.posit.co/hc/en-us/articles/200552056-Using-Sweave-and-knitr  # 2026
+ - https://kbroman.org/knitr_knutshell/pages/latex.html  # 2026
+ - https://texblog.org/2011/12/01/sweave-subfig-controlling-figure-size-and-placement/

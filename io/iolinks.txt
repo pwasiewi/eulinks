@@ -1,0 +1,42 @@
+### wykłady darmowe o io do wykorzystania
+
+### ogólnie o uml
+ * https://www.guru99.com/best-uml-tools.html  # 2026
+ * https://gitmind.com/uml-diagram-tool.html  # 2026
+ * http://www.uml.com.pl/
+ * http://pl.wikipedia.org/wiki/Kategoria:Diagramy_UML
+ * http://pl.wikipedia.org/wiki/Unified_Modeling_Language
+ * http://pl.wikipedia.org/wiki/Lista_narz%C4%99dzi_UML
+ * http://stackoverflow.com/questions/15376/whats-the-best-uml-diagramming-tool
+
+### darmowe kursy
+ * https://www.classcentral.com/subject/uml  # 2026
+ * https://www.coursera.org/learn/software-engineering-modeling-software-systems-using-uml  # 2026
+ * http://wazniak.mimuw.edu.pl/index.php?title=In%C5%BCynieria_oprogramowania
+ * http://magazynt3.pl/kurs-uml-czesc-1-wstep-i-diagramy-klas/
+ * https://www.udemy.com/visual-paradigm-essential/
+
+### visual paradigm
+ * https://www.visual-paradigm.com/editions/community/  # 2026
+ * https://online.visual-paradigm.com/diagrams/solutions/free-online-uml-tool/  # 2026
+ * http://www.visual-paradigm.com/solution/freeumltool/
+ * http://www.visual-paradigm.com/product/vpuml/tutorials/
+ * http://www.youtube.com/user/VisualParadigm/videos?view=0
+
+### argouml
+
+### inne mniejsze programy uml 
+ * https://www.docuwriter.ai/posts/free-uml-diagram-maker  # 2026
+ * https://miro.com/diagramming/uml-diagram/  # 2026
+ * http://alexdp.free.fr/violetumleditor/page.php
+
+### internetowe edytory
+ * https://www.lucidchart.com/pages/examples/uml_diagram_tool  # 2026
+ * https://www.canva.com/graphs/uml-diagrams/  # 2026
+ * http://yuml.me/
+ * http://creately.com/Draw-UML-and-Class-Diagrams-Online
+
+### wykłady innych osób
+ * https://www.classcentral.com/course/freecodecamp-uml-diagrams-full-course-unified-modeling-language-104954  # 2026
+ * https://github.com/drshahizan/software-engineering  # 2026
+ * http://aragorn.pb.bialystok.pl/~mkret/IO_P.html

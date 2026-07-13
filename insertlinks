@@ -1,0 +1,118 @@
+#!/bin/env python3
+# insertlinks — insert curated links at the top of sections in *links.txt files
+#
+# Usage (run from inside eulinks/):
+#   ./insertlinks mapping.json
+#   ./insertlinks mapping.json --marker "# 2026" --dry-run
+#
+# mapping.json format:
+#   {
+#     "relative/path/to/file.txt": {
+#       "Section Header Title": ["https://...", "https://...", ...],
+#       ...
+#     },
+#     ...
+#   }
+#
+# Paths are relative to the current working directory. For each entry, the
+# script finds the matching markdown header line (any of #..######, title
+# matched exactly after stripping leading/trailing whitespace) and inserts
+# the given URLs right after it, before any pre-existing bullets, using
+# whichever bullet style (-, *) already appears in that section (falls back
+# to " - "). Each inserted line is tagged with the marker comment so it can
+# be told apart from legacy entries later.
+#
+# Headers in the mapping that aren't found in their file are reported under
+# "HEADERS NOT MATCHED" and nothing is inserted for them — fix the title or
+# the file and re-run (the script is idempotent only in the sense that
+# re-running it will insert the URLs again, so don't run it twice on the
+# same mapping without reverting first).
+
+import argparse
+import json
+import re
+import sys
+
+HEADER_RE = re.compile(r'^(\s*)(#{1,6})\s*(.*?)\s*$')
+BULLET_RE = re.compile(r'^(\s*[-*]\s)')
+
+
+def bullet_style(lines, start_idx):
+    for line in lines[start_idx:start_idx + 6]:
+        m = BULLET_RE.match(line)
+        if m:
+            return m.group(1)
+    return ' - '
+
+
+def insert_into_file(path, sections, marker, dry_run):
+    with open(path, encoding='utf-8') as f:
+        lines = f.readlines()
+
+    out = []
+    matched = set()
+    inserted = 0
+    for i, line in enumerate(lines):
+        out.append(line)
+        m = HEADER_RE.match(line)
+        if not m:
+            continue
+        title = m.group(3)
+        if title in sections:
+            matched.add(title)
+            prefix = bullet_style(lines, i + 1)
+            for url in sections[title]:
+                out.append('{}{}  {}\n'.format(prefix, url, marker))
+                inserted += 1
+
+    missing = set(sections) - matched
+    if missing:
+        print('{}: HEADERS NOT MATCHED: {}'.format(path, sorted(missing)), file=sys.stderr)
+
+    if not dry_run and inserted:
+        with open(path, 'w', encoding='utf-8') as f:
+            f.writelines(out)
+
+    return len(matched), inserted, missing
+
+
+def main():
+    parser = argparse.ArgumentParser(
+        description='Insert curated links at the top of matching sections in *links.txt files.',
+        formatter_class=argparse.ArgumentDefaultsHelpFormatter,
+    )
+    parser.add_argument('mapping', help='JSON file: {path: {header: [urls...]}}')
+    parser.add_argument(
+        '--marker', default='# 2026',
+        help='Trailing comment tag appended to each inserted line',
+    )
+    parser.add_argument(
+        '--dry-run', action='store_true',
+        help='Report matched/missing headers without writing files',
+    )
+    args = parser.parse_args()
+
+    with open(args.mapping, encoding='utf-8') as f:
+        data = json.load(f)
+
+    total_files = 0
+    total_inserted = 0
+    total_missing = 0
+    for path, sections in data.items():
+        matched, inserted, missing = insert_into_file(path, sections, args.marker, args.dry_run)
+        total_files += 1
+        total_inserted += inserted
+        total_missing += len(missing)
+        print('{}: inserted into {} section(s){}'.format(
+            path, matched, ' [dry-run]' if args.dry_run else ''
+        ))
+
+    print('\n{} file(s), {} link(s) inserted, {} header(s) not matched'.format(
+        total_files, total_inserted, total_missing
+    ), file=sys.stderr)
+    if total_missing:
+        sys.exit(1)
+
+
+if __name__ == '__main__':
+    main()

@@ -1,0 +1,334 @@
+# SOFTWARE
+
+### Android os rom
+ - https://lineageos.org/  # 2026
+ - https://github.com/AxionAOSP/android  # 2026
+ - https://calyxos.org/news/  # 2026
+ - https://axionaosp.github.io/
+ - https://axpos.org/devices/
+ - https://calyxos.org/install/
+
+### XDA
+ - https://zackptg5.com/
+ - https://omnirom.org/#devices
+ 
+
+### GOOGLE CODELABS
+ - https://g.co/codelabs
+
+### RXAndroid RXJAVA
+ - https://developer.android.com/kotlin/coroutines  # 2026
+ - https://kotlinlang.org/docs/flow.html  # 2026
+ - https://github.com/Froussios/Intro-To-RxJava
+ - https://www.baeldung.com/rx-java
+ - https://javastart.pl/b/java/rxjava-wprowadzenie/
+ - https://proandroiddev.com/modern-android-development-with-kotlin-part-3-8721fb843d1b
+ - https://github.com/klnusbaum/rxandroidexamples
+ - https://medium.com/@kurtisnusbaum/rxandroid-basics-part-1-c0d5edcf6850
+ 
+
+# Kotlin 
+
+### Frameworks
+ - https://badootech.badoo.com/building-a-system-of-reactive-components-with-kotlin-ff56981e92cf
+ - https://github.com/badoo/MVICore
+
+#### Kotlin coroutines
+ - https://geek.justjoin.it/kotlin-coroutine-pewno-kolejny-krok-dla-programisty-rxjava/
+ - https://github.com/Kotlin/kotlinx.coroutines
+ - https://github.com/Kotlin/kotlinx.coroutines/blob/master/ui/coroutines-guide-ui.md
+ - https://akarnokd.blogspot.ru/2017/09/rxjava-vs-kotlin-coroutines-quick-look.html
+ - https://www.youtube.com/watch?v=_hfBv0a09Jc
+ - https://fr.slideshare.net/elizarov/introduction-to-coroutines-kotlinconf-2017
+ - https://www.youtube.com/watch?v=YrrUCSi72E8
+ - https://www.slideshare.net/elizarov/deep-dive-into-coroutines-on-jvm-kotlinconf-2017
+ - https://www.slideshare.net/elizarov/kotlin-coroutines-in-practice-kotlinconf-2018
+ - https://proandroiddev.com/kotlin-coroutines-vs-rxjava-an-initial-performance-test-68160cfc6723
+ - https://github.com/elizarov/CoroutinesWorkshop
+
+#### Anko Android
+ - https://github.com/kotlin/anko-example
+ - https://medium.com/@v.souhrada/introduction-to-anko-for-android-part-1-6178d536cbe6
+
+#### Rxkotlin i inne
+ - https://badootech.badoo.com/building-a-system-of-reactive-components-with-kotlin-ff56981e92cf
+ - https://github.com/ReactiveX/RxKotlin
+ - https://www.raywenderlich.com/170233/reactive-programming-rxandroid-kotlin-introduction
+ - https://medium.freecodecamp.org/rxandroid-and-kotlin-part-1-f0382dc26ed8
+ - http://rxmarbles.com/
+ - http://adavis.info/2017/07/using-rxbinding-with-kotlin-and-rxjava2.html
+ - [Reactive programming](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
+
+#### Android Kotlin
+ - https://developer.android.com/develop/ui/compose/kotlin  # 2026
+ - https://developer.android.com/jetpack/androidx/releases/compose  # 2026
+ - https://developer.android.com/kotlin/get-started.html
+ - https://github.com/nekocode/Kotlin-Android-Template
+ - https://android.jlelse.eu/learn-kotlin-while-developing-an-android-app-introduction-567e21ff9664
+ - https://www.raywenderlich.com/168038/common-design-patterns-android-kotlin
+ - http://kotlinlang.org/docs/tutorials/kotlin-android.html
+ - https://fernandocejas.com/2017/02/03/android-testing-with-kotlin/
+
+#### Kotlin odnośniki
+ - https://github.com/KotlinBy/awesome-kotlin
+ - https://github.com/mcxiaoke/awesome-kotlin
+ 
+#### Kotlin podstawowe tutoriale
+ - https://try.kotlinlang.org
+ - http://kotlinbyexample.org/
+ - https://blog.jetbrains.com/kotlin/2016/03/kotlin-educational-plugin/
+ - https://learnxinyminutes.com/docs/kotlin/
+ - https://github.com/dbacinski/Design-Patterns-In-Kotlin
+ - [Kotlin video tutorial](https://www.youtube.com/watch?v=Org0vh-VSgA&list=PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh)
+ - [Kurs Kotlina po polsku na youtube](https://www.youtube.com/watch?v=lPv0_Gc2wcc&index=2&list=PLCANL9WHTsiGeQzn72AUU6FH3p3aoAiMM)
+ - https://github.com/s1monw1/kotlin-samples
+ 
+#### Kotlin blogi
+ - http://nilhcem.com/swift-is-like-kotlin/
+ - https://blog.jetbrains.com/kotlin/
+ - https://github.com/dbacinski/Design-Patterns-In-Kotlin
+ - https://proandroiddev.com/kotlin-design-patterns-8e152540ee2c
+
+#### Kotlin and libraries
+ - http://docs.paralleluniverse.co/quasar/
+
+### New Android libraries
+ - https://developer.android.com/jetpack/androidx/releases/room  # 2026
+ - https://github.com/square/retrofit  # 2026
+ - https://developer.android.com/jetpack/androidx/releases/work  # 2026
+ - http://jakewharton.github.io/butterknife/
+ - https://projectlombok.org
+ - http://square.github.io/picasso/ 
+ - https://github.com/Raizlabs/DBFlow
+ - http://square.github.io/retrofit/
+
+### SD CARD FOR MARSHMALLOW Android >= 6.0
+ - http://blog.sam.liddicott.com/2016/02/android-6-semi-adopted-storage.html
+ - http://nelenkov.blogspot.com/2015/06/decrypting-android-m-adopted-storage.html
+
+## Polecenia z linii komendy 
+```
+   #Android-Studio w katalogu projektu
+   ./gradlew clean build 
+   #https://developer.android.com/studio/run/device.html#VendorIds
+   wget -S -O - http://source.android.com/source/51-android.rules | sed "s/<username>/$USER/"| sudo tee >/dev/null /etc/udev/rules.d/51-android.rules; sudo udevadm control --reload-rules
+   export PATH=$PATH:/opt/android-ndk/:/opt/android-sdk-linux/platform-tools/:/opt/android-sdk-linux/tools/
+   android list targets
+   cd <android app>
+   android update project -p . -s -t 1
+   ant debug
+   adb install -r  /opt/android-ndk-r7b/samples/bitmap-plasma/bin/Plasma-debug.apk
+```
+
+
+### Ciekawostki
+ - http://www.dobreprogramy.pl/Android-na-chromebookach-zaistnial-dzieki-linuksowym-kontenerom-io16,News,73364.html
+
+### Edytory i tools
+ - https://developer.android.com/studio  # 2026
+ - https://developer.android.com/jetpack/compose/tooling  # 2026
+ - [Android Studio Tutorial](http://code.tutsplus.com/tutorials/android-sdk-working-with-android-studio--mobile-20203)
+ - [Android Studio - idea intellij dla Androida](http://developer.android.com/sdk/)
+ - [Genymotion - komercyjny emulator](https://www.genymotion.com)
+ - [Calabash - testowania aplikacji](http://calaba.sh)
+ - [Jenkins CI - kompilacja ciągła](http://jenkins-ci.org)
+ - [Mirror - szybki podgląd ui](http://jimulabs.com)
+ - [Popularna chmura](https://parse.com/docs/android_guide)
+ - [Gradle tutorial (2015)](http://rominirani.com/2014/07/28/gradle-tutorial-series-an-overview/)
+
+### DEVELOPERZY i BLOGI Androida
+ - https://github.com/JakeWharton
+ - http://antonioleiva.com/
+ - [Android Devs Blog 2015](http://android-developers.blogspot.fr/)
+ - [Krótkie omówienie książek](http://android-er.blogspot.com/)
+ - https://www.sitepoint.com/mobile/
+ - http://www.curious-creature.org/category/android
+ - http://graphics-geek.blogspot.com/
+ - http://officialandroid.blogspot.com/
+
+### wykłady, GIGANTYCZNE TUTORY
+ - [Android Studio Game Course (2015)](https://goo.gl/vkfX7s)
+ - [Zestaw wykładów udacity z programowania Java Android](https://www.udacity.com)
+ - [Wykład nr 3 z coursery](https://www.youtube.com/playlist?list=PLyUlngzGzkztgTizxM6_zqiw8sRj7vBm0)
+ - [Kurs Appinventora - graficznego projektanta](https://sites.google.com/site/appinventorsbl/)
+ - [Tutoriale Vogelli z Androida 2015](http://www.vogella.com/android.html)
+ - [Wykład Coreservlets 2015](http://www.coreservlets.com/android-tutorial/)
+ - [Android Studio - first steps](http://code.tutsplus.com/tutorials/android-sdk-working-with-android-studio--mobile-20203)
+ - [Oficjalne wprowadzenie do Androida](https://developer.android.com/training/index.html)
+ - [Official Android Developer Guide](http://developer.android.com/guide/)
+
+### Aplikacje opensource
+ - [Lista androidowych aplikacji z otwartym kodem](http://en.wikipedia.org/wiki/List_of_open_source_Android_applications)
+ - [Wielka baza androidowych open sourcowych aplikacji](http://www.aopensource.com/)
+ - [Aplikacja z Play Google: Market otwartoźródłowych programów fdroid](http://f-droid.org/)
+ - [Kod Androida ](https://android.googlesource.com/)
+ - [Barcode lib 2015](https://github.com/zxing/zxing)
+ - https://github.com/cSploit/android
+
+### Web Python
+ - [Strona newsów w PostgreSQL i MongoDB (2016)](https://github.com/samuelclay/NewsBlur)
+ - https://www.sitepoint.com/creating-mobile-application-reapp/
+
+### Przyklady, biblioteki Android
+ - [Android Arsenal - zbiór bibliotek](https://android-arsenal.com/)
+ - [Ranking bibliotek Androida](http://www.appbrain.com/stats/libraries/dev)
+ - [Biblioteki Square](http://square.github.io)
+ - http://google.github.io/dagger/
+ - https://bintray.com/search?query=android
+ - http://code.tutsplus.com/tutorials/creating-and-publishing-an-android-library--cms-24582
+ - https://dzone.com/articles/android-third-party-libraries-0
+ - https://www.quora.com/How-are-libraries-used-in-Android-app-development-and-what-are-the-best-open-source-libraries
+ - http://zeroturnaround.com/rebellabs/7-best-android-libraries-that-java-developer-should-know-about/
+ - http://www.startingandroid.com/top-10-android-libraries-every-android-developer-should-know-about/
+ - https://www.linkedin.com/pulse/top-5-android-libraries-every-developer-should-know-ahmad-awad
+ - http://www.vogella.com/tutorials/AndroidUsefulLibraries/article.html
+ - [Simple RSS Reader For Android](https://github.com/ZackehSoul/RSSDemo)
+ - [CommonsWare Android Components 2015](http://commonsware.com/cwac)
+ - http://www.jpct.net/jpct-ae/index.html
+ - [Scala on Android (2016)](https://github.com/pocorall/scaloid)
+ 
+### PYTANIA, PORADY, ANDROID4
+ - http://stackoverflow.com/questions/456211/activity-restart-on-rotation-android)
+ - http://stackoverflow.com/questions/2881128/how-to-use-onsensorchanged-sensor-data-in-combination-with-opengl)
+
+### C SDL android
+ - https://wiki.libsdl.org/SDL2/Android  # 2026
+ - https://github.com/libsdl-org/SDL  # 2026
+ - https://github.com/libSDL2pp/libSDL2pp
+ - http://lazyfoo.net/tutorials/SDL/index.php
+ - https://wiki.libsdl.org/Android
+ - https://github.com/AMDmi3/planetonomy
+ - http://developer.android.com/sdk/ndk/overview.html#samples
+ - http://stackoverflow.com/questions/7223349/android-ndk-sigill-crash-on-fpu-instruction-on-armv6-device
+ - http://stackoverflow.com/questions/7080525/why-use-armeabi-v7a-code-over-armeabi-code)
+
+### C++ cocos2d-x
+ - https://github.com/cocos2d/cocos2d-x
+
+### GRY
+ - https://github.com/topics/android-game  # 2026
+ - https://itch.io/games/platform-android/tag-open-source  # 2026
+ - [Spis gier Android na Githubie](https://github.com/leereilly/games)
+ - https://github.com/watabou/pixel-dungeon
+ - https://github.com/zsoltk/GameOfLife
+ - https://github.com/awlzac/wbta
+ - https://github.com/sromku/memory-game
+ - https://github.com/chrisboyle/sgtpuzzles
+ - https://github.com/scoutant/blokish
+ - https://github.com/Chluverman/android-gltron
+ - http://code.google.com/p/frozenbubbleandroid
+ - https://github.com/mobilepearls/com.mobilepearls.sokoban
+ - https://github.com/alanwoolley/CorsixTH-Android
+ - https://github.com/Zukero/andors-trail
+ - http://tmtg.net/
+
+### SILNIKI GIER
+ - https://github.com/flixel-gdx/flixel-gdx
+ - https://github.com/flixel-gdx/flixel-gdx-examples
+ - https://github.com/flixel-gdx/flixel-gdx/wiki
+ - https://github.com/cping/LGame
+ - https://github.com/Rajawali/Rajawali
+ - https://github.com/portmobile/LAGP-Example-Code
+
+### wybrane telefony z androidami z xda (jest ich więcej ;) )
+ - https://androidfilehost.com/?w=developers&did=1205&page=2
+
+### LIBGDX
+#### libgdx kurs po polsku - kółko i krzyżyk -
+ - [Polski
+   Tutor](https://www.youtube.com/playlist?list=PLFq6ri1W22hyyGVo7pmTMstd-pZWZBmRg)
+ - https://github.com/kotcrab?tab=repositories
+ 
+#### Tutoriale, wykłady, blogi o libgdx po angielsku:
+ - https://libgdx.com/wiki/start/a-simple-game  # 2026
+ - https://libgdx.com/wiki/start/demos-and-tutorials  # 2026
+ - [Udacity 2D gra wykład](https://github.com/udacity/ud405)
+ - [Udacity 2D gra wykład cd](https://github.com/udacity/ud406)
+ - [Najlepsze tutoriale po
+ - https://github.com/UnderwaterApps/overlap2d
+ - http://www.gamefromscratch.com/
+ - http://obviam.net/
+ - http://www.gamefromscratch.com/page/LibGDX-Tutorial-series.aspx
+ - [C4Cheats libgdx youtube kurs po angielsku](https://www.youtube.com/playlist?list=PLvnEciYMRSk-l5oKsIsbrBbP2ZJFSZLns)
+ - http://www.mets-blog.com/category/libgdx/
+ - http://www.codeproject.com/Articles/702957/Create-your-first-Android-Game-with-libgdx
+ - [Java Game Development na youtube](https://www.youtube.com/playlist?list=PLXY8okVWvwZ0JOwHiH1TntAdq-UDPnC2L)
+ - [1.5h tutor Space Invaders](https://www.youtube.com/watch?v=_rVS1zHThZ0)
+ - [libgdx tutoriale z wiki](https://github.com/libgdx/libgdx/wiki/External-tutorials)
+ - https://github.com/libgdx/libgdx/wiki
+ - https://github.com/libgdx/libgdx/wiki/Video-tutorials
+ 
+#### czyli w rozwinięciu:
+ 
+#### Pytania libgdx:
+ - http://stackoverflow.com/questions/2680827/conversion-to-dalvik-format-failed-with-error-1-on-external-jar)
+ - http://www.csc.kth.se/utbildning/kth/kurser/DD143X/dkand11/Group7Henrik/Rakiv.Ahmed.Jonas.Aule.report.pdf)
+ - [przykłady książki o libgdx-ie](http://code.google.com/p/beginning-android-games/)
+)
+ - http://stackoverflow.com/questions/2256884/android-device-chooser-device-not-showing-up)
+
+
+### skompilowane androidy
+ - http://source.android.com/source/downloading.html
+ - https://github.com/ResurrectionRemix/platform_manifest/blob/lollipop/README.mkdn
+ - https://download.lineageos.org/
+ - http://www.teamandroid.com/gapps/
+ 
+### Lua in Android
+ - http://love2d.org/
+ - http://lua-users.org/wiki/LuaDistributions
+ - http://code.google.com/p/libgdx-users/wiki/LuaTutorial
+ - http://www.raywenderlich.com/31081/how-to-make-a-simple-game-with-moai
+ 
+### renderscript (już przestarzały w 4.1, tylko do obliczeń na CPU)
+ - http://developer.android.com/guide/topics/renderscript/compute.html
+
+### Algorytmy
+ - https://cp-algorithms.com/index.html  # 2026
+ - https://usaco.guide/general/resources-cp  # 2026
+ - http://rosettacode.org/wiki/Rosetta_Code
+ - http://rosettacode.org/wiki/Help:Similar_Sites
+ - http://en.wikipedia.org/wiki/Viterbi_algorithm
+ 
+### Blender - kurs po polsku
+
+### silniki gier komercyjne i zamkniętym kodem 
+ - http://unity3d.com/unity/
+ - http://answers.unity3d.com/index.html
+ - [UE4 youtube tutorial](https://www.youtube.com/watch?v=QMsFxzYzFJ8&list=PLZlv_N0_O1gaCL2XjKluO7N2Pmmw9pvhE&index=1)
+ - [Kurs UE4](http://goo.gl/fs2S8S)
+
+### OpenGLES
+ - https://developer.android.com/games/develop/vulkan/overview  # 2026
+ - https://developer.android.com/codelabs/beginning-vulkan-on-android  # 2026
+ - http://www.songho.ca/opengl/gl_transform.html
+ - http://www.opengl-tutorial.org/
+ - http://www.learnopengles.com/android-lesson-one-getting-started/)
+ - http://developer.android.com/tools/help/gltracer.html)
+ - http://developer.android.com/training/graphics/opengl/index.html)
+ - http://developer.android.com/training/graphics/opengl/environment.html)
+ - http://code.google.com/p/nehe-android/)
+ - http://stackoverflow.com/questions/1629775/tutorials-and-libraries-for-opengl-es-games-on-android)
+ - http://www.javacodegeeks.com/2011/06/android-game-development-tutorials.html)
+ - http://www.zeuscmd.com/tutorials/opengles/index.php)
+ - http://ruibm.com/?p=263)
+ - http://gamedev.stackexchange.com/questions/8647/how-to-calculate-vertex-normals-for-a-mesh-in-java-in-opengl-es)
+ - http://gamedev.stackexchange.com/questions/8191/any-reliable-polygon-normal-calculation-code)
+ - http://programminglinuxgames.blogspot.com/2010/09/parsing-wavefront-obj-file-format-using.html)
+ - http://en.wikipedia.org/wiki/Wavefront_.obj_file)
+
+#### STARE MATERIAŁY - TUTORIALE
+ - [Wykład na youtube: Damiarias Rodriguez (2014)](http://www.youtube.com/playlist?list=PL9E21BFF408167ED6)
+ - [Filmy developerów Google](http://www.youtube.com/user/androiddevelopers/videos)
+ - [25 kursów Anroida 2012](http://www.freewaregenius.com/twenty-five-free-online-tutorials-for-learning-android-programming/)
+ - [Wykład Androida 2013](http://lecturesnippets.com/android-programming/)
+ - [Tutorial thenewBoston (2014)](http://www.youtube.com/playlist?list=PL2F07DBCDCC01493A)
+ - [Kody źródłowe tutorialu thenewBoston](https://github.com/shafiul/theNewBoston_android_tutorial/tags)
+ - [Kanał youtube thenewboston - zaczynają IOS!](https://www.youtube.com/channel/UCJbPGzawDH1njbqV-D5HqKw)
+ - [Polskie tutoriale 2011](http://www.android4devs.pl/)
+ - [Tutorial - małe zręczne przykłady -
+   2012](http://www.mkyong.com/tutorials/android-tutorial/)
+ - [Tutorials freewaregenius (2012)](http://www.freewaregenius.com/twenty-five-free-online-tutorials-for-learning-android-programming/)
+ - [Tutorial po polsku - podpisywanie aplikacji (2012)](http://szymonmotyka.pl/programowanie-na-androida-reklamy-publikacje/)
+ - [Otwartoźródłowy program z kostką](http://code.google.com/p/bite-the-dice)
+ 

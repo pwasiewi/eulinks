@@ -1,0 +1,169 @@
+## color profiling
+ - profile sRGB2014 usuwa mgłę
+ - https://www.color.org/srgbprofiles.xalter 
+ - https://discuss.pixls.us/t/using-datacolor-spyderx-pro-calibrator-under-linux/20937/2
+ - Datacolor SpyderX PRO - kalibrator (SXP100)
+
+## shader book and library
+ - https://thebookofshaders.com
+ * https://lygia.xyz/
+
+## shadertoy glsl
+ * https://arugl.medium.com/into-shadertoy-and-shaders-useful-links-and-tips-7f3e2f192275
+ * https://viclw17.github.io/
+ * https://doc.qt.io/qt-6/qtshadertools-qsb.html
+ * https://shadertoyunofficial.wordpress.com/2018/04/16/readings-shaders-maths-3d/
+ * https://shadertoyunofficial.wordpress.com/author/fabriceneyret/
+ * https://www.youtube.com/watch?v=0ifChJ0nJfM
+ * https://www.youtube.com/watch?v=dKA5ZVALOhs
+ * https://www.youtube.com/watch?v=u5HAYVHsasc
+ * https://gamedevelopment.tutsplus.com/tutorials/a-beginners-guide-to-coding-graphics-shaders--cms-23313
+ * https://www.defold.com/tutorials/shadertoy/
+ * https://support.troikatronix.com/support/solutions/articles/13000025645-glsl-shader-actor-tutorial
+ * https://en.wikibooks.org/wiki/Fractals/shadertoy
+ * http://dent.readthedocs.io/en/latest/tutorial-shadertoy.html
+ 
+## shadertoy po polsku
+ * https://medium.com/@maciej.matyka/shadertoy-po-polsku-4f80e251e902
+
+## glsl w innych zastosowaniach
+
+## R imager
+ - https://cran.r-project.org/web/packages/imager/vignettes/gettingstarted.html
+ - https://dahtah.github.io/imager/
+ - https://www.r-bloggers.com/author/simon-barthelme/
+ - https://cran.r-project.org/web/packages/imager/vignettes/pixsets.html
+ - https://github.com/stoltzmaniac/ML-Image-Processing-R
+ - http://rpubs.com/sjmgarnier/videoplayR
+ 
+## Python Opencv
+ - https://learnopencv.com/  # 2026
+ - https://www.geeksforgeeks.org/python/opencv-python-tutorial/  # 2026
+ - https://pythonprogramming.net/loading-images-python-opencv-tutorial/
+ - https://github.com/cjgb/rPython-win
+
+## Tutoriale scilaba:
+ * http://wiki.scilab.org/Tutorials
+ * http://scilab-imageprocessing.blogspot.com/
+ * https://atoms.scilab.org/toolboxes/IPD/8.1/files/Tutorial.pdf
+ * http://scilabimge.blogspot.com/2012/03/reading-image-in-scilab.html
+ * http://usingscilab.blogspot.com/
+ * http://www.docstoc.com/docs/148258056/Image-and-Video-Processing-using-Scilab
+
+## CIEKAWE PROGRAMY FILTRY
+ * http://www.jhlabs.com/ip/filters/index.html
+ * http://www.fmwconcepts.com/imagemagick/index.php
+ * http://www.jhlabs.com/ip/blurring.html
+ * http://www.fmwconcepts.com/imagemagick/glow/index.php
+ * http://tysonrobichaudphotography.wordpress.com/category/photographic-study-masters-series/
+
+
+## SCILAB OCTAVE
+ * http://atoms.scilab.org/toolboxes/IPD/8.3.1/files/Tutorial.pdf
+ * https://github.com/rfabbri/siptoolbox
+ * https://github.com/rfabbri/animal
+ ```
+./autogen.sh; ./configure; make; make install
+git clone git://github.com/rfabbri/siptoolbox.git
+./autogen.sh
+./configure --prefix=/usr/share/scilab/contrib/
+make; make install
+exec '/usr/share/scilab/contrib/sip-0.8.0-git/loader.sce'
+```
+ * http://stackoverflow.com/questions/7950744/opencv-color-identification
+
+```
+[im2,map2] = mogrify(im,map, '-equalize');
+im = gray_imread('onca.png');
+im2 = mogrify(im, ['-rotate', '40']);
+imshow(im2);
+im2 = mogrify(im, ['-blur', '11']);
+im2 = mogrify(im, ['-resize', 'x400', '-sharpen', '5']);
+im2 = imnoise(im,'salt & pepper');
+im2 = mogrify(im, ['-median', '1']);
+[im,map]   = imread('ararauna.png');
+imshow(im,map);
+[im2,map2] = mogrify(im,map, ['-segment', '10000x7.8']);
+im2 = mogrify(im,map, ['-draw'; 'circle 35,40 50,60']);
+-->argv = ['-stroke'     ; 'red' 
+-->        '-fill'       ; 'none' 
+-->        '-draw'       ; 'ellipse 35,40 30,35 0,360' 
+-->        '-stroke'     ; 'green'
+-->        '-strokewidth'; '3'
+-->        '-fill'       ; 'dark gray'
+-->        '-draw'       ; 'polygon 70,90 80,140 170,60 119,80'];
+im2 = mogrify(im,map, argv);
+im2 = mogrify(im,map, ['-emboss', '2']);
+im2 = mogrify(im,map, ['-swirl', '200']);
+b = edge(a,’sobel’,0.15);
+b = gsm2d(a,2);
+c=im2bw(b,0.8);
+imshow(suma_obr,strf='041')
+```
+
+
+# PYTHON PIL
+ * http://www.pythonware.com/library/pil/handbook/image.htm
+ * http://www.cazabon.com/pyCMS/
+ * http://www.cazabon.com/pyCMS/PIL_usm.html
+ * http://stackoverflow.com/questions/2034037/image-embossing-in-python-with-pil-adding-depth-azimuth-etc
+
+# GIMP
+ * https://www.gimp.org/tutorials/  # 2026
+ * https://www.gimp.org/docs/  # 2026
+ * http://pl.wikibooks.org/wiki/GIMP/Programowanie
+ * http://gimpbook.com/scripting/
+ * http://gimpbook.com/scripting/notes.html
+ * http://registry.gimp.org/
+ * http://www.gimp.org/tutorials/Basic_Batch/
+ * http://www.exp-media.com/content/extending-gimp-python-python-fu-plugins-part-1
+ * http://www.gimp.org/docs/python/index.html
+ * http://wiki.elvanor.net/index.php/GIMP_Scripting
+ * http://gimpscripts.com/
+ * http://www.gimp.org/tutorials/Basic_Scheme/
+ * http://docs.gimp.org/en/gimp-scripting.html
+ * http://www.jamesh.id.au/software/pygimp/
+ * http://69b.org/cms/software/gimp
+ * https://sites.google.com/site/gimpwiki/development/creating-new-pdb-procedures
+ * http://www.blogjava.net/solotim/archive/2007/04/30/114853.html
+ * http://www.gimpdome.com
+
+# DARMOWE POMOCE
+ * http://www.1a-photoshop.de/news/10-kostenlose-rost-texturen-gratis-downloaden/
+ * http://www.1a-photoshop.de/news/rost-textur-pack-ii-10-rostige-texturen-gratis-downloaden/
+ * http://www.1a-photoshop.de/news/10-kostenlose-rost-texturen-gratis-downloaden/
+
+
+ * http://en.wikipedia.org/wiki/Digital_image_processing
+# DIP in R
+ * http://www.jstatsoft.org/v19/i01/paper
+
+# TYPING
+ * http://www.typingweb.com
+
+# Programy do zainstalowania (jak się uda, to dobrze):
+```
+python
+easy_python
+ * http://stackoverflow.com/questions/4930216/how-to-install-easy-install-in-python-2-7-1-on-windows-7
+pyopencv
+pygegl
+gimp-perl-2.2_pre1
+gimp-2.6.12
+gimp-arrow-brushes-20120122
+gimp-texturize-plugin-2.1
+gimp-gmic-1.5.0.9
+gimp-lqr-0.7.1
+gimp-resynthesizer-0.16
+gimp-greycstoration-2.9
+g-octave-0.4.1-r2
+octave-3.6.0
+octave-epstk-2.3
+qtoctave-0.10.1
+Toolboxy do octave: http://www.csse.uwa.edu.au/~pk/research/matlabfns/
+opencv-2.3.1a-r1
+scilab-4.1.2-r3
+Toolboxy do scilaba: http://siptoolbox.sourceforge.net/, http://sivp.sourceforge.net/
+ufraw
+rawtherapee
+```

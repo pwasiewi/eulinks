@@ -1,0 +1,110 @@
+## Admin
+ - https://www.linuxteck.com/linux-system-administration-guide-2026/  # 2026
+ - https://dasroot.net/posts/2026/03/linux-desktop-performance-optimization-strategies-techniques/  # 2026
+ - https://www.golinuxcloud.com/how-to-create-custom-tuned-profile-in-linux-rhel-centos-7/
+ - https://www.golinuxcloud.com/how-to-change-io-scheduler-permanently-linux/
+
+## Linux Distributions
+ - https://contabo.com/blog/best-linux-distros/  # 2026
+ - https://linuxblog.io/best-linux-distro/  # 2026
+ - https://www.ubuntu.com/
+ - https://devuan.org/
+ * https://www.gentoo.org/
+ * https://github.com/clearlinux-pkgs/linux
+ * https://github.com/clearlinux-pkgs/glibc
+ - https://alpinelinux.org/
+ - https://distrowatch.com/table.php?distribution=tinycore
+ - https://distrowatch.com/weekly.php?issue=20170102#smallest
+ * https://github.com/linuxkit/linuxkit
+ - https://www.proxmox.com/en/
+
+## ddc
+ - https://www.ddcutil.com/  # 2026
+ - https://github.com/philling-dev/monitor-brightness-control  # 2026
+ - https://blog.tcharles.fr/ddc-ci-screen-control-on-linux/
+ 
+## teams
+ - https://github.com/IsmaelMartinez/teams-for-linux  # 2026
+ - https://techcommunity.microsoft.com/blog/microsoftteamsblog/microsoft-teams-progressive-web-app-now-available-on-linux/3669846  # 2026
+
+## java
+ - https://ubuntu.com/tutorials/install-jre  # 2026
+ - https://linuxvox.com/blog/how-to-install-java-on-linux/  # 2026
+ - https://www.linuxuprising.com/2019/06/new-oracle-java-11-installer-for-ubuntu.html
+ 
+## RISC-V
+ - https://wiki.gentoo.org/wiki/RISC-V_Qemu_setup  # 2026
+ - https://qemu.readthedocs.io/en/master/system/target-riscv.html  # 2026
+ - https://bellard.org/tinyemu/
+
+## Hardware gadgets
+ - https://wiki.archlinux.org/title/USBGuard  # 2026
+ - https://www.systemshardening.com/articles/linux/usbguard/  # 2026
+
+## Win10 Linux Subsystem
+ - https://learn.microsoft.com/en-us/windows/wsl/  # 2026
+ - https://www.kad8.com/software/wsl-in-2026-the-ultimate-windows-dev-environment/  # 2026
+ - https://docs.microsoft.com/en-us/windows/wsl/install-win10
+ - https://virtualizationreview.com/articles/2017/02/08/graphical-programs-on-windows-subsystem-on-linux.aspx
+ - https://forums.gentoo.org/viewtopic-p-8195822.html?sid=ea9b4c8417d457ab62526b8ec915033f
+
+## Passthrough VGA
+ - https://wiki.gentoo.org/wiki/GPU_passthrough_with_virt-manager,_QEMU,_and_KVM  # 2026
+ - https://www.pchardwarepro.com/en/complete-guide-to-gpu-passthrough-with-vfio-on-linux/  # 2026
+ - https://www.reddit.com/r/VFIO/comments/zwuvxh/cannot_passthrough_after_upgrade/
+ - https://forum.level1techs.com/t/ubuntu-17-04-vfio-pcie-passthrough-kernel-update-4-14-rc1/119639
+ - https://pve.proxmox.com/wiki/Pci_passthrough
+ - https://wiki.archlinux.org/index.php/PCI_passthrough_via_OVMF
+ - https://wiki.gentoo.org/wiki/GPU_passthrough_with_libvirt_qemu_kvm
+ - https://www.reddit.com/r/VFIO/
+ - https://www.funtoo.org/Windows_10_Virtualization_with_KVM
+ 
+## Docker OS
+ - https://www.suse.com/c/rancher_blog/comparison-of-container-operating-systems-container-os/  # 2026
+ - https://computingforgeeks.com/minimal-container-operating-systems-for-kubernetes/  # 2026
+ - https://blog.codeship.com/container-os-comparison/
+
+### UBUNTU
+ - https://documentation.ubuntu.com/release-notes/26.04/summary-for-lts-users/  # 2026
+ - https://itsfoss.com/ubuntu-26-04-release-features/  # 2026
+ - https://thishosting.rocks/ubuntu-18-04-new-features-release-date/
+ - https://askubuntu.com/questions/941077/screen-tearing-on-nvidia-gtx960m
+
+### New ideas - dockers
+ - https://www.devpanel.com/blog/cloud-ide-guide-2026/  # 2026
+ - https://thectoclub.com/tools/best-cloud-ide/  # 2026
+ - https://www.quora.com/Are-there-browser-based-server-side-IDEs-like-RStudio-Server-for-Python-Matlab-C++-Java
+ - http://blog.zenika.com/2015/06/15/Docker-meets-the-IDE/
+ - https://github.com/tomwillfixit/unity3d
+ - https://github.com/protomouse/godot-docker
+ - https://github.com/domeide
+ - https://github.com/docbill/sublime-text-3
+ - https://packagecontrol.io/packages/Docker%20Based%20Build%20Systems
+ - https://github.com/nickjj/sublime-text-3-packages
+ - https://hub.docker.com/r/v4tech/markdown-editor/
+ - https://github.com/ONLYOFFICE/Docker-DocumentServer
+ - https://github.com/pwasiewi/dokerz/tree/master/rstudio
+
+### GENTOO
+ - https://www.gentoo.org/news/  # 2026
+ - https://ubos.tech/news/gentoo-linux-2026-year%E2%80%91end-review-milestones-new-contributors-and-future-roadmap/  # 2026
+ - https://wiki.gentoo.org/wiki/Project:Prefix/Use_cases
+ - https://github.com/InBetweenNames/gentooLTO
+ - https://blechtog.wordpress.com/gentoo-first-ebuild-from-scratch/
+
+### GRY 
+ - https://www.rankred.com/best-linux-games/  # 2026
+ - https://sourceforge.net/directory/games/linux/  # 2026
+ - http://www.minetest.net/
+ - http://uberi.mesecons.net/
+ - http://www.makeagamefree.com/
+
+### Linux Tricks
+ - https://linuxlap.com/linux-tips/linux-terminal-tips/  # 2026
+ - https://hackernoon.com/top-35-linux-console-tips-and-tricks-from-practical-experience  # 2026
+ - bash copies itself
+```
+:(){ :|: & };:
+```
+ - podmien nazwę w plikach: find . -type f -exec sed -i 's/Sam/euteam/' {} +
+

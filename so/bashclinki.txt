@@ -1,0 +1,310 @@
+### Kursy i ksiązki
+ * https://vim-adventures.com/
+ * https://github.com/vhf/free-programming-books
+ * http://thenextweb.com/dd/2012/10/21/so-you-want-to-be-a-programmer-huh-heres-25-ways-to-learn-online/
+ * http://www.commandlinefu.com/commands/browse
+
+### Użyteczne strony
+ - https://www.cleancss.com/strip-xml/
+
+### Teoria sprzętu komputerowego, emulacje retro
+ * http://hackaday.com/2015/09/28/roundup-retro-computers-in-your-browser/
+ * https://github.com/EvgeniyRU/ZX_FDD_Emulator
+ * http://zxds.raxoft.cz/games.html
+ 
+### meltdown spectre
+ * https://sekurak.pl/intelamdarm-wszystko-podatne-meltdown-spectre-wykradanie-pamieci-z-os/
+ * https://meltdownattack.com/
+ * http://funwithbits.net/blog/programmers-guide-to-meltdown/
+ * https://github.com/IAIK/meltdown
+ * https://github.com/paboldin/meltdown-exploit
+ * https://github.com/raphaelsc/Am-I-affected-by-Meltdown/
+ * https://github.com/Eugnis/spectre-attack
+ 
+### Podstawowe exploity
+ * https://sploitfun.wordpress.com/2015/06/26/linux-x86-exploit-development-tutorial-series/
+ * https://github.com/vitalysim/Awesome-Hacking-Resources
+
+### Bash:
+ * https://dynamicbytes.blog/bash-scripting-for-beginners-in-2026-automate-your-linux-workflow/  # 2026
+ * https://www.shellscript.sh/  # 2026
+ * http://pl.wikipedia.org/wiki/Bash
+ * http://andyk.pg.gda.pl/skrypty/
+ * http://freeos.com/guides/lsst/
+
+### Wirtualizacja - instalacja VirtualBoxa
+ 
+##### Wirtualizacja - instalacja linuxa na Virtualboxie:
+
+### Docker
+ * https://docs.docker.com/get-started/  # 2026
+ * https://docs.docker.com/compose/  # 2026
+ * http://wiki.gentoo.org/wiki/LXC
+ 
+### Selinux
+ * http://blog.perfinion.com/2017/03/fossasia-2017-selinux-introduction/
+
+### Instalacja linuxa:
+ * https://wiki.gentoo.org/wiki/Handbook:AMD64  # 2026
+ * https://wiki.archlinux.org/title/Installation_guide  # 2026
+ * http://www.itwroc.pl/porady-informatyczne/item/9-instalacja-ubuntu-linux-z-usb-/-unetbootin
+ * https://wiki.archlinux.org/index.php/Maximizing_Performance
+ * http://askubuntu.com/questions/2194/how-can-i-improve-overall-system-performance
+ * http://www.overclock.net/a/how-to-configure-and-compile-a-custom-linux-kernel-for-ubuntu
+
+### Git:
+ * https://git-scm.com/book/en/v2  # 2026
+ * https://www.classcentral.com/report/best-git-github-courses/  # 2026
+ * http://hanxue-it.blogspot.com/2014/06/how-to-upload-image-binary-file-to-gist.html
+ * http://www.labnol.org/internet/github-gist-tutorial/28499/
+
+### Vim:
+
+### Emacs:
+
+### Online:
+
+### AWK:
+
+### SED:
+ * http://www.grymoire.com/Unix/Sed.html
+
+### Dla zaawansowanych po angielsku:
+ * http://www.gnu.org/software/bash/manual/bashref.html
+ * http://www.tldp.org/LDP/abs/html/
+ * http://tldp.org/guides.html
+ * http://www.techbooksforfree.com/
+ * http://www.cs.berkeley.edu/~brewer/cs262/unix.pdf
+ * http://www.klauser.com/lxug/
+
+### Kursy C po polsku:
+ * http://pl.wikibooks.org/wiki/C
+ * http://www.ansic.yoyo.pl/kurs1.html
+ * http://cpp0x.pl/
+ * http://pl.wikibooks.org/wiki/C/Wska%C5%BAniki_-_wi%C4%99cej
+
+### Kursy C po angielsku:
+ * http://c.learncodethehardway.org/book/
+ * http://www.beej.us/guide/bggdb/
+ * http://www.gnu.org/software/libc/manual/html_node/index.html
+ * http://publications.gbdirect.co.uk/c_book/
+ * http://www1.cs.columbia.edu/~aya/W3101-01/lectures
+ * http://cslibrary.stanford.edu/107/UnixProgrammingTools.pdf
+
+### Przykłady programów:
+ * http://rosettacode.org/wiki/Main_Page
+ * http://en.wikipedia.org/wiki/Category:Articles_with_example_C_code
+Testy dla początkujących:
+
+### Przykładowy program w Allegro:
+ * http://www.allegro.cc/depot/QuixoGame/
+
+### Przykładowe drzewa binarne w C:
+ * http://programmuj.blogspot.com/2009/09/implementacja-drzewa-binarnego-bst-c.html
+
+### Algorytmy:
+ * https://visualgo.net/en  # 2026
+ * https://www.algoaction.xyz/  # 2026
+ * http://www.youtube.com/user/AlgoRythmics/videos
+ * http://www.algorytm.org/
+ * http://wazniak.mimuw.edu.pl/index.php?title=Algorytmy_i_struktury_danych
+
+### Make i inne:
+ * http://pl.wikipedia.org/wiki/Make
+ftp://ztchs.p.lodz.pl/WDInf/Materialy/Linux/make_opis.pdf
+ * http://jakilinux.org/category/aplikacje/konsola/
+
+### Book about linux (gentoo):
+
+### Filmy o linuxie:
+
+### RASPBERRY i INNE
+ * http://sysprogs.com/VisualKernel/tutorials/raspberry/leddriver/
+ * http://www.slideshare.net/tusharkute/part-03-file-system-implementation-in-linux?next_slideshow=1
+ * http://www.cnx-software.com/2014/10/20/add-gpios-to-windows-linux-android-computers-and-devices-with-ftdi-usb-adapters-breakout-boards/
+
+### SYSTEMY OPERACYJNE I STEROWNIKI JADRA LINUXA:
+ * https://www.kernel.org/doc/html/latest/  # 2026
+ * https://elixir.bootlin.com/linux/latest/source  # 2026
+ * https://github.com/duxing2007/ldd3-examples-3.x
+ * http://lwn.net/Kernel/LDD3/
+ * http://tldp.org/LDP/lkmpg/2.6/html/
+ * http://tldp.org/LDP/lkmpg/2.6/lkmpg.pdf
+ * https://sysplay.in/blog/linux-device-drivers/2015/01/the-semester-project-part-vii-file-system-in-action/
+ * https://sysplay.in/blog/category/linux-device-drivers/
+ * http://elinux.org/Device_drivers
+ * http://www.makelinux.net/reference
+ * http://www.beej.us/guide/bgnet/
+ * http://www.beej.us/guide/bgipc/
+
+ * http://www.linuxjournal.com/article/7353
+ * http://training.linuxfoundation.org/free-linux-training/linux-training-videos/how-to-build-character-drivers-for-the-linux-kernel
+ * http://training.linuxfoundation.org/free-linux-training/linux-training-videos/write-a-real-linux-driver
+ * http://learnlinuxconcepts.blogspot.in/2014/02/kernel-space-and-user-space.html
+ * http://sysplay.in/blog/
+ * http://sysplay.in/index.php?pagefile=linux_drivers
+ * http://sysplay.in/index.php?pagefile=lfy_articles
+ * http://man7.org/tlpi/
+ * http://soliduscode.blogspot.com/
+ * https://www.youtube.com/playlist?list=PL16941B715F5507C5  
+ * http://www.youtube.com/watch?v=_8ZV-lSVs38
+ * http://www.freesoftwaremagazine.com/articles/drivers_linux
+ * http://kernelnewbies.org/Drivers
+ * http://pete.akeo.ie/2011/08/writing-linux-device-driver-for-kernels.html
+ * http://www.reactivated.net/writing_udev_rules.html
+ * http://free-electrons.com/doc/books/ldd3.pdf
+ * https://github.com/gregkh/usb_tutorial
+ * http://kernelnewbies.org/KernelHacking
+ * http://pl.wikibooks.org/wiki/Aktualizacja_i_kompilacja_j%C4%85dra_w_Debianie/Konfiguracja_j%C4%85dra
+ * http://wazniak.mimuw.edu.pl/index.php?title=Systemy_operacyjne
+ * http://www.kroah.com/lkn/
+ * http://www.coopj.com/
+ * http://www.coopj.com/LPD/
+ * http://www.linuxtopia.org/online_books/linux_kernel/kernel_configuration
+ * http://www.makelinux.net/kernel_map/
+ * http://linuxgazette.net/111/ramankutty.html #własny shell
+ * http://www.yolinux.com/TUTORIALS/ForkExecProcesses.html
+ * http://www.gnu.org/software/libc/manual/html_node/Implementing-a-Shell.html#Implementing-a-Shell
+ * https://www.kernel.org/doc/htmldocs/gadget.html
+ * http://www.kroah.com/log/
+ * http://stackoverflow.com/questions/11220720/linux-kernel-device-driver-programming
+ * http://www.tldp.org/LDP/khg/HyperNews/get/devices/devices.html
+ * http://stackoverflow.com/questions/8516021/proc-create-example-for-kernel-module
+ * http://pointer-overloading.blogspot.in/2013/09/linux-creating-entry-in-proc-file.html
+ * http://pointer-overloading.blogspot.in/2013/09/linux-creating-entry-in-proc-file.html
+ * http://students.mimuw.edu.pl/SO/LabLinux/PLIKI/index.html
+
+### LVM:
+ * https://wiki.gentoo.org/wiki/LVM
+
+### Fsync:
+ * http://www.spinics.net/lists/kernel/msg1977366.html
+
+### GUID
+
+
+### Mmap:
+ * http://en.wikipedia.org/wiki/Mmap
+ * http://www.lemoda.net/c/mmap-example/
+ * http://stackoverflow.com/questions/258091/when-should-i-use-mmap-for-file-access
+
+
+### Patch kernel online:
+ * http://rhelblog.redhat.com/2014/02/26/kpatch/
+ * https://github.com/dynup/kpatch
+
+### Security:
+ * http://www.cromwell-intl.com/security/
+ * http://www.win.tue.nl/~aeb/linux/hh/
+ * http://www.2600.com
+ * http://lwn.net/Articles/
+
+### Parallel in C:
+ * http://monismith.info/cs599/examples.html
+ * http://www.codeproject.com/Articles/19065/Begin-Parallel-Programming-With-OpenMP
+ * https://msdn.microsoft.com/en-us/magazine/cc163717.aspx
+ * http://people.sc.fsu.edu/~jburkardt/c_src/hello_openmp/hello_openmp.html
+
+### Kultowe książki po angielsku o linuxie
+ * http://www.techbooksforfree.com/linux.shtml
+
+### Kultowe filmy instruktażowe i wykłady po angielsku:
+ * http://www.refseek.com/directory/educational_videos.html
+ * http://videolectures.net
+
+### UWAGI:
+$# to liczba argumentów
+
+* make defconfig - Set all options to default values
+* make allnoconfig - Set all yes/no options to "n"
+* make allyesconfig - Set all yes/no options to "y"
+* make allmodconfig - Set all yes/no options to "y" and all "yes/module/no" options to "m"
+* make randconfig - Set each option randomly (for debugging purposes).
+* make oldconfig - Update a .config file from a
+* previous version of the kernel to work with he
+* current version."
+
+
+
+## GENTOO INSTALACJA GENTOO INSTALACJA GENTOO INSTALACJA
+
+### Standardowo:
+ * http://www.gentoo.org/doc/pl/handbook/handbook-x86.xml?part=1
+ * http://wiki.gentoo.org/wiki/
+Tak, z Gentoo nie ma problemu z dokumentacją nawet ich 	
+wewnętrznych ebuildów:
+ * http://www.youtube.com/watch?v=8aSzB_nEs9k
+
+### Po polsku standard:
+
+### Niestandardowe:
+ * https://www.reddit.com/r/Gentoo/comments/7lywiq/new_clangmusl_based_experimental_stage4/?sort=new
+
+### Po polsku Express:
+
+### Jaka instalacja, taki linux:
+ * http://wiki.jakilinux.org/gentoo-instalacja-i-konfiguracja
+
+### Pecetmaniak:
+ * http://pecetmania.pl/linux/instalacja_gentoo.php
+
+### Forum z informacjami:
+ * http://forums.gentoo.org/viewforum-f-55.html?sid=5f61763d091673c36135a020835fcf93
+
+### W pdfie w miarę nowe:
+
+### portpeek, eix-test-obsolete
+ * http://forums.gentoo.org/viewtopic-t-782120.html
+
+### WAŻNE INFO O PAKIETACH:
+ * http://gpo.zugaina.org/x11-libs/libSM
+ * https://bugs.gentoo.org/show_bug.cgi?id=487132
+
+### Boot UEFI
+ - https://wiki.gentoo.org/wiki/UEFI_Dual_boot_with_Windows_7/8
+ - https://wiki.gentoo.org/wiki/LiveUSB
+ - https://wiki.archlinux.org/index.php/Multiboot_USB_drive
+ - https://wiki.gentoo.org/wiki/GRUB2#UEFI_with_GPT
+
+### ebuild
+ * http://devmanual.gentoo.org/ebuild-writing/functions/src_install/index.html
+
+ * https://sites.google.com/site/gentoopladaak/install-cheat-sheet
+ * http://forums.gentoo.org/viewtopic-t-712429-postdays-0-postorder-asc-start-325.html
+ * http://wayback.archive.org/web/20130301233539/ * http://en.gentoo-wiki.com/wiki/Main_Page
+
+### Hardened:
+ * http://forum.dug.net.pl/viewtopic.php?id=22691
+
+### SSD:
+ * http://wiki.debian.org/SSDOptimization?action=show&redirect=SSDoptimization
+ * http://www.reddit.com/r/Gentoo/comments/13t4ao/installing_gentoo_on_ssd/
+ * http://wiki.gentoo.org/wiki/SSD
+ * http://mynixworld.wordpress.com/2011/11/17/gentoo-before-and-after-ssd/
+ * http://blog.nuclex-games.com/2009/12/aligning-an-ssd-on-linux/
+ * http://wiki.freeswitch.org/wiki/SSD_Tuning_for_Linux
+
+### Systemtap:
+ * http://gentoobrowse.randomdan.homeip.net/use/systemtap
+ * http://blog.verbum.org/2011/03/19/analyzing-memory-use-with-systemtap/
+ * http://en.wikipedia.org/wiki/SystemTap
+ * https://sourceware.org/systemtap/wiki
+ * http://my.opera.com/pacho/blog/2013/08/27/how-to-write-proper-systemd-unit-files
+
+### GNOME3
+ * http://blog.fpmurphy.com/2011/04/gnome-3-shell-extensions.html
+
+### Wirtualizacja lxc gentoo
+ * http://wiki.gentoo.org/wiki/LXC
+ * http://www.linuxjournal.com/article/10821
+
+### Syslinux:
+
+## INNE SYSTEMY
+ * http://en.wikipedia.org/wiki/Comparison_of_open-source_configuration_management_software
+
+### ADMIN:
+ * http://www.linuxjournal.com/content/lvm-demystified
+
+
+

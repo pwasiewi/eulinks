@@ -1,0 +1,115 @@
+# Intro
+ - https://wiki.gentoo.org/wiki/Embedded_systems/ARM_hardware_list  # 2026
+ - https://www.espboards.dev/  # 2026
+ - https://ep.com.pl/artykuly/10809-Nie_samym_Raspberry_Pi_czlowiek_zyje.html
+ - https://ep.com.pl/files/12158.pdf
+ - https://wiki.gentoo.org/wiki/Embedded_systems/ARM_hardware_list
+ - https://wiki.gentoo.org/wiki/Orange_Pi_Plus2
+ - http://linuxgizmos.com/ringing-in-the-new-year-with-136-open-spec-linux-sbcs-under-200/
+
+## Historia komputerów
+ - https://spidersweb.pl/2023/11/najciekawsze-komputery-historia.html
+
+## Kursy
+ - https://forbot.pl/blog/kursy  # 2026
+ - https://wiki.st.com/stm32mcu/wiki/STM32StepByStep:Getting_started_with_STM32_:_STM32_step_by_step  # 2026
+ - http://mikrokontroler.pl/kursy/
+ - https://forbot.pl/blog/kursy
+ - https://mikrokontrolery.blogspot.com/
+ 
+## Projekty SW IoT
+ - https://esphome.io/  # 2026
+ - https://www.home-assistant.io/  # 2026
+ - https://hackaday.io  # 2026
+ - https://tasmota.github.io/
+ - https://pypi.org/project/tinytuya/
+ - https://www.elektormagazine.com/
+ - https://www.elektormagazine.com/labs?tags=&q=&state%5B%5D=3
+ - https://www.crowdsupply.com/
+ - https://www.crowdsupply.com/sifive/hifive1/
+ - https://www.cnx-software.com/
+ - https://www.cnx-software.com/2018/11/12/c-sky-linux-development-board-gx6605s-media-soc/
+ - https://hackaday.io
+ - https://blog.hackster.io/
+ - https://w4krl.com/iot-kits/
+ - https://starter-kit.nettigo.pl/2017/05/nodemcu-sds011-jako-badacz-jakosci-powietrza/
+ - https://majsterkowo.pl/homeduino-inteligenty-dom-z-arduino-oraz-raspberry-pi/
+
+## ML micro unit
+ - https://ai.google.dev/edge/litert/microcontrollers/overview  # 2026
+ - https://shawnhymel.com/3125/state-of-edge-ai-on-microcontrollers-in-2026/  # 2026
+ - https://www.tensorflow.org/lite/microcontrollers/get_started
+
+
+## Kickstarter
+ - https://www.kickstarter.com/projects/sphero/sphero-rvr-the-go-anywhere-do-anything-programmabl/
+
+## Inteligentny dom
+ - https://www.home-assistant.io/  # 2026
+ - https://esphome.io/guides/migrate_sonoff_tasmota/  # 2026
+ - https://www.openhab.org/
+ - https://www.supla.org/
+ - https://www.domoticz.com/  connects also xiaomi 
+
+## RTOS
+ - https://zephyrproject.org/  # 2026
+ - https://hubble.com/community/comparisons/zephyr-vs-freertos-for-iot-in-2026-memory-footprint-ecosystem-and-devex-compared/  # 2026
+ - https://en.wikipedia.org/wiki/Comparison_of_real-time_operating_systems
+ - https://www.freertos.org
+ - http://ecos.sourceware.org
+ - http://www.chibios.org/
+ - https://www.rtems.org/
+ - https://www.zephyrproject.org/
+ - https://github.com/embox/embox
+ - http://www.ukos.ch/
+ - https://www.keil.com
+ - https://github.com/coocox/CoOS
+ - https://os.mbed.com/releases/
+ - https://github.com/tinyos/tinyos-main
+
+### freeRTOS tutorials
+ - https://ep.com.pl/files/2434.pdf
+ - http://socialledge.com/sjsu/index.php/FreeRTOS_Tutorial
+
+### RTOS emu
+ - https://www.freertos.org/FreeRTOS-simulator-for-Linux.html
+ - https://www.freertos.org/FreeRTOS-Windows-Simulator-Emulator-for-Visual-Studio-and-Eclipse-MingW.html
+ - https://sudani93.wordpress.com/2015/10/18/simulating-freertos-gem5-or-qemu/
+ - https://github.com/jkovacic/FreeRTOS-GCC-ARM926ejs
+
+## RT linux
+ - https://www.rtai.org/
+ - http://linuxcnc.org/
+ - http://www.kolibrios.org/en/
+
+## micro utils
+ - https://micropython.org/  # 2026
+ - https://github.com/micropython/micropython  # 2026
+ - http://micropython.org/
+ - https://github.com/micropython/micropython
+ - http://microbit.org/
+ - https://bellard.org/tcc/
+ - http://landley.net/toybox/about.html
+ - http://landley.net/talks/celf-2013.txt
+ - https://github.com/landley/toybox
+ - https://github.com/landley/mkroot
+ - http://landley.net/aboriginal/about.html
+ - https://github.com/landley/aboriginal
+
+ ## ESP32
+ - https://www.espboards.dev/  # 2026
+ - https://dronebotworkshop.com/esp32-2026/  # 2026
+ - http://esp32.net/
+ - https://www.wemos.cc/
+ - http://www.geekstips.com/esp32-review-idf-programming-tutorial/
+ - https://www.instructables.com/id/ESP32-and-DC-Motors-Tutorial-Part-1/
+ - http://wiki.seeedstudio.com/Seeeduino_GPRS/
+ 
+ ## STM32
+ - https://wiki.st.com/stm32mcu/wiki/STM32StepByStep:Getting_started_with_STM32_:_STM32_step_by_step  # 2026
+ - https://stm32-base.org/guides/platformio.html  # 2026
+ - https://johan.kanflo.com/hacking-the-dps5005/
+ - https://www.crowdsupply.com/johan-kanflo/aaduino-zero
+ - https://1bitsquared.com/products/black-magic-probe
+ - https://github.com/libopencm3/libopencm3-examples
+ - https://github.com/libopencm3/libopencm3/wiki

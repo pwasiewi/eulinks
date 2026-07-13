@@ -1,0 +1,163 @@
+# OpenCL
+
+### Python
+ - https://prickly-pythons.github.io/python_code/pricklies_speedops.html
+
+### Opencl machine learning
+ * https://rocm.docs.amd.com/en/latest/  # 2026
+ * https://www.accrets.com/general/how-to-use-gpu-for-machine-learning/  # 2026
+ * https://www.datacamp.com/community/tutorials/deep-learning-python
+ * https://github.com/plaidml
+ 
+### OpenCL sites
+ * https://hgpu.org/?tag=opencl
+ * https://github.com/smistad
+ 
+### OpenCL Tutorials
+ - http://www.cmsoft.com.br/opencl-tutorial/
+ - https://handsonopencl.github.io/
+ - https://github.com/HandsOnOpenCL/Lecture-Slides
+ - https://github.com/HandsOnOpenCL/Exercises-Solutions
+ - https://www.codeproject.com/Articles/Rob-Farber#Article
+ - https://streamhpc.com/knowledge/for-developers/tutorials/
+ - https://developer.apple.com/library/content/documentation/Performance/Conceptual/OpenCL_MacProgGuide/TuningPerformanceOntheGPU/TuningPerformanceOntheGPU.html
+ - http://simpleopencl.blogspot.com/2013/06/tutorial-simple-start-with-opencl-and-c.html
+ - https://github.com/OpenCL/OpenCLCXXPortingGuidelines/blob/master/OpenCLCToOpenCLCppPortingGuidelines.md
+ 
+### OpenCL examples
+ - https://github.com/oysstu/pyopencl-in-action
+ - http://www.bealto.com/gpu-gemv_v1.html
+ - https://wiki.tiker.net/PyOpenCL/Examples/MedianFilter
+ - https://github.com/ysh329/OpenCL-101
+ - http://bbboblog.blogspot.com/2009/10/gpgpu-mandelbrot-with-opencl-and-java.html
+ - http://bbboblog.blogspot.com/2012/04/towards-richer-gpgpu-mandelbrot-sets.html
+ - http://www.bealto.com/mp-mandelbrot_intro.html
+ - https://github.com/smistad/OpenCLUtilities
+ - http://gpgpu-computing4.blogspot.com/2009/09/matrix-multiplication-2-opencl.html
+ - https://github.com/Dakkers/OpenCL-examples
+ - https://github.com/victusfate/opencl-book-examples
+ - https://gist.github.com/ddemidov/2925717
+ - https://www.mql5.com/en/articles/407
+
+### Raspberry OpenCL
+ - https://abhitronix.github.io/2019/01/15/VC4CL-1/
+
+### AMD ROCm only ubuntu 16.04 or centos, but Open Source (so maybe in future)
+ - https://github.com/RadeonOpenCompute/ROCm
+
+### Tensorflow with OpenCL 
+ - https://github.com/hughperkins/tf-coriander
+ - https://github.com/benoitsteiner/tensorflow-opencl/issues/30
+ - https://github.com/tensorflow/tensorflow/issues/22
+ 
+```
+docker run -it --device=/dev/kfd --device=/dev/dri --group-add video rocm/rocm-terminal
+docker run -it --network=host --device=/dev/kfd --device=/dev/dri --group-add video --cap-add=SYS_PTRACE --security-opt seccomp=unconfined -v $HOME/dockerx:/dockerx rocm/tensorflow:rocm2.5-tf1.13-python3
+docker run -it --network=host --device=/dev/kfd --device=/dev/dri --group-add video --cap-add=SYS_PTRACE --security-opt seccomp=unconfined -v $HOME/dockerx:/dockerx rocm/tensorflow:rocm2.5-tf1.13-python3 python3 -c "import tensorflow as tf; tf.enable_eager_execution(); print(tf.reduce_sum(tf.random_normal([1000, 1000])))"
+```
+
+### Tensorflow examples
+
+### HASH PASS
+ * http://whitepixel.zorinaq.com/
+ * http://blog.zorinaq.com/?e=43
+ * http://hashcat.net/oclhashcat-plus/
+
+### MD5 and OpenCL
+ * https://www.mscs.dal.ca/~selinger/md5collision/
+
+### Appz with OpenCL
+ - https://luxcorerender.org/
+ - https://arxiv.org/pdf/1703.06503.pdf
+ - https://github.com/CNugteren/CLTune
+
+### Lectures about Opencl
+ - http://web.engr.oregonstate.edu/~mjb/cs575/
+ - http://www.sqrlab.ca/csci4060u/lectures/
+ - http://smai.emath.fr/cemracs/cemracs16/images/FDesprez.pdf
+ 
+### OpenCL Books
+ - https://github.com/oysstu/pyopencl-in-action
+ - https://streamhpc.com/knowledge/for-developers/books/
+
+### Libraries with OpenCL
+ - https://streamhpc.com/knowledge/for-developers/opencl-wrappers/
+ - https://github.com/hughperkins/distro-cl
+ - https://github.com/hughperkins/DeepCL
+ - https://github.com/hughperkins/EasyCL
+ * https://github.com/ddemidov/vexcl
+ * http://vexcl.readthedocs.io/en/latest/
+
+### Mobile MM libraries with OpenCL (Mali)
+ - https://github.com/arm-software/armnn
+ - https://developer.qualcomm.com/software/qualcomm-neural-processing-sdk
+ - https://github.com/Tencent/ncnn
+ - https://github.com/Tencent/ncnn
+ - https://developer.qualcomm.com/blog/matrix-multiply-adreno-gpus-part-1-opencl-optimization
+ - https://developer.qualcomm.com/blog/better-opencl-performance-qualcomm-adreno-gpu-memory-optimization
+ - https://developer.qualcomm.com/software/adreno-gpu-sdk/tutorial-videos
+
+### SYCL Opencl machine learning (maybe not so quick, so not popular)
+ * https://blog.tartanllama.xyz/sycl/
+ - https://github.com/codeplaysoftware/computecpp-sdk
+ - https://www.codeplay.com/portal/sycl-tutorial-1-the-vector-addition
+ - https://github.com/keryell/triSYCL
+ 
+### Future and current features description
+ - https://github.com/henline/streamexecutordoc
+ - https://streamcomputing.eu/blog/2015-02-10/overview-of-opencl-2-0-support-samples-blogs-and-drivers/
+ - https://anteru.net/blog/2013/07/23/2164/
+ * http://streamcomputing.eu/blog/2013-12-27/opencl-spir-by-example/
+ - https://www.khronos.org/conformance/adopters/conformant-products#opencl
+ 
+### To Opencl 1.1, logs, errors
+ - https://stackoverflow.com/questions/29621800/how-should-i-enable-cl-khr-fp64-in-opencl
+ - https://williamjshipman.wordpress.com/2014/06/24/correctly-enabling-cl_khr_fp64-in-both-opencl-1-1-and-1-2/
+ - https://github.com/Milkyway-at-home/milkywayathome_client/blob/master/separation/kernels/summarization_kernel.cl#L20
+ - https://stackoverflow.com/questions/19405596/cannot-compile-opencl-application-using-1-2-headers-in-1-1-version
+ - https://streamhpc.com/blog/2013-04-28/opencl-error-codes/
+ - https://stackoverflow.com/questions/7852581/clbuildprogram-failed-with-error-code-11-and-without-build-log
+ - https://stackoverflow.com/questions/34662333/opencl-how-to-check-for-build-errors-using-the-c-wrapper
+ 
+ 
+# CUDA
+ 
+### CUDA in a LXC container
+ - https://stackoverflow.com/questions/25185405/using-gpu-from-a-docker-container
+
+### Tensorflow with CUDA
+ * https://alliseesolutions.wordpress.com/2016/09/08/install-gpu-tensorflow-from-sources-w-ubuntu-16-04-and-cuda-8-0-rc/
+ 
+### CUDA examples
+ * https://github.com/parallel-forall/code-samples
+ - https://github.com/PacktPublishing/Hands-On-GPU-Programming-with-Python-and-CUDA
+ 
+### CUDA sites
+ * https://docs.pytorch.org/tutorials/index.html  # 2026
+ * https://developer.nvidia.com/cuda-toolkit  # 2026
+ * http://www.nvidia.com/object/cuda-newsletter.html
+ * http://docs.nvidia.com/cuda/index.html
+ * http://devblogs.nvidia.com/parallelforall/
+ 
+### CUDA lectures 
+ * http://saahpc.ncsa.illinois.edu/09/sessions/day2/session2/Garland_presentation.pdf
+ * https://itunes.apple.com/us/itunes-u/programming-massively-parallel/id384233322
+ * http://research.nvidia.com/publication/relational-algorithms-multi-bulk-synchronous-processors
+ * http://devblogs.nvidia.com/parallelforall/unified-memory-in-cuda-6/
+ * http://devblogs.nvidia.com/parallelforall/developing-portable-cuda-cc-code-hemi/
+ 
+ ### CUDA tutorials
+ * [CUDA tutorials](https://www.youtube.com/playlist?list=PLKK11Ligqititws0ZOoGk3SW-TZCar4dK)
+
+### CUDA libraries
+ * http://mathema.tician.de/software/pycuda
+ * http://code.google.com/p/cufflink-library/
+ * http://code.google.com/p/back40computing/
+ * https://github.com/IlyaGrebnov/libbsc
+ * https://code.google.com/archive/p/cuda-thrust-extensions/
+
+### AES
+ * http://code.google.com/p/engine-cuda/wiki/benchmarkVersion011
+ 
+### cudaminer
+ * https://bitcointalk.org/index.php?topic=167229.0

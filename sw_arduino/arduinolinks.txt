@@ -1,0 +1,89 @@
+### Kursy Arduino
+ - https://hackr.io/blog/arduino-projects/  # 2026
+ - https://circuitdigest.com/arduino-projects  # 2026
+ - http://forbot.pl/blog/
+ - http://feriar-lab.pl/kurs-arduino/
+ 
+### Projekty elektroniczne online z Arduino
+ - https://www.tinkercad.com
+ 
+### Projekty sprzętowe
+ - https://www.instructables.com/id/Wipy-the-Overly-Motivated-Whiteboard-Cleaner/
+ - https://www.makeuseof.com/tag/dont-spend-money-on-an-arduino-build-your-own-for-much-less/
+ 
+### Blogi
+ - https://www.instructables.com/id/Wipy-the-Overly-Motivated-Whiteboard-Cleaner/
+ - http://hobbyspace.pl/category/arduino/
+ - https://majsterkowo.pl/elektronika/arduino/
+ - https://zaufanatrzeciastrona.pl/post/jak-podlaczyc-dom-do-chmury-czyli-domoticz-i-arduino/
+
+### FreeRTOS
+ - https://exploreembedded.com/wiki/index.php?title=Task%20Switching#Category:Free%20RTOS%20with%20Arduino
+ - https://create.arduino.cc/projecthub/feilipu/using-freertos-multi-tasking-in-arduino-ebc3cc
+ - https://forum.arduino.cc/index.php?topic=138643.0
+ - https://github.com/PeterVranken/RTuinOS
+ - https://github.com/feilipu/Arduino_FreeRTOS_Library
+ - https://exploreembedded.com/wiki/Setting_Up_FreeRTOS_on_Arduino
+ - http://microcontrollerslab.com/use-freertos-arduino/
+ 
+### crosscompile AVR
+
+### Fonty
+ - http://omerk.github.io/lcdchargen/
+ 
+### Timery
+ - http://forum.arduinopolska.com/watek-biblioteka-timers-koniec-z-uci%C4%85%C5%BCliwym-delay (http://bit.ly/arduinotimer)
+ - http://100-x-arduino.blogspot.com/2016/11/bibioteki-cd-czyli-o-przewadze-zmywarki.html
+ - https://github.com/nettigo/Timers
+ - https://playground.arduino.cc/Main/LibraryList#Timing
+ - https://github.com/PaulStoffregen/TimerOne
+ - https://github.com/prampec/arduino-softtimer
+ - https://github.com/prampec/arduino-pcimanager
+ 
+### Zakupy w Chinach
+
+### Klocki
+ - https://store.wayneandlayne.com/products/bricktronics-shield-kit.html
+ - https://www.dexterindustries.com/raspberry-pi-robots/
+ - http://www.legoengineering.com/alternative-programming-languages/
+ - http://www.planetarduino.org/?cat=1855
+ - http://makezine.com/projects/bricktronics-mini-tank/
+
+### Sztuczna Inteligencja na Arduino - Fuzzy Logic, uLisp
+ - http://www.zerokol.com/2012/09/arduinofuzzy-fuzzy-library-for-arduino.html
+ - https://github.com/zerokol/eFLL
+ - https://forbot.pl/blog/ulisp-interpretowany-jezyk-programowania-dla-arduino-id31999
+ 
+### Różności 
+ * https://www.instructables.com/Arduino-Projects/  # 2026
+ * https://procirel.com/arduino-guide/  # 2026
+ * https://playground.arduino.cc/Main/LibraryList
+ * https://en.wikipedia.org/wiki/List_of_Arduino_boards_and_compatible_systems
+ * http://www.rugged-circuits.com/10-ways-to-destroy-an-arduino/
+ * http://forum.arduino.cc/index.php?topic=312901.0
+ * http://forum.arduino.cc/index.php?topic=224924.0
+ * http://www.electricrcaircraftguy.com/2014/08/recommended-soldering-kit.html
+ * [Johnny Five](https://www.youtube.com/watch?v=8s2--hfsJDY)
+ * https://z900collector.wordpress.com/arduinoembedded/arduino-object-oriented-hcs-part-1/
+
+### PWM
+ * http://starter-kit.nettigo.pl/2012/01/co-to-jest-pwm/
+ * https://elty.pl/pl/p/Impulsator-z-przyciskiem-galka/402
+ * http://feriar-lab.pl/kurs-arduino-5-pwm-obsluga-funkcji-analogread-analogwrite/
+
+### znaki specjalne
+ * http://feriar-lab.pl/jak-zrobic-znak-specjalny-hd44780-w-arduino/
+ * http://omerk.github.io/lcdchargen/
+
+### przekaźniki
+ * http://feriar-lab.pl/kurs-arduino-11-obsluga-przekaznikow/
+ * http://technika-laika.blogspot.com/2014/04/arduino-sterowanie-przekaznikiem-za.html
+
+### bluetooth
+ * https://wiki.gentoo.org/wiki/Bluetooth
+ * http://makezine.com/projects/diy-arduino-bluetooth-programming-shield/
+ * http://arduinobasics.blogspot.com/2013/03/arduino-basics-bluetooth-android.html
+ * http://forum.arduino.cc/index.php?topic=149672.0
+ * http://stackoverflow.com/questions/18376468/arduino-using-serial-and-software-serial-with-bluetooth-module
+ * http://www.circuitmagic.com/arduino/arduino-and-bluetooth-hc-06-to-control-the-led-with-android-device/
+ * https://www.arduino.cc/en/Guide/Troubleshooting#size

@@ -1,0 +1,398 @@
+#!/usr/bin/env python3
+# enrichlinks — enrich *links.txt sections with new live URLs via SearXNG
+#
+# Usage (run from inside eulinks/):
+#   ./enrichlinks DIR [DIR ...]                  enrich all sections in given dirs
+#   ./enrichlinks DIR --dry-run                  show what would be inserted, don't write
+#   ./enrichlinks DIR --max 3                    up to 3 links per section (default: 2)
+#   ./enrichlinks DIR --context "Android Kotlin" extra keywords appended to every query
+#   ./enrichlinks DIR --sections "Redis,Docker"  limit to named sections (substring match)
+#   ./enrichlinks DIR --skip-marker              skip sections with marker already (default: on)
+#   ./enrichlinks DIR --no-skip-marker           process all sections regardless
+#   ./enrichlinks DIR --searxng URL              SearXNG base URL (default: http://localhost:8080)
+#   ./enrichlinks DIR --delay 1.5                seconds between SearXNG queries (default: 1.2)
+#   ./enrichlinks DIR --time-range none          SearXNG time filter: year|month|week|day|none
+
+import argparse
+import os
+import re
+import sys
+import time
+from concurrent.futures import ThreadPoolExecutor, as_completed, Future
+from typing import Optional
+from urllib.parse import urlencode, urlparse
+
+import requests
+
+HEADER_RE = re.compile(r'^(\s*)(#{1,6})\s*(.*?)\s*$')
+BULLET_RE = re.compile(r'^(\s*[-*]\s)')
+URL_RE = re.compile(r'https?://[^\s)\]]+')
+TRAILING_JUNK = '.,;:!?)]}\'"'
+
+DEFAULT_SEARXNG = 'http://localhost:8080'
+DEFAULT_MARKER = '# 2026'
+DEFAULT_MAX = 2
+DEFAULT_DELAY = 1.2
+DEFAULT_TIMEOUT = 8.0
+DEFAULT_TIME_RANGE = 'year'
+UA = 'Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0'
+
+# Domains whose results are never useful in a technical link catalog
+DOMAIN_BLACKLIST = frozenset({
+    'instagram.com', 'www.instagram.com',
+    'tiktok.com', 'www.tiktok.com',
+    'facebook.com', 'www.facebook.com', 'fb.com',
+    'twitter.com', 'www.twitter.com', 'x.com',
+    'linkedin.com', 'www.linkedin.com',
+    'pinterest.com', 'www.pinterest.com',
+    'reddit.com', 'www.reddit.com',    # often useful — keep commented out if wanted
+    'youtube.com', 'www.youtube.com',  # video; rarely a reference link
+    'youtu.be',
+})
+
+
+# ---------------------------------------------------------------------------
+# File parsing
+# ---------------------------------------------------------------------------
+
+def _strip_urls(line: str) -> list[str]:
+    return [m.group(0).rstrip(TRAILING_JUNK) for m in URL_RE.finditer(line)]
+
+
+def parse_sections(path: str, marker: str) -> tuple[list[str], list[tuple]]:
+    """
+    Returns (lines, sections) where each section is:
+      (title, header_line_idx, existing_urls: list[str], already_enriched: bool)
+
+    Only sections that have at least one URL bullet are returned — same rule as insertlinks.
+    Fenced code blocks are ignored throughout.
+    """
+    with open(path, encoding='utf-8') as fh:
+        lines = fh.readlines()
+
+    sections: list[tuple] = []
+    in_code = False
+    cur_title: Optional[str] = None
+    cur_idx = 0
+    cur_urls: list[str] = []
+    cur_has_bullets = False
+    cur_enriched = False
+
+    def _flush():
+        if cur_title is not None and cur_has_bullets:
+            sections.append((cur_title, cur_idx, list(cur_urls), cur_enriched))
+
+    for i, line in enumerate(lines):
+        stripped = line.strip()
+        if stripped.startswith('```'):
+            in_code = not in_code
+        if in_code:
+            continue
+
+        m = HEADER_RE.match(line)
+        if m:
+            _flush()
+            cur_title = m.group(3)
+            cur_idx = i
+            cur_urls = []
+            cur_has_bullets = False
+            cur_enriched = False
+        elif cur_title is not None:
+            if BULLET_RE.match(line):
+                cur_has_bullets = True
+                cur_urls.extend(_strip_urls(line))
+            if marker in line:
+                cur_enriched = True
+
+    _flush()
+    return lines, sections
+
+
+def all_file_urls(sections: list[tuple]) -> set[str]:
+    urls: set[str] = set()
+    for _, _, existing, _ in sections:
+        urls.update(existing)
+    return urls
+
+
+def bullet_style(lines: list[str], header_idx: int) -> str:
+    for line in lines[header_idx + 1: header_idx + 8]:
+        m = BULLET_RE.match(line)
+        if m:
+            return m.group(1)
+    return ' - '
+
+
+# ---------------------------------------------------------------------------
+# Network helpers
+# ---------------------------------------------------------------------------
+
+def check_searxng(base_url: str, timeout: float) -> bool:
+    try:
+        r = requests.get(f'{base_url}/', timeout=timeout,
+                         headers={'User-Agent': UA, 'Accept': 'text/html'})
+        return r.status_code < 500
+    except Exception:
+        return False
+
+
+def searxng_search(query: str, base_url: str, timeout: float,
+                   time_range: str) -> list[str]:
+    params: dict = {
+        'q': query,
+        'format': 'json',
+        'language': 'en',
+        'categories': 'general',
+    }
+    if time_range and time_range != 'none':
+        params['time_range'] = time_range
+
+    url = f'{base_url}/search?{urlencode(params)}'
+    try:
+        r = requests.get(url, timeout=timeout,
+                         headers={'User-Agent': UA, 'Accept': 'application/json'})
+        r.raise_for_status()
+        data = r.json()
+        return [item['url'] for item in data.get('results', []) if 'url' in item]
+    except Exception as exc:
+        print(f'    [searxng error] {exc}', file=sys.stderr)
+        return []
+
+
+def _is_alive(url: str, timeout: float) -> bool:
+    hdrs = {'User-Agent': UA, 'Accept': '*/*'}
+    try:
+        r = requests.head(url, timeout=timeout, allow_redirects=True, headers=hdrs)
+        # Some servers reject HEAD — retry with GET
+        if r.status_code in (403, 405, 501) or r.status_code >= 500:
+            r = requests.get(url, timeout=timeout, allow_redirects=True,
+                             headers=hdrs, stream=True)
+            r.close()
+        return 200 <= r.status_code < 400
+    except Exception:
+        return False
+
+
+# URL path patterns that are never useful reference material
+_PATH_BLOCKLIST = re.compile(
+    r'/(shorts|reel|video|reels|stories|watch\?v=)'
+    r'|/p/[A-Za-z0-9_-]{5,}/'     # instagram post pattern
+    r'|/@[A-Za-z0-9_.]+/video/',    # tiktok video pattern
+)
+
+
+def _is_blocked(url: str) -> bool:
+    parsed = urlparse(url)
+    netloc = parsed.netloc.lower()
+    # match exact domain or any subdomain (e.g. pl.linkedin.com)
+    if netloc in DOMAIN_BLACKLIST or any(
+        netloc == d or netloc.endswith('.' + d) for d in DOMAIN_BLACKLIST
+    ):
+        return True
+    if _PATH_BLOCKLIST.search(parsed.path + '?' + parsed.query):
+        return True
+    return False
+
+
+def find_live(candidates: list[str], known_urls: set[str],
+              max_count: int, timeout: float) -> list[str]:
+    """
+    Filter candidates to live URLs not already in known_urls.
+    Checks up to 8 candidates concurrently; returns up to max_count
+    results in their original SearXNG ranking order.
+    """
+    to_check: list[str] = []
+    seen: set[str] = set()
+    for raw in candidates:
+        url = raw.rstrip(TRAILING_JUNK)
+        if not url.startswith('http'):
+            continue
+        # normalise: drop fragment
+        parsed = urlparse(url)
+        url = parsed._replace(fragment='').geturl()
+        if url in known_urls or url in seen:
+            continue
+        if _is_blocked(url):
+            continue
+        seen.add(url)
+        to_check.append(url)
+        if len(to_check) >= 8:
+            break
+
+    if not to_check:
+        return []
+
+    results: dict[str, bool] = {}
+    with ThreadPoolExecutor(max_workers=min(len(to_check), 6)) as ex:
+        future_to_url: dict[Future, str] = {
+            ex.submit(_is_alive, u, timeout): u for u in to_check
+        }
+        for fut in as_completed(future_to_url):
+            results[future_to_url[fut]] = fut.result()
+
+    # preserve original ranking
+    live = [u for u in to_check if results.get(u, False)]
+    return live[:max_count]
+
+
+# ---------------------------------------------------------------------------
+# Core enrichment
+# ---------------------------------------------------------------------------
+
+def build_query(title: str, context: str) -> str:
+    clean = title.rstrip(':').strip()
+    base = f'{clean} 2026'
+    return f'{base} {context}' if context else base
+
+
+def enrich_file(path: str, base_url: str, max_per_section: int, marker: str,
+                timeout: float, delay: float, time_range: str, dry_run: bool,
+                filter_sections: Optional[list[str]], skip_marker: bool,
+                context: str) -> int:
+
+    lines, sections = parse_sections(path, marker)
+    known: set[str] = all_file_urls(sections)
+    total_inserted = 0
+
+    # Process in reverse order so earlier header indices stay valid
+    modified: list[str] = list(lines)
+    inserts_by_section: list[tuple[int, list[str]]] = []  # (header_idx, new_urls)
+
+    for title, idx, _existing, enriched in reversed(sections):
+        if skip_marker and enriched:
+            continue
+        if filter_sections is not None:
+            tl = title.lower()
+            if not any(f.lower() in tl for f in filter_sections):
+                continue
+
+        query = build_query(title, context)
+        print(f'  [{title[:55]:55s}] searching ...', file=sys.stderr, end='\r', flush=True)
+
+        candidates = searxng_search(query, base_url, timeout, time_range)
+        time.sleep(delay)
+
+        new_urls = find_live(candidates, known, max_per_section, timeout)
+
+        label = f'  [{title[:55]:55s}]'
+        if new_urls:
+            known.update(new_urls)
+            inserts_by_section.append((idx, new_urls))
+            total_inserted += len(new_urls)
+            print(f'{label} +{len(new_urls)}', file=sys.stderr)
+            for u in new_urls:
+                print(f'    {u}')
+        else:
+            print(f'{label} (no new live results)', file=sys.stderr)
+
+    if not dry_run and inserts_by_section:
+        # Apply inserts bottom-up (already in reverse order from reversed() above)
+        for idx, new_urls in inserts_by_section:
+            prefix = bullet_style(modified, idx)
+            insert_lines = [f'{prefix}{u}  {marker}\n' for u in new_urls]
+            modified = modified[:idx + 1] + insert_lines + modified[idx + 1:]
+
+        with open(path, 'w', encoding='utf-8') as fh:
+            fh.writelines(modified)
+
+    return total_inserted
+
+
+# ---------------------------------------------------------------------------
+# File discovery
+# ---------------------------------------------------------------------------
+
+def find_link_files(dirs: list[str]) -> list[str]:
+    files: list[str] = []
+    for d in dirs:
+        if not os.path.isdir(d):
+            print(f'Warning: {d!r} is not a directory — skipping.', file=sys.stderr)
+            continue
+        for fn in sorted(os.listdir(d)):
+            if fn.endswith('links.txt') or fn.endswith('linki.txt'):
+                files.append(os.path.join(d, fn))
+    return files
+
+
+# ---------------------------------------------------------------------------
+# CLI
+# ---------------------------------------------------------------------------
+
+def main() -> None:
+    ap = argparse.ArgumentParser(
+        description='Enrich *links.txt sections with new live URLs via SearXNG.',
+        formatter_class=argparse.ArgumentDefaultsHelpFormatter,
+    )
+    ap.add_argument('dirs', nargs='+',
+                    help='eulinks subdirectories to process (e.g. prog_java bd_sql)')
+    ap.add_argument('--searxng', default=DEFAULT_SEARXNG, metavar='URL',
+                    help='SearXNG base URL')
+    ap.add_argument('--max', type=int, default=DEFAULT_MAX, dest='max_per_section',
+                    metavar='N', help='Max new links to add per section')
+    ap.add_argument('--marker', default=DEFAULT_MARKER,
+                    help='Trailing comment tag on inserted lines')
+    ap.add_argument('--timeout', type=float, default=DEFAULT_TIMEOUT,
+                    help='HTTP timeout in seconds')
+    ap.add_argument('--delay', type=float, default=DEFAULT_DELAY,
+                    help='Pause between SearXNG queries (seconds)')
+    ap.add_argument('--time-range', default=DEFAULT_TIME_RANGE,
+                    choices=['year', 'month', 'week', 'day', 'none'],
+                    help='SearXNG time filter')
+    ap.add_argument('--context', default='', metavar='KEYWORDS',
+                    help='Extra keywords appended to every SearXNG query (e.g. "Android Kotlin")')
+    ap.add_argument('--sections', default=None, metavar='TITLE[,TITLE,...]',
+                    help='Comma-separated section title substrings to target (case-insensitive)')
+    ap.add_argument('--skip-marker', dest='skip_marker', action='store_true', default=True,
+                    help='Skip sections that already have the marker tag (default)')
+    ap.add_argument('--no-skip-marker', dest='skip_marker', action='store_false',
+                    help='Process all sections regardless of existing marker tags')
+    ap.add_argument('--dry-run', action='store_true',
+                    help='Print what would be inserted without writing')
+    args = ap.parse_args()
+
+    # Resolve section filter
+    filter_sections: Optional[list[str]] = None
+    if args.sections:
+        filter_sections = [s.strip() for s in args.sections.split(',') if s.strip()]
+
+    # Connectivity check
+    print(f'Checking SearXNG at {args.searxng} ...', file=sys.stderr)
+    if not check_searxng(args.searxng, args.timeout):
+        print(f'ERROR: SearXNG not reachable at {args.searxng}', file=sys.stderr)
+        print('Is aistack running?  docker ps | grep searxng', file=sys.stderr)
+        sys.exit(1)
+    print('SearXNG OK\n', file=sys.stderr)
+
+    files = find_link_files(args.dirs)
+    if not files:
+        print('No *links.txt / *linki.txt files found in given directories.', file=sys.stderr)
+        sys.exit(1)
+
+    if args.dry_run:
+        print('[DRY RUN — no files will be written]\n', file=sys.stderr)
+
+    grand_total = 0
+    for path in files:
+        print(f'=== {path} ===')
+        n = enrich_file(
+            path=path,
+            base_url=args.searxng,
+            max_per_section=args.max_per_section,
+            marker=args.marker,
+            timeout=args.timeout,
+            delay=args.delay,
+            time_range=args.time_range,
+            dry_run=args.dry_run,
+            filter_sections=filter_sections,
+            skip_marker=args.skip_marker,
+            context=args.context,
+        )
+        suffix = '  [dry-run]' if args.dry_run else ''
+        print(f'  => {n} link(s) inserted{suffix}\n')
+        grand_total += n
+
+    print(f'Grand total: {grand_total} link(s) inserted', file=sys.stderr)
+
+
+if __name__ == '__main__':
+    main()

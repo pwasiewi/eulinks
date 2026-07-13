@@ -1,0 +1,95 @@
+### Darmowe wykłady 
+ * https://www.freecodecamp.org/news/harvard-cs50-2026-free-computer-science-university-course/  # 2026
+ * https://www.classcentral.com/subject/programming-and-software-development  # 2026
+ * http://www.uw-team.org/videoarty.html
+ * http://www.udacity.com/
+ * http://education.10gen.com
+ * http://freescienceonline.blogspot.com/2008/03/more-computing-video-lecture-courses.html
+ * http://videolectures.net
+ * http://www.refseek.com/directory/educational_videos.html
+ * http://en.wikipedia.org/wiki/Comparison_of_relational_database_management_systems
+
+```
+Dla wahających się z wyborem projektu polecam stronę
+z modelami do wyboru:
+ * http://www.databaseanswers.org/data_models/
+Jeśli się korzystało z tej strony, należy wskazać na model i opisać
+wprowadzone modyfikacje oraz opisać dokładnie słabe encje, klucze główne i
+obce, sprawdzić czy rozkład do postaci trzeciej normalnej jest optymalny np.
+analizę kolejnych kroków projektowania schematu relacyjnego bazy.
+```
+
+### biznes logic
+ - https://en.wikipedia.org/wiki/Slowly_changing_dimension
+
+### Bazy danych ranking
+ - https://db-engines.com/en/ranking  # 2026
+ - https://www.red-gate.com/simple-talk/databases/what-are-the-top-database-platforms-in-2026-a-look-at-the-latest-data/  # 2026
+ - https://db-engines.com/en/ranking
+
+### PostgreSQL:
+ - https://www.postgresql.org/docs/release/  # 2026
+ - https://www.postgresql.org/about/news/postgresql-184-1710-1614-1518-and-1423-released-3297/  # 2026
+ - https://pgmodeler.io
+ * http://www.slideshare.net/markwkm/andoird-postgresql
+ * http://www.slideshare.net/nosys/using-postgre-sqljavapgcon2014
+ * https://devcenter.heroku.com/articles/postgresql-indexes
+ * https://wiki.postgresql.org/wiki/Sample_Databases
+
+### Oracle:
+
+### Dla początkujących blogi:
+ * http://database-programmer.blogspot.com/2008/01/database-skills-sane-approach-to.html
+ * http://database-programmer.blogspot.com/2008/01/table-design-patterns.html
+
+### Odnośniki wyżej zamieszczone pobrane zostały ze stackoverflow:
+ * http://stackoverflow.com/questions/145689/relational-database-design-patterns
+ * http://stackoverflow.com/questions/4048151/what-are-the-options-for-storing-hierarchical-data-in-a-relational-database
+
+### Tutoriale SQL-a:
+ * https://www.learnsqlonline.org/  # 2026
+ * https://www.sql-easy.com/  # 2026
+ * http://philip.greenspun.com/sql/
+ * http://sqlzoo.net/wiki/Main_Page
+ * http://www.sqlcourse.com/index.html
+ * http://www.w3schools.com/sql/default.asp
+
+### TESTY:
+
+### Narzędzia:
+#### DBDesignerFork
+
+### DBDesigner 
+ * http://www.fabforce.net/dbdesigner4/
+### DBUML
+### DIA
+ * http://dia-installer.de/index.html.en
+
+### SQLDeveloper dodatek SQLModeler (od wersji 3 zawarty w Developerze):
+ * http://www.oracle.com/technetwork/developer-tools/datamodeler/overview/index.html
+ * http://stackoverflow.com/questions/6580529/how-to-generate-e-r-diagram-using-oracle-sql-developer
+ * http://code.google.com/p/wwwsqldesigner/
+
+### cheetsheet
+ * http://www.cheat-sheets.org/
+
+### XML
+ * https://www.tbray.org/ongoing/When/202x/2026/06/01/XML-and-JSON-in-2026  # 2026
+ * http://pl.wikipedia.org/wiki/XML
+ * http://www.rpbourret.com/xml/XMLAndDatabases.htm
+ * http://www.w3schools.com/xml/
+ * http://wiki.postgresql.org/wiki/XML_Support
+ * http://bisqwit.iki.fi/story/xmlhtml/
+ * http://www.rpbourret.com/xml/XMLDatabaseProds.htm #lista baz xml
+ * http://www.cfoster.net/articles/xqj-tutorial/setup.xml
+ * http://en.wikipedia.org/wiki/BaseX
+
+
+### JSON vs. XML
+ * https://json-schema.org/  # 2026
+ * https://hackr.io/blog/json-vs-xml  # 2026
+ * http://www.json.org/fatfree.html
+ * http://www.codeproject.com/Articles/370869/XML-Databases
+ * http://json-schema.org/
+
+### INNE

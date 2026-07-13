@@ -1,0 +1,98 @@
+# Indeks popularności języków
+ - https://www.tiobe.com/tiobe-index/  # 2026
+ - https://www.statisticstimes.com/tech/top-computer-languages.php  # 2026
+ - https://www.tiobe.com/tiobe-index/
+ - https://medium.freecodecamp.org/best-programming-languages-to-learn-in-2018-ultimate-guide-bfc93e615b35
+ - https://insights.stackoverflow.com/survey/2018#most-popular-technologies
+
+## Darmowe wykłady i serwisy z odpowiedziami
+ - https://missing.csail.mit.edu/2026  # 2026
+ - https://www.freecodecamp.org/news/harvard-cs50-2026-free-computer-science-university-course/  # 2026
+ - https://gist.github.com/augbog/d65f6600188fece854cb341734c5fd12
+ * http://www.udacity.com/
+ * https://education.10gen.com
+ * http://www.uw-team.org/videoarty.html
+ * https://github.com/vhf/free-programming-books
+ * http://9fingers.pl/
+ * http://devpytania.pl/
+ * http://www.osqa.net/
+ 
+## Youtuberzy programiści - kursy!
+ - https://www.youtube.com/@freecodecamp  # 2026
+ - https://www.youtube.com/@Fireship  # 2026
+ - https://www.youtube.com/user/koushks/playlists
+ - https://www.youtube.com/user/caveofprogramming/playlists
+ - https://www.youtube.com/user/derekbanas/playlists
+ - https://www.youtube.com/user/phpacademy/playlists
+
+## Ćwiczenia
+ - https://www.reddit.com/r/dailyprogrammer/
+ - https://www.reddit.com/r/todayilearned/
+
+## TUTORIALE:
+ * http://www.mkyong.com/all-tutorials-on-mkyong-com/
+
+
+## Uruchamiamy skrypty:
+
+php -f nazwa.php;
+
+python nazwa.py;
+
+g++ nazwa.cpp; ./a.out;
+
+javac nazwa.java; java -cp . nazwa;
+
+Źródła z wikipedii po polsku są wstępem do lepiej dopracowanej wiki po
+angielsku (choć może nie w każdym przypadku). A ta z kolei jest wstępem 
+do dalszych pozycji, można też zacząć od czytania książek, zależy od
+preferencji.
+
+## RUST
+ - https://doc.rust-lang.org/book/  # 2026
+ - https://nostarch.com/rust-programming-language-3e  # 2026
+ - https://os.phil-opp.com/minimal-rust-kernel/
+
+## OBIEKTOWE
+ * http://pl.wikipedia.org/wiki/Programowanie_obiektowe
+ * http://pl.wikibooks.org/wiki/PHP/Czym_jest_programowanie_obiektowe%3F
+
+
+## Eclipse4
+ * http://alblue.bandlem.com/ 
+
+## GIT
+ * https://git-scm.com/docs/gittutorial  # 2026
+ * https://git-scm.com/docs/user-manual  # 2026
+ * http://git-scm.com/book/pl
+ * http://pl.wikibooks.org/wiki/Git
+
+# Parallel Problems
+ * http://adit.io/posts/2013-05-11-The-Dining-Philosophers-Problem-With-Ron-Swanson.html
+ * http://coopsoft.com/ar/Calamity2Article.html
+
+#Inne języki niż PHP, JAVA, CPP
+
+# C
+ - https://www.geeksforgeeks.org/c/c-programming-language/  # 2026
+ - https://hackr.io/tutorials/learn-c  # 2026
+ - https://www.freecodecamp.org/news/boost-programming-skills-read-git-code/
+
+## Objective-C
+ * http://tryobjectivec.codeschool.com
+ * http://gnustep.made-it.com/BG-objc/
+ * http://cupsofcocoa.com/2010/08/29/learn-objective-c-in-24-days/
+ * http://cocoadevcentral.com/d/learn_objectivec/
+ * http://www.youtube.com/watch?v=FQRQsG_HprM
+ * http://www.youtube.com/watch?v=1Xqn5IHbusA
+ * http://cocoadevcentral.com/
+ * http://ideone.com
+ * https://www.sourcelair.com/
+ * http://www.hackintosh.com/
+ * http://virtualboximages.com/Hackintosh+VirtualBox+VDI\
+ * http://www.osx86.net/files/file/69-os-x-108x-intelbootcd-cloveriso/
+ * http://www.wikihow.com/Make-a-Hackintosh-in-a-Virtualbox
+ * http://helion.pl/ksiazki/ios-5-programowanie-receptury-vandad-nahavandipoor,ios5re.htm
+ * http://helion.pl/ksiazki/objective-c-vademecum-profesjonalisty-wydanie-iii-stephen-g-kochan,objcp3.htm
+
+

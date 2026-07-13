@@ -1,0 +1,351 @@
+#!/bin/env python3
+# checklinks — verify URLs in *links.txt files and drop dead ones
+#
+# Usage (run from inside eulinks/):
+#   ./checklinks                  Dry run: report dead links under .
+#   ./checklinks -a                Apply: remove dead lines (asks for confirmation)
+#   ./checklinks -a -y             Apply without confirmation prompt
+#   ./checklinks --aggressive      Also treat 403/401/429/5xx/timeout as dead
+#   ./checklinks --only ai,linux   Limit to specific subdirectories
+#
+# Each *links.txt / *linki.txt file is a markdown-ish bullet list of URLs,
+# optionally with [text](url) markdown links or trailing comments after the
+# URL. Lines inside ``` fenced code blocks are never touched (they hold
+# shell/SQL snippets, not link entries, even when they contain a URL).
+#
+# A line is removed only if every URL it contains is classified DEAD
+# (or DEAD/UNKNOWN under --aggressive). Non-URL lines (headers, notes,
+# code blocks) are always left untouched.
+
+import argparse
+import os
+import re
+import sys
+import time
+from concurrent.futures import ThreadPoolExecutor, as_completed
+
+import requests
+
+VERBOSE = False
+
+DEFAULT_ROOT = '.'
+DEFAULT_UA = (
+    'Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0'
+)
+
+ALIVE, DEAD, UNKNOWN = 'ALIVE', 'DEAD', 'UNKNOWN'
+
+MD_LINK_RE = re.compile(r'\[([^\]]*)\]\((https?://[^\s)]+)\)')
+BARE_URL_RE = re.compile(r'https?://[^\s)\]]+')
+TRAILING_JUNK = '.,;:!?)]}\'"'
+
+
+def DEBUG(prefix, *args):
+    if VERBOSE:
+        print(
+            ('\033[1m' + prefix + '\033[m ' if prefix else '')
+            + ' '.join(str(x) for x in args),
+            file=sys.stderr,
+        )
+
+
+def confirm(prompt):
+    ans = input('{} [yes/NO]: '.format(prompt))
+    if ans != 'yes':
+        print('Aborted by user.', file=sys.stderr)
+        sys.exit(1)
+
+
+############################################################
+# Parsing link files
+
+def clean_url(url):
+    return url.rstrip(TRAILING_JUNK)
+
+
+def extract_urls(line):
+    """Returns URLs found in a line, covering both [text](url) and bare forms."""
+    urls = []
+    spans = []
+    for m in MD_LINK_RE.finditer(line):
+        urls.append(clean_url(m.group(2)))
+        spans.append(m.span())
+    for m in BARE_URL_RE.finditer(line):
+        s, e = m.span()
+        if any(s2 <= s < e2 for s2, e2 in spans):
+            continue
+        urls.append(clean_url(m.group(0)))
+    return urls
+
+
+def find_link_files(root):
+    files = []
+    for dirpath, dirnames, filenames in os.walk(root):
+        dirnames[:] = [d for d in dirnames if d != '.git']
+        for fn in filenames:
+            if fn.endswith('links.txt') or fn.endswith('linki.txt'):
+                files.append(os.path.join(dirpath, fn))
+    return sorted(files)
+
+
+def parse_file(path):
+    """Returns list of (line, urls_on_line_or_None) — None marks untouchable lines."""
+    with open(path, encoding='utf-8', errors='replace') as f:
+        lines = f.readlines()
+
+    parsed = []
+    in_code_block = False
+    for line in lines:
+        if line.strip().startswith('```'):
+            in_code_block = not in_code_block
+            parsed.append((line, None))
+            continue
+        if in_code_block:
+            parsed.append((line, None))
+            continue
+        urls = extract_urls(line)
+        parsed.append((line, urls or None))
+    return parsed
+
+
+############################################################
+# Checking URLs
+
+def classify_status(code):
+    if 200 <= code < 400:
+        return ALIVE, code
+    if code in (404, 410, 451):
+        return DEAD, code
+    return UNKNOWN, code
+
+
+def check_url(url, timeout, retries):
+    headers = {'User-Agent': DEFAULT_UA, 'Accept': '*/*'}
+    last_exc = None
+    for attempt in range(retries + 1):
+        try:
+            r = requests.head(url, timeout=timeout, allow_redirects=True, headers=headers)
+            if r.status_code in (403, 405, 501) or r.status_code >= 500:
+                r = requests.get(
+                    url, timeout=timeout, allow_redirects=True, headers=headers, stream=True
+                )
+                r.close()
+            return classify_status(r.status_code)
+        except requests.exceptions.TooManyRedirects:
+            return UNKNOWN, 'too many redirects'
+        except requests.exceptions.ConnectionError as e:
+            last_exc = e
+        except requests.exceptions.Timeout as e:
+            last_exc = e
+        except requests.exceptions.RequestException as e:
+            last_exc = e
+        if attempt < retries:
+            time.sleep(1)
+
+    detail = str(last_exc)[:120] if last_exc else 'unknown error'
+    if isinstance(last_exc, requests.exceptions.ConnectionError):
+        return DEAD, detail
+    return UNKNOWN, detail
+
+
+def check_all_urls(urls, workers, timeout, retries):
+    results = {}
+    total = len(urls)
+    done = 0
+    with ThreadPoolExecutor(max_workers=workers) as ex:
+        futures = {ex.submit(check_url, u, timeout, retries): u for u in urls}
+        for fut in as_completed(futures):
+            u = futures[fut]
+            status, detail = fut.result()
+            results[u] = (status, detail)
+            done += 1
+            print('\rChecking links... {}/{}'.format(done, total), end='', file=sys.stderr)
+            DEBUG('CHECK', status, u, detail)
+    print('', file=sys.stderr)
+    return results
+
+
+############################################################
+# Main
+
+def line_is_dead(urls, results, aggressive):
+    dead_set = (DEAD, UNKNOWN) if aggressive else (DEAD,)
+    return all(results[u][0] in dead_set for u in urls)
+
+
+def process_files(files, results, aggressive):
+    """Returns dict path -> (kept_lines, removed_entries)."""
+    plan = {}
+    for path in files:
+        parsed = parse_file(path)
+        kept = []
+        removed = []
+        for lineno, (line, urls) in enumerate(parsed, 1):
+            if urls and line_is_dead(urls, results, aggressive):
+                removed.append((lineno, line.rstrip('\n'), urls))
+                continue
+            kept.append(line)
+        plan[path] = (kept, removed)
+    return plan
+
+
+def print_report(plan, results, report_file):
+    out = report_file or sys.stdout
+    total_removed = 0
+    for path, (kept, removed) in plan.items():
+        if not removed:
+            continue
+        print('\n{}'.format(path), file=out)
+        for lineno, text, urls in removed:
+            reasons = ', '.join('{} ({})'.format(u, results[u][1]) for u in urls)
+            print('  L{}: {}  [{}]'.format(lineno, text.strip(), reasons), file=out)
+        total_removed += len(removed)
+    print('\nTotal dead lines: {}'.format(total_removed), file=out)
+    return total_removed
+
+
+def apply_plan(plan):
+    for path, (kept, removed) in plan.items():
+        if not removed:
+            continue
+        with open(path, 'w', encoding='utf-8') as f:
+            f.writelines(kept)
+
+
+def parse_arguments():
+    parser = argparse.ArgumentParser(
+        description='Check URLs in *links.txt files and remove dead ones.',
+        formatter_class=argparse.ArgumentDefaultsHelpFormatter,
+    )
+    parser.add_argument(
+        'root',
+        nargs='?',
+        default=DEFAULT_ROOT,
+        help='Root directory to scan for *links.txt / *linki.txt files',
+    )
+    parser.add_argument(
+        '-a', '--apply',
+        action='store_true',
+        help='Actually remove dead lines (default: dry-run report only)',
+    )
+    parser.add_argument(
+        '-y', '--yes',
+        action='store_true',
+        help='Skip confirmation prompt when applying',
+    )
+    parser.add_argument(
+        '--aggressive',
+        action='store_true',
+        help='Also treat 401/403/405/429/5xx and unresolved timeouts as dead',
+    )
+    parser.add_argument(
+        '--only',
+        action='store',
+        default=None,
+        help='Comma-separated list of subdirectories to limit the scan to',
+    )
+    parser.add_argument(
+        '--workers',
+        type=int,
+        default=24,
+        help='Concurrent HTTP checks',
+    )
+    parser.add_argument(
+        '--timeout',
+        type=float,
+        default=8.0,
+        help='Per-request timeout in seconds',
+    )
+    parser.add_argument(
+        '--retries',
+        type=int,
+        default=1,
+        help='Retries for timeouts/connection errors',
+    )
+    parser.add_argument(
+        '--report',
+        action='store',
+        default=None,
+        help='Write the dead-link report to this file instead of stdout',
+    )
+    parser.add_argument(
+        '-v', '--verbose',
+        action='store_true',
+        help='Debug output (per-URL check results)',
+    )
+    return parser.parse_args()
+
+
+def main():
+    args = parse_arguments()
+
+    if args.verbose:
+        global VERBOSE
+        VERBOSE = True
+
+    DEBUG('Arguments', args)
+
+    if not os.path.isdir(args.root):
+        print('Error: directory not found: {}'.format(args.root), file=sys.stderr)
+        sys.exit(1)
+
+    files = find_link_files(args.root)
+    if args.only:
+        wanted = set(args.only.split(','))
+        files = [f for f in files if os.path.basename(os.path.dirname(f)) in wanted]
+
+    if not files:
+        print('No *links.txt / *linki.txt files found under {}'.format(args.root), file=sys.stderr)
+        sys.exit(1)
+
+    DEBUG('Files', len(files))
+
+    all_urls = set()
+    parsed_cache = {}
+    for path in files:
+        parsed = parse_file(path)
+        parsed_cache[path] = parsed
+        for _, urls in parsed:
+            if urls:
+                all_urls.update(urls)
+
+    print('Files: {}   Unique URLs: {}'.format(len(files), len(all_urls)), file=sys.stderr)
+
+    results = check_all_urls(sorted(all_urls), args.workers, args.timeout, args.retries)
+
+    alive = sum(1 for s, _ in results.values() if s == ALIVE)
+    dead = sum(1 for s, _ in results.values() if s == DEAD)
+    unknown = sum(1 for s, _ in results.values() if s == UNKNOWN)
+    print(
+        'ALIVE: {}   DEAD: {}   UNKNOWN: {}'.format(alive, dead, unknown),
+        file=sys.stderr,
+    )
+
+    plan = process_files(files, results, args.aggressive)
+
+    report_fh = open(args.report, 'w', encoding='utf-8') if args.report else None
+    try:
+        total_removed = print_report(plan, results, report_fh)
+    finally:
+        if report_fh:
+            report_fh.close()
+
+    if total_removed == 0:
+        print('Nothing to remove.', file=sys.stderr)
+        return
+
+    if not args.apply:
+        print('\nDry run only — rerun with --apply to remove these lines.', file=sys.stderr)
+        return
+
+    if not args.yes:
+        confirm('Remove {} dead line(s) from {} file(s)?'.format(
+            total_removed, sum(1 for _, (_, r) in plan.items() if r)
+        ))
+
+    apply_plan(plan)
+    print('Removed {} dead line(s).'.format(total_removed), file=sys.stderr)
+
+
+if __name__ == '__main__':
+    main()

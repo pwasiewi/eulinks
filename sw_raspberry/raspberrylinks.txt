@@ -1,0 +1,137 @@
+### radio pi
+ - https://bobrathbone.com/raspberrypi/pi_internet_radio.html
+
+### Instalacja
+ - https://www.raspberrypi.com/documentation/computers/getting-started.html  # 2026
+ - https://www.raspberrypi.com/software/  # 2026
+ - https://ubuntu.com/download/raspberry-pi
+ - https://www.balena.io/etcher/
+ - https://www.raspberrypi.org/downloads/raspbian/
+ - https://forum.openmediavault.org/index.php/Thread/28789-Installing-OMV5-on-Raspberry-PI-s-Armbian-Supported-SBC-s/
+ - https://magpi.raspberrypi.org/articles/build-a-raspberry-pi-nas
+ - https://foldforcovid.io
+ - https://medium.com/swlh/3-5-spi-lcd-experiments-on-raspberry-pi-zero-b09fa8adb5c
+ - https://github.com/notro/fbtft-spindle/wiki/Appendix
+ - https://raspberrypi.stackexchange.com/questions/34347/how-to-make-an-external-monitor-working-while-lcd-display-is-connected
+ - https://downloads.raspberrypi.org/raspios_arm64/images/raspios_arm64-2020-08-24/
+ 
+### Raspberry Pi 400
+ - https://wiki.gentoo.org/wiki/User:Jens3/Installing_Gentoo_on_a_Raspberry_Pi_400
+ - https://github.com/GenPi64
+ - https://wiki.gentoo.org/wiki/Raspberry_Pi#64-bit_from_GenPi64
+ - https://wiki.gentoo.org/wiki/Raspberry_Pi/Cross_building
+ - https://wiki.gentoo.org/wiki/Distcc/en
+ - https://forum.tinycorelinux.net/index.php?topic=25511.0
+ - https://www.youtube.com/watch?v=3k7tpSyT5DE
+ - https://wiki.gentoo.org/wiki/Embedded_Handbook/General/Creating_a_cross-compiler
+
+### Gentoo raspberry
+ - https://wiki.gentoo.org/wiki/Category:Raspberry_Pi
+ - https://wiki.gentoo.org/wiki/Raspberry_Pi
+ - https://wiki.gentoo.org/wiki/Raspberry_Pi/Minimal_musl%2Bbusybox_cross_building
+ - http://www.funtoo.org/Raspberry_Pi_2
+ - https://sites.google.com/site/mobileapesindustries/gentoo/raspberry-pi
+ * https://sites.google.com/site/mobileapesindustries/gentoo
+ * https://wiki.gentoo.org/wiki/Raspberry_Pi/Quick_Install_Guide
+ * https://wiki.gentoo.org/wiki/Raspberry_Pi/Kernel_Compilation
+ * https://wiki.gentoo.org/wiki/Cross_build_environment
+ * [Kernel moduły raspberry](http://www.kaltpost.de/?p=1699)
+ * https://wiki.gentoo.org/wiki/Cross_Container_Support_Project
+ * https://wiki.gentoo.org/wiki/Crossdev_qemu-static-user-chroot
+ * https://wiki.gentoo.org/wiki/Embedded_Handbook/General/Compiling_with_qemu_user_chroot
+ * https://wiki.gentoo.org/wiki/Raspberry_Pi/Kernel_Compilation
+ * https://github.com/raspberrypi/firmware
+ * https://github.com/raspberrypi/linux/releases/tag/raspberrypi-kernel_1.20161215-1
+ * [qemu raspberry](https://github.com/bargees/barge-os/issues/20)
+ * [qemu rpi](https://github.com/dhruvvyas90/qemu-rpi-kernel/wiki)
+ * http://blog.3mdeb.com/2015/12/30/emulate-rapberry-pi-2-in-qemu/ 
+ 
+ * [yocto on gentoo](https://forums.gentoo.org/viewtopic-t-987684-highlight-.html)
+ * http://www.cnx-software.com/2013/07/05/12mb-minimal-image-for-raspberry-pi-using-the-yocto-project/
+ 
+ * http://sentryytech.blogspot.com/2013/02/faster-compiling-on-emulated-raspberry.html
+ * https://www.raspberrypi.org/downloads/noobs/
+ * https://forums.gentoo.org/viewtopic-t-804999-start-0.html
+ * https://forums.gentoo.org/viewtopic-t-1039888.html
+ * https://github.com/Sabayon/build/blob/master/bin/armv7a-emerge
+ * [Linux from Scratch on RPI](http://www.intestinate.com/pilfs/)
+ * http://elinux.org/Virtual_Development_Board
+ * https://emreboy.wordpress.com/2012/12/20/building-a-root-file-system-using-busybox/
+
+### hardware 
+ - https://www.raspberrypi-spy.co.uk/2018/04/i2c-oled-display-module-with-raspberry-pi/
+ - https://rataks.com/blog/justboom-digi-hat-for-ubuntu-mate-on-raspberry-pi.html
+
+### Raspberry PI linux hub i dystrybucje
+ - https://www.raspberrypi.com/software/operating-systems/  # 2026
+ - https://blog.brightcoding.dev/2026/04/30/pinn-the-revolutionary-raspberry-pi-os-installer-every-maker-needs  # 2026
+ - https://elinux.org/RPi_Hub
+ - https://elinux.org/RPi_Distributions
+ - https://dietpi.com/
+ - https://www.max2play.com
+ - https://volumio.org/
+ - https://moodeaudio.org/
+
+### Kurs zaawansowany za darmo
+ - https://forbot.pl/blog/kurs-raspberry-pi-projekty-wstep-spis-tresci-id27419
+ 
+### skrośna kompilacja: qemu, gentoo itd.
+ - https://wiki.gentoo.org/wiki/Embedded_Handbook/General/Compiling_with_qemu_user_chroot
+ - [gcc cflags for raspberry123](https://gist.github.com/fm4dd/c663217935dc17f0fc73c9c81b0aa845)
+ - http://mgalgs.github.io/2015/05/16/how-to-build-a-custom-linux-kernel-for-qemu-2015-edition.html
+ - https://wiki.gentoo.org/wiki/Raspberry_Pi_3_64_bit_Install
+ - https://github.com/sakaki-/gentoo-on-rpi3-64bit
+ - https://github.com/sakaki-/gentoo-on-rpi3-64bit/wiki
+ - http://ftp.halifax.rwth-aachen.de/gentoo/experimental/arm/
+ - https://github.com/sakaki-/gentoo-on-rpi3-64bit/wiki/Set-Up-Your-crossdev-PC-for-Distributed-Compilation-with-distcc
+ 
+### tensorflow for rpi
+ - https://www.tensorflow.org/lite/microcontrollers  # 2026
+ - https://www.raspberrypi.com/products/ai-kit/  # 2026
+ - https://petewarden.com/2017/08/20/cross-compiling-tensorflow-for-the-raspberry-pi/
+ - https://www.pyimagesearch.com/2018/02/12/getting-started-with-the-intel-movidius-neural-compute-stick/
+
+### hardware units for rpi
+ - https://nextcloud.com/devices/
+ 
+### minetest for rpi
+ - https://github.com/minetest4edu/edutest_minetest-education
+ 
+### hardware blogs
+ - https://techfreak.pl/
+ - http://hobbyspace.pl/category/raspberry-pi/
+
+### Hack mobile raspberry wifi
+ - https://hackaday.com/2016/09/08/nexmon-turns-nexus-5-and-rpi3-into-wifi-toolkit/
+ - https://github.com/seemoo-lab/nexmon
+ - https://github.com/seemoo-lab/bcm-rpi3
+ - https://github.com/nethunteros/rpi3-kalimon
+ - https://build.nethunter.com/nexmon-pi-builds/
+ - https://build.nethunter.com/nightly/
+ - https://build.nethunter.com/nightly/2017.11-18-1618/
+ 
+### RPI docker
+ - http://blog.hypriot.com/post/how-to-get-docker-working-on-your-favourite-arm-board-with-hypriotos/
+ - http://blog.hypriot.com/getting-started-with-docker-on-your-arm-device/
+
+### Raspberry gpio
+ - https://www.perkin.org.uk/posts/a-nodejs-powered-8-bit-cpu-part-one.html
+
+### Fun
+ * http://www.minetest.net/
+  
+### tiny mini systemy
+ * http://litebsd.org/wiki/autobuild.php
+ * https://hackaday.io/project/8514-retro-diy-computer-project/log/32809-tiny-litebsd-system-by-pic32mz
+ * https://github.com/sergev/LiteBSD/wiki/Networking
+ * http://www.adiengineering.com/products/minnowboard-turbot-duale/
+
+### TFT kedai do not buy it - not compatible with fbtft
+ * https://github.com/lzto/RaspberryPi_KeDei_35_lcd_v62
+ * https://github.com/FREEWING-JP/tinydrm/tree/feature/kedei_35_v50/kedei_35_lcd_v50
+ * https://frec.pl/blog/compiling-custom-raspberry-pi-kernel-with-kedei-35/
+ * https://johan.ehnberg.net/raspberry-pi-tft-kedei-3-5-touchscreen-v2/
+ 
+### Other TFT compatible with fbtft
+ * https://appdictive.dk/blog/projects/2015/10/30/cheap_tft_display_on_raspberry_pi/
+ 

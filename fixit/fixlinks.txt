@@ -1,0 +1,45 @@
+#### Lutowanie
+- https://forbot.pl/blog/kurs-lutowania-wstep-spis-tresci-id12556  # 2026
+- https://diy-elektronika.pl/kurs-lutowania-podstawy-technika-i-poradnik-dla-poczatkujacych/  # 2026
+- https://forbot.pl/blog/kurs-lutowania-pierwszy-raz-z-lutownica-czeste-bledy-id12287
+
+#### HEALTH
+#### take care
+ - https://thermalstats.com/en/blog/spring-pc-cleaning-cooling-guide-2026  # 2026
+ - https://www.corsair.com/us/en/explorer/diy-builder/how-tos/how-to-clean-your-pc-and-how-often-you-should-do-it/  # 2026
+ - https://rk.edu.pl/pl/walka-z-kurzem-i-pylem-w-domu-i-w-obudowie-komputera/
+ - http://www.kontestator.eu/produkty-sojowe-%E2%80%93-obietnice-i-zagrozenia.html
+ - https://www.theguardian.com/world/datablog/ng-interactive/2020/apr/22/see-how-coronavirus-can-spread-through-a-population-and-how-countries-flatten-the-curve
+ 
+#### HARDWARE 
+#### debloat your phone without any root
+ - https://www.droidrooter.com/blog/android-debloating-guide-2026  # 2026
+ - https://www.samflux.com/2026/04/remove-samsung-bloatware-using-adb-no.html  # 2026
+ - https://www.xda-developers.com/disable-system-app-bloatware-android/
+ 
+#### reset chip clt-r406 from the sl-c460 samsung printer 
+ - https://www.instructables.com/id/Samsung-CLP-365-Laser-Printer-DIY-Imaging-Drum-Uni/
+ - https://www.ukotka.com/2017/05/reset-licznika-dot-bebna-swiatoczuego-w.html
+ - http://willypcservice.blogspot.com/2013/02/samsung-tech-mode.html
+ - https://www.youtube.com/watch?v=0ErCyT0SA9w #reset counters
+
+#### set your monitor
+ - https://www.xbitlabs.com/monitor-ghosting-test/  # 2026
+ - https://www.switchbladegaming.com/game-settings/how-to-calibrate-gaming-monitor/  # 2026
+ - https://display-test.app/  # 2026
+ - https://testufo.com/ghosting
+ - http://lcdtech.info/en/tests/dead.pixel.htm
+ 
+#### uefi
+ - https://recoverit.wondershare.com/partition-tips/repair-efi-bootloader-in-windows.html  # 2026
+ - https://woshub.com/how-to-repair-deleted-efi-partition-in-windows-7/  # 2026
+ - https://www.ubackup.com/windows-10/restore-efi-partition-windows-10-8523.html
+
+#### naprawa android soft LG G3 hard brick
+ - https://www.youtube.com/watch?v=7N4t55LmGk0
+ - https://www.androidbrick.com/unbrick-recover-your-dead-lg-g3-g2-all-variants/
+
+### ROWERY BICYCLE
+ - https://sprint-rowery.pl/blog/post/czym-smarowac-lancuch-rowerowy  # 2026
+ - https://ironfactory.pl/czym-czyscic-smarowac-i-konserwowac-rower/  # 2026
+ - https://www.1enduro.pl/smary-oleje-chemia-rowerowa/
